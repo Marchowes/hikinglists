@@ -1,0 +1,34 @@
+---
+location: VT
+standalone: false
+peaks:
+-
+    Name: MT MANSFIELD (Chin)
+    Elevation: 4393
+    Latitude: 44.54361111
+    Longitude: -72.81472222
+    State: VT
+-
+    Name: KILLINGTON PK
+    Elevation: 4235
+    Latitude: 43.60444444
+    Longitude: -72.82055556
+    State: VT
+-
+    Name: CAMELS HUMP
+    Elevation: 4090
+    Latitude: 44.31944444
+    Longitude: -72.88666667
+    State: VT
+-
+    Name: MT ELLEN
+    Elevation: 4083
+    Latitude: 44.15972222
+    Longitude: -72.92916667
+    State: VT
+-
+    Name: MT ABRAHAM
+    Elevation: 4006
+    Latitude: 44.12027778
+    Longitude: -72.93666667
+    State: VT
