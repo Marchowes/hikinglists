@@ -21,13 +21,23 @@ def main():
                         default=False, help='produce XLS list')
     parser.add_argument('-r', '--ascendingsort', action='store_true',
                         default=False, help='sort list by ascending')
+    parser.add_argument('-f', '--file', action='store', dest='sotfile',
+                        default=None,
+                        help='single yaml file from source_of_truth'
+                        ' dir to process. ex: "blah.yml"')
 
     # parser.add_argument('-o', '--sortby', action="store",
     #                    dest="sortby", default="Elevation")
 
     parsed = parser.parse_args()
 
-    truth_files = collect_truth_files()
+    # Did the user pass in a file? use that
+    if parsed.sotfile:
+        truth_files = [created_full_path(parsed.sotfile)]
+    # Otherwise, gather everyone!
+    else:
+        truth_files = collect_truth_files()
+
     for truth_file in truth_files:
         print("Loading {}".format(truth_file))
         hiking_list = load_yaml(truth_file, first=True,
@@ -51,6 +61,13 @@ def collect_truth_files():
     return truth_files
 
 
+def created_full_path(sot_file):
+    fullpath = '{}/source_of_truth/{}'.format(WORKING_DIR, sot_file)
+    if not os.path.isfile(fullpath):
+        raise Exception("{} does not exist".format(fullpath))
+    return fullpath
+
+
 def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
     """
     Loads data from file yaml SOT passed in and returns a HikingList object.
@@ -59,9 +76,12 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
     # anti loop mechanism
     explored_files.append(truth_file)
     with open(truth_file, 'r') as tf:
+        # Read our YML truth file.
         read_hiking_list = tf.read()
         hiking_list = yaml.load(read_hiking_list)
-        filename = truth_file.split('/')[-1][:-4]
+        # Grab filename from YAML file or fall back to Truth File name.
+        filename = hiking_list.get('list_name', truth_file.split('/')[-1][:-4])
+        # Gather data/metadata and defaults.
         peaks = hiking_list['peaks']
         maximum = hiking_list.get('max', 0)
         sortby = hiking_list.get('sortby', 'Elevation')
@@ -72,9 +92,21 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
         if not isinstance(imported_resources, list):
             raise Exception("Imported Resource "
                             "must be list! {}".format(truth_file))
+        ordered_columns = hiking_list.get('ordered_columns',
+                                          REQUIRED_COLUMNS.copy())
+        if not all(item in ordered_columns for item in REQUIRED_COLUMNS):
+            raise Exception("Manditory columns missing from ordered_columns "
+                            "in {}. Required: {} Have: {}".format(
+                                truth_file, REQUIRED_COLUMNS, ordered_columns))
+        explicit_columns = hiking_list.get('only_use_explicit_ordered_columns',
+                                           False)
+        if explicit_columns and not hiking_list.get('ordered_columns', None):
+            raise('Can only use "only_use_explicit_ordered_columns" when'
+                  ' ordered_columns is specified! in {}'.format(truth_file))
+
         # If this yaml file is loaded first and standalone is turned off and
         # cascading is turned off, then return an empty list.
-        if first and not standalone and not cascading:
+        if first and not standalone:
             return None
         # Do we import something and have cascading? Then load 'em up.
         if imported_resources and cascading:
@@ -90,18 +122,18 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
                 peaks = peaks + imported_list_peaks
         # if cascading is off but the SOT file forces explicit imports do this:
         if forced_imported_resources and not cascading:
-            print("FUCK")
             for forced_imported_resource in forced_imported_resources:
                 imported_list = generate_import(forced_imported_resource)
                 imported_list_peaks = load_yaml(imported_list, cascading=False)
                 peaks = peaks + imported_list_peaks
-        # Make sure our manditory columns are present.
+        # Make sure our manditory columns are present for every peak.
         validate_columns(peaks, truth_file)
-        print('first: {}'.format(first))
         if first:
             return HikingList(peaks, location,
-                              filename, standalone,
-                              maximum=maximum, sortby=sortby)
+                              filename, standalone, cascading,
+                              maximum=maximum, sortby=sortby,
+                              explicit_columns=explicit_columns,
+                              ordered_columns=ordered_columns)
         # end of recursion, remove truth_file from explored list. Tree
         # redundancy is taken care of in the HikingList Object by
         # self.remove_duplicate_peaks()
@@ -114,7 +146,7 @@ def generate_import(imported_resource):
 
 def validate_columns(peaks, src_file):
     """
-    Validates required columns exist for every peak, raises exception
+    Validates the manditory columns exist for every peak, raises exception
     upon failure.
     """
     for peak in peaks:
@@ -133,31 +165,39 @@ def make_dir_if_not_exist(directory):
 
 
 class HikingList(object):
-    def __init__(self, peaks, location, filename, standalone,
-                 ordered_columns=[], maximum=0, sortby='Elevation'):
+    def __init__(self, peaks, location, filename, standalone, cascading,
+                 ordered_columns=[], maximum=0, sortby='Elevation',
+                 explicit_columns=False):
         self.peaks = peaks
         self.maximum = maximum
         self.location = location
+        self.cascading = cascading
         self.standalone = standalone
         self.filename = filename
         self.ordered_columns = ordered_columns
         self.sortby = sortby
+        self.explicit_columns = explicit_columns
         # todo: NEED to validate sortby field is in ordered_columns!
         self.ascendingsort = False
-        # make this a pass in option:
-        self.ordered_columns = REQUIRED_COLUMNS.copy()
 
-    @property
-    def output_dir(self):
+
+    def output_dir(self, filetype=None):
         """
         Output directory for any lists files created %CWD/lists/%location.
         """
-        return '{}/lists/{}'.format(WORKING_DIR, self.location)
+        if self.cascading:
+            subdir = "full"
+        else:
+            subdir = "abridged"
+        if filetype:
+            return '{}/lists/{}/{}/{}'.format(WORKING_DIR, self.location,
+                                              filetype, subdir)
+        else:
+            return '{}/lists/{}/{}'.format(WORKING_DIR, self.location, subdir)
 
-    @property
-    def output_file(self):
+    def output_file(self, filetype=None):
         """Output file without type complete with full path."""
-        return '{}/{}'.format(self.output_dir, self.filename)
+        return '{}/{}'.format(self.output_dir(filetype), self.filename)
 
     def generate_tablib_structure(self):
         """Generate tablib structure from provided object data."""
@@ -182,6 +222,10 @@ class HikingList(object):
 
     def collect_extra_columns(self):
         """Return a list of required columns and any extra columns."""
+        # if we're only using columns explicitly passed in, bail.
+        if self.explicit_columns:
+            return
+        # Otherwise, add them as we find them.
         for peak in self.peaks:
             for column in peak.keys():
                 if column not in self.ordered_columns:
@@ -221,15 +265,24 @@ class HikingList(object):
 
     def write_csv(self):
         """Write CSV file."""
-        make_dir_if_not_exist(self.output_dir)
-        with open('{}.csv'.format(self.output_file), 'w') as output_csv:
-            output_csv.write(self.tablib_data.export('csv'))
+        filetype = 'csv'
+        make_dir_if_not_exist(self.output_dir(filetype))
+        with open('{}.csv'.format(self.output_file(filetype)), 'w') as output_csv:
+            output_csv.write(self.tablib_data.export(filetype))
 
     def write_xls(self):
         """Write XLS file."""
-        make_dir_if_not_exist(self.output_dir)
-        with open('{}.xls'.format(self.output_file), 'wb') as output_xls:
-            output_xls.write(self.tablib_data.export('xls'))
+        filetype = 'xls'
+        make_dir_if_not_exist(self.output_dir(filetype))
+        with open('{}.xls'.format(self.output_file(filetype)), 'wb') as output_xls:
+            output_xls.write(self.tablib_data.export(filetype))
+
+    def kml(self):
+        """Write KML file."""
+        # Someday...
+        # will probably need to do somethign stupid like csv -> kml
+        pass
+
 
 
 if __name__ == "__main__":

@@ -2,9 +2,14 @@
 location: VT
 import:
   - VT3000.yml
-#forced_import:
-#  - VT3000.yml
 max: 200
+list_name: VT-200-highest
+ordered_columns:
+  - Name
+  - Elevation
+  - State
+  - Latitude
+  - Longitude
 peaks:
 -
     Name: BEAR
