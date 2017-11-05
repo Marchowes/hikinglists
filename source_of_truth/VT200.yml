@@ -1,6 +1,10 @@
 ---
 location: VT
-import: VT3000.yml
+import:
+  - VT3000.yml
+#forced_import:
+#  - VT3000.yml
+max: 200
 peaks:
 -
     Name: BEAR
