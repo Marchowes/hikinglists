@@ -79,8 +79,8 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
         # Read our YML truth file.
         read_hiking_list = tf.read()
         hiking_list = yaml.load(read_hiking_list)
-        # Grab filename from Truth File.
-        filename = truth_file.split('/')[-1][:-4]
+        # Grab filename from YAML file or fall back to Truth File name.
+        filename = hiking_list.get('list_name', truth_file.split('/')[-1][:-4])
         # Gather data/metadata and defaults.
         peaks = hiking_list['peaks']
         maximum = hiking_list.get('max', 0)

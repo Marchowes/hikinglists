@@ -2,6 +2,7 @@
 location: VT
 import:
   - VT4000.yml
+list_name: VT-3000-footers
 peaks:
 -
     Name: PICO PK
