@@ -1,6 +1,7 @@
 ---
 location: VT
-import: VT4000.yml
+import:
+  - VT4000.yml
 peaks:
 -
     Name: PICO PK
@@ -69,7 +70,7 @@ peaks:
     Longitude: -72.80638889
     State: VT
 -
-    Name: STERLING MTN [WHITE FACE MTN]
+    Name: STERLING MTN (WHITE FACE MTN)
     Elevation: 3714
     Latitude: 44.58222222
     Longitude: -72.74027778
@@ -81,7 +82,7 @@ peaks:
     Longitude: -72.84027778
     State: VT
 -
-    Name: [MT ETHAN ALLEN]
+    Name: (MT ETHAN ALLEN)
     Elevation: 3688
     Latitude: 44.29361111
     Longitude: -72.88472222
@@ -237,7 +238,7 @@ peaks:
     Longitude: -72.32555556
     State: VT
 -
-    Name: GILLESPIE PK [WHITE ROCKS MTN]
+    Name: GILLESPIE PK (WHITE ROCKS MTN)
     Elevation: 3366
     Latitude: 43.87138889
     Longitude: -72.97777778
@@ -261,7 +262,7 @@ peaks:
     Longitude: -72.55138889
     State: VT
 -
-    Name: LUDLOW MTN [OKEMO MTN]
+    Name: LUDLOW MTN (OKEMO MTN)
     Elevation: 3343
     Latitude: 43.40388889
     Longitude: -72.75194444
@@ -357,7 +358,7 @@ peaks:
     Longitude: -72.96416667
     State: VT
 -
-    Name: GREEN PK [MT AEOLUS]
+    Name: GREEN PK (MT AEOLUS)
     Elevation: 3230
     Latitude: 43.24055556
     Longitude: -73.03888889
