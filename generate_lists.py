@@ -1,9 +1,12 @@
 import argparse
+import json
 import os
 import tablib
 import yaml
 
+from fastkml import kml
 from operator import itemgetter
+from shapely.geometry import Point
 
 WORKING_DIR = os.getcwd()
 SOT = "source_of_truth"
@@ -19,6 +22,8 @@ def main():
                         default=False, help='produce CSV list')
     parser.add_argument('-x', '--xls', action='store_true',
                         default=False, help='produce XLS list')
+    parser.add_argument('-k', '--kml', action='store_true',
+                        default=False, help='produce KML map')
     parser.add_argument('-r', '--ascendingsort', action='store_true',
                         default=False, help='sort list by ascending')
     parser.add_argument('-f', '--file', action='store', dest='sotfile',
@@ -50,7 +55,8 @@ def main():
             hiking_list.write_csv()
         if parsed.xls:
             hiking_list.write_xls()
-
+        if parsed.kml:
+            hiking_list.write_kml()
 
 def collect_truth_files():
     """Collect all truth files and return with full path name."""
@@ -277,11 +283,37 @@ class HikingList(object):
         with open('{}.xls'.format(self.output_file(filetype)), 'wb') as output_xls:
             output_xls.write(self.tablib_data.export(filetype))
 
-    def kml(self):
+    def write_kml(self):
         """Write KML file."""
-        # Someday...
-        # will probably need to do somethign stupid like csv -> kml
-        pass
+        filetype = 'kml'
+        make_dir_if_not_exist(self.output_dir(filetype))
+        # shamefully dump as JSON then unmarshal into a dict -- sigh.
+        peak_dict = json.loads(self.tablib_data.export('json'))
+        print(peak_dict)
+
+        k = kml.KML()
+        ns = '{http://www.opengis.net/kml/2.2}'
+
+        # Create a KML Document and add it to the KML root object
+        d = kml.Document(ns,
+                         self.filename,
+                         self.filename,
+                         'pinmap for {}'.format(self.filename))
+        k.append(d)
+        kmlFolder = kml.Folder(ns,
+                                    self.filename,
+                                    self.filename,
+                                    'kml map of list points for {}'.format(self.filename))
+        for peak in peak_dict:
+            details = ''
+            for key, val in peak.items():
+                details += '{}: {}\n'.format(key, val)
+            p = kml.Placemark(ns, peak['Name'], peak['Name'], details)
+            p.geometry = Point(peak['Longitude'], peak['Latitude'])
+            kmlFolder.append(p)
+        d.append(kmlFolder)
+        with open('{}.kml'.format(self.output_file(filetype)), 'w') as output_kml:
+            output_kml.write(k.to_string(prettyprint=True))
 
 
 
