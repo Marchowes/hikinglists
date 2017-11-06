@@ -1,6 +1,8 @@
 Hiking List Generator
 ===================
 
+## Because if we're going to have hiking lists, they might as well be accurate.
+
 This repository reads in Truth Files as a batch, and produces hiking lists based on those truth files. This repository is designed to adhere to rigid files structures as a vehicle of consistency.
 
 > **Core Concepts:**
@@ -42,6 +44,7 @@ optional arguments:
   -s, --cascade         Generate full list
   -c, --csv             produce CSV list
   -x, --xls             produce XLS list
+  -k, --kml             produce KML map
   -r, --ascendingsort   sort list by ascending
   -f SOTFILE, --file SOTFILE
                         single yaml file from source_of_truth dir to process.
