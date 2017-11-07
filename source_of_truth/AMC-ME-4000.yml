@@ -1,0 +1,88 @@
+---
+location: ME
+standalone: false
+peaks:
+-
+    Name: MT KATAHDIN, BAXTER PK
+    Elevation: 5268
+    Latitude: 45.90416667
+    Longitude: -68.92194444
+    State: ME
+-
+    Name: MT KATAHDIN, HAMLIN PK
+    Elevation: 4756
+    Latitude: 45.92416667
+    Longitude: -68.92833333
+    State: ME
+-
+    Name: SUGARLOAF MTN
+    Elevation: 4250
+    Latitude: 45.03166667
+    Longitude: -70.31361111
+    State: ME
+-
+    Name: CROCKER MTN
+    Elevation: 4228
+    Latitude: 45.04694444
+    Longitude: -70.38333333
+    State: ME
+-
+    Name: OLD SPECK MTN
+    Elevation: 4170
+    Latitude: 44.57083333
+    Longitude: -70.95416667
+    State: ME
+-
+    Name: NORTH BROTHER
+    Elevation: 4151
+    Latitude: 45.95694444
+    Longitude: -68.98583333
+    State: ME
+-
+    Name: BIGELOW MTN, WEST PK
+    Elevation: 4145
+    Latitude: 45.14666667
+    Longitude: -70.28861111
+    State: ME
+-
+    Name: SADDLEBACK MTN
+    Elevation: 4120
+    Latitude: 44.93638889
+    Longitude: -70.505
+    State: ME
+-
+    Name: BIGELOW MTN, AVERY PK
+    Elevation: 4090
+    Latitude: 45.14666667
+    Longitude: -70.27583333
+    State: ME
+-
+    Name: MT ABRAHAM
+    Elevation: 4050
+    Latitude: 44.97277778
+    Longitude: -70.32694444
+    State: ME
+-
+    Name: SOUTH CROCKER MTN
+    Elevation: 4050
+    Latitude: 45.03611111
+    Longitude: -70.37638889
+    State: ME
+-
+    Name: SADDLEBACK MTN, THE HORN
+    Elevation: 4041
+    Latitude: 44.95111111
+    Longitude: -70.4875
+    State: ME
+-
+    Name: MT REDINGTON
+    Elevation: 4010
+    Latitude: 45.025
+    Longitude: -70.38916667
+    State: ME
+-
+    Name: SPAULDING MTN
+    Elevation: 4010
+    Latitude: 45.00277778
+    Longitude: -70.33388889
+    State: ME

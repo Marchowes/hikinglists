@@ -1,0 +1,72 @@
+---
+location: NH
+standalone: false
+import:
+  - AMC-NH-4000.yml
+peaks:
+-
+    Name: SANDWICH MTN
+    Elevation: 3980
+    Latitude: 43.90027778
+    Longitude: -71.49861111
+    State: NH
+-
+    Name: THE BULGE
+    Elevation: 3950
+    Latitude: 44.51444444
+    Longitude: -71.40861111
+    State: NH
+-
+    Name: MT NANCY
+    Elevation: 3926
+    Latitude: 44.12222222
+    Longitude: -71.405
+    State: NH
+-
+    Name: THE HORN
+    Elevation: 3905
+    Latitude: 44.51777778
+    Longitude: -71.40055556
+    State: NH
+-
+    Name: MT WEEKS (N PK)
+    Elevation: 3901
+    Latitude: 44.46138889
+    Longitude: -71.38222222
+    State: NH
+-
+    Name: MT WEEKS (S PK)
+    Elevation: 3885
+    Latitude: 44.44222222
+    Longitude: -71.38888889
+    State: NH
+-
+    Name: VOSE SPUR
+    Elevation: 3862
+    Latitude: 44.10277778
+    Longitude: -71.435
+    State: NH
+-
+    Name: THE SLEEPERS (E PK)
+    Elevation: 3860
+    Latitude: 43.94666667
+    Longitude: -71.42583333
+    State: NH
+-
+    Name: PEAK ABOVE THE NUBBLE
+    Elevation: 3813
+    Latitude: 44.22277778
+    Longitude: -71.56194444
+    State: NH
+-
+    Name: SCAR RIDGE (W PK)
+    Elevation: 3774
+    Latitude: 44.02916667
+    Longitude: -71.59583333
+    State: NH
+-
+    Name: CANNON BALLS (NE PK)
+    Elevation: 3769
+    Latitude: 44.15
+    Longitude: -71.71055556
+    State: NH
