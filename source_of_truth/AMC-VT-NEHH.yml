@@ -1,0 +1,60 @@
+---
+location: VT
+standalone: false
+import:
+  - AMC-VT-4000.yml
+peaks:
+-
+    Name: PICO PK
+    Elevation: 3957
+    Latitude: 43.63944444
+    Longitude: -72.83694444
+    State: VT
+-
+    Name: STRATTON MTN
+    Elevation: 3940
+    Latitude: 43.08611111
+    Longitude: -72.92555556
+    State: VT
+-
+    Name: JAY PK
+    Elevation: 3858
+    Latitude: 44.92444444
+    Longitude: -72.52638889
+    State: VT
+-
+    Name: EQUINOX MTN
+    Elevation: 3850
+    Latitude: 43.16583333
+    Longitude: -73.11805556
+    State: VT
+-
+    Name: MENDON PK
+    Elevation: 3840
+    Latitude: 43.595
+    Longitude: -72.84666667
+    State: VT
+-
+    Name: BREAD LOAF MTN
+    Elevation: 3835
+    Latitude: 44.00194444
+    Longitude: -72.94166667
+    State: VT
+-
+    Name: MT WILSON
+    Elevation: 3790
+    Latitude: 44.00472222
+    Longitude: -72.92611111
+    State: VT
+-
+    Name: BIG JAY
+    Elevation: 3786
+    Latitude: 44.915
+    Longitude: -72.54111111
+    State: VT
+-
+    Name: DORSET PK
+    Elevation: 3770
+    Latitude: 43.30916667
+    Longitude: -73.02861111
+    State: VT

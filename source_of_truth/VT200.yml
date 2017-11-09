@@ -7,9 +7,9 @@ list_name: VT-200-highest
 ordered_columns:
   - Name
   - Elevation
-  - State
   - Latitude
   - Longitude
+  - State
 peaks:
 -
     Name: BEAR

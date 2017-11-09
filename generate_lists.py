@@ -88,7 +88,7 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
         # Grab filename from YAML file or fall back to Truth File name.
         filename = hiking_list.get('list_name', truth_file.split('/')[-1][:-4])
         # Gather data/metadata and defaults.
-        peaks = hiking_list['peaks']
+        peaks = hiking_list.get('peaks', [])
         maximum = hiking_list.get('max', 0)
         sortby = hiking_list.get('sortby', 'Elevation')
         standalone = hiking_list.get('standalone', True)

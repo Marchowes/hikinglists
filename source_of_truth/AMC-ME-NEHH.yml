@@ -1,0 +1,84 @@
+---
+location: ME
+standalone: false
+import:
+  - AMC-ME-4000.yml
+peaks:
+-
+    Name: SOUTH BROTHER
+    Elevation: 3970
+    Latitude: 45.94416667
+    Longitude: -69.00222222
+    State: ME
+-
+    Name: SNOW MTN
+    Elevation: 3960
+    Latitude: 45.29138889
+    Longitude: -70.70972222
+    State: ME
+-
+    Name: GOOSE EYE MTN
+    Elevation: 3870
+    Latitude: 44.50277778
+    Longitude: -71
+    State: ME
+-
+    Name: FORT MTN
+    Elevation: 3867
+    Latitude: 45.96194444
+    Longitude: -68.97527778
+    State: ME
+-
+    Name: WHITE CAP MTN
+    Elevation: 3856
+    Latitude: 45.23611111
+    Longitude: -70.81833333
+    State: ME
+-
+    Name: PANTHER
+    Elevation: 3855
+    Latitude: 45.26722222
+    Longitude: -70.84166667
+    State: ME
+-
+    Name: BIGELOW MTN, THE HORNS (S PK)
+    Elevation: 3805
+    Latitude: 45.145
+    Longitude: -70.32361111
+    State: ME
+-
+    Name: MT COE
+    Elevation: 3795
+    Latitude: 45.93361111
+    Longitude: -69.00944444
+    State: ME
+-
+    Name: EAST KENNEBAGO MTN
+    Elevation: 3791
+    Latitude: 45.12166667
+    Longitude: -70.6
+    State: ME
+-
+    Name: BALDPATE MTN, E PK
+    Elevation: 3790
+    Latitude: 44.60916667
+    Longitude: -70.89277778
+    State: ME
+-
+    Name: SNOW MTN
+    Elevation: 3784
+    Latitude: 45.16916667
+    Longitude: -70.82722222
+    State: ME
+-
+    Name: KENNEBAGO DIVIDE (N PK)
+    Elevation: 3775
+    Latitude: 45.2225
+    Longitude: -70.81611111
+    State: ME
+-
+    Name: ELEPHANT MTN
+    Elevation: 3772
+    Latitude: 44.76805556
+    Longitude: -70.78222222
+    State: ME
