@@ -1,0 +1,384 @@
+---
+location: NY
+list_name: Catskill-3000-Footers
+import:
+  - Catskill-3500.yml
+peaks:
+-
+    Name: MILL BROOK RIDGE (E PK)
+    Elevation: 3490
+    Latitude: 42.0525
+    Longitude: -74.63333333
+    State: NY
+-
+    Name: DRY BROOK RIDGE
+    Elevation: 3470
+    Latitude: 42.11277778
+    Longitude: -74.60472222
+    State: NY
+-
+    Name: WOODPECKER RIDGE
+    Elevation: 3470
+    Latitude: 42.04
+    Longitude: -74.61777778
+    State: NY
+-
+    Name: OLDERBARK MTN
+    Elevation: 3450
+    Latitude: 42.11611111
+    Longitude: -74.18888889
+    State: NY
+-
+    Name: ROUNDTOP
+    Elevation: 3450
+    Latitude: 42.29388889
+    Longitude: -74.49083333
+    State: NY
+-
+    Name: ROUNDTOP MTN
+    Elevation: 3450
+    Latitude: 42.16833333
+    Longitude: -74.09527778
+    State: NY
+-
+    Name: BELLE AYR MTN
+    Elevation: 3430
+    Latitude: 42.12861111
+    Longitude: -74.51944444
+    State: NY
+-
+    Name: STOPPEL POINT
+    Elevation: 3430
+    Latitude: 42.225
+    Longitude: -74.06555556
+    State: NY
+-
+    Name: WEST KILL MTN (W PK)
+    Elevation: 3430
+    Latitude: 42.17138889
+    Longitude: -74.32083333
+    State: NY
+-
+    Name: HUNTERSFIELD MTN
+    Elevation: 3423
+    Latitude: 42.35555556
+    Longitude: -74.34638889
+    State: NY
+-
+    Name: BEARPEN MTN (S PK)
+    Elevation: 3410
+    Latitude: 42.24638889
+    Longitude: -74.49277778
+    State: NY
+-
+    Name: HALCOTT MTN (N PK)
+    Elevation: 3408
+    Latitude: 42.1975
+    Longitude: -74.4175
+    State: NY
+-
+    Name: SPRUCE MTN
+    Elevation: 3390
+    Latitude: 42.0175
+    Longitude: -74.45055556
+    State: NY
+-
+    Name: BEAVER KILL RANGE (SW PK)
+    Elevation: 3377
+    Latitude: 41.99361111
+    Longitude: -74.59166667
+    State: NY
+-
+    Name: VLY MTN (S PK)
+    Elevation: 3370
+    Latitude: 42.22916667
+    Longitude: -74.43861111
+    State: NY
+-
+    Name: PLATTEKILL MTN (N PK)
+    Elevation: 3350
+    Latitude: 42.28555556
+    Longitude: -74.66388889
+    State: NY
+-
+    Name: WILDCAT MTN (E PK)
+    Elevation: 3350
+    Latitude: 41.98777778
+    Longitude: -74.44083333
+    State: NY
+-
+    Name: MT PISGAH
+    Elevation: 3345
+    Latitude: 42.22083333
+    Longitude: -74.73638889
+    State: NY
+-
+    Name: SHULTICE MTN
+    Elevation: 3290
+    Latitude: 42.31861111
+    Longitude: -74.51611111
+    State: NY
+-
+    Name: PLATTEKILL MTN
+    Elevation: 3270
+    Latitude: 42.26638889
+    Longitude: -74.64861111
+    State: NY
+-
+    Name: UNNAMED PK WINNISOOK LAKE
+    Elevation: 3270
+    Latitude: 42.01777778
+    Longitude: -74.42
+    State: NY
+-
+    Name: MORESVILLE RANGE (N PK)
+    Elevation: 3250
+    Latitude: 42.37444444
+    Longitude: -74.565
+    State: NY
+-
+    Name: ONTEORA MTN
+    Elevation: 3230
+    Latitude: 42.22222222
+    Longitude: -74.16833333
+    State: NY
+-
+    Name: RICHMOND MTN
+    Elevation: 3230
+    Latitude: 42.36722222
+    Longitude: -74.27944444
+    State: NY
+-
+    Name: UNNAMED PK NARROW NOTCH
+    Elevation: 3230
+    Latitude: 42.33416667
+    Longitude: -74.61666667
+    State: NY
+-
+    Name: MONGAUP MTN (NE PK)
+    Elevation: 3224
+    Latitude: 41.99
+    Longitude: -74.62888889
+    State: NY
+-
+    Name: UTSAYANTHA MTN
+    Elevation: 3214
+    Latitude: 42.39888889
+    Longitude: -74.59
+    State: NY
+-
+    Name: UNNAMED PK HIGH FALLS
+    Elevation: 3211
+    Latitude: 41.99194444
+    Longitude: -74.54555556
+    State: NY
+-
+    Name: GIANT LEDGE
+    Elevation: 3210
+    Latitude: 42.04027778
+    Longitude: -74.39583333
+    State: NY
+-
+    Name: VAN WYCK MTN
+    Elevation: 3206
+    Latitude: 41.95222222
+    Longitude: -74.43583333
+    State: NY
+-
+    Name: BURNT KNOB
+    Elevation: 3190
+    Latitude: 42.30194444
+    Longitude: -74.11972222
+    State: NY
+-
+    Name: MONGAUP MTN
+    Elevation: 3177
+    Latitude: 41.99333333
+    Longitude: -74.7
+    State: NY
+-
+    Name: CRADLE ROCK RIDGE
+    Elevation: 3170
+    Latitude: 42.03444444
+    Longitude: -74.66194444
+    State: NY
+-
+    Name: WILDCAT MTN (W PK)
+    Elevation: 3170
+    Latitude: 41.9775
+    Longitude: -74.47611111
+    State: NY
+-
+    Name: EAST JEWETT RANGE
+    Elevation: 3150
+    Latitude: 42.23277778
+    Longitude: -74.19861111
+    State: NY
+-
+    Name: OVERLOOK MTN
+    Elevation: 3150
+    Latitude: 42.085
+    Longitude: -74.09333333
+    State: NY
+-
+    Name: WHITE MAN MTN
+    Elevation: 3150
+    Latitude: 42.28416667
+    Longitude: -74.53416667
+    State: NY
+-
+    Name: PINE ISLAND MTN
+    Elevation: 3150
+    Latitude: 42.22
+    Longitude: -74.33305556
+    State: NY
+-
+    Name: ACRA POINT
+    Elevation: 3110
+    Latitude: 42.29638889
+    Longitude: -74.10055556
+    State: NY
+-
+    Name: BARKABOOM MTN (E PK)
+    Elevation: 3110
+    Latitude: 42.06194444
+    Longitude: -74.70277778
+    State: NY
+-
+    Name: CAVE MTN (E PK)
+    Elevation: 3110
+    Latitude: 42.28583333
+    Longitude: -74.24694444
+    State: NY
+-
+    Name: COWAN MTN (SW PK)
+    Elevation: 3110
+    Latitude: 42.34
+    Longitude: -74.65583333
+    State: NY
+-
+    Name: PLATTEKILL MTN
+    Elevation: 3110
+    Latitude: 42.10722222
+    Longitude: -74.08638889
+    State: NY
+-
+    Name: STOPPEL POINT (W PK)
+    Elevation: 3110
+    Latitude: 42.22416667
+    Longitude: -74.10111111
+    State: NY
+-
+    Name: PACKSADDLE MTN
+    Elevation: 3110
+    Latitude: 42.2175
+    Longitude: -74.35916667
+    State: NY
+-
+    Name: UNNAMED PK RED KILL
+    Elevation: 3110
+    Latitude: 42.22888889
+    Longitude: -74.53833333
+    State: NY
+-
+    Name: HIGH POINT
+    Elevation: 3090
+    Latitude: 41.92472222
+    Longitude: -74.28805556
+    State: NY
+-
+    Name: ROSE MTN
+    Elevation: 3090
+    Latitude: 42.15055556
+    Longitude: -74.43833333
+    State: NY
+-
+    Name: CHURCHILL MTN
+    Elevation: 3070
+    Latitude: 42.38861111
+    Longitude: -74.61055556
+    State: NY
+-
+    Name: IRISH MTN
+    Elevation: 3070
+    Latitude: 42.33555556
+    Longitude: -74.52638889
+    State: NY
+-
+    Name: ROUND TOP
+    Elevation: 3070
+    Latitude: 42.27138889
+    Longitude: -74.68361111
+    State: NY
+-
+    Name: MONGAUP MTN (E PK)
+    Elevation: 3062
+    Latitude: 41.985
+    Longitude: -74.64888889
+    State: NY
+-
+    Name: DENMAN MTN
+    Elevation: 3053
+    Latitude: 41.90277778
+    Longitude: -74.53972222
+    State: NY
+-
+    Name: CAVE MTN (W PK)
+    Elevation: 3050
+    Latitude: 42.28444444
+    Longitude: -74.26472222
+    State: NY
+-
+    Name: MORESVILLE RANGE (S PK)
+    Elevation: 3050
+    Latitude: 42.35555556
+    Longitude: -74.56611111
+    State: NY
+-
+    Name: WHITE MAN MTN (NE PK)
+    Elevation: 3050
+    Latitude: 42.29277778
+    Longitude: -74.52055556
+    State: NY
+-
+    Name: WOODHULL MTN
+    Elevation: 3050
+    Latitude: 41.94555556
+    Longitude: -74.46416667
+    State: NY
+-
+    Name: MT PISGAH (S PK)
+    Elevation: 3030
+    Latitude: 42.19888889
+    Longitude: -74.72361111
+    State: NY
+-
+    Name: MT WARREN (SE PK)
+    Elevation: 3030
+    Latitude: 42.30583333
+    Longitude: -74.69166667
+    State: NY
+-
+    Name: LITTLE ROCKY MTN
+    Elevation: 3015
+    Latitude: 41.91833333
+    Longitude: -74.33277778
+    State: NY
+-
+    Name: HUBBELL HILL
+    Elevation: 3010
+    Latitude: 42.21583333
+    Longitude: -74.64916667
+    State: NY
+-
+    Name: OLD CLUMP
+    Elevation: 3010
+    Latitude: 42.30583333
+    Longitude: -74.59194444
+    State: NY
+-
+    Name: UNNAMED PK SILVER HOLLOW
+    Elevation: 3010
+    Latitude: 42.1225
+    Longitude: -74.2275
+    State: NY

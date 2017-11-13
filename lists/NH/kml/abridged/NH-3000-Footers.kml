@@ -1,0 +1,1663 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="NH-3000-Footers">
+    <name>NH-3000-Footers</name>
+    <description>pinmap for NH-3000-Footers</description>
+    <visibility>1</visibility>
+    <Folder id="NH-3000-Footers">
+      <name>NH-3000-Footers</name>
+      <description>kml map of list points for NH-3000-Footers</description>
+      <visibility>1</visibility>
+      <Placemark id="SANDWICH MTN">
+        <name>SANDWICH MTN</name>
+        <description>Latitude: 43.90027778
+Longitude: -71.49861111
+Name: SANDWICH MTN
+State: NH
+Elevation: 3980
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.498611,43.900278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE BULGE">
+        <name>THE BULGE</name>
+        <description>Latitude: 44.51444444
+Longitude: -71.40861111
+Name: THE BULGE
+State: NH
+Elevation: 3950
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.408611,44.514444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT NANCY">
+        <name>MT NANCY</name>
+        <description>Latitude: 44.12222222
+Longitude: -71.405
+Name: MT NANCY
+State: NH
+Elevation: 3926
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.405000,44.122222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE HORN">
+        <name>THE HORN</name>
+        <description>Latitude: 44.51777778
+Longitude: -71.40055556
+Name: THE HORN
+State: NH
+Elevation: 3905
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.400556,44.517778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WEEKS (N PK)">
+        <name>MT WEEKS (N PK)</name>
+        <description>Latitude: 44.46138889
+Longitude: -71.38222222
+Name: MT WEEKS (N PK)
+State: NH
+Elevation: 3901
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.382222,44.461389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WEEKS (S PK)">
+        <name>MT WEEKS (S PK)</name>
+        <description>Latitude: 44.44222222
+Longitude: -71.38888889
+Name: MT WEEKS (S PK)
+State: NH
+Elevation: 3885
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.388889,44.442222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE SLEEPERS (W PK)">
+        <name>THE SLEEPERS (W PK)</name>
+        <description>Latitude: 43.95416667
+Longitude: -71.43583333
+Name: THE SLEEPERS (W PK)
+State: NH
+Elevation: 3881
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.435833,43.954167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="VOSE SPUR">
+        <name>VOSE SPUR</name>
+        <description>Latitude: 44.10277778
+Longitude: -71.435
+Name: VOSE SPUR
+State: NH
+Elevation: 3862
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.435000,44.102778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE SLEEPERS (E PK)">
+        <name>THE SLEEPERS (E PK)</name>
+        <description>Latitude: 43.94666667
+Longitude: -71.42583333
+Name: THE SLEEPERS (E PK)
+State: NH
+Elevation: 3860
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.425833,43.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PEAK ABOVE THE NUBBLE">
+        <name>PEAK ABOVE THE NUBBLE</name>
+        <description>Latitude: 44.22277778
+Longitude: -71.56194444
+Name: PEAK ABOVE THE NUBBLE
+State: NH
+Elevation: 3813
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.561944,44.222778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SCAR RIDGE (W PK)">
+        <name>SCAR RIDGE (W PK)</name>
+        <description>Latitude: 44.02916667
+Longitude: -71.59583333
+Name: SCAR RIDGE (W PK)
+State: NH
+Elevation: 3774
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.595833,44.029167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CANNON BALLS (NE PK)">
+        <name>CANNON BALLS (NE PK)</name>
+        <description>Latitude: 44.15
+Longitude: -71.71055556
+Name: CANNON BALLS (NE PK)
+State: NH
+Elevation: 3769
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.710556,44.150000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT KANCAMAGUS">
+        <name>MT KANCAMAGUS</name>
+        <description>Latitude: 44.01111111
+Longitude: -71.47944444
+Name: MT KANCAMAGUS
+State: NH
+Elevation: 3763
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.479444,44.011111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT ANDERSON">
+        <name>MT ANDERSON</name>
+        <description>Latitude: 44.1125
+Longitude: -71.41833333
+Name: MT ANDERSON
+State: NH
+Elevation: 3740
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.418333,44.112500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT LOWELL">
+        <name>MT LOWELL</name>
+        <description>Latitude: 44.10361111
+Longitude: -71.41861111
+Name: MT LOWELL
+State: NH
+Elevation: 3740
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.418611,44.103611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SHELBURNE MORIAH MTN">
+        <name>SHELBURNE MORIAH MTN</name>
+        <description>Latitude: 44.35305556
+Longitude: -71.09916667
+Name: SHELBURNE MORIAH MTN
+State: NH
+Elevation: 3735
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.099167,44.353056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLUE MTN">
+        <name>BLUE MTN</name>
+        <description>Latitude: 44.79138889
+Longitude: -71.47916667
+Name: BLUE MTN
+State: NH
+Elevation: 3730
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.479167,44.791389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="HUTCHINS MTN MT PILOT">
+        <name>HUTCHINS MTN MT PILOT</name>
+        <description>Latitude: 44.54805556
+Longitude: -71.455
+Name: HUTCHINS MTN MT PILOT
+State: NH
+Elevation: 3730
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.455000,44.548056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT DARTMOUTH">
+        <name>MT DARTMOUTH</name>
+        <description>Latitude: 44.3025
+Longitude: -71.38416667
+Name: MT DARTMOUTH
+State: NH
+Elevation: 3727
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.384167,44.302500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT BEMIS">
+        <name>MT BEMIS</name>
+        <description>Latitude: 44.12694444
+Longitude: -71.39416667
+Name: MT BEMIS
+State: NH
+Elevation: 3725
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.394167,44.126944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SUGARLOAF">
+        <name>SUGARLOAF</name>
+        <description>Latitude: 44.74416667
+Longitude: -71.46833333
+Name: SUGARLOAF
+State: NH
+Elevation: 3710
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.468333,44.744167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HALE (S PK)">
+        <name>MT HALE (S PK)</name>
+        <description>Latitude: 44.20083333
+Longitude: -71.51916667
+Name: MT HALE (S PK)
+State: NH
+Elevation: 3700
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.519167,44.200833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HUNTINGTON">
+        <name>MT HUNTINGTON</name>
+        <description>Latitude: 44.05
+Longitude: -71.49166667
+Name: MT HUNTINGTON
+State: NH
+Elevation: 3700
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.491667,44.050000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HUNTINGTON (S PK)">
+        <name>MT HUNTINGTON (S PK)</name>
+        <description>Latitude: 44.04611111
+Longitude: -71.48555556
+Name: MT HUNTINGTON (S PK)
+State: NH
+Elevation: 3700
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.485556,44.046111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT FIELD (W PK)">
+        <name>MT FIELD (W PK)</name>
+        <description>Latitude: 44.18916667
+Longitude: -71.4475
+Name: MT FIELD (W PK)
+State: NH
+Elevation: 3691
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.447500,44.189167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WEEKS (M PK)">
+        <name>MT WEEKS (M PK)</name>
+        <description>Latitude: 44.44944444
+Longitude: -71.37972222
+Name: MT WEEKS (M PK)
+State: NH
+Elevation: 3684
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.379722,44.449444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT DECEPTION (E PK)">
+        <name>MT DECEPTION (E PK)</name>
+        <description>Latitude: 44.29361111
+Longitude: -71.42111111
+Name: MT DECEPTION (E PK)
+State: NH
+Elevation: 3671
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.421111,44.293611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="GARFIELD RIDGE (W PK)">
+        <name>GARFIELD RIDGE (W PK)</name>
+        <description>Latitude: 44.18972222
+Longitude: -71.59583333
+Name: GARFIELD RIDGE (W PK)
+State: NH
+Elevation: 3667
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.595833,44.189722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="LONG MTN (M PK)">
+        <name>LONG MTN (M PK)</name>
+        <description>Latitude: 44.68
+Longitude: -71.38
+Name: LONG MTN (M PK)
+State: NH
+Elevation: 3661
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.380000,44.680000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="LONG MTN (W PK)">
+        <name>LONG MTN (W PK)</name>
+        <description>Latitude: 44.66944444
+Longitude: -71.40277778
+Name: LONG MTN (W PK)
+State: NH
+Elevation: 3661
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.402778,44.669444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="TERRACE MTN (E PK)">
+        <name>TERRACE MTN (E PK)</name>
+        <description>Latitude: 44.47722222
+Longitude: -71.39583333
+Name: TERRACE MTN (E PK)
+State: NH
+Elevation: 3655
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.395833,44.477222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="STUB HILL">
+        <name>STUB HILL</name>
+        <description>Latitude: 45.10666667
+Longitude: -71.09805556
+Name: STUB HILL
+State: NH
+Elevation: 3627
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.098056,45.106667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HITCHCOCK (M PK)">
+        <name>MT HITCHCOCK (M PK)</name>
+        <description>Latitude: 44.07416667
+Longitude: -71.54
+Name: MT HITCHCOCK (M PK)
+State: NH
+Elevation: 3620
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.540000,44.074167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SCAR RIDGE (E PK)">
+        <name>SCAR RIDGE (E PK)</name>
+        <description>Latitude: 44.01916667
+Longitude: -71.56555556
+Name: SCAR RIDGE (E PK)
+State: NH
+Elevation: 3620
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.565556,44.019167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WHITCOMB MTN (N PK)">
+        <name>WHITCOMB MTN (N PK)</name>
+        <description>Latitude: 44.78555556
+Longitude: -71.37861111
+Name: WHITCOMB MTN (N PK)
+State: NH
+Elevation: 3615
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.378611,44.785556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PILOT RIDGE (M PK)">
+        <name>PILOT RIDGE (M PK)</name>
+        <description>Latitude: 44.53388889
+Longitude: -71.43777778
+Name: PILOT RIDGE (M PK)
+State: NH
+Elevation: 3615
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.437778,44.533889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NORTH BALDFACE">
+        <name>NORTH BALDFACE</name>
+        <description>Latitude: 44.24277778
+Longitude: -71.0875
+Name: NORTH BALDFACE
+State: NH
+Elevation: 3610
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.087500,44.242778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="GORE MTN">
+        <name>GORE MTN</name>
+        <description>Latitude: 44.77388889
+Longitude: -71.46583333
+Name: GORE MTN
+State: NH
+Elevation: 3610
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.465833,44.773889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PLINY MTN">
+        <name>PLINY MTN</name>
+        <description>Latitude: 44.41666667
+Longitude: -71.39333333
+Name: PLINY MTN
+State: NH
+Elevation: 3606
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.393333,44.416667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SCAUR PK">
+        <name>SCAUR PK</name>
+        <description>Latitude: 43.985
+Longitude: -71.45055556
+Name: SCAUR PK
+State: NH
+Elevation: 3605
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.450556,43.985000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WEST PK">
+        <name>WEST PK</name>
+        <description>Latitude: 44.75416667
+Longitude: -71.49638889
+Name: WEST PK
+State: NH
+Elevation: 3593
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.496389,44.754167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="GARFIELD RIDGE (E PK)">
+        <name>GARFIELD RIDGE (E PK)</name>
+        <description>Latitude: 44.19277778
+Longitude: -71.5825
+Name: GARFIELD RIDGE (E PK)
+State: NH
+Elevation: 3590
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.582500,44.192778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CHERRY MTN, MT MARTHA">
+        <name>CHERRY MTN, MT MARTHA</name>
+        <description>Latitude: 44.33083333
+Longitude: -71.49972222
+Name: CHERRY MTN, MT MARTHA
+State: NH
+Elevation: 3573
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.499722,44.330833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SOUTH BALDFACE">
+        <name>SOUTH BALDFACE</name>
+        <description>Latitude: 44.23083333
+Longitude: -71.07833333
+Name: SOUTH BALDFACE
+State: NH
+Elevation: 3570
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.078333,44.230833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PILOT RIDGE (E PK)">
+        <name>PILOT RIDGE (E PK)</name>
+        <description>Latitude: 44.52833333
+Longitude: -71.42861111
+Name: PILOT RIDGE (E PK)
+State: NH
+Elevation: 3570
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.428611,44.528333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT SUCCESS">
+        <name>MT SUCCESS</name>
+        <description>Latitude: 44.47138889
+Longitude: -71.03972222
+Name: MT SUCCESS
+State: NH
+Elevation: 3565
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.039722,44.471389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT CLOUGH">
+        <name>MT CLOUGH</name>
+        <description>Latitude: 44.02916667
+Longitude: -71.87277778
+Name: MT CLOUGH
+State: NH
+Elevation: 3561
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.872778,44.029167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE FOOL KILLER">
+        <name>THE FOOL KILLER</name>
+        <description>Latitude: 43.97138889
+Longitude: -71.42694444
+Name: THE FOOL KILLER
+State: NH
+Elevation: 3548
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.426944,43.971389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE CAPTAIN CARRIGAIN POND PK">
+        <name>THE CAPTAIN CARRIGAIN POND PK</name>
+        <description>Latitude: 44.08388889
+Longitude: -71.46277778
+Name: THE CAPTAIN CARRIGAIN POND PK
+State: NH
+Elevation: 3540
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.462778,44.083889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SABLE MTN">
+        <name>SABLE MTN</name>
+        <description>Latitude: 44.21472222
+Longitude: -71.09638889
+Name: SABLE MTN
+State: NH
+Elevation: 3519
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.096389,44.214722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED PK UNKNOWN POND">
+        <name>UNNAMED PK UNKNOWN POND</name>
+        <description>Latitude: 44.52861111
+Longitude: -71.38083333
+Name: UNNAMED PK UNKNOWN POND
+State: NH
+Elevation: 3510
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.380833,44.528611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SAVAGE MTN">
+        <name>SAVAGE MTN</name>
+        <description>Latitude: 44.73194444
+Longitude: -71.545
+Name: SAVAGE MTN
+State: NH
+Elevation: 3510
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.545000,44.731944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SCAR RIDGE (M PK)">
+        <name>SCAR RIDGE (M PK)</name>
+        <description>Latitude: 44.02527778
+Longitude: -71.58083333
+Name: SCAR RIDGE (M PK)
+State: NH
+Elevation: 3500
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.580833,44.025278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HITCHCOCK (S PK)">
+        <name>MT HITCHCOCK (S PK)</name>
+        <description>Latitude: 44.06638889
+Longitude: -71.52861111
+Name: MT HITCHCOCK (S PK)
+State: NH
+Elevation: 3500
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.528611,44.066389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT CHOCORUA">
+        <name>MT CHOCORUA</name>
+        <description>Latitude: 43.95444444
+Longitude: -71.27388889
+Name: MT CHOCORUA
+State: NH
+Elevation: 3500
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.273889,43.954444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WOLF">
+        <name>MT WOLF</name>
+        <description>Latitude: 44.0775
+Longitude: -71.75388889
+Name: MT WOLF
+State: NH
+Elevation: 3500
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.753889,44.077500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DIXVILLE PK">
+        <name>DIXVILLE PK</name>
+        <description>Latitude: 44.83583333
+Longitude: -71.31861111
+Name: DIXVILLE PK
+State: NH
+Elevation: 3490
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.318611,44.835833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT KELSEY">
+        <name>MT KELSEY</name>
+        <description>Latitude: 44.80138889
+Longitude: -71.31444444
+Name: MT KELSEY
+State: NH
+Elevation: 3472
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.314444,44.801389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="STAIRS MTN">
+        <name>STAIRS MTN</name>
+        <description>Latitude: 44.155
+Longitude: -71.31888889
+Name: STAIRS MTN
+State: NH
+Elevation: 3463
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.318889,44.155000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CARR MTN">
+        <name>CARR MTN</name>
+        <description>Latitude: 43.88472222
+Longitude: -71.84388889
+Name: CARR MTN
+State: NH
+Elevation: 3453
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.843889,43.884722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PERCY PKS (N PK)">
+        <name>PERCY PKS (N PK)</name>
+        <description>Latitude: 44.66305556
+Longitude: -71.43555556
+Name: PERCY PKS (N PK)
+State: NH
+Elevation: 3430
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.435556,44.663056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="STUB HILL (N PK)">
+        <name>STUB HILL (N PK)</name>
+        <description>Latitude: 45.11833333
+Longitude: -71.1025
+Name: STUB HILL (N PK)
+State: NH
+Elevation: 3422
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.102500,45.118333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="EAGLE CLIFF">
+        <name>EAGLE CLIFF</name>
+        <description>Latitude: 44.16861111
+Longitude: -71.67194444
+Name: EAGLE CLIFF
+State: NH
+Elevation: 3420
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.671944,44.168611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT RESOLUTION">
+        <name>MT RESOLUTION</name>
+        <description>Latitude: 44.1475
+Longitude: -71.31444444
+Name: MT RESOLUTION
+State: NH
+Elevation: 3415
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.314444,44.147500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WHITEWALL MTN">
+        <name>WHITEWALL MTN</name>
+        <description>Latitude: 44.1825
+Longitude: -71.4725
+Name: WHITEWALL MTN
+State: NH
+Elevation: 3405
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.472500,44.182500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HUNTINGTON (W PK)">
+        <name>MT HUNTINGTON (W PK)</name>
+        <description>Latitude: 44.04361111
+Longitude: -71.50666667
+Name: MT HUNTINGTON (W PK)
+State: NH
+Elevation: 3393
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.506667,44.043611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SALMON MTN">
+        <name>SALMON MTN</name>
+        <description>Latitude: 45.24305556
+Longitude: -71.13388889
+Name: SALMON MTN
+State: NH
+Elevation: 3390
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.133889,45.243056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="TEAPOT MTN">
+        <name>TEAPOT MTN</name>
+        <description>Latitude: 44.7475
+Longitude: -71.55666667
+Name: TEAPOT MTN
+State: NH
+Elevation: 3390
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.556667,44.747500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="RICE MTN">
+        <name>RICE MTN</name>
+        <description>Latitude: 44.85277778
+Longitude: -71.24083333
+Name: RICE MTN
+State: NH
+Elevation: 3390
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.240833,44.852778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MAGALLOWAY MTN">
+        <name>MAGALLOWAY MTN</name>
+        <description>Latitude: 45.06333333
+Longitude: -71.16305556
+Name: MAGALLOWAY MTN
+State: NH
+Elevation: 3383
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.163056,45.063333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MILLEN HILL">
+        <name>MILLEN HILL</name>
+        <description>Latitude: 44.29361111
+Longitude: -71.36527778
+Name: MILLEN HILL
+State: NH
+Elevation: 3376
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.365278,44.293611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT TREMONT">
+        <name>MT TREMONT</name>
+        <description>Latitude: 44.05333333
+Longitude: -71.3575
+Name: MT TREMONT
+State: NH
+Elevation: 3371
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.357500,44.053333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WHITCOMB MTN (M PK)">
+        <name>WHITCOMB MTN (M PK)</name>
+        <description>Latitude: 44.74361111
+Longitude: -71.37055556
+Name: WHITCOMB MTN (M PK)
+State: NH
+Elevation: 3354
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.370556,44.743611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="LITTLE WILDCAT MTN">
+        <name>LITTLE WILDCAT MTN</name>
+        <description>Latitude: 44.27722222
+Longitude: -71.21
+Name: LITTLE WILDCAT MTN
+State: NH
+Elevation: 3350
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.210000,44.277222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DUCK POND MTN">
+        <name>DUCK POND MTN</name>
+        <description>Latitude: 44.10694444
+Longitude: -71.39527778
+Name: DUCK POND MTN
+State: NH
+Elevation: 3340
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.395278,44.106944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WHITCOMB MTN (S PK)">
+        <name>WHITCOMB MTN (S PK)</name>
+        <description>Latitude: 44.73
+Longitude: -71.37194444
+Name: WHITCOMB MTN (S PK)
+State: NH
+Elevation: 3338
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.371944,44.730000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CHANDLER MTN">
+        <name>CHANDLER MTN</name>
+        <description>Latitude: 44.20222222
+Longitude: -71.10638889
+Name: CHANDLER MTN
+State: NH
+Elevation: 3335
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.106389,44.202222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="FLAT MTN">
+        <name>FLAT MTN</name>
+        <description>Latitude: 43.92861111
+Longitude: -71.46222222
+Name: FLAT MTN
+State: NH
+Elevation: 3331
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.462222,43.928611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HITCHCOCK (E PK)">
+        <name>MT HITCHCOCK (E PK)</name>
+        <description>Latitude: 44.07611111
+Longitude: -71.51472222
+Name: MT HITCHCOCK (E PK)
+State: NH
+Elevation: 3331
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.514722,44.076111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLUE MTN (W PK)">
+        <name>BLUE MTN (W PK)</name>
+        <description>Latitude: 44.79027778
+Longitude: -71.50555556
+Name: BLUE MTN (W PK)
+State: NH
+Elevation: 3326
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.505556,44.790278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT KINEO">
+        <name>MT KINEO</name>
+        <description>Latitude: 43.92916667
+Longitude: -71.79888889
+Name: MT KINEO
+State: NH
+Elevation: 3313
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.798889,43.929167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HUNTINGTON (E PK)">
+        <name>MT HUNTINGTON (E PK)</name>
+        <description>Latitude: 44.03888889
+Longitude: -71.46944444
+Name: MT HUNTINGTON (E PK)
+State: NH
+Elevation: 3306
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.469444,44.038889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLACK MTN">
+        <name>BLACK MTN</name>
+        <description>Latitude: 44.22527778
+Longitude: -71.15611111
+Name: BLACK MTN
+State: NH
+Elevation: 3304
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.156111,44.225278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BIG COOLIDGE MTN">
+        <name>BIG COOLIDGE MTN</name>
+        <description>Latitude: 44.07944444
+Longitude: -71.64305556
+Name: BIG COOLIDGE MTN
+State: NH
+Elevation: 3294
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.643056,44.079444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CRYSTAL MTN (N PK)">
+        <name>CRYSTAL MTN (N PK)</name>
+        <description>Latitude: 44.9375
+Longitude: -71.21027778
+Name: CRYSTAL MTN (N PK)
+State: NH
+Elevation: 3279
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.210278,44.937500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED PK BOUNDARY POND">
+        <name>UNNAMED PK BOUNDARY POND</name>
+        <description>Latitude: 45.27055556
+Longitude: -71.11666667
+Name: UNNAMED PK BOUNDARY POND
+State: NH
+Elevation: 3277
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.116667,45.270556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="KEARSARGE NORTH">
+        <name>KEARSARGE NORTH</name>
+        <description>Latitude: 44.10583333
+Longitude: -71.09444444
+Name: KEARSARGE NORTH
+State: NH
+Elevation: 3268
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.094444,44.105833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLACK CRESCENT MTN (S PK)">
+        <name>BLACK CRESCENT MTN (S PK)</name>
+        <description>Latitude: 44.43944444
+Longitude: -71.27111111
+Name: BLACK CRESCENT MTN (S PK)
+State: NH
+Elevation: 3264
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.271111,44.439444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BIG BICKFORD MTN">
+        <name>BIG BICKFORD MTN</name>
+        <description>Latitude: 44.19694444
+Longitude: -71.65472222
+Name: BIG BICKFORD MTN
+State: NH
+Elevation: 3261
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.654722,44.196944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT CRESCENT">
+        <name>MT CRESCENT</name>
+        <description>Latitude: 44.40416667
+Longitude: -71.29472222
+Name: MT CRESCENT
+State: NH
+Elevation: 3251
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.294722,44.404167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ENGINE HILL (S PK)">
+        <name>ENGINE HILL (S PK)</name>
+        <description>Latitude: 44.19388889
+Longitude: -71.28277778
+Name: ENGINE HILL (S PK)
+State: NH
+Elevation: 3244
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.282778,44.193889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SMARTS MTN">
+        <name>SMARTS MTN</name>
+        <description>Latitude: 43.82555556
+Longitude: -72.03916667
+Name: SMARTS MTN
+State: NH
+Elevation: 3238
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.039167,43.825556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PERCY PKS (S PK)">
+        <name>PERCY PKS (S PK)</name>
+        <description>Latitude: 44.65638889
+Longitude: -71.43555556
+Name: PERCY PKS (S PK)
+State: NH
+Elevation: 3234
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.435556,44.656389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DIAMOND RIDGE">
+        <name>DIAMOND RIDGE</name>
+        <description>Latitude: 45.09194444
+Longitude: -71.13611111
+Name: DIAMOND RIDGE
+State: NH
+Elevation: 3230
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.136111,45.091944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CRYSTAL MTN (NW PK)">
+        <name>CRYSTAL MTN (NW PK)</name>
+        <description>Latitude: 44.97222222
+Longitude: -71.23027778
+Name: CRYSTAL MTN (NW PK)
+State: NH
+Elevation: 3230
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.230278,44.972222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT CUSHMAN">
+        <name>MT CUSHMAN</name>
+        <description>Latitude: 43.95833333
+Longitude: -71.77916667
+Name: MT CUSHMAN
+State: NH
+Elevation: 3221
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.779167,43.958333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BEAR MTN">
+        <name>BEAR MTN</name>
+        <description>Latitude: 44.02944444
+Longitude: -71.30222222
+Name: BEAR MTN
+State: NH
+Elevation: 3220
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.302222,44.029444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WEST ROYCE MTN">
+        <name>WEST ROYCE MTN</name>
+        <description>Latitude: 44.30222222
+Longitude: -71.01861111
+Name: WEST ROYCE MTN
+State: NH
+Elevation: 3210
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.018611,44.302222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT PAUGUS">
+        <name>MT PAUGUS</name>
+        <description>Latitude: 43.95111111
+Longitude: -71.32944444
+Name: MT PAUGUS
+State: NH
+Elevation: 3198
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.329444,43.951111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NORTH MOAT MTN">
+        <name>NORTH MOAT MTN</name>
+        <description>Latitude: 44.04305556
+Longitude: -71.215
+Name: NORTH MOAT MTN
+State: NH
+Elevation: 3196
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.215000,44.043056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLACK CRESCENT MTN (N PK)">
+        <name>BLACK CRESCENT MTN (N PK)</name>
+        <description>Latitude: 44.44666667
+Longitude: -71.28027778
+Name: BLACK CRESCENT MTN (N PK)
+State: NH
+Elevation: 3196
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.280278,44.446667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HITCHCOCK (N PK)">
+        <name>MT HITCHCOCK (N PK)</name>
+        <description>Latitude: 44.08722222
+Longitude: -71.54472222
+Name: MT HITCHCOCK (N PK)
+State: NH
+Elevation: 3194
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.544722,44.087222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CAVE MTN">
+        <name>CAVE MTN</name>
+        <description>Latitude: 44.88388889
+Longitude: -71.26611111
+Name: CAVE MTN
+State: NH
+Elevation: 3191
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.266111,44.883889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLUE MTN (N PK)">
+        <name>BLUE MTN (N PK)</name>
+        <description>Latitude: 44.82027778
+Longitude: -71.49305556
+Name: BLUE MTN (N PK)
+State: NH
+Elevation: 3190
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.493056,44.820278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DEER MTN (S PK)">
+        <name>DEER MTN (S PK)</name>
+        <description>Latitude: 45.18972222
+Longitude: -71.22583333
+Name: DEER MTN (S PK)
+State: NH
+Elevation: 3190
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.225833,45.189722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MONADNOCK MTN">
+        <name>MONADNOCK MTN</name>
+        <description>Latitude: 42.86083333
+Longitude: -72.10888889
+Name: MONADNOCK MTN
+State: NH
+Elevation: 3159
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.108889,42.860833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT CARDIGAN">
+        <name>MT CARDIGAN</name>
+        <description>Latitude: 43.64916667
+Longitude: -71.91472222
+Name: MT CARDIGAN
+State: NH
+Elevation: 3155
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.914722,43.649167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HEDGEHOG">
+        <name>MT HEDGEHOG</name>
+        <description>Latitude: 43.94138889
+Longitude: -71.365
+Name: MT HEDGEHOG
+State: NH
+Elevation: 3140
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.365000,43.941389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT KENT">
+        <name>MT KENT</name>
+        <description>Latitude: 45.23138889
+Longitude: -71.095
+Name: MT KENT
+State: NH
+Elevation: 3137
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.095000,45.231389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT CRAWFORD">
+        <name>MT CRAWFORD</name>
+        <description>Latitude: 44.13666667
+Longitude: -71.33305556
+Name: MT CRAWFORD
+State: NH
+Elevation: 3119
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.333056,44.136667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLUE RIDGE (N PK)">
+        <name>BLUE RIDGE (N PK)</name>
+        <description>Latitude: 44.95583333
+Longitude: -71.24694444
+Name: BLUE RIDGE (N PK)
+State: NH
+Elevation: 3102
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.246944,44.955833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT TUCKER (W PK)">
+        <name>MT TUCKER (W PK)</name>
+        <description>Latitude: 44.94972222
+Longitude: -71.16666667
+Name: MT TUCKER (W PK)
+State: NH
+Elevation: 3097
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.166667,44.949722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT RANDOLPH (N PK)">
+        <name>MT RANDOLPH (N PK)</name>
+        <description>Latitude: 44.39666667
+Longitude: -71.31694444
+Name: MT RANDOLPH (N PK)
+State: NH
+Elevation: 3097
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.316944,44.396667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALDHEAD MTN (S PK)">
+        <name>BALDHEAD MTN (S PK)</name>
+        <description>Latitude: 44.82222222
+Longitude: -71.36777778
+Name: BALDHEAD MTN (S PK)
+State: NH
+Elevation: 3097
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.367778,44.822222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT PISGAH">
+        <name>MT PISGAH</name>
+        <description>Latitude: 44.99555556
+Longitude: -71.21305556
+Name: MT PISGAH
+State: NH
+Elevation: 3081
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.213056,44.995556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALD CAP">
+        <name>BALD CAP</name>
+        <description>Latitude: 44.44944444
+Longitude: -71.10305556
+Name: BALD CAP
+State: NH
+Elevation: 3065
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.103056,44.449444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="LOON MTN (N PK)">
+        <name>LOON MTN (N PK)</name>
+        <description>Latitude: 44.03611111
+Longitude: -71.62166667
+Name: LOON MTN (N PK)
+State: NH
+Elevation: 3065
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.621667,44.036111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HITCHCOCK (W PK)">
+        <name>MT HITCHCOCK (W PK)</name>
+        <description>Latitude: 44.07194444
+Longitude: -71.55333333
+Name: MT HITCHCOCK (W PK)
+State: NH
+Elevation: 3064
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.553333,44.071944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WOLF CUB GORDON POND PEAK">
+        <name>WOLF CUB GORDON POND PEAK</name>
+        <description>Latitude: 44.07166667
+Longitude: -71.74
+Name: WOLF CUB GORDON POND PEAK
+State: NH
+Elevation: 3063
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.740000,44.071667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WHALEBACK MTN (S PK)">
+        <name>WHALEBACK MTN (S PK)</name>
+        <description>Latitude: 44.08
+Longitude: -71.60888889
+Name: WHALEBACK MTN (S PK)
+State: NH
+Elevation: 3060
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.608889,44.080000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NORTH DOUBLEHEAD">
+        <name>NORTH DOUBLEHEAD</name>
+        <description>Latitude: 44.16777778
+Longitude: -71.13055556
+Name: NORTH DOUBLEHEAD
+State: NH
+Elevation: 3053
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.130556,44.167778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED PK SHOAL POND">
+        <name>UNNAMED PK SHOAL POND</name>
+        <description>Latitude: 44.14972222
+Longitude: -71.48138889
+Name: UNNAMED PK SHOAL POND
+State: NH
+Elevation: 3051
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.481389,44.149722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT DURBAN">
+        <name>MT DURBAN</name>
+        <description>Latitude: 45.29527778
+Longitude: -71.10527778
+Name: MT DURBAN
+State: NH
+Elevation: 3010
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.105278,45.295278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SPRUCE MTN (E PK)">
+        <name>SPRUCE MTN (E PK)</name>
+        <description>Latitude: 44.72055556
+Longitude: -71.54888889
+Name: SPRUCE MTN (E PK)
+State: NH
+Elevation: 3010
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.548889,44.720556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLUE RIDGE (N PK)">
+        <name>BLUE RIDGE (N PK)</name>
+        <description>Latitude: 44.0625
+Longitude: -71.76666667
+Name: BLUE RIDGE (N PK)
+State: NH
+Elevation: 3009
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.766667,44.062500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT ROSEBROOK">
+        <name>MT ROSEBROOK</name>
+        <description>Latitude: 44.24305556
+Longitude: -71.47166667
+Name: MT ROSEBROOK
+State: NH
+Elevation: 3004
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.471667,44.243056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT PARKER">
+        <name>MT PARKER</name>
+        <description>Latitude: 44.12361111
+Longitude: -71.29916667
+Name: MT PARKER
+State: NH
+Elevation: 3004
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.299167,44.123611</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

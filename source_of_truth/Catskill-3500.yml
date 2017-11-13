@@ -1,0 +1,206 @@
+---
+location: NY
+list_name: Catskill-3500-Footers
+import:
+  - Catskill-4000.yml
+forced_import:
+  - Catskill-4000.yml
+peaks:
+-
+    Name: BLACK DOME
+    Elevation: 3990
+    Latitude: 42.27
+    Longitude: -74.12333333
+    State: NY
+-
+    Name: BLACKHEAD
+    Elevation: 3950
+    Latitude: 42.26777778
+    Longitude: -74.10527778
+    State: NY
+-
+    Name: THOMAS COLE MTN
+    Elevation: 3950
+    Latitude: 42.27083333
+    Longitude: -74.13666667
+    State: NY
+-
+    Name: WEST KILL MTN
+    Elevation: 3890
+    Latitude: 42.16777778
+    Longitude: -74.29027778
+    State: NY
+-
+    Name: CORNELL MTN
+    Elevation: 3870
+    Latitude: 42.00138889
+    Longitude: -74.35722222
+    State: NY
+-
+    Name: DOUBLETOP MTN
+    Elevation: 3870
+    Latitude: 42.0275
+    Longitude: -74.52861111
+    State: NY
+-
+    Name: GRAHAM MTN
+    Elevation: 3868
+    Latitude: 42.03944444
+    Longitude: -74.54972222
+    State: NY
+-
+    Name: PLATEAU MTN
+    Elevation: 3850
+    Latitude: 42.13805556
+    Longitude: -74.17472222
+    State: NY
+-
+    Name: TABLE MTN
+    Elevation: 3847
+    Latitude: 41.95833333
+    Longitude: -74.40527778
+    State: NY
+-
+    Name: PEEKAMOOSE MTN
+    Elevation: 3843
+    Latitude: 41.95305556
+    Longitude: -74.39861111
+    State: NY
+-
+    Name: SUGARLOAF MTN
+    Elevation: 3810
+    Latitude: 42.13111111
+    Longitude: -74.15083333
+    State: NY
+-
+    Name: WITTENBERG MTN
+    Elevation: 3790
+    Latitude: 42.00805556
+    Longitude: -74.3475
+    State: NY
+-
+    Name: HUNTER MTN (SW PK)
+    Elevation: 3750
+    Latitude: 42.1625
+    Longitude: -74.24416667
+    State: NY
+-
+    Name: BALSAM LAKE MTN
+    Elevation: 3730
+    Latitude: 42.04555556
+    Longitude: -74.595
+    State: NY
+-
+    Name: PANTHER MTN
+    Elevation: 3730
+    Latitude: 42.05833333
+    Longitude: -74.39666667
+    State: NY
+-
+    Name: LONE MTN
+    Elevation: 3721
+    Latitude: 41.96916667
+    Longitude: -74.38972222
+    State: NY
+-
+    Name: BIG INDIAN MTN
+    Elevation: 3710
+    Latitude: 42.035
+    Longitude: -74.49722222
+    State: NY
+-
+    Name: FRIDAY MTN
+    Elevation: 3694
+    Latitude: 41.98777778
+    Longitude: -74.3625
+    State: NY
+-
+    Name: RUSK MTN
+    Elevation: 3690
+    Latitude: 42.20055556
+    Longitude: -74.27777778
+    State: NY
+-
+    Name: KAATERSKILL HIGH PK
+    Elevation: 3655
+    Latitude: 42.16222222
+    Longitude: -74.08055556
+    State: NY
+-
+    Name: TWIN MTN
+    Elevation: 3650
+    Latitude: 42.12555556
+    Longitude: -74.12972222
+    State: NY
+-
+    Name: FIR MTN
+    Elevation: 3630
+    Latitude: 42.0275
+    Longitude: -74.46944444
+    State: NY
+-
+    Name: BALSAM CAP
+    Elevation: 3623
+    Latitude: 41.97694444
+    Longitude: -74.35777778
+    State: NY
+-
+    Name: NORTH DOME
+    Elevation: 3610
+    Latitude: 42.17361111
+    Longitude: -74.34944444
+    State: NY
+-
+    Name: BALSAM MTN
+    Elevation: 3610
+    Latitude: 42.09055556
+    Longitude: -74.48833333
+    State: NY
+-
+    Name: BEARPEN MTN
+    Elevation: 3610
+    Latitude: 42.265
+    Longitude: -74.47416667
+    State: NY
+-
+    Name: EAGLE MTN
+    Elevation: 3610
+    Latitude: 42.06166667
+    Longitude: -74.51
+    State: NY
+-
+    Name: INDIAN HEAD MTN
+    Elevation: 3573
+    Latitude: 42.11638889
+    Longitude: -74.115
+    State: NY
+-
+    Name: MT SHERRILL
+    Elevation: 3550
+    Latitude: 42.17555556
+    Longitude: -74.37333333
+    State: NY
+-
+    Name: HALCOTT MTN
+    Elevation: 3530
+    Latitude: 42.18027778
+    Longitude: -74.43833333
+    State: NY
+-
+    Name: VLY MTN
+    Elevation: 3529
+    Latitude: 42.24583333
+    Longitude: -74.44861111
+    State: NY
+-
+    Name: WINDHAM HIGH PK
+    Elevation: 3524
+    Latitude: 42.31472222
+    Longitude: -74.14361111
+    State: NY
+-
+    Name: ROCKY MTN
+    Elevation: 3508
+    Latitude: 41.97277778
+    Longitude: -74.37333333
+    State: NY

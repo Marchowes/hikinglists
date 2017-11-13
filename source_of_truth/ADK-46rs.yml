@@ -1,0 +1,280 @@
+---
+location: NY
+list_name: ADK-46rs
+peaks:
+-
+    Name: MT MARCY
+    Elevation: 5344
+    Latitude: 44.1125
+    Longitude: -73.92416667
+    State: NY
+-
+    Name: ALGONQUIN PK
+    Elevation: 5115
+    Latitude: 44.14361111
+    Longitude: -73.98694444
+    State: NY
+-
+    Name: MT HAYSTACK
+    Elevation: 4961
+    Latitude: 44.10555556
+    Longitude: -73.90111111
+    State: NY
+-
+    Name: MT SKYLIGHT
+    Elevation: 4925
+    Latitude: 44.09944444
+    Longitude: -73.93138889
+    State: NY
+-
+    Name: WHITEFACE MTN
+    Elevation: 4865
+    Latitude: 44.36555556
+    Longitude: -73.90361111
+    State: NY
+-
+    Name: IROQUOIS PK
+    Elevation: 4849
+    Latitude: 44.13694444
+    Longitude: -73.99861111
+    State: NY
+-
+    Name: DIX MTN
+    Elevation: 4839
+    Latitude: 44.08222222
+    Longitude: -73.78666667
+    State: NY
+-
+    Name: BASIN MTN
+    Elevation: 4826
+    Latitude: 44.12111111
+    Longitude: -73.88694444
+    State: NY
+-
+    Name: GRAY PEAK
+    Elevation: 4826
+    Latitude: 44.11138889
+    Longitude: -73.93555556
+    State: NY
+-
+    Name: GOTHICS
+    Elevation: 4734
+    Latitude: 44.12777778
+    Longitude: -73.85777778
+    State: NY
+-
+    Name: MT COLDEN
+    Elevation: 4715
+    Latitude: 44.12694444
+    Longitude: -73.96055556
+    State: NY
+-
+    Name: GIANT MTN
+    Elevation: 4626
+    Latitude: 44.16111111
+    Longitude: -73.72055556
+    State: NY
+-
+    Name: NIPPLE TOP
+    Elevation: 4610
+    Latitude: 44.08888889
+    Longitude: -73.81638889
+    State: NY
+-
+    Name: MT REDFIELD
+    Elevation: 4606
+    Latitude: 44.09472222
+    Longitude: -73.95027778
+    State: NY
+-
+    Name: SANTANONI PK
+    Elevation: 4606
+    Latitude: 44.08222222
+    Longitude: -74.13138889
+    State: NY
+-
+    Name: WRIGHT PK
+    Elevation: 4587
+    Latitude: 44.15166667
+    Longitude: -73.98
+    State: NY
+-
+    Name: SADDLEBACK MTN
+    Elevation: 4528
+    Latitude: 44.12638889
+    Longitude: -73.87527778
+    State: NY
+-
+    Name: ARMSTRONG MTN
+    Elevation: 4446
+    Latitude: 44.13444444
+    Longitude: -73.85
+    State: NY
+-
+    Name: PANTHER PK
+    Elevation: 4442
+    Latitude: 44.09833333
+    Longitude: -74.13277778
+    State: NY
+-
+    Name: TABLE TOP MTN
+    Elevation: 4413
+    Latitude: 44.14055556
+    Longitude: -73.91666667
+    State: NY
+-
+    Name: HOUGH PK
+    Elevation: 4409
+    Latitude: 44.06944444
+    Longitude: -73.77805556
+    State: NY
+-
+    Name: MACOMB MTN
+    Elevation: 4390
+    Latitude: 44.05166667
+    Longitude: -73.78027778
+    State: NY
+-
+    Name: ROCKY PEAK RIDGE
+    Elevation: 4383
+    Latitude: 44.15416667
+    Longitude: -73.70583333
+    State: NY
+-
+    Name: MT MARSHALL
+    Elevation: 4380
+    Latitude: 44.1275
+    Longitude: -74.0125
+    State: NY
+-
+    Name: ALLEN MTN
+    Elevation: 4347
+    Latitude: 44.07083333
+    Longitude: -73.94
+    State: NY
+-
+    Name: SEWARD MTN
+    Elevation: 4347
+    Latitude: 44.15972222
+    Longitude: -74.2
+    State: NY
+-
+    Name: BIG SLIDE MTN
+    Elevation: 4249
+    Latitude: 44.18222222
+    Longitude: -73.87138889
+    State: NY
+-
+    Name: ESTHER MTN
+    Elevation: 4239
+    Latitude: 44.38694444
+    Longitude: -73.89027778
+    State: NY
+-
+    Name: UPPER WOLFJAW MTN
+    Elevation: 4203
+    Latitude: 44.14027778
+    Longitude: -73.84583333
+    State: NY
+-
+    Name: LOWER WOLFJAW MTN
+    Elevation: 4173
+    Latitude: 44.14805556
+    Longitude: -73.83305556
+    State: NY
+-
+    Name: PHELPS MTN
+    Elevation: 4160
+    Latitude: 44.15694444
+    Longitude: -73.92166667
+    State: NY
+-
+    Name: SAWTEETH
+    Elevation: 4150
+    Latitude: 44.11444444
+    Longitude: -73.85055556
+    State: NY
+-
+    Name: STREET MTN
+    Elevation: 4150
+    Latitude: 44.17944444
+    Longitude: -74.0275
+    State: NY
+-
+    Name: DONALDSON MTN
+    Elevation: 4108
+    Latitude: 44.15388889
+    Longitude: -74.21194444
+    State: NY
+-
+    Name: CASCADE MTN
+    Elevation: 4098
+    Latitude: 44.21833333
+    Longitude: -73.86055556
+    State: NY
+-
+    Name: SEYMOUR MTN
+    Elevation: 4091
+    Latitude: 44.15805556
+    Longitude: -74.17277778
+    State: NY
+-
+    Name: MT COLVIN
+    Elevation: 4085
+    Latitude: 44.09388889
+    Longitude: -73.83472222
+    State: NY
+-
+    Name: SOUTH DIX
+    Elevation: 4085
+    Latitude: 44.06
+    Longitude: -73.77472222
+    State: NY
+-
+    Name: PORTER MTN
+    Elevation: 4085
+    Latitude: 44.21222222
+    Longitude: -73.85416667
+    State: NY
+-
+    Name: MT EMMONS
+    Elevation: 4039
+    Latitude: 44.14388889
+    Longitude: -74.21472222
+    State: NY
+-
+    Name: DIAL MTN
+    Elevation: 4019
+    Latitude: 44.10583333
+    Longitude: -73.79666667
+    State: NY
+-
+    Name: EAST DIX
+    Elevation: 4006
+    Latitude: 44.06527778
+    Longitude: -73.75777778
+    State: NY
+-
+    Name: BLAKE PK
+    Elevation: 3986
+    Latitude: 44.08111111
+    Longitude: -73.845
+    State: NY
+-
+    Name: CLIFF MTN
+    Elevation: 3944
+    Latitude: 44.10333333
+    Longitude: -73.97555556
+    State: NY
+-
+    Name: NYE MTN
+    Elevation: 3888
+    Latitude: 44.18722222
+    Longitude: -74.02444444
+    State: NY
+-
+    Name: COUCHSACHRAGA PK
+    Elevation: 3793
+    Latitude: 44.09527778
+    Longitude: -74.16055556
+    State: NY

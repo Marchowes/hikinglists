@@ -1,0 +1,28 @@
+---
+location: PA
+list_name: PA-3000-Footers
+peaks:
+-
+    Name: MT DAVIS
+    Elevation: 3213
+    Latitude: 39.78583333
+    Longitude: 79.17694444
+    State: PA
+-
+    Name: BLUE KNOB
+    Elevation: 3130
+    Latitude: 40.28888889
+    Longitude: 78.56333333
+    State: PA
+-
+    Name: GLADE MTN
+    Elevation: 3089
+    Latitude: 39.79027778
+    Longitude: 79.20333333
+    State: PA
+-
+    Name: BOARDMAN RIDGE
+    Elevation: 3032
+    Latitude: 39.76305556
+    Longitude: 79.24777778
+    State: PA

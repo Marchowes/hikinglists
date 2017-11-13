@@ -1,7 +1,7 @@
 ---
 location: VT
 import:
-  - VT3000.yml
+  - VT-3000.yml
 max: 201 # Buckball & N Baker are equal.
 list_name: VT-200-highest
 ordered_columns:

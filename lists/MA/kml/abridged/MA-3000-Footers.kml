@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="MA-3000-Footers">
+    <name>MA-3000-Footers</name>
+    <description>pinmap for MA-3000-Footers</description>
+    <visibility>1</visibility>
+    <Folder id="MA-3000-Footers">
+      <name>MA-3000-Footers</name>
+      <description>kml map of list points for MA-3000-Footers</description>
+      <visibility>1</visibility>
+      <Placemark id="MT GREYLOCK">
+        <name>MT GREYLOCK</name>
+        <description>Latitude: 42.63722222
+Longitude: -73.16638889
+Name: MT GREYLOCK
+State: MA
+Elevation: 3488
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.166389,42.637222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SADDLE BALL MTN">
+        <name>SADDLE BALL MTN</name>
+        <description>Latitude: 42.61722222
+Longitude: -73.19027778
+Name: SADDLE BALL MTN
+State: MA
+Elevation: 3258
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.190278,42.617222</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,7 +1,7 @@
 ---
 location: VT
 import:
-  - VT4000.yml
+  - VT-4000.yml
 list_name: VT-3000-footers
 peaks:
 -

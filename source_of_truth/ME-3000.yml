@@ -1,0 +1,912 @@
+---
+import:
+  - ME-4000.yml
+location: ME
+list_name: ME-3000-Footers
+peaks:
+-
+    Name: SOUTH BROTHER
+    Elevation: 3970
+    Latitude: 45.94416667
+    Longitude: -69.00222222
+    State: ME
+-
+    Name: SNOW MTN
+    Elevation: 3960
+    Latitude: 45.29138889
+    Longitude: -70.70972222
+    State: ME
+-
+    Name: GOOSE EYE MTN
+    Elevation: 3870
+    Latitude: 44.50277778
+    Longitude: -71
+    State: ME
+-
+    Name: FORT MTN
+    Elevation: 3867
+    Latitude: 45.96194444
+    Longitude: -68.97527778
+    State: ME
+-
+    Name: WHITE CAP MTN
+    Elevation: 3856
+    Latitude: 45.23611111
+    Longitude: -70.81833333
+    State: ME
+-
+    Name: PANTHER
+    Elevation: 3855
+    Latitude: 45.26722222
+    Longitude: -70.84166667
+    State: ME
+-
+    Name: BIGELOW MTN, THE HORNS (S PK)
+    Elevation: 3805
+    Latitude: 45.145
+    Longitude: -70.32361111
+    State: ME
+-
+    Name: MT COE
+    Elevation: 3795
+    Latitude: 45.93361111
+    Longitude: -69.00944444
+    State: ME
+-
+    Name: EAST KENNEBAGO MTN
+    Elevation: 3791
+    Latitude: 45.12166667
+    Longitude: -70.6
+    State: ME
+-
+    Name: BALDPATE MTN, E PK
+    Elevation: 3790
+    Latitude: 44.60916667
+    Longitude: -70.89277778
+    State: ME
+-
+    Name: SNOW MTN
+    Elevation: 3784
+    Latitude: 45.16916667
+    Longitude: -70.82722222
+    State: ME
+-
+    Name: KENNEBAGO DIVIDE (N PK)
+    Elevation: 3775
+    Latitude: 45.2225
+    Longitude: -70.81611111
+    State: ME
+-
+    Name: ELEPHANT MTN
+    Elevation: 3772
+    Latitude: 44.76805556
+    Longitude: -70.78222222
+    State: ME
+-
+    Name: SADDLEBACK MTN, THE HORN (N PK)
+    Elevation: 3772
+    Latitude: 44.95888889
+    Longitude: -70.49222222
+    State: ME
+-
+    Name: REDINGTON POND RANGE (M PK)
+    Elevation: 3770
+    Latitude: 45.00777778
+    Longitude: -70.39472222
+    State: ME
+-
+    Name: MAHOOSUC ARM
+    Elevation: 3765
+    Latitude: 44.56055556
+    Longitude: -70.97861111
+    State: ME
+-
+    Name: MT ABRAHAM (M PK)
+    Elevation: 3750
+    Latitude: 44.95777778
+    Longitude: -70.30472222
+    State: ME
+-
+    Name: WEST KENNEBAGO MTN (N PK)
+    Elevation: 3750
+    Latitude: 45.12027778
+    Longitude: -70.81611111
+    State: ME
+-
+    Name: COBURN MTN
+    Elevation: 3730
+    Latitude: 45.46861111
+    Longitude: -70.12694444
+    State: ME
+-
+    Name: WEST KENNEBAGO MTN
+    Elevation: 3713
+    Latitude: 45.10694444
+    Longitude: -70.81694444
+    State: ME
+-
+    Name: BLACK NUBBLE
+    Elevation: 3710
+    Latitude: 45.03194444
+    Longitude: -70.4475
+    State: ME
+-
+    Name: KENNEBAGO DIVIDE (S PK)
+    Elevation: 3705
+    Latitude: 45.20583333
+    Longitude: -70.82888889
+    State: ME
+-
+    Name: BARREN MTN
+    Elevation: 3696
+    Latitude: 45.91916667
+    Longitude: -68.98305556
+    State: ME
+-
+    Name: GOOSE EYE MTN (N PK)
+    Elevation: 3675
+    Latitude: 44.51611111
+    Longitude: -70.98888889
+    State: ME
+-
+    Name: MT ABRAHAM (S PK)
+    Elevation: 3671
+    Latitude: 44.94361111
+    Longitude: -70.29083333
+    State: ME
+-
+    Name: THE OWL
+    Elevation: 3670
+    Latitude: 45.90916667
+    Longitude: -68.95861111
+    State: ME
+-
+    Name: BALDPATE MTN, W PK
+    Elevation: 3662
+    Latitude: 44.60138889
+    Longitude: -70.9025
+    State: ME
+-
+    Name: SADDLEBACK JUNIOR
+    Elevation: 3655
+    Latitude: 44.95805556
+    Longitude: -70.45833333
+    State: ME
+-
+    Name: KIBBY MTN
+    Elevation: 3654
+    Latitude: 45.41861111
+    Longitude: -70.54472222
+    State: ME
+-
+    Name: RUMP MTN
+    Elevation: 3654
+    Latitude: 45.20361111
+    Longitude: -71.06388889
+    State: ME
+-
+    Name: WHITE CAP MTN
+    Elevation: 3654
+    Latitude: 45.55444444
+    Longitude: -69.24722222
+    State: ME
+-
+    Name: CARIBOU MTN (W PK)
+    Elevation: 3650
+    Latitude: 45.42972222
+    Longitude: -70.62361111
+    State: ME
+-
+    Name: EAST KENNEBAGO MTN (W PK)
+    Elevation: 3650
+    Latitude: 45.10194444
+    Longitude: -70.63888889
+    State: ME
+-
+    Name: COW RIDGE
+    Elevation: 3645
+    Latitude: 45.19194444
+    Longitude: -70.72944444
+    State: ME
+-
+    Name: BOUNDARY BALD MTN
+    Elevation: 3630
+    Latitude: 45.76666667
+    Longitude: -70.20416667
+    State: ME
+-
+    Name: BURNT HILL
+    Elevation: 3609
+    Latitude: 45.03555556
+    Longitude: -70.28277778
+    State: ME
+-
+    Name: BOIL MTN
+    Elevation: 3601
+    Latitude: 45.24305556
+    Longitude: -70.73611111
+    State: ME
+-
+    Name: BEMIS MTN
+    Elevation: 3590
+    Latitude: 44.79472222
+    Longitude: -70.76861111
+    State: ME
+-
+    Name: CARIBOU MTN (M PK)
+    Elevation: 3591
+    Latitude: 45.43527778
+    Longitude: -70.615
+    State: ME
+-
+    Name: OLD BLUE MTN
+    Elevation: 3592
+    Latitude: 44.74694444
+    Longitude: -70.76611111
+    State: ME
+-
+    Name: TUMBLEDOWN MTN
+    Elevation: 3588
+    Latitude: 45.44916667
+    Longitude: -70.47083333
+    State: ME
+-
+    Name: JACKSON MTN
+    Elevation: 3568
+    Latitude: 44.76222222
+    Longitude: -70.52055556
+    State: ME
+-
+    Name: MT CARLO
+    Elevation: 3565
+    Latitude: 44.48916667
+    Longitude: -71.00861111
+    State: ME
+-
+    Name: TRAVELER MTN, THE TRAVELER
+    Elevation: 3551
+    Latitude: 46.07277778
+    Longitude: -68.845
+    State: ME
+-
+    Name: UNNAMED BDY PK (DENNISON BOG)
+    Elevation: 3552
+    Latitude: 45.2375
+    Longitude: -70.83694444
+    State: ME
+-
+    Name: UNNAMED BDY PK BROWN (N PK)
+    Elevation: 3541
+    Latitude: 45.4025
+    Longitude: -70.62194444
+    State: ME
+-
+    Name: TWIN MTNS
+    Elevation: 3536
+    Latitude: 45.15194444
+    Longitude: -70.825
+    State: ME
+-
+    Name: BAKER MTN
+    Elevation: 3521
+    Latitude: 45.57111111
+    Longitude: -69.39444444
+    State: ME
+-
+    Name: UNNAMED PK RAIN (W PK)
+    Elevation: 3510
+    Latitude: 45.39805556
+    Longitude: -70.59805556
+    State: ME
+-
+    Name: DOUBLETOP MTN
+    Elevation: 3489
+    Latitude: 45.93583333
+    Longitude: -69.06166667
+    State: ME
+-
+    Name: LITTLE JACKSON MTN
+    Elevation: 3470
+    Latitude: 44.75416667
+    Longitude: -70.53611111
+    State: ME
+-
+    Name: MAHOOSUC MTN
+    Elevation: 3470
+    Latitude: 44.54888889
+    Longitude: -70.98666667
+    State: ME
+-
+    Name: TWIN MTNS (SW PK)
+    Elevation: 3469
+    Latitude: 45.14305556
+    Longitude: -70.84527778
+    State: ME
+-
+    Name: MULLEN MTN
+    Elevation: 3463
+    Latitude: 45.97972222
+    Longitude: -68.97555556
+    State: ME
+-
+    Name: BOUNDARY BALD MTN (E PK)
+    Elevation: 3459
+    Latitude: 45.77277778
+    Longitude: -70.17888889
+    State: ME
+-
+    Name: DEER MTN
+    Elevation: 3450
+    Latitude: 45.00472222
+    Longitude: -70.92444444
+    State: ME
+-
+    Name: FULLING MILL MTN
+    Elevation: 3450
+    Latitude: 44.53666667
+    Longitude: -70.98
+    State: ME
+-
+    Name: UNNAMED PK BUMP (E PK)
+    Elevation: 3447
+    Latitude: 45.45694444
+    Longitude: -70.63361111
+    State: ME
+-
+    Name: MT O-J-I
+    Elevation: 3434
+    Latitude: 45.92777778
+    Longitude: -69.01583333
+    State: ME
+-
+    Name: SISK MTN (N PK)
+    Elevation: 3430
+    Latitude: 45.37472222
+    Longitude: -70.63027778
+    State: ME
+-
+    Name: UNNAMED PK BUMP
+    Elevation: 3430
+    Latitude: 45.45444444
+    Longitude: -70.64527778
+    State: ME
+-
+    Name: SPOTTED MTN (M PK)
+    Elevation: 3401
+    Latitude: 45.04111111
+    Longitude: -70.71861111
+    State: ME
+-
+    Name: ONION HILL
+    Elevation: 3392
+    Latitude: 45.25305556
+    Longitude: -70.72222222
+    State: ME
+-
+    Name: BIGELOW MTN (HORNS POND PK)
+    Elevation: 3390
+    Latitude: 45.1425
+    Longitude: -70.34388889
+    State: ME
+-
+    Name: MT PISGAH
+    Elevation: 3390
+    Latitude: 45.37277778
+    Longitude: -70.66361111
+    State: ME
+-
+    Name: BAKER MTN (M PK)
+    Elevation: 3361
+    Latitude: 45.55805556
+    Longitude: -69.38944444
+    State: ME
+-
+    Name: SUNDAY RIVER WHITECAP
+    Elevation: 3335
+    Latitude: 44.54888889
+    Longitude: -70.89722222
+    State: ME
+-
+    Name: MERRILL MTN
+    Elevation: 3330
+    Latitude: 45.47611111
+    Longitude: -70.68777778
+    State: ME
+-
+    Name: CARIBOU MTN (E PK)
+    Elevation: 3325
+    Latitude: 45.44416667
+    Longitude: -70.6
+    State: ME
+-
+    Name: NORTH TURNER MTN
+    Elevation: 3325
+    Latitude: 45.9725
+    Longitude: -68.84444444
+    State: ME
+-
+    Name: JACKSON MTN (N PK)
+    Elevation: 3319
+    Latitude: 44.78083333
+    Longitude: -70.52805556
+    State: ME
+-
+    Name: UNNAMED BOUNDARY PK (MON. 410)
+    Elevation: 3319
+    Latitude: 45.445
+    Longitude: -70.65138889
+    State: ME
+-
+    Name: NUMBER SIX MTN
+    Elevation: 3315
+    Latitude: 45.49416667
+    Longitude: -70.40861111
+    State: ME
+-
+    Name: BAKER MTN (S PK)
+    Elevation: 3307
+    Latitude: 45.55138889
+    Longitude: -69.39805556
+    State: ME
+-
+    Name: SPENCER BALE MTN
+    Elevation: 3301
+    Latitude: 45.41527778
+    Longitude: -70.49888889
+    State: ME
+-
+    Name: BEAR MTN (W PK) GREEN MTN
+    Elevation: 3290
+    Latitude: 44.45472222
+    Longitude: -70.96527778
+    State: ME
+-
+    Name: SMART MTN (W PK)
+    Elevation: 3290
+    Latitude: 45.46888889
+    Longitude: -70.62861111
+    State: ME
+-
+    Name: KIBBY RANGE (N PK)
+    Elevation: 3286
+    Latitude: 45.35222222
+    Longitude: -70.57694444
+    State: ME
+-
+    Name: LILY BAY MTN (E PK)
+    Elevation: 3281
+    Latitude: 45.59055556
+    Longitude: -69.41722222
+    State: ME
+-
+    Name: SISK MTN
+    Elevation: 3270
+    Latitude: 45.34666667
+    Longitude: -70.62861111
+    State: ME
+-
+    Name: CENTER RIDGE (PEAK OF THE RIDGES)
+    Elevation: 3254
+    Latitude: 46.07416667
+    Longitude: -68.86861111
+    State: ME
+-
+    Name: HAY MTN
+    Elevation: 3250
+    Latitude: 45.5525
+    Longitude: -69.27222222
+    State: ME
+-
+    Name: SADDLE HILL (E PK)
+    Elevation: 3250
+    Latitude: 45.34416667
+    Longitude: -71.00194444
+    State: ME
+-
+    Name: SLIDE MTN
+    Elevation: 3250
+    Latitude: 44.55055556
+    Longitude: -70.9225
+    State: ME
+-
+    Name: UNNAMED PK (CUPSUPTIC POND)
+    Elevation: 3250
+    Latitude: 45.22472222
+    Longitude: -70.91611111
+    State: ME
+-
+    Name: SMART MTN
+    Elevation: 3245
+    Latitude: 45.47277778
+    Longitude: -70.61055556
+    State: ME
+-
+    Name: LILY BAY MTN
+    Elevation: 3234
+    Latitude: 45.59111111
+    Longitude: -69.43694444
+    State: ME
+-
+    Name: LITTLE SPRUCE MTN
+    Elevation: 3222
+    Latitude: 45.53722222
+    Longitude: -69.21722222
+    State: ME
+-
+    Name: FARMER MTN
+    Elevation: 3210
+    Latitude: 44.94694444
+    Longitude: -70.33416667
+    State: ME
+-
+    Name: REDINGTON POND RANGE (S PK)
+    Elevation: 3210
+    Latitude: 44.99805556
+    Longitude: -70.41027778
+    State: ME
+-
+    Name: SADDLE HILL (W PK)
+    Elevation: 3210
+    Latitude: 45.3475
+    Longitude: -71.01138889
+    State: ME
+-
+    Name: BIG SPENCER MTN
+    Elevation: 3210
+    Latitude: 45.77555556
+    Longitude: -69.44361111
+    State: ME
+-
+    Name: BIGELOW MTN, CRANBERRY PK
+    Elevation: 3194
+    Latitude: 45.14083333
+    Longitude: -70.38083333
+    State: ME
+-
+    Name: BIG SQUAW MTN
+    Elevation: 3194
+    Latitude: 45.48388889
+    Longitude: -69.71194444
+    State: ME
+-
+    Name: THREE SLIDE MTN (W PK)
+    Elevation: 3194
+    Latitude: 45.44277778
+    Longitude: -70.43194444
+    State: ME
+-
+    Name: AZISCOHOS/LOW AZISCOHOS MTN
+    Elevation: 3190
+    Latitude: 44.91416667
+    Longitude: -71.0025
+    State: ME
+-
+    Name: BLACK NUBBLE (W PK)
+    Elevation: 3190
+    Latitude: 45.01638889
+    Longitude: -70.46416667
+    State: ME
+-
+    Name: MT BLUE
+    Elevation: 3190
+    Latitude: 44.72805556
+    Longitude: -70.3425
+    State: ME
+-
+    Name: SPOTTED MTN (E PK)
+    Elevation: 3190
+    Latitude: 45.04833333
+    Longitude: -70.66638889
+    State: ME
+-
+    Name: VAN DYKE MTN
+    Elevation: 3190
+    Latitude: 45.49277778
+    Longitude: -70.67888889
+    State: ME
+-
+    Name: UNNAMED PK (NORTHWEST POND)
+    Elevation: 3190
+    Latitude: 45.31083333
+    Longitude: -70.80888889
+    State: ME
+-
+    Name: NUMBER FIVE MTN
+    Elevation: 3186
+    Latitude: 45.50111111
+    Longitude: -70.38722222
+    State: ME
+-
+    Name: BLACK MTN
+    Elevation: 3183
+    Latitude: 45.18694444
+    Longitude: -70.65861111
+    State: ME
+-
+    Name: WHEELER MTN
+    Elevation: 3183
+    Latitude: 44.44861111
+    Longitude: -70.90972222
+    State: ME
+-
+    Name: WEST PK
+    Elevation: 3178
+    Latitude: 45.545
+    Longitude: -69.29638889
+    State: ME
+-
+    Name: BAG POND MTN
+    Elevation: 3173
+    Latitude: 45.305
+    Longitude: -70.66083333
+    State: ME
+-
+    Name: BIG SPENCER MTN (SW PK)
+    Elevation: 3170
+    Latitude: 45.76138889
+    Longitude: -69.46666667
+    State: ME
+-
+    Name: STONEY BROOK MTN
+    Elevation: 3170
+    Latitude: 45.07055556
+    Longitude: -70.37027778
+    State: ME
+-
+    Name: BOUNDARY BALD MTN (W PK)
+    Elevation: 3167
+    Latitude: 45.77916667
+    Longitude: -70.24
+    State: ME
+-
+    Name: BLACK MTN
+    Elevation: 3162
+    Latitude: 44.45638889
+    Longitude: -70.90972222
+    State: ME
+-
+    Name: COW RIDGE (S PK)
+    Elevation: 3162
+    Latitude: 45.1725
+    Longitude: -70.74472222
+    State: ME
+-
+    Name: ROUND MTN (N PK)
+    Elevation: 3161
+    Latitude: 45.27611111
+    Longitude: -70.685
+    State: ME
+-
+    Name: BEAVER MTN
+    Elevation: 3159
+    Latitude: 44.88166667
+    Longitude: -70.63944444
+    State: ME
+-
+    Name: NORTH TRAVELER MTN
+    Elevation: 3152
+    Latitude: 46.10027778
+    Longitude: -68.85555556
+    State: ME
+-
+    Name: BOSEBUCK MTN
+    Elevation: 3150
+    Latitude: 45.11416667
+    Longitude: -71.05555556
+    State: ME
+-
+    Name: ROUND MTN (M PK)
+    Elevation: 3150
+    Latitude: 45.25972222
+    Longitude: -70.67138889
+    State: ME
+-
+    Name: POPLAR RIDGE
+    Elevation: 3142
+    Latitude: 44.97222222
+    Longitude: -70.44861111
+    State: ME
+-
+    Name: PUZZLE MTN
+    Elevation: 3142
+    Latitude: 44.54666667
+    Longitude: -70.78888889
+    State: ME
+-
+    Name: BULL MTN
+    Elevation: 3136
+    Latitude: 45.1475
+    Longitude: -70.87222222
+    State: ME
+-
+    Name: UNNAMED PK (LEDGE POND)
+    Elevation: 3130
+    Latitude: 44.91638889
+    Longitude: -70.53527778
+    State: ME
+-
+    Name: UNNAMED BDY PK (CUPSUPTIC PD)
+    Elevation: 3130
+    Latitude: 45.24305556
+    Longitude: -70.89833333
+    State: ME
+-
+    Name: UNNAMED PK (CARIBOU FLOW)
+    Elevation: 3122
+    Latitude: 45.41611111
+    Longitude: -70.5725
+    State: ME
+-
+    Name: BIG SHANTY MTN
+    Elevation: 3121
+    Latitude: 45.54833333
+    Longitude: -69.19527778
+    State: ME
+-
+    Name: EAST ROYCE MTN
+    Elevation: 3114
+    Latitude: 44.30722222
+    Longitude: -71.00611111
+    State: ME
+-
+    Name: ELEPHANT MTN (E PK)
+    Elevation: 3110
+    Latitude: 44.77972222
+    Longitude: -70.75027778
+    State: ME
+-
+    Name: SANDY BAY MTN
+    Elevation: 3110
+    Latitude: 45.75416667
+    Longitude: -70.39416667
+    State: ME
+-
+    Name: SOUTH TURNER MTN
+    Elevation: 3110
+    Latitude: 45.94111111
+    Longitude: -68.85111111
+    State: ME
+-
+    Name: BIG SPRUCE MTN
+    Elevation: 3103
+    Latitude: 45.53222222
+    Longitude: -69.24694444
+    State: ME
+-
+    Name: TUMBLEDOWN MTN (N PK)
+    Elevation: 3090
+    Latitude: 44.75
+    Longitude: -70.54916667
+    State: ME
+-
+    Name: East Kibby
+    Elevation: 3088
+    Latitude: 45.33472222
+    Longitude: -70.53666667
+    State: ME
+-
+    Name: LITTLE BIGELOW MTN
+    Elevation: 3070
+    Latitude: 45.13444444
+    Longitude: -70.21722222
+    State: ME
+-
+    Name: COBURN MTN (E PK)
+    Elevation: 3070
+    Latitude: 45.48027778
+    Longitude: -70.11166667
+    State: ME
+-
+    Name: LITTLE SPENCER MTN
+    Elevation: 3070
+    Latitude: 45.75833333
+    Longitude: -69.53277778
+    State: ME
+-
+    Name: UNNAMED PK (BARKER POND)
+    Elevation: 3070
+    Latitude: 45.30583333
+    Longitude: -71.03444444
+    State: ME
+-
+    Name: TWIN PKS
+    Elevation: 3050
+    Latitude: 45.31333333
+    Longitude: -70.98972222
+    State: ME
+-
+    Name: KIBBY RANGE (S PK)
+    Elevation: 3043
+    Latitude: 45.32583333
+    Longitude: -70.58527778
+    State: ME
+-
+    Name: BEAR MTN (E PK)
+    Elevation: 3041
+    Latitude: 44.45722222
+    Longitude: -70.93444444
+    State: ME
+-
+    Name: MOOSE MTN
+    Elevation: 3041
+    Latitude: 45.47444444
+    Longitude: -70.58027778
+    State: ME
+-
+    Name: PEAKED MTN
+    Elevation: 3037
+    Latitude: 45.455
+    Longitude: -70.53472222
+    State: ME
+-
+    Name: LEROY PEAK
+    Elevation: 3030
+    Latitude: 45.44805556
+    Longitude: -70.50138889
+    State: ME
+-
+    Name: POTATO NUBBLE
+    Elevation: 3030
+    Latitude: 44.97805556
+    Longitude: -70.5025
+    State: ME
+-
+    Name: UNNAMED BDY PK (MASS. BOG)
+    Elevation: 3030
+    Latitude: 45.32805556
+    Longitude: -70.81305556
+    State: ME
+-
+    Name: ROUND MTN (E PK)
+    Elevation: 3027
+    Latitude: 45.25805556
+    Longitude: -70.65777778
+    State: ME
+-
+    Name: SQUAWS BOSOM
+    Elevation: 3026
+    Latitude: 45.93333333
+    Longitude: -69.08638889
+    State: ME
+-
+    Name: LONG MTN
+    Elevation: 3021
+    Latitude: 44.59111111
+    Longitude: -70.8175
+    State: ME
+-
+    Name: NUMBER SIX MTN (S PK)
+    Elevation: 3011
+    Latitude: 45.47944444
+    Longitude: -70.42277778
+    State: ME
+-
+    Name: SPOTTED MTN (NW PK)
+    Elevation: 3010
+    Latitude: 45.05333333
+    Longitude: -70.75444444
+    State: ME
+-
+    Name: BOTTLE MTN
+    Elevation: 3010
+    Latitude: 45.18333333
+    Longitude: -70.89666667
+    State: ME
+-
+    Name: MARBLE MTN
+    Elevation: 3010
+    Latitude: 45.33388889
+    Longitude: -71.0125
+    State: ME
+-
+    Name: SPOTTED MTN (N PK)
+    Elevation: 3010
+    Latitude: 45.05527778
+    Longitude: -70.74222222
+    State: ME
+-
+    Name: RED RIDGE
+    Elevation: 3030
+    Latitude: 44.61
+    Longitude: -71.02277778
+    State: ME

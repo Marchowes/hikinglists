@@ -1,0 +1,12 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="NorthEast-4000-Footers">
+    <name>NorthEast-4000-Footers</name>
+    <description>pinmap for NorthEast-4000-Footers</description>
+    <visibility>1</visibility>
+    <Folder id="NorthEast-4000-Footers">
+      <name>NorthEast-4000-Footers</name>
+      <description>kml map of list points for NorthEast-4000-Footers</description>
+      <visibility>1</visibility>
+    </Folder>
+  </Document>
+</kml>
