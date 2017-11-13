@@ -1,0 +1,16 @@
+---
+location: MA
+list_name: MA-3000-Footers
+peaks:
+-
+    Name: MT GREYLOCK
+    Elevation: 3488
+    Latitude: 42.63722222
+    Longitude: -73.16638889
+    State: MA
+-
+    Name: SADDLE BALL MTN
+    Elevation: 3258
+    Latitude: 42.61722222
+    Longitude: -73.19027778
+    State: MA

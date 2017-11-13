@@ -1,0 +1,16 @@
+---
+location: NY
+standalone: false
+peaks:
+-
+    Name: SLIDE MTN
+    Elevation: 4190
+    Latitude: 41.99916667
+    Longitude: -74.38611111
+    State: NY
+-
+    Name: HUNTER MTN
+    Elevation: 4050
+    Latitude: 42.1775
+    Longitude: -74.23083333
+    State: NY

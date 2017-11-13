@@ -1,0 +1,6 @@
+---
+import:
+- NewEngland-4000.yml
+- NY-4000.yml
+location: NorthEast
+list_name: NorthEast-4000-Footers

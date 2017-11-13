@@ -6,8 +6,5 @@ forced_import:
   - AMC-NH-NEHH.yml
   - AMC-VT-NEHH.yml
   - AMC-ME-NEHH.yml
-  - AMC-NH-4000.yml
-  - AMC-VT-4000.yml
-  - AMC-ME-4000.yml
 location: NewEngland
 list_name: AMC-NewEngland-100-Highest

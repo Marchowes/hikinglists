@@ -1,0 +1,8 @@
+---
+import:
+- ME-3000.yml
+- NH-3000.yml
+- VT-3000.yml
+- MA-3000.yml
+location: NewEngland
+list_name: NewEngland-3000-Footers

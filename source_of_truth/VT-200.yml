@@ -1,0 +1,727 @@
+---
+location: VT
+import:
+  - VT-3000.yml
+max: 201 # Buckball & N Baker are equal.
+list_name: VT-200-highest
+ordered_columns:
+  - Name
+  - Elevation
+  - Latitude
+  - Longitude
+  - State
+peaks:
+-
+    Name: BEAR
+    Elevation: 2996
+    Latitude: 43.8703
+    Longitude: -72.9556
+    State: VT
+-
+    Name: UNNAMED (READSBORO)
+    Elevation: 2995
+    Latitude: 42.82437
+    Longitude: -72.94407
+    State: VT
+-
+    Name: E KNOX
+    Elevation: 2990
+    Latitude: 44.1683
+    Longitude: -72.34001
+    State: VT
+-
+    Name: CLARK
+    Elevation: 2970
+    Latitude: 44.47889
+    Longitude: -72.84140
+    State: VT
+-
+    Name: MEACHAM SWAMP PEAK
+    Elevation: 2970
+    Latitude: 44.9023
+    Longitude: -71.6318
+    State: VT
+-
+    Name: S DORSET
+    Elevation: 2970
+    Latitude: 43.28539
+    Longitude: -73.06724
+    State: VT
+-
+    Name: UNNAMED (STAMFORD POND PEAK)
+    Elevation: 2970
+    Latitude: 42.81672
+    Longitude: -73.05897
+    State: VT
+-
+    Name: MOLLY STARK
+    Elevation: 2967
+    Latitude: 44.22194
+    Longitude: -72.92665
+    State: VT
+-
+    Name: N RICE
+    Elevation: 2963
+    Latitude: 42.98722
+    Longitude: -72.83612
+    State: VT
+-
+    Name: PETE PARENT
+    Elevation: 2963
+    Latitude: 43.32194
+    Longitude: -72.90473
+    State: VT
+-
+    Name: GILLESPIE
+    Elevation: 2956
+    Latitude: 43.95611
+    Longitude: -72.87612
+    State: VT
+-
+    Name: UNNAMED (BLUE BROOK)
+    Elevation: 2954
+    Latitude: 42.99416
+    Longitude: -72.87334
+    State: VT
+-
+    Name: ROCHESTER
+    Elevation: 2953
+    Latitude: 43.86694
+    Longitude: -72.74834
+    State: VT
+-
+    Name: RICE HILL
+    Elevation: 2950
+    Latitude: 42.97833
+    Longitude: -72.82750
+    State: VT
+-
+    Name: MIDDLE
+    Elevation: 2947
+    Latitude: 44.91722
+    Longitude: -71.83168
+    State: VT
+-
+    Name: GLEBE
+    Elevation: 2943
+    Latitude: 43.18888
+    Longitude: -72.76084
+    State: VT
+-
+    Name: LYE BROOK MEADOWS PEAK
+    Elevation: 2941
+    Latitude: 43.08084
+    Longitude: -73.04601
+    State: VT
+-
+    Name: BUCHANAN
+    Elevation: 2940
+    Latitude: 44.87861
+    Longitude: -72.50917
+    State: VT
+-
+    Name: STRATTON POND PEAK
+    Elevation: 2938
+    Latitude: 43.11416
+    Longitude: -72.96972
+    State: VT
+-
+    Name: ROUND
+    Elevation: 2932
+    Latitude: 44.93305
+    Longitude: -71.78750
+    State: VT
+-
+    Name: N SNOW
+    Elevation: 2929
+    Latitude: 42.9894444
+    Longitude: -72.9097222
+    State: VT
+-
+    Name: DOMEYS DOME
+    Elevation: 2923
+    Latitude: 44.8913889
+    Longitude: -72.4997222
+    State: VT
+-
+    Name: W WINDFARM
+    Elevation: 2923
+    Latitude: 42.8719444
+    Longitude: -72.9844444
+    State: VT
+-
+    Name: SCRUB HILL
+    Elevation: 2916
+    Latitude: 42.8052778
+    Longitude: -73.1077778
+    State: VT
+-
+    Name: SCRAG
+    Elevation: 2911
+    Latitude: 44.1561111
+    Longitude: -72.7727778
+    State: VT
+-
+    Name: BONE
+    Elevation: 2910
+    Latitude: 44.4025
+    Longitude: -72.8444444
+    State: VT
+-
+    Name: NS BRAINTREE
+    Elevation: 2895
+    Latitude: 43.9341
+    Longitude: -72.7764
+    State: VT
+-
+    Name: GOODWIN
+    Elevation: 2890
+    Latitude: 44.7741667
+    Longitude: -72.0069444
+    State: VT
+-
+    Name: DOWNER GLEN PEAK
+    Elevation: 2886
+    Latitude: 43.1377778
+    Longitude: -73.0136111
+    State: VT
+-
+    Name: NE DEVILS DEN PEAK
+    Elevation: 2884
+    Latitude: 43.3597222
+    Longitude: -72.8725
+    State: VT
+-
+    Name: DARNING NEEDLE
+    Elevation: 2883
+    Latitude: 43.7352
+    Longitude: -72.8488
+    State: VT
+-
+    Name: TERRIBLE
+    Elevation: 2882
+    Latitude: 43.3135
+    Longitude: -72.7436
+    State: VT
+-
+    Name: S TILLOTSON
+    Elevation: 2881
+    Latitude: 44.7957
+    Longitude: -72.5597
+    State: VT
+-
+    Name: NETOP
+    Elevation: 2878
+    Latitude: 43.2769
+    Longitude: -73.0298
+    State: VT
+-
+    Name: BUCKBALL PEAK
+    Elevation: 2864
+    Latitude: 43.3428
+    Longitude: -72.9427
+    State: VT
+-
+    Name: N BAKER
+    Elevation: 2864
+    Latitude: 43.32889
+    Longitude: -72.9602
+    State: VT
+-
+    Name: BALD
+    Elevation: 2857
+    Latitude: 42.9221
+    Longitude: -73.1439
+    State: VT
+-
+    Name: S LINCOLN GAP PEAK
+    Elevation: 2850
+    Latitude: 44.08083
+    Longitude: -72.9280
+    State: VT
+-
+    Name: RED
+    Elevation: 2846
+    Latitude: 43.1080
+    Longitude: -73.1680
+    State: VT
+-
+    Name: NN TERRIBLE
+    Elevation: 2844
+    Latitude: 43.3402
+    Longitude: -72.7558
+    State: VT
+-
+    Name: NW KNOX
+    Elevation: 2837
+    Latitude: 44.1706
+    Longitude: -72.3679
+    State: VT
+-
+    Name: SE BULL HILL
+    Elevation: 2836
+    Latitude: 43.6779
+    Longitude: -72.6719
+    State: VT
+-
+    Name: TINMOUTH
+    Elevation: 2835
+    Latitude: 43.4194
+    Longitude: -73.0761
+    State: VT
+-
+    Name: MT HOLLY PEAK
+    Elevation: 2825
+    Latitude: 43.3749
+    Longitude: -72.8436
+    State: VT
+-
+    Name: S ROXBURY GAP PEAK
+    Elevation: 2823
+    Latitude: 44.0893
+    Longitude: -72.7902
+    State: VT
+-
+    Name: BLACK
+    Elevation: 2822
+    Latitude: 44.9271
+    Longitude: -71.7475
+    State: VT
+-
+    Name: N BURNT
+    Elevation: 2821
+    Latitude: 44.1311
+    Longitude: -72.7783
+    State: VT
+-
+    Name: JOBS
+    Elevation: 2810
+    Latitude: 44.7613
+    Longitude: -71.9636
+    State: VT
+-
+    Name: NE S POND PEAK
+    Elevation: 2810
+    Latitude: 43.7184
+    Longitude: -72.8673
+    State: VT
+-
+    Name: ELBOW PEAK
+    Elevation: 2808
+    Latitude: 43.68222
+    Longitude: -72.8577
+    State: VT
+-
+    Name: PEABODY HILL
+    Elevation: 2808
+    Latitude: 43.3252
+    Longitude: -72.8374
+    State: VT
+-
+    Name: WOLF HILL
+    Elevation: 2805
+    Latitude: 43.7094
+    Longitude: -72.7874
+    State: VT
+-
+    Name: BURNT
+    Elevation: 2803
+    Latitude: 43.5416
+    Longitude: -72.7722
+    State: VT
+-
+    Name: SPRUCE PEAK
+    Elevation: 2803
+    Latitude: 43.2397
+    Longitude: -73.1411
+    State: VT
+-
+    Name: LARAWAY
+    Elevation: 2795
+    Latitude: 44.7259
+    Longitude: -72.7119
+    State: VT
+-
+    Name: NW BOLTON
+    Elevation: 2790
+    Latitude: 44.4561
+    Longitude: -72.8585
+    State: VT
+-
+    Name: S NORTHFIELD
+    Elevation: 2790
+    Latitude: 43.9775
+    Longitude: -72.8027
+    State: VT
+-
+    Name: S BLUFF
+    Elevation: 2789
+    Latitude: 44.8580
+    Longitude: -71.8625
+    State: VT
+-
+    Name: EAST
+    Elevation: 2787
+    Latitude: 43.6526
+    Longitude: -72.7518
+    State: VT
+-
+    Name: SW COLD HOLLOW
+    Elevation: 2785
+    Latitude: 44.7764
+    Longitude: -72.7105
+    State: VT
+-
+    Name: THE DOME
+    Elevation: 2784
+    Latitude: 42.7788
+    Longitude: -73.1704
+    State: VT
+-
+    Name: DEER LEAP
+    Elevation: 2782
+    Latitude: 43.6700
+    Longitude: -72.8363
+    State: VT
+-
+    Name: DORSET HILL
+    Elevation: 2782
+    Latitude: 43.2606
+    Longitude: -73.0328
+    State: VT
+-
+    Name: WHEELOCK
+    Elevation: 2782
+    Latitude: 44.5576
+    Longitude: -72.1600
+    State: VT
+-
+    Name: WILDER
+    Elevation: 2782
+    Latitude: 43.3955
+    Longitude: -72.9100
+    State: VT
+-
+    Name: NORTH POND PEAK
+    Elevation: 2781
+    Latitude: 43.7435
+    Longitude: -72.8822
+    State: VT
+-
+    Name: WILLARD
+    Elevation: 2779
+    Latitude: 43.3878
+    Longitude: -72.8922
+    State: VT
+-
+    Name: S BRAINTREE
+    Elevation: 2778
+    Latitude: 43.9232
+    Longitude: -72.7671
+    State: VT
+-
+    Name: N BLUFF
+    Elevation: 2774
+    Latitude: 44.8663
+    Longitude: -71.8526
+    State: VT
+-
+    Name: PROSPECT
+    Elevation: 2767
+    Latitude: 42.87500
+    Longitude: -73.06667
+    State: VT
+-
+    Name: NW PEABODY
+    Elevation: 2766
+    Latitude: 43.3400
+    Longitude: -72.8550
+    State: VT
+-
+    Name: PISGAH
+    Elevation: 2766
+    Latitude: 44.7296
+    Longitude: -72.0303
+    State: VT
+-
+    Name: BULL
+    Elevation: 2758
+    Latitude: 44.7299
+    Longitude: -71.8390
+    State: VT
+-
+    Name: THE BALL
+    Elevation: 2755
+    Latitude: 43.0623
+    Longitude: -73.1965
+    State: VT
+-
+    Name: NICKWAKET
+    Elevation: 2753
+    Latitude: 43.7788
+    Longitude: -72.9940
+    State: VT
+-
+    Name: CUSHMAN
+    Elevation: 2750
+    Latitude: 43.8974
+    Longitude: -72.7648
+    State: VT
+-
+    Name: KIRBY
+    Elevation: 2750
+    Latitude: 44.5471
+    Longitude: -71.9044
+    State: VT
+-
+    Name: WOZNIAK
+    Elevation: 2750
+    Latitude: 44.7696
+    Longitude: -71.9722
+    State: VT
+-
+    Name: SS BRAINTREE
+    Elevation: 2748
+    Latitude: 43.91357
+    Longitude: -72.76584
+    State: VT
+-
+    Name: STONE
+    Elevation: 2736
+    Latitude: 44.5610
+    Longitude: -71.6659
+    State: VT
+-
+    Name: SE PHILADELPHIA
+    Elevation: 2735
+    Latitude: 43.88833
+    Longitude: -72.8431
+    State: VT
+-
+    Name: SABLE
+    Elevation: 2734
+    Latitude: 44.9226
+    Longitude: -71.6862
+    State: VT
+-
+    Name: WEST
+    Elevation: 2733
+    Latitude: 44.7093
+    Longitude: -71.7043
+    State: VT
+-
+    Name: BROUSSEAU
+    Elevation: 2732
+    Latitude: 44.9678
+    Longitude: -71.7393
+    State: VT
+-
+    Name: LITTLE WILCOX
+    Elevation: 2730
+    Latitude: 43.8199
+    Longitude: -72.8290
+    State: VT
+-
+    Name: N ELBOW
+    Elevation: 2730
+    Latitude: 43.7077
+    Longitude: -72.8658
+    State: VT
+-
+    Name: HERRICK
+    Elevation: 2726
+    Latitude: 43.5625
+    Longitude: -73.0990
+    State: VT
+-
+    Name: HAYSTACK
+    Elevation: 2724
+    Latitude: 44.7461
+    Longitude: -72.0020
+    State: VT
+-
+    Name: E ROUND
+    Elevation: 2714
+    Latitude: 44.9373
+    Longitude: -71.7728
+    State: VT
+-
+    Name: DAVES
+    Elevation: 2707
+    Latitude: 43.7321
+    Longitude: -72.8710
+    State: VT
+-
+    Name: UNNAMED (N SHAGBACK)
+    Elevation: 2704
+    Latitude: 43.6184
+    Longitude: -72.7826
+    State: VT
+-
+    Name: PIGEON POND PEAK
+    Elevation: 2702
+    Latitude: 44.2426
+    Longitude: -72.3145
+    State: VT
+-
+    Name: SOUTH POND PEAK
+    Elevation: 2696
+    Latitude: 43.7097
+    Longitude: -72.8759
+    State: VT
+-
+    Name: DEVILS DEN PEAK
+    Elevation: 2694
+    Latitude: 43.3483
+    Longitude: -72.8771
+    State: VT
+-
+    Name: N TERRIBLE
+    Elevation: 2694
+    Latitude: 43.3298
+    Longitude: -72.7532
+    State: VT
+-
+    Name: DELECTABLE
+    Elevation: 2690
+    Latitude: 43.7003
+    Longitude: -72.6804
+    State: VT
+-
+    Name: MILES
+    Elevation: 2690
+    Latitude: 44.4804
+    Longitude: -71.8117
+    State: VT
+-
+    Name: BILLINGS
+    Elevation: 2689
+    Latitude: 44.7053
+    Longitude: -72.6667
+    State: VT
+-
+    Name: WHITE ROCKS
+    Elevation: 2680
+    Latitude: 43.4291
+    Longitude: -72.9391
+    State: VT
+-
+    Name: MT HOR
+    Elevation: 2655
+    Latitude: 44.7129
+    Longitude: -72.0535
+    State: VT
+-
+    Name: PARRIS HILL
+    Elevation: 2654
+    Latitude: 43.34611
+    Longitude: -73.08139
+    State: VT
+-
+    Name: INGALLS HILL
+    Elevation: 2654
+    Latitude: 43.55806
+    Longitude: -72.7805
+    State: VT
+-
+    Name: THE CAPE
+    Elevation: 2635
+    Latitude: 43.8083
+    Longitude: -72.9867
+    State: VT
+-
+    Name: LEAD MINE MOUNTAIN
+    Elevation: 2635
+    Latitude: 43.7979
+    Longitude: -73.0050
+    State: VT
+-
+    Name: JOCKEY HILL
+    Elevation: 2626
+    Latitude: 43.5645
+    Longitude: -72.8282
+    State: VT
+-
+    Name: MORGAN PEAK
+    Elevation: 2618
+    Latitude: 43.5857
+    Longitude: -72.7429
+    State: VT
+-
+    Name: E READSBORO
+    Elevation: 2611
+    Latitude: 42.8550
+    Longitude: -72.9327
+    State: VT
+-
+    Name: SABLE
+    Elevation: 2625
+    Latitude: 43.7444
+    Longitude: -72.7691
+    State: VT
+-
+    Name: DUTCH HILL
+    Elevation: 2657
+    Latitude: 42.8083
+    Longitude: -73.0008
+    State: VT
+-
+    Name: MOOSALAMOO
+    Elevation: 2640
+    Latitude: 43.93028
+    Longitude: -73.0495
+    State: VT
+-
+    Name: BURPEE
+    Elevation: 2627
+    Latitude: 43.7044
+    Longitude: -72.7488
+    State: VT
+-
+    Name: IDE MOUNTAIN
+    Elevation: 2624
+    Latitude: 44.5430
+    Longitude: -72.1607
+    State: VT
+-
+    Name: QUIMBY
+    Elevation: 2620
+    Latitude: 43.6869
+    Longitude: -72.7510
+    State: VT
+-
+    Name: COOPER HILL
+    Elevation: 2620
+    Latitude: 42.9504
+    Longitude: -72.8222
+    State: VT
+-
+    Name: PROSPECT (EAST PEAK)
+    Elevation: 2618
+    Latitude: 42.87111
+    Longitude: -73.0341
+    State: VT
+-
+    Name: ELMORE
+    Elevation: 2607
+    Latitude: 44.5264
+    Longitude: -72.5461
+    State: VT
+-
+    Name: MOSES
+    Elevation: 2602
+    Latitude: 43.5285
+    Longitude: -72.6186
+    State: VT
+-
+    Name: ANTONE
+    Elevation: 2600
+    Latitude: 43.2544
+    Longitude: -73.1912
+    State: VT
+-
+    Name: STANNARD
+    Elevation: 2578
+    Latitude: 44.5223
+    Longitude: -72.2124
+    State: VT
