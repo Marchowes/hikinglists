@@ -9,11 +9,11 @@
       <visibility>1</visibility>
       <Placemark id="MT MANSFIELD (Chin)">
         <name>MT MANSFIELD (Chin)</name>
-        <description>Latitude: 44.54361111
-Longitude: -72.81472222
+        <description>State: VT
 Elevation: 4393
-State: VT
+Latitude: 44.54361111
 Name: MT MANSFIELD (Chin)
+Longitude: -72.81472222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -22,11 +22,11 @@ Name: MT MANSFIELD (Chin)
       </Placemark>
       <Placemark id="KILLINGTON PK">
         <name>KILLINGTON PK</name>
-        <description>Latitude: 43.60444444
-Longitude: -72.82055556
+        <description>State: VT
 Elevation: 4235
-State: VT
+Latitude: 43.60444444
 Name: KILLINGTON PK
+Longitude: -72.82055556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -35,11 +35,11 @@ Name: KILLINGTON PK
       </Placemark>
       <Placemark id="CAMELS HUMP">
         <name>CAMELS HUMP</name>
-        <description>Latitude: 44.31944444
-Longitude: -72.88666667
+        <description>State: VT
 Elevation: 4090
-State: VT
+Latitude: 44.31944444
 Name: CAMELS HUMP
+Longitude: -72.88666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -48,11 +48,11 @@ Name: CAMELS HUMP
       </Placemark>
       <Placemark id="MT ELLEN">
         <name>MT ELLEN</name>
-        <description>Latitude: 44.15972222
-Longitude: -72.92916667
+        <description>State: VT
 Elevation: 4083
-State: VT
+Latitude: 44.15972222
 Name: MT ELLEN
+Longitude: -72.92916667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -61,11 +61,11 @@ Name: MT ELLEN
       </Placemark>
       <Placemark id="MT ABRAHAM">
         <name>MT ABRAHAM</name>
-        <description>Latitude: 44.12027778
-Longitude: -72.93666667
+        <description>State: VT
 Elevation: 4006
-State: VT
+Latitude: 44.12027778
 Name: MT ABRAHAM
+Longitude: -72.93666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -74,11 +74,11 @@ Name: MT ABRAHAM
       </Placemark>
       <Placemark id="PICO PK">
         <name>PICO PK</name>
-        <description>Latitude: 43.63944444
-Longitude: -72.83694444
+        <description>State: VT
 Elevation: 3957
-State: VT
+Latitude: 43.63944444
 Name: PICO PK
+Longitude: -72.83694444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -87,11 +87,11 @@ Name: PICO PK
       </Placemark>
       <Placemark id="STRATTON MTN">
         <name>STRATTON MTN</name>
-        <description>Latitude: 43.08611111
-Longitude: -72.92555556
+        <description>State: VT
 Elevation: 3940
-State: VT
+Latitude: 43.08611111
 Name: STRATTON MTN
+Longitude: -72.92555556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -100,11 +100,11 @@ Name: STRATTON MTN
       </Placemark>
       <Placemark id="JAY PK">
         <name>JAY PK</name>
-        <description>Latitude: 44.92444444
-Longitude: -72.52638889
+        <description>State: VT
 Elevation: 3858
-State: VT
+Latitude: 44.92444444
 Name: JAY PK
+Longitude: -72.52638889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -113,11 +113,11 @@ Name: JAY PK
       </Placemark>
       <Placemark id="EQUINOX MTN">
         <name>EQUINOX MTN</name>
-        <description>Latitude: 43.16583333
-Longitude: -73.11805556
+        <description>State: VT
 Elevation: 3850
-State: VT
+Latitude: 43.16583333
 Name: EQUINOX MTN
+Longitude: -73.11805556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -126,11 +126,11 @@ Name: EQUINOX MTN
       </Placemark>
       <Placemark id="MENDON PK">
         <name>MENDON PK</name>
-        <description>Latitude: 43.595
-Longitude: -72.84666667
+        <description>State: VT
 Elevation: 3840
-State: VT
+Latitude: 43.595
 Name: MENDON PK
+Longitude: -72.84666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -139,11 +139,11 @@ Name: MENDON PK
       </Placemark>
       <Placemark id="BREAD LOAF MTN">
         <name>BREAD LOAF MTN</name>
-        <description>Latitude: 44.00194444
-Longitude: -72.94166667
+        <description>State: VT
 Elevation: 3835
-State: VT
+Latitude: 44.00194444
 Name: BREAD LOAF MTN
+Longitude: -72.94166667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -152,11 +152,11 @@ Name: BREAD LOAF MTN
       </Placemark>
       <Placemark id="MT WILSON">
         <name>MT WILSON</name>
-        <description>Latitude: 44.00472222
-Longitude: -72.92611111
+        <description>State: VT
 Elevation: 3790
-State: VT
+Latitude: 44.00472222
 Name: MT WILSON
+Longitude: -72.92611111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -165,11 +165,11 @@ Name: MT WILSON
       </Placemark>
       <Placemark id="BIG JAY">
         <name>BIG JAY</name>
-        <description>Latitude: 44.915
-Longitude: -72.54111111
+        <description>State: VT
 Elevation: 3786
-State: VT
+Latitude: 44.915
 Name: BIG JAY
+Longitude: -72.54111111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -178,11 +178,11 @@ Name: BIG JAY
       </Placemark>
       <Placemark id="DORSET PK">
         <name>DORSET PK</name>
-        <description>Latitude: 43.30916667
-Longitude: -73.02861111
+        <description>State: VT
 Elevation: 3770
-State: VT
+Latitude: 43.30916667
 Name: DORSET PK
+Longitude: -73.02861111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -191,11 +191,11 @@ Name: DORSET PK
       </Placemark>
       <Placemark id="GLASTENBURY MTN">
         <name>GLASTENBURY MTN</name>
-        <description>Latitude: 42.97777778
-Longitude: -73.07222222
+        <description>State: VT
 Elevation: 3748
-State: VT
+Latitude: 42.97777778
 Name: GLASTENBURY MTN
+Longitude: -73.07222222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -204,11 +204,11 @@ Name: GLASTENBURY MTN
       </Placemark>
       <Placemark id="SHREWSBURY PK">
         <name>SHREWSBURY PK</name>
-        <description>Latitude: 43.57555556
-Longitude: -72.80638889
+        <description>State: VT
 Elevation: 3730
-State: VT
+Latitude: 43.57555556
 Name: SHREWSBURY PK
+Longitude: -72.80638889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -217,11 +217,11 @@ Name: SHREWSBURY PK
       </Placemark>
       <Placemark id="STERLING MTN (WHITE FACE MTN)">
         <name>STERLING MTN (WHITE FACE MTN)</name>
-        <description>Latitude: 44.58222222
-Longitude: -72.74027778
+        <description>State: VT
 Elevation: 3714
-State: VT
+Latitude: 44.58222222
 Name: STERLING MTN (WHITE FACE MTN)
+Longitude: -72.74027778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -230,11 +230,11 @@ Name: STERLING MTN (WHITE FACE MTN)
       </Placemark>
       <Placemark id="BOLTON MTN">
         <name>BOLTON MTN</name>
-        <description>Latitude: 44.44916667
-Longitude: -72.84027778
+        <description>State: VT
 Elevation: 3690
-State: VT
+Latitude: 44.44916667
 Name: BOLTON MTN
+Longitude: -72.84027778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -243,11 +243,11 @@ Name: BOLTON MTN
       </Placemark>
       <Placemark id="(MT ETHAN ALLEN)">
         <name>(MT ETHAN ALLEN)</name>
-        <description>Latitude: 44.29361111
-Longitude: -72.88472222
+        <description>State: VT
 Elevation: 3688
-State: VT
+Latitude: 44.29361111
 Name: (MT ETHAN ALLEN)
+Longitude: -72.88472222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -256,11 +256,11 @@ Name: (MT ETHAN ALLEN)
       </Placemark>
       <Placemark id="GENERAL STARK MTN">
         <name>GENERAL STARK MTN</name>
-        <description>Latitude: 44.18416667
-Longitude: -72.92916667
+        <description>State: VT
 Elevation: 3662
-State: VT
+Latitude: 44.18416667
 Name: GENERAL STARK MTN
+Longitude: -72.92916667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -269,11 +269,11 @@ Name: GENERAL STARK MTN
       </Placemark>
       <Placemark id="MADONNA PK">
         <name>MADONNA PK</name>
-        <description>Latitude: 44.56138889
-Longitude: -72.75888889
+        <description>State: VT
 Elevation: 3650
-State: VT
+Latitude: 44.56138889
 Name: MADONNA PK
+Longitude: -72.75888889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -282,11 +282,11 @@ Name: MADONNA PK
       </Placemark>
       <Placemark id="WORCESTER MTNS (S PK)">
         <name>WORCESTER MTNS (S PK)</name>
-        <description>Latitude: 44.41833333
-Longitude: -72.63888889
+        <description>State: VT
 Elevation: 3642
-State: VT
+Latitude: 44.41833333
 Name: WORCESTER MTNS (S PK)
+Longitude: -72.63888889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -295,11 +295,11 @@ Name: WORCESTER MTNS (S PK)
       </Placemark>
       <Placemark id="MT GRANT">
         <name>MT GRANT</name>
-        <description>Latitude: 44.05194444
-Longitude: -72.92666667
+        <description>State: VT
 Elevation: 3623
-State: VT
+Latitude: 44.05194444
 Name: MT GRANT
+Longitude: -72.92666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -308,11 +308,11 @@ Name: MT GRANT
       </Placemark>
       <Placemark id="MT SNOW">
         <name>MT SNOW</name>
-        <description>Latitude: 42.95916667
-Longitude: -72.92388889
+        <description>State: VT
 Elevation: 3586
-State: VT
+Latitude: 42.95916667
 Name: MT SNOW
+Longitude: -72.92388889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -321,11 +321,11 @@ Name: MT SNOW
       </Placemark>
       <Placemark id="MT HUNGER (N PK)">
         <name>MT HUNGER (N PK)</name>
-        <description>Latitude: 44.40083333
-Longitude: -72.64388889
+        <description>State: VT
 Elevation: 3586
-State: VT
+Latitude: 44.40083333
 Name: MT HUNGER (N PK)
+Longitude: -72.64388889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -334,11 +334,11 @@ Name: MT HUNGER (N PK)
       </Placemark>
       <Placemark id="MT ROOSEVELT">
         <name>MT ROOSEVELT</name>
-        <description>Latitude: 44.02
-Longitude: -72.91833333
+        <description>State: VT
 Elevation: 3550
-State: VT
+Latitude: 44.02
 Name: MT ROOSEVELT
+Longitude: -72.91833333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -347,11 +347,11 @@ Name: MT ROOSEVELT
       </Placemark>
       <Placemark id="FARR PK">
         <name>FARR PK</name>
-        <description>Latitude: 43.80916667
-Longitude: -72.94444444
+        <description>State: VT
 Elevation: 3522
-State: VT
+Latitude: 43.80916667
 Name: FARR PK
+Longitude: -72.94444444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -360,11 +360,11 @@ Name: FARR PK
       </Placemark>
       <Placemark id="DORSET MTN (W PK)">
         <name>DORSET MTN (W PK)</name>
-        <description>Latitude: 43.30861111
-Longitude: -73.06416667
+        <description>State: VT
 Elevation: 3515
-State: VT
+Latitude: 43.30861111
 Name: DORSET MTN (W PK)
+Longitude: -73.06416667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -373,11 +373,11 @@ Name: DORSET MTN (W PK)
       </Placemark>
       <Placemark id="WORCESTER MTNS (N PK)">
         <name>WORCESTER MTNS (N PK)</name>
-        <description>Latitude: 44.43055556
-Longitude: -72.61277778
+        <description>State: VT
 Elevation: 3490
-State: VT
+Latitude: 44.43055556
 Name: WORCESTER MTNS (N PK)
+Longitude: -72.61277778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -386,11 +386,11 @@ Name: WORCESTER MTNS (N PK)
       </Placemark>
       <Placemark id="BLOODROOT MTN">
         <name>BLOODROOT MTN</name>
-        <description>Latitude: 43.78555556
-Longitude: -72.93777778
+        <description>State: VT
 Elevation: 3485
-State: VT
+Latitude: 43.78555556
 Name: BLOODROOT MTN
+Longitude: -72.93777778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -399,11 +399,11 @@ Name: BLOODROOT MTN
       </Placemark>
       <Placemark id="MT CLEVELAND">
         <name>MT CLEVELAND</name>
-        <description>Latitude: 44.04611111
-Longitude: -72.90833333
+        <description>State: VT
 Elevation: 3482
-State: VT
+Latitude: 44.04611111
 Name: MT CLEVELAND
+Longitude: -72.90833333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -412,11 +412,11 @@ Name: MT CLEVELAND
       </Placemark>
       <Placemark id="HAYSTACK MTN">
         <name>HAYSTACK MTN</name>
-        <description>Latitude: 42.91361111
-Longitude: -72.91972222
+        <description>State: VT
 Elevation: 3445
-State: VT
+Latitude: 42.91361111
 Name: HAYSTACK MTN
+Longitude: -72.91972222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -425,11 +425,11 @@ Name: HAYSTACK MTN
       </Placemark>
       <Placemark id="EAST MTN">
         <name>EAST MTN</name>
-        <description>Latitude: 44.66472222
-Longitude: -71.77055556
+        <description>State: VT
 Elevation: 3439
-State: VT
+Latitude: 44.66472222
 Name: EAST MTN
+Longitude: -71.77055556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -438,11 +438,11 @@ Name: EAST MTN
       </Placemark>
       <Placemark id="NORTH JAY PK">
         <name>NORTH JAY PK</name>
-        <description>Latitude: 44.9575
-Longitude: -72.53666667
+        <description>State: VT
 Elevation: 3438
-State: VT
+Latitude: 44.9575
 Name: NORTH JAY PK
+Longitude: -72.53666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -451,11 +451,11 @@ Name: NORTH JAY PK
       </Placemark>
       <Placemark id="PERU PK">
         <name>PERU PK</name>
-        <description>Latitude: 43.29444444
-Longitude: -72.93805556
+        <description>State: VT
 Elevation: 3435
-State: VT
+Latitude: 43.29444444
 Name: PERU PK
+Longitude: -72.93805556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -464,11 +464,11 @@ Name: PERU PK
       </Placemark>
       <Placemark id="GLASTENBURY MTN (W PK)">
         <name>GLASTENBURY MTN (W PK)</name>
-        <description>Latitude: 42.97777778
-Longitude: -73.11027778
+        <description>State: VT
 Elevation: 3423
-State: VT
+Latitude: 42.97777778
 Name: GLASTENBURY MTN (W PK)
+Longitude: -73.11027778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -477,11 +477,11 @@ Name: GLASTENBURY MTN (W PK)
       </Placemark>
       <Placemark id="GLASTENBURY MTN (N PK)">
         <name>GLASTENBURY MTN (N PK)</name>
-        <description>Latitude: 43.02805556
-Longitude: -73.03166667
+        <description>State: VT
 Elevation: 3412
-State: VT
+Latitude: 43.02805556
 Name: GLASTENBURY MTN (N PK)
+Longitude: -73.03166667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -490,11 +490,11 @@ Name: GLASTENBURY MTN (N PK)
       </Placemark>
       <Placemark id="RICKER MTN">
         <name>RICKER MTN</name>
-        <description>Latitude: 44.42055556
-Longitude: -72.82611111
+        <description>State: VT
 Elevation: 3410
-State: VT
+Latitude: 44.42055556
 Name: RICKER MTN
+Longitude: -72.82611111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -503,11 +503,11 @@ Name: RICKER MTN
       </Placemark>
       <Placemark id="NORTH JAY PK (S PK)">
         <name>NORTH JAY PK (S PK)</name>
-        <description>Latitude: 44.94694444
-Longitude: -72.54083333
+        <description>State: VT
 Elevation: 3409
-State: VT
+Latitude: 44.94694444
 Name: NORTH JAY PK (S PK)
+Longitude: -72.54083333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -516,11 +516,11 @@ Name: NORTH JAY PK (S PK)
       </Placemark>
       <Placemark id="STYLES PK">
         <name>STYLES PK</name>
-        <description>Latitude: 43.27361111
-Longitude: -72.93861111
+        <description>State: VT
 Elevation: 3392
-State: VT
+Latitude: 43.27361111
 Name: STYLES PK
+Longitude: -72.93861111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -529,50 +529,50 @@ Name: STYLES PK
       </Placemark>
       <Placemark id="MORSE MTN">
         <name>MORSE MTN</name>
-        <description>Latitude: 44.57638889
-Longitude: -72.75222222
+        <description>State: VT
 Elevation: 3390
-State: VT
+Latitude: 44.57638889
 Name: MORSE MTN
+Longitude: -72.75222222
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.752222,44.576389</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="DEWEY MTN">
-        <name>DEWEY MTN</name>
-        <description>Latitude: 44.49361111
-Longitude: -72.82194444
-Elevation: 3370
-State: VT
-Name: DEWEY MTN
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.821944,44.493611</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="SIGNAL MTN">
         <name>SIGNAL MTN</name>
-        <description>Latitude: 44.20611111
-Longitude: -72.32555556
+        <description>State: VT
 Elevation: 3370
-State: VT
+Latitude: 44.20611111
 Name: SIGNAL MTN
+Longitude: -72.32555556
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.325556,44.206111</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="DEWEY MTN">
+        <name>DEWEY MTN</name>
+        <description>State: VT
+Elevation: 3370
+Latitude: 44.49361111
+Name: DEWEY MTN
+Longitude: -72.82194444
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.821944,44.493611</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="CAPE LOOKOFF MTN">
         <name>CAPE LOOKOFF MTN</name>
-        <description>Latitude: 43.85555556
-Longitude: -72.97333333
+        <description>State: VT
 Elevation: 3370
-State: VT
+Latitude: 43.85555556
 Name: CAPE LOOKOFF MTN
+Longitude: -72.97333333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -581,11 +581,11 @@ Name: CAPE LOOKOFF MTN
       </Placemark>
       <Placemark id="GILLESPIE PK (WHITE ROCKS MTN)">
         <name>GILLESPIE PK (WHITE ROCKS MTN)</name>
-        <description>Latitude: 43.87138889
-Longitude: -72.97777778
+        <description>State: VT
 Elevation: 3366
-State: VT
+Latitude: 43.87138889
 Name: GILLESPIE PK (WHITE ROCKS MTN)
+Longitude: -72.97777778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -594,11 +594,11 @@ Name: GILLESPIE PK (WHITE ROCKS MTN)
       </Placemark>
       <Placemark id="MT CARMEL">
         <name>MT CARMEL</name>
-        <description>Latitude: 43.77444444
-Longitude: -72.92083333
+        <description>State: VT
 Elevation: 3365
-State: VT
+Latitude: 43.77444444
 Name: MT CARMEL
+Longitude: -72.92083333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -607,11 +607,11 @@ Name: MT CARMEL
       </Placemark>
       <Placemark id="MOTHER MYRICK MTN">
         <name>MOTHER MYRICK MTN</name>
-        <description>Latitude: 43.21333333
-Longitude: -73.11694444
+        <description>State: VT
 Elevation: 3361
-State: VT
+Latitude: 43.21333333
 Name: MOTHER MYRICK MTN
+Longitude: -73.11694444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -620,11 +620,11 @@ Name: MOTHER MYRICK MTN
       </Placemark>
       <Placemark id="BELVIDERE MTN">
         <name>BELVIDERE MTN</name>
-        <description>Latitude: 44.77305556
-Longitude: -72.55138889
+        <description>State: VT
 Elevation: 3356
-State: VT
+Latitude: 44.77305556
 Name: BELVIDERE MTN
+Longitude: -72.55138889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -633,11 +633,11 @@ Name: BELVIDERE MTN
       </Placemark>
       <Placemark id="LUDLOW MTN (OKEMO MTN)">
         <name>LUDLOW MTN (OKEMO MTN)</name>
-        <description>Latitude: 43.40388889
-Longitude: -72.75194444
+        <description>State: VT
 Elevation: 3343
-State: VT
+Latitude: 43.40388889
 Name: LUDLOW MTN (OKEMO MTN)
+Longitude: -72.75194444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -646,11 +646,11 @@ Name: LUDLOW MTN (OKEMO MTN)
       </Placemark>
       <Placemark id="ROUND MTN">
         <name>ROUND MTN</name>
-        <description>Latitude: 43.81555556
-Longitude: -72.885
+        <description>State: VT
 Elevation: 3342
-State: VT
+Latitude: 43.81555556
 Name: ROUND MTN
+Longitude: -72.885
 </description>
         <visibility>1</visibility>
         <Point>
@@ -659,11 +659,11 @@ Name: ROUND MTN
       </Placemark>
       <Placemark id="COLD HOLLOW MTNS">
         <name>COLD HOLLOW MTNS</name>
-        <description>Latitude: 44.7875
-Longitude: -72.68944444
+        <description>State: VT
 Elevation: 3337
-State: VT
+Latitude: 44.7875
 Name: COLD HOLLOW MTNS
+Longitude: -72.68944444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -672,11 +672,11 @@ Name: COLD HOLLOW MTNS
       </Placemark>
       <Placemark id="GORE MTN">
         <name>GORE MTN</name>
-        <description>Latitude: 44.91972222
-Longitude: -71.79416667
+        <description>State: VT
 Elevation: 3332
-State: VT
+Latitude: 44.91972222
 Name: GORE MTN
+Longitude: -71.79416667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -685,11 +685,11 @@ Name: GORE MTN
       </Placemark>
       <Placemark id="GLASTENBURY MTN (S PK)">
         <name>GLASTENBURY MTN (S PK)</name>
-        <description>Latitude: 42.93833333
-Longitude: -73.05805556
+        <description>State: VT
 Elevation: 3331
-State: VT
+Latitude: 42.93833333
 Name: GLASTENBURY MTN (S PK)
+Longitude: -73.05805556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -698,11 +698,11 @@ Name: GLASTENBURY MTN (S PK)
       </Placemark>
       <Placemark id="SPRUCE PK">
         <name>SPRUCE PK</name>
-        <description>Latitude: 44.55083333
-Longitude: -72.78361111
+        <description>State: VT
 Elevation: 3330
-State: VT
+Latitude: 44.55083333
 Name: SPRUCE PK
+Longitude: -72.78361111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -711,11 +711,11 @@ Name: SPRUCE PK
       </Placemark>
       <Placemark id="BOYCE MTN">
         <name>BOYCE MTN</name>
-        <description>Latitude: 43.97361111
-Longitude: -72.94111111
+        <description>State: VT
 Elevation: 3323
-State: VT
+Latitude: 43.97361111
 Name: BOYCE MTN
+Longitude: -72.94111111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -724,11 +724,11 @@ Name: BOYCE MTN
       </Placemark>
       <Placemark id="BALD MTN">
         <name>BALD MTN</name>
-        <description>Latitude: 44.76611111
-Longitude: -71.98888889
+        <description>State: VT
 Elevation: 3310
-State: VT
+Latitude: 44.76611111
 Name: BALD MTN
+Longitude: -71.98888889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -737,11 +737,11 @@ Name: BALD MTN
       </Placemark>
       <Placemark id="BEAR MTN">
         <name>BEAR MTN</name>
-        <description>Latitude: 43.20083333
-Longitude: -73.16722222
+        <description>State: VT
 Elevation: 3301
-State: VT
+Latitude: 43.20083333
 Name: BEAR MTN
+Longitude: -73.16722222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -750,11 +750,11 @@ Name: BEAR MTN
       </Placemark>
       <Placemark id="MT WORCESTER">
         <name>MT WORCESTER</name>
-        <description>Latitude: 44.44333333
-Longitude: -72.59222222
+        <description>State: VT
 Elevation: 3293
-State: VT
+Latitude: 44.44333333
 Name: MT WORCESTER
+Longitude: -72.59222222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -763,11 +763,11 @@ Name: MT WORCESTER
       </Placemark>
       <Placemark id="GOSHEN MTN">
         <name>GOSHEN MTN</name>
-        <description>Latitude: 43.82944444
-Longitude: -72.97138889
+        <description>State: VT
 Elevation: 3292
-State: VT
+Latitude: 43.82944444
 Name: GOSHEN MTN
+Longitude: -72.97138889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -776,11 +776,11 @@ Name: GOSHEN MTN
       </Placemark>
       <Placemark id="SALT ASH MTN">
         <name>SALT ASH MTN</name>
-        <description>Latitude: 43.5025
-Longitude: -72.77444444
+        <description>State: VT
 Elevation: 3286
-State: VT
+Latitude: 43.5025
 Name: SALT ASH MTN
+Longitude: -72.77444444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -789,11 +789,11 @@ Name: SALT ASH MTN
       </Placemark>
       <Placemark id="BROMLEY">
         <name>BROMLEY</name>
-        <description>Latitude: 43.22777778
-Longitude: -72.94027778
+        <description>State: VT
 Elevation: 3281
-State: VT
+Latitude: 43.22777778
 Name: BROMLEY
+Longitude: -72.94027778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -802,11 +802,11 @@ Name: BROMLEY
       </Placemark>
       <Placemark id="BLUE RIDGE MTN (S PK)">
         <name>BLUE RIDGE MTN (S PK)</name>
-        <description>Latitude: 43.67805556
-Longitude: -72.90222222
+        <description>State: VT
 Elevation: 3278
-State: VT
+Latitude: 43.67805556
 Name: BLUE RIDGE MTN (S PK)
+Longitude: -72.90222222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -815,11 +815,11 @@ Name: BLUE RIDGE MTN (S PK)
       </Placemark>
       <Placemark id="BURKE MTN">
         <name>BURKE MTN</name>
-        <description>Latitude: 44.57055556
-Longitude: -71.89333333
+        <description>State: VT
 Elevation: 3270
-State: VT
+Latitude: 44.57055556
 Name: BURKE MTN
+Longitude: -71.89333333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -828,50 +828,50 @@ Name: BURKE MTN
       </Placemark>
       <Placemark id="WORTH MTN">
         <name>WORTH MTN</name>
-        <description>Latitude: 43.91
-Longitude: -72.96416667
+        <description>State: VT
 Elevation: 3234
-State: VT
+Latitude: 43.91
 Name: WORTH MTN
+Longitude: -72.96416667
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.964167,43.910000</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="GREEN PK (MT AEOLUS)">
-        <name>GREEN PK (MT AEOLUS)</name>
-        <description>Latitude: 43.24055556
-Longitude: -73.03888889
-Elevation: 3230
-State: VT
-Name: GREEN PK (MT AEOLUS)
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.038889,43.240556</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="ROUND MTN (E PK)">
         <name>ROUND MTN (E PK)</name>
-        <description>Latitude: 43.80611111
-Longitude: -72.8525
+        <description>State: VT
 Elevation: 3230
-State: VT
+Latitude: 43.80611111
 Name: ROUND MTN (E PK)
+Longitude: -72.8525
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.852500,43.806111</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="GREEN PK (MT AEOLUS)">
+        <name>GREEN PK (MT AEOLUS)</name>
+        <description>State: VT
+Elevation: 3230
+Latitude: 43.24055556
+Name: GREEN PK (MT AEOLUS)
+Longitude: -73.03888889
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.038889,43.240556</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="MONASTERY MTN (W PK)">
         <name>MONASTERY MTN (W PK)</name>
-        <description>Latitude: 43.90694444
-Longitude: -72.93861111
+        <description>State: VT
 Elevation: 3224
-State: VT
+Latitude: 43.90694444
 Name: MONASTERY MTN (W PK)
+Longitude: -72.93861111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -880,11 +880,11 @@ Name: MONASTERY MTN (W PK)
       </Placemark>
       <Placemark id="ADAMS MTN">
         <name>ADAMS MTN</name>
-        <description>Latitude: 44.04361111
-Longitude: -72.80916667
+        <description>State: VT
 Elevation: 3214
-State: VT
+Latitude: 44.04361111
 Name: ADAMS MTN
+Longitude: -72.80916667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -893,11 +893,11 @@ Name: ADAMS MTN
       </Placemark>
       <Placemark id="SMITH PK">
         <name>SMITH PK</name>
-        <description>Latitude: 43.57611111
-Longitude: -72.78416667
+        <description>State: VT
 Elevation: 3210
-State: VT
+Latitude: 43.57611111
 Name: SMITH PK
+Longitude: -72.78416667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -906,11 +906,11 @@ Name: SMITH PK
       </Placemark>
       <Placemark id="PHILADELPHIA PK">
         <name>PHILADELPHIA PK</name>
-        <description>Latitude: 43.9
-Longitude: -72.88666667
+        <description>State: VT
 Elevation: 3203
-State: VT
+Latitude: 43.9
 Name: PHILADELPHIA PK
+Longitude: -72.88666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -919,11 +919,11 @@ Name: PHILADELPHIA PK
       </Placemark>
       <Placemark id="HAYSTACK MTN">
         <name>HAYSTACK MTN</name>
-        <description>Latitude: 44.82333333
-Longitude: -72.53861111
+        <description>State: VT
 Elevation: 3196
-State: VT
+Latitude: 44.82333333
 Name: HAYSTACK MTN
+Longitude: -72.53861111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -932,11 +932,11 @@ Name: HAYSTACK MTN
       </Placemark>
       <Placemark id="LUDLOW MTN, S MTN">
         <name>LUDLOW MTN, S MTN</name>
-        <description>Latitude: 43.37722222
-Longitude: -72.76444444
+        <description>State: VT
 Elevation: 3179
-State: VT
+Latitude: 43.37722222
 Name: LUDLOW MTN, S MTN
+Longitude: -72.76444444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -945,11 +945,11 @@ Name: LUDLOW MTN, S MTN
       </Placemark>
       <Placemark id="SENECA MTN (S PK)">
         <name>SENECA MTN (S PK)</name>
-        <description>Latitude: 44.695
-Longitude: -71.80416667
+        <description>State: VT
 Elevation: 3174
-State: VT
+Latitude: 44.695
 Name: SENECA MTN (S PK)
+Longitude: -71.80416667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -958,24 +958,50 @@ Name: SENECA MTN (S PK)
       </Placemark>
       <Placemark id="STERLING RANGE (N PK)">
         <name>STERLING RANGE (N PK)</name>
-        <description>Latitude: 44.61416667
-Longitude: -72.76472222
+        <description>State: VT
 Elevation: 3172
-State: VT
+Latitude: 44.61416667
 Name: STERLING RANGE (N PK)
+Longitude: -72.76472222
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.764722,44.614167</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="SENECA MTN (E PK)">
+        <name>SENECA MTN (E PK)</name>
+        <description>State: VT
+Elevation: 3170
+Latitude: 44.6975
+Name: SENECA MTN (E PK)
+Longitude: -71.77472222
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.774722,44.697500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT ETHAN ALLEN (E PK)">
+        <name>MT ETHAN ALLEN (E PK)</name>
+        <description>State: VT
+Elevation: 3170
+Latitude: 44.28444444
+Name: MT ETHAN ALLEN (E PK)
+Longitude: -72.86472222
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.864722,44.284444</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="MONASTERY MTN (E PK)">
         <name>MONASTERY MTN (E PK)</name>
-        <description>Latitude: 43.90333333
-Longitude: -72.91472222
+        <description>State: VT
 Elevation: 3170
-State: VT
+Latitude: 43.90333333
 Name: MONASTERY MTN (E PK)
+Longitude: -72.91472222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -984,50 +1010,24 @@ Name: MONASTERY MTN (E PK)
       </Placemark>
       <Placemark id="BURNT ROCK MTN">
         <name>BURNT ROCK MTN</name>
-        <description>Latitude: 44.2675
-Longitude: -72.89611111
+        <description>State: VT
 Elevation: 3170
-State: VT
+Latitude: 44.2675
 Name: BURNT ROCK MTN
+Longitude: -72.89611111
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.896111,44.267500</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT ETHAN ALLEN (E PK)">
-        <name>MT ETHAN ALLEN (E PK)</name>
-        <description>Latitude: 44.28444444
-Longitude: -72.86472222
-Elevation: 3170
-State: VT
-Name: MT ETHAN ALLEN (E PK)
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.864722,44.284444</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="SENECA MTN (E PK)">
-        <name>SENECA MTN (E PK)</name>
-        <description>Latitude: 44.6975
-Longitude: -71.77472222
-Elevation: 3170
-State: VT
-Name: SENECA MTN (E PK)
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.774722,44.697500</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="BUTTERFIELD MTN">
         <name>BUTTERFIELD MTN</name>
-        <description>Latitude: 44.18333333
-Longitude: -72.33972222
+        <description>State: VT
 Elevation: 3167
-State: VT
+Latitude: 44.18333333
 Name: BUTTERFIELD MTN
+Longitude: -72.33972222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1036,11 +1036,11 @@ Name: BUTTERFIELD MTN
       </Placemark>
       <Placemark id="KIRBY PK">
         <name>KIRBY PK</name>
-        <description>Latitude: 43.96277778
-Longitude: -72.94555556
+        <description>State: VT
 Elevation: 3150
-State: VT
+Latitude: 43.96277778
 Name: KIRBY PK
+Longitude: -72.94555556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1049,11 +1049,11 @@ Name: KIRBY PK
       </Placemark>
       <Placemark id="MONADNOCK MTN">
         <name>MONADNOCK MTN</name>
-        <description>Latitude: 44.8975
-Longitude: -71.54527778
+        <description>State: VT
 Elevation: 3148
-State: VT
+Latitude: 44.8975
 Name: MONADNOCK MTN
+Longitude: -71.54527778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1062,11 +1062,11 @@ Name: MONADNOCK MTN
       </Placemark>
       <Placemark id="MT MAYO">
         <name>MT MAYO</name>
-        <description>Latitude: 44.46222222
-Longitude: -72.83888889
+        <description>State: VT
 Elevation: 3143
-State: VT
+Latitude: 44.46222222
 Name: MT MAYO
+Longitude: -72.83888889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1075,11 +1075,11 @@ Name: MT MAYO
       </Placemark>
       <Placemark id="CORPORATION MTN">
         <name>CORPORATION MTN</name>
-        <description>Latitude: 43.82916667
-Longitude: -72.87944444
+        <description>State: VT
 Elevation: 3142
-State: VT
+Latitude: 43.82916667
 Name: CORPORATION MTN
+Longitude: -72.87944444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1088,50 +1088,50 @@ Name: CORPORATION MTN
       </Placemark>
       <Placemark id="MT ASCUTNEY">
         <name>MT ASCUTNEY</name>
-        <description>Latitude: 43.44361111
-Longitude: -72.455
+        <description>State: VT
 Elevation: 3140
-State: VT
+Latitude: 43.44361111
 Name: MT ASCUTNEY
+Longitude: -72.455
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.455000,43.443611</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="GLASTENBURY MTN (NE PK)">
-        <name>GLASTENBURY MTN (NE PK)</name>
-        <description>Latitude: 43.05
-Longitude: -73.0075
-Elevation: 3130
-State: VT
-Name: GLASTENBURY MTN (NE PK)
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.007500,43.050000</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="NORTHFIELD MTNS (S PK)">
         <name>NORTHFIELD MTNS (S PK)</name>
-        <description>Latitude: 44.01833333
-Longitude: -72.80972222
+        <description>State: VT
 Elevation: 3130
-State: VT
+Latitude: 44.01833333
 Name: NORTHFIELD MTNS (S PK)
+Longitude: -72.80972222
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.809722,44.018333</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="GLASTENBURY MTN (NE PK)">
+        <name>GLASTENBURY MTN (NE PK)</name>
+        <description>State: VT
+Elevation: 3130
+Latitude: 43.05
+Name: GLASTENBURY MTN (NE PK)
+Longitude: -73.0075
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.007500,43.050000</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="UNNAMED PK (READSBORO)">
         <name>UNNAMED PK (READSBORO)</name>
-        <description>Latitude: 42.84888889
-Longitude: -72.97
+        <description>State: VT
 Elevation: 3120
-State: VT
+Latitude: 42.84888889
 Name: UNNAMED PK (READSBORO)
+Longitude: -72.97
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1140,11 +1140,11 @@ Name: UNNAMED PK (READSBORO)
       </Placemark>
       <Placemark id="WOODWARD MTN">
         <name>WOODWARD MTN</name>
-        <description>Latitude: 44.40666667
-Longitude: -72.83305556
+        <description>State: VT
 Elevation: 3110
-State: VT
+Latitude: 44.40666667
 Name: WOODWARD MTN
+Longitude: -72.83305556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1153,11 +1153,11 @@ Name: WOODWARD MTN
       </Placemark>
       <Placemark id="WOODLAWN MTN">
         <name>WOODLAWN MTN</name>
-        <description>Latitude: 43.3375
-Longitude: -73.09833333
+        <description>State: VT
 Elevation: 3110
-State: VT
+Latitude: 43.3375
 Name: WOODLAWN MTN
+Longitude: -73.09833333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1166,11 +1166,11 @@ Name: WOODLAWN MTN
       </Placemark>
       <Placemark id="GRASS MTN">
         <name>GRASS MTN</name>
-        <description>Latitude: 43.05277778
-Longitude: -73.22416667
+        <description>State: VT
 Elevation: 3109
-State: VT
+Latitude: 43.05277778
 Name: GRASS MTN
+Longitude: -73.22416667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1179,11 +1179,11 @@ Name: GRASS MTN
       </Placemark>
       <Placemark id="HOUGHTON MTN">
         <name>HOUGHTON MTN</name>
-        <description>Latitude: 42.81888889
-Longitude: -73.08555556
+        <description>State: VT
 Elevation: 3095
-State: VT
+Latitude: 42.81888889
 Name: HOUGHTON MTN
+Longitude: -73.08555556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1192,11 +1192,11 @@ Name: HOUGHTON MTN
       </Placemark>
       <Placemark id="UNNAMED PK (BRANCH POND)">
         <name>UNNAMED PK (BRANCH POND)</name>
-        <description>Latitude: 43.06638889
-Longitude: -73.01694444
+        <description>State: VT
 Elevation: 3090
-State: VT
+Latitude: 43.06638889
 Name: UNNAMED PK (BRANCH POND)
+Longitude: -73.01694444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1205,11 +1205,11 @@ Name: UNNAMED PK (BRANCH POND)
       </Placemark>
       <Placemark id="KNOX MTN (M PK)">
         <name>KNOX MTN (M PK)</name>
-        <description>Latitude: 44.16527778
-Longitude: -72.35666667
+        <description>State: VT
 Elevation: 3086
-State: VT
+Latitude: 44.16527778
 Name: KNOX MTN (M PK)
+Longitude: -72.35666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1218,11 +1218,11 @@ Name: KNOX MTN (M PK)
       </Placemark>
       <Placemark id="EAST HAVEN MTN">
         <name>EAST HAVEN MTN</name>
-        <description>Latitude: 44.62138889
-Longitude: -71.83333333
+        <description>State: VT
 Elevation: 3070
-State: VT
+Latitude: 44.62138889
 Name: EAST HAVEN MTN
+Longitude: -71.83333333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1231,11 +1231,11 @@ Name: EAST HAVEN MTN
       </Placemark>
       <Placemark id="RICE MTN">
         <name>RICE MTN</name>
-        <description>Latitude: 44.05638889
-Longitude: -72.80166667
+        <description>State: VT
 Elevation: 3066
-State: VT
+Latitude: 44.05638889
 Name: RICE MTN
+Longitude: -72.80166667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1244,11 +1244,11 @@ Name: RICE MTN
       </Placemark>
       <Placemark id="UNNAMED PK (MOSS GLEN FALLS)">
         <name>UNNAMED PK (MOSS GLEN FALLS)</name>
-        <description>Latitude: 44.03194444
-Longitude: -72.88555556
+        <description>State: VT
 Elevation: 3062
-State: VT
+Latitude: 44.03194444
 Name: UNNAMED PK (MOSS GLEN FALLS)
+Longitude: -72.88555556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1257,11 +1257,11 @@ Name: UNNAMED PK (MOSS GLEN FALLS)
       </Placemark>
       <Placemark id="MT TABOR">
         <name>MT TABOR</name>
-        <description>Latitude: 43.28194444
-Longitude: -72.96694444
+        <description>State: VT
 Elevation: 3061
-State: VT
+Latitude: 43.28194444
 Name: MT TABOR
+Longitude: -72.96694444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1270,11 +1270,11 @@ Name: MT TABOR
       </Placemark>
       <Placemark id="UMPIRE MTN">
         <name>UMPIRE MTN</name>
-        <description>Latitude: 44.56972222
-Longitude: -71.9575
+        <description>State: VT
 Elevation: 3051
-State: VT
+Latitude: 44.56972222
 Name: UMPIRE MTN
+Longitude: -71.9575
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1283,11 +1283,11 @@ Name: UMPIRE MTN
       </Placemark>
       <Placemark id="BLUE RIDGE MTN (N PK)">
         <name>BLUE RIDGE MTN (N PK)</name>
-        <description>Latitude: 43.69194444
-Longitude: -72.91277778
+        <description>State: VT
 Elevation: 3050
-State: VT
+Latitude: 43.69194444
 Name: BLUE RIDGE MTN (N PK)
+Longitude: -72.91277778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1296,11 +1296,11 @@ Name: BLUE RIDGE MTN (N PK)
       </Placemark>
       <Placemark id="BALD HILL">
         <name>BALD HILL</name>
-        <description>Latitude: 44.31916667
-Longitude: -72.90777778
+        <description>State: VT
 Elevation: 3050
-State: VT
+Latitude: 44.31916667
 Name: BALD HILL
+Longitude: -72.90777778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1309,11 +1309,11 @@ Name: BALD HILL
       </Placemark>
       <Placemark id="SENECA MTN (N PK)">
         <name>SENECA MTN (N PK)</name>
-        <description>Latitude: 44.71277778
-Longitude: -71.80166667
+        <description>State: VT
 Elevation: 3049
-State: VT
+Latitude: 44.71277778
 Name: SENECA MTN (N PK)
+Longitude: -71.80166667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1322,50 +1322,50 @@ Name: SENECA MTN (N PK)
       </Placemark>
       <Placemark id="SPRUCE PK">
         <name>SPRUCE PK</name>
-        <description>Latitude: 43.04444444
-Longitude: -73.21027778
+        <description>State: VT
 Elevation: 3033
-State: VT
+Latitude: 43.04444444
 Name: SPRUCE PK
+Longitude: -73.21027778
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.210278,43.044444</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BRAINTREE MTN (N PK)">
-        <name>BRAINTREE MTN (N PK)</name>
-        <description>Latitude: 43.95305556
-Longitude: -72.78583333
-Elevation: 3030
-State: VT
-Name: BRAINTREE MTN (N PK)
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.785833,43.953056</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="SPRUCE MTN">
         <name>SPRUCE MTN</name>
-        <description>Latitude: 44.23444444
-Longitude: -72.35555556
+        <description>State: VT
 Elevation: 3030
-State: VT
+Latitude: 44.23444444
 Name: SPRUCE MTN
+Longitude: -72.35555556
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.355556,44.234444</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="BRAINTREE MTN (N PK)">
+        <name>BRAINTREE MTN (N PK)</name>
+        <description>State: VT
+Elevation: 3030
+Latitude: 43.95305556
+Name: BRAINTREE MTN (N PK)
+Longitude: -72.78583333
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.785833,43.953056</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="UNNAMED PK (STAMFORD)">
         <name>UNNAMED PK (STAMFORD)</name>
-        <description>Latitude: 42.78666667
-Longitude: -73.1225
+        <description>State: VT
 Elevation: 3025
-State: VT
+Latitude: 42.78666667
 Name: UNNAMED PK (STAMFORD)
+Longitude: -73.1225
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1374,50 +1374,50 @@ Name: UNNAMED PK (STAMFORD)
       </Placemark>
       <Placemark id="UNNAMED PK (TELEPHONE GAP)">
         <name>UNNAMED PK (TELEPHONE GAP)</name>
-        <description>Latitude: 43.75111111
-Longitude: -72.88833333
+        <description>State: VT
 Elevation: 3022
-State: VT
+Latitude: 43.75111111
 Name: UNNAMED PK (TELEPHONE GAP)
+Longitude: -72.88833333
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.888333,43.751111</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="GILPIN MTN">
-        <name>GILPIN MTN</name>
-        <description>Latitude: 44.90861111
-Longitude: -72.49527778
-Elevation: 3015
-State: VT
-Name: GILPIN MTN
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.495278,44.908611</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="NORTH JAY PK (SW PK)">
         <name>NORTH JAY PK (SW PK)</name>
-        <description>Latitude: 44.94083333
-Longitude: -72.57666667
+        <description>State: VT
 Elevation: 3015
-State: VT
+Latitude: 44.94083333
 Name: NORTH JAY PK (SW PK)
+Longitude: -72.57666667
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.576667,44.940833</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="GILPIN MTN">
+        <name>GILPIN MTN</name>
+        <description>State: VT
+Elevation: 3015
+Latitude: 44.90861111
+Name: GILPIN MTN
+Longitude: -72.49527778
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.495278,44.908611</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="HOOSAC RANGE">
         <name>HOOSAC RANGE</name>
-        <description>Latitude: 42.75777778
-Longitude: -73.02666667
+        <description>State: VT
 Elevation: 3010
-State: VT
+Latitude: 42.75777778
 Name: HOOSAC RANGE
+Longitude: -73.02666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1426,11 +1426,11 @@ Name: HOOSAC RANGE
       </Placemark>
       <Placemark id="TILLOTSON PK">
         <name>TILLOTSON PK</name>
-        <description>Latitude: 44.80666667
-Longitude: -72.55361111
+        <description>State: VT
 Elevation: 3002
-State: VT
+Latitude: 44.80666667
 Name: TILLOTSON PK
+Longitude: -72.55361111
 </description>
         <visibility>1</visibility>
         <Point>

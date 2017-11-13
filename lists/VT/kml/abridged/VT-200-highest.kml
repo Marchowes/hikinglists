@@ -10,8 +10,8 @@
       <Placemark id="BEAR">
         <name>BEAR</name>
         <description>Latitude: 43.8703
-Longitude: -72.9556
 Name: BEAR
+Longitude: -72.9556
 State: VT
 Elevation: 2996
 </description>
@@ -23,8 +23,8 @@ Elevation: 2996
       <Placemark id="UNNAMED (READSBORO)">
         <name>UNNAMED (READSBORO)</name>
         <description>Latitude: 42.82437
-Longitude: -72.94407
 Name: UNNAMED (READSBORO)
+Longitude: -72.94407
 State: VT
 Elevation: 2995
 </description>
@@ -36,8 +36,8 @@ Elevation: 2995
       <Placemark id="E KNOX">
         <name>E KNOX</name>
         <description>Latitude: 44.1683
-Longitude: -72.34001
 Name: E KNOX
+Longitude: -72.34001
 State: VT
 Elevation: 2990
 </description>
@@ -46,50 +46,11 @@ Elevation: 2990
           <coordinates>-72.340010,44.168300</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="CLARK">
-        <name>CLARK</name>
-        <description>Latitude: 44.47889
-Longitude: -72.8414
-Name: CLARK
-State: VT
-Elevation: 2970
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.841400,44.478890</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="MEACHAM SWAMP PEAK">
-        <name>MEACHAM SWAMP PEAK</name>
-        <description>Latitude: 44.9023
-Longitude: -71.6318
-Name: MEACHAM SWAMP PEAK
-State: VT
-Elevation: 2970
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.631800,44.902300</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="S DORSET">
-        <name>S DORSET</name>
-        <description>Latitude: 43.28539
-Longitude: -73.06724
-Name: S DORSET
-State: VT
-Elevation: 2970
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.067240,43.285390</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="UNNAMED (STAMFORD POND PEAK)">
         <name>UNNAMED (STAMFORD POND PEAK)</name>
         <description>Latitude: 42.81672
-Longitude: -73.05897
 Name: UNNAMED (STAMFORD POND PEAK)
+Longitude: -73.05897
 State: VT
 Elevation: 2970
 </description>
@@ -98,11 +59,50 @@ Elevation: 2970
           <coordinates>-73.058970,42.816720</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="S DORSET">
+        <name>S DORSET</name>
+        <description>Latitude: 43.28539
+Name: S DORSET
+Longitude: -73.06724
+State: VT
+Elevation: 2970
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.067240,43.285390</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MEACHAM SWAMP PEAK">
+        <name>MEACHAM SWAMP PEAK</name>
+        <description>Latitude: 44.9023
+Name: MEACHAM SWAMP PEAK
+Longitude: -71.6318
+State: VT
+Elevation: 2970
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.631800,44.902300</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CLARK">
+        <name>CLARK</name>
+        <description>Latitude: 44.47889
+Name: CLARK
+Longitude: -72.8414
+State: VT
+Elevation: 2970
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.841400,44.478890</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="MOLLY STARK">
         <name>MOLLY STARK</name>
         <description>Latitude: 44.22194
-Longitude: -72.92665
 Name: MOLLY STARK
+Longitude: -72.92665
 State: VT
 Elevation: 2967
 </description>
@@ -114,8 +114,8 @@ Elevation: 2967
       <Placemark id="PETE PARENT">
         <name>PETE PARENT</name>
         <description>Latitude: 43.32194
-Longitude: -72.90473
 Name: PETE PARENT
+Longitude: -72.90473
 State: VT
 Elevation: 2963
 </description>
@@ -127,8 +127,8 @@ Elevation: 2963
       <Placemark id="N RICE">
         <name>N RICE</name>
         <description>Latitude: 42.98722
-Longitude: -72.83612
 Name: N RICE
+Longitude: -72.83612
 State: VT
 Elevation: 2963
 </description>
@@ -140,8 +140,8 @@ Elevation: 2963
       <Placemark id="GILLESPIE">
         <name>GILLESPIE</name>
         <description>Latitude: 43.95611
-Longitude: -72.87612
 Name: GILLESPIE
+Longitude: -72.87612
 State: VT
 Elevation: 2956
 </description>
@@ -153,8 +153,8 @@ Elevation: 2956
       <Placemark id="UNNAMED (BLUE BROOK)">
         <name>UNNAMED (BLUE BROOK)</name>
         <description>Latitude: 42.99416
-Longitude: -72.87334
 Name: UNNAMED (BLUE BROOK)
+Longitude: -72.87334
 State: VT
 Elevation: 2954
 </description>
@@ -166,8 +166,8 @@ Elevation: 2954
       <Placemark id="ROCHESTER">
         <name>ROCHESTER</name>
         <description>Latitude: 43.86694
-Longitude: -72.74834
 Name: ROCHESTER
+Longitude: -72.74834
 State: VT
 Elevation: 2953
 </description>
@@ -179,8 +179,8 @@ Elevation: 2953
       <Placemark id="RICE HILL">
         <name>RICE HILL</name>
         <description>Latitude: 42.97833
-Longitude: -72.8275
 Name: RICE HILL
+Longitude: -72.8275
 State: VT
 Elevation: 2950
 </description>
@@ -192,8 +192,8 @@ Elevation: 2950
       <Placemark id="MIDDLE">
         <name>MIDDLE</name>
         <description>Latitude: 44.91722
-Longitude: -71.83168
 Name: MIDDLE
+Longitude: -71.83168
 State: VT
 Elevation: 2947
 </description>
@@ -205,8 +205,8 @@ Elevation: 2947
       <Placemark id="GLEBE">
         <name>GLEBE</name>
         <description>Latitude: 43.18888
-Longitude: -72.76084
 Name: GLEBE
+Longitude: -72.76084
 State: VT
 Elevation: 2943
 </description>
@@ -218,8 +218,8 @@ Elevation: 2943
       <Placemark id="LYE BROOK MEADOWS PEAK">
         <name>LYE BROOK MEADOWS PEAK</name>
         <description>Latitude: 43.08084
-Longitude: -73.04601
 Name: LYE BROOK MEADOWS PEAK
+Longitude: -73.04601
 State: VT
 Elevation: 2941
 </description>
@@ -231,8 +231,8 @@ Elevation: 2941
       <Placemark id="BUCHANAN">
         <name>BUCHANAN</name>
         <description>Latitude: 44.87861
-Longitude: -72.50917
 Name: BUCHANAN
+Longitude: -72.50917
 State: VT
 Elevation: 2940
 </description>
@@ -244,8 +244,8 @@ Elevation: 2940
       <Placemark id="STRATTON POND PEAK">
         <name>STRATTON POND PEAK</name>
         <description>Latitude: 43.11416
-Longitude: -72.96972
 Name: STRATTON POND PEAK
+Longitude: -72.96972
 State: VT
 Elevation: 2938
 </description>
@@ -257,8 +257,8 @@ Elevation: 2938
       <Placemark id="ROUND">
         <name>ROUND</name>
         <description>Latitude: 44.93305
-Longitude: -71.7875
 Name: ROUND
+Longitude: -71.7875
 State: VT
 Elevation: 2932
 </description>
@@ -270,8 +270,8 @@ Elevation: 2932
       <Placemark id="N SNOW">
         <name>N SNOW</name>
         <description>Latitude: 42.9894444
-Longitude: -72.9097222
 Name: N SNOW
+Longitude: -72.9097222
 State: VT
 Elevation: 2929
 </description>
@@ -283,8 +283,8 @@ Elevation: 2929
       <Placemark id="W WINDFARM">
         <name>W WINDFARM</name>
         <description>Latitude: 42.8719444
-Longitude: -72.9844444
 Name: W WINDFARM
+Longitude: -72.9844444
 State: VT
 Elevation: 2923
 </description>
@@ -296,8 +296,8 @@ Elevation: 2923
       <Placemark id="DOMEYS DOME">
         <name>DOMEYS DOME</name>
         <description>Latitude: 44.8913889
-Longitude: -72.4997222
 Name: DOMEYS DOME
+Longitude: -72.4997222
 State: VT
 Elevation: 2923
 </description>
@@ -309,8 +309,8 @@ Elevation: 2923
       <Placemark id="SCRUB HILL">
         <name>SCRUB HILL</name>
         <description>Latitude: 42.8052778
-Longitude: -73.1077778
 Name: SCRUB HILL
+Longitude: -73.1077778
 State: VT
 Elevation: 2916
 </description>
@@ -322,8 +322,8 @@ Elevation: 2916
       <Placemark id="SCRAG">
         <name>SCRAG</name>
         <description>Latitude: 44.1561111
-Longitude: -72.7727778
 Name: SCRAG
+Longitude: -72.7727778
 State: VT
 Elevation: 2911
 </description>
@@ -335,8 +335,8 @@ Elevation: 2911
       <Placemark id="BONE">
         <name>BONE</name>
         <description>Latitude: 44.4025
-Longitude: -72.8444444
 Name: BONE
+Longitude: -72.8444444
 State: VT
 Elevation: 2910
 </description>
@@ -348,8 +348,8 @@ Elevation: 2910
       <Placemark id="NS BRAINTREE">
         <name>NS BRAINTREE</name>
         <description>Latitude: 43.9341
-Longitude: -72.7764
 Name: NS BRAINTREE
+Longitude: -72.7764
 State: VT
 Elevation: 2895
 </description>
@@ -361,8 +361,8 @@ Elevation: 2895
       <Placemark id="GOODWIN">
         <name>GOODWIN</name>
         <description>Latitude: 44.7741667
-Longitude: -72.0069444
 Name: GOODWIN
+Longitude: -72.0069444
 State: VT
 Elevation: 2890
 </description>
@@ -374,8 +374,8 @@ Elevation: 2890
       <Placemark id="DOWNER GLEN PEAK">
         <name>DOWNER GLEN PEAK</name>
         <description>Latitude: 43.1377778
-Longitude: -73.0136111
 Name: DOWNER GLEN PEAK
+Longitude: -73.0136111
 State: VT
 Elevation: 2886
 </description>
@@ -387,8 +387,8 @@ Elevation: 2886
       <Placemark id="NE DEVILS DEN PEAK">
         <name>NE DEVILS DEN PEAK</name>
         <description>Latitude: 43.3597222
-Longitude: -72.8725
 Name: NE DEVILS DEN PEAK
+Longitude: -72.8725
 State: VT
 Elevation: 2884
 </description>
@@ -400,8 +400,8 @@ Elevation: 2884
       <Placemark id="DARNING NEEDLE">
         <name>DARNING NEEDLE</name>
         <description>Latitude: 43.7352
-Longitude: -72.8488
 Name: DARNING NEEDLE
+Longitude: -72.8488
 State: VT
 Elevation: 2883
 </description>
@@ -413,8 +413,8 @@ Elevation: 2883
       <Placemark id="TERRIBLE">
         <name>TERRIBLE</name>
         <description>Latitude: 43.3135
-Longitude: -72.7436
 Name: TERRIBLE
+Longitude: -72.7436
 State: VT
 Elevation: 2882
 </description>
@@ -426,8 +426,8 @@ Elevation: 2882
       <Placemark id="S TILLOTSON">
         <name>S TILLOTSON</name>
         <description>Latitude: 44.7957
-Longitude: -72.5597
 Name: S TILLOTSON
+Longitude: -72.5597
 State: VT
 Elevation: 2881
 </description>
@@ -439,8 +439,8 @@ Elevation: 2881
       <Placemark id="NETOP">
         <name>NETOP</name>
         <description>Latitude: 43.2769
-Longitude: -73.0298
 Name: NETOP
+Longitude: -73.0298
 State: VT
 Elevation: 2878
 </description>
@@ -449,24 +449,11 @@ Elevation: 2878
           <coordinates>-73.029800,43.276900</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BUCKBALL PEAK">
-        <name>BUCKBALL PEAK</name>
-        <description>Latitude: 43.3428
-Longitude: -72.9427
-Name: BUCKBALL PEAK
-State: VT
-Elevation: 2864
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.942700,43.342800</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="N BAKER">
         <name>N BAKER</name>
         <description>Latitude: 43.32889
-Longitude: -72.9602
 Name: N BAKER
+Longitude: -72.9602
 State: VT
 Elevation: 2864
 </description>
@@ -475,11 +462,24 @@ Elevation: 2864
           <coordinates>-72.960200,43.328890</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="BUCKBALL PEAK">
+        <name>BUCKBALL PEAK</name>
+        <description>Latitude: 43.3428
+Name: BUCKBALL PEAK
+Longitude: -72.9427
+State: VT
+Elevation: 2864
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.942700,43.342800</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="BALD">
         <name>BALD</name>
         <description>Latitude: 42.9221
-Longitude: -73.1439
 Name: BALD
+Longitude: -73.1439
 State: VT
 Elevation: 2857
 </description>
@@ -491,8 +491,8 @@ Elevation: 2857
       <Placemark id="S LINCOLN GAP PEAK">
         <name>S LINCOLN GAP PEAK</name>
         <description>Latitude: 44.08083
-Longitude: -72.928
 Name: S LINCOLN GAP PEAK
+Longitude: -72.928
 State: VT
 Elevation: 2850
 </description>
@@ -504,8 +504,8 @@ Elevation: 2850
       <Placemark id="RED">
         <name>RED</name>
         <description>Latitude: 43.108
-Longitude: -73.168
 Name: RED
+Longitude: -73.168
 State: VT
 Elevation: 2846
 </description>
@@ -517,8 +517,8 @@ Elevation: 2846
       <Placemark id="NN TERRIBLE">
         <name>NN TERRIBLE</name>
         <description>Latitude: 43.3402
-Longitude: -72.7558
 Name: NN TERRIBLE
+Longitude: -72.7558
 State: VT
 Elevation: 2844
 </description>
@@ -530,8 +530,8 @@ Elevation: 2844
       <Placemark id="NW KNOX">
         <name>NW KNOX</name>
         <description>Latitude: 44.1706
-Longitude: -72.3679
 Name: NW KNOX
+Longitude: -72.3679
 State: VT
 Elevation: 2837
 </description>
@@ -543,8 +543,8 @@ Elevation: 2837
       <Placemark id="SE BULL HILL">
         <name>SE BULL HILL</name>
         <description>Latitude: 43.6779
-Longitude: -72.6719
 Name: SE BULL HILL
+Longitude: -72.6719
 State: VT
 Elevation: 2836
 </description>
@@ -556,8 +556,8 @@ Elevation: 2836
       <Placemark id="TINMOUTH">
         <name>TINMOUTH</name>
         <description>Latitude: 43.4194
-Longitude: -73.0761
 Name: TINMOUTH
+Longitude: -73.0761
 State: VT
 Elevation: 2835
 </description>
@@ -569,8 +569,8 @@ Elevation: 2835
       <Placemark id="MT HOLLY PEAK">
         <name>MT HOLLY PEAK</name>
         <description>Latitude: 43.3749
-Longitude: -72.8436
 Name: MT HOLLY PEAK
+Longitude: -72.8436
 State: VT
 Elevation: 2825
 </description>
@@ -582,8 +582,8 @@ Elevation: 2825
       <Placemark id="S ROXBURY GAP PEAK">
         <name>S ROXBURY GAP PEAK</name>
         <description>Latitude: 44.0893
-Longitude: -72.7902
 Name: S ROXBURY GAP PEAK
+Longitude: -72.7902
 State: VT
 Elevation: 2823
 </description>
@@ -595,8 +595,8 @@ Elevation: 2823
       <Placemark id="BLACK">
         <name>BLACK</name>
         <description>Latitude: 44.9271
-Longitude: -71.7475
 Name: BLACK
+Longitude: -71.7475
 State: VT
 Elevation: 2822
 </description>
@@ -608,8 +608,8 @@ Elevation: 2822
       <Placemark id="N BURNT">
         <name>N BURNT</name>
         <description>Latitude: 44.1311
-Longitude: -72.7783
 Name: N BURNT
+Longitude: -72.7783
 State: VT
 Elevation: 2821
 </description>
@@ -621,8 +621,8 @@ Elevation: 2821
       <Placemark id="NE S POND PEAK">
         <name>NE S POND PEAK</name>
         <description>Latitude: 43.7184
-Longitude: -72.8673
 Name: NE S POND PEAK
+Longitude: -72.8673
 State: VT
 Elevation: 2810
 </description>
@@ -634,8 +634,8 @@ Elevation: 2810
       <Placemark id="JOBS">
         <name>JOBS</name>
         <description>Latitude: 44.7613
-Longitude: -71.9636
 Name: JOBS
+Longitude: -71.9636
 State: VT
 Elevation: 2810
 </description>
@@ -644,24 +644,11 @@ Elevation: 2810
           <coordinates>-71.963600,44.761300</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="ELBOW PEAK">
-        <name>ELBOW PEAK</name>
-        <description>Latitude: 43.68222
-Longitude: -72.8577
-Name: ELBOW PEAK
-State: VT
-Elevation: 2808
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.857700,43.682220</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="PEABODY HILL">
         <name>PEABODY HILL</name>
         <description>Latitude: 43.3252
-Longitude: -72.8374
 Name: PEABODY HILL
+Longitude: -72.8374
 State: VT
 Elevation: 2808
 </description>
@@ -670,11 +657,24 @@ Elevation: 2808
           <coordinates>-72.837400,43.325200</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="ELBOW PEAK">
+        <name>ELBOW PEAK</name>
+        <description>Latitude: 43.68222
+Name: ELBOW PEAK
+Longitude: -72.8577
+State: VT
+Elevation: 2808
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.857700,43.682220</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="WOLF HILL">
         <name>WOLF HILL</name>
         <description>Latitude: 43.7094
-Longitude: -72.7874
 Name: WOLF HILL
+Longitude: -72.7874
 State: VT
 Elevation: 2805
 </description>
@@ -686,8 +686,8 @@ Elevation: 2805
       <Placemark id="SPRUCE PEAK">
         <name>SPRUCE PEAK</name>
         <description>Latitude: 43.2397
-Longitude: -73.1411
 Name: SPRUCE PEAK
+Longitude: -73.1411
 State: VT
 Elevation: 2803
 </description>
@@ -699,8 +699,8 @@ Elevation: 2803
       <Placemark id="BURNT">
         <name>BURNT</name>
         <description>Latitude: 43.5416
-Longitude: -72.7722
 Name: BURNT
+Longitude: -72.7722
 State: VT
 Elevation: 2803
 </description>
@@ -712,8 +712,8 @@ Elevation: 2803
       <Placemark id="LARAWAY">
         <name>LARAWAY</name>
         <description>Latitude: 44.7259
-Longitude: -72.7119
 Name: LARAWAY
+Longitude: -72.7119
 State: VT
 Elevation: 2795
 </description>
@@ -725,8 +725,8 @@ Elevation: 2795
       <Placemark id="S NORTHFIELD">
         <name>S NORTHFIELD</name>
         <description>Latitude: 43.9775
-Longitude: -72.8027
 Name: S NORTHFIELD
+Longitude: -72.8027
 State: VT
 Elevation: 2790
 </description>
@@ -738,8 +738,8 @@ Elevation: 2790
       <Placemark id="NW BOLTON">
         <name>NW BOLTON</name>
         <description>Latitude: 44.4561
-Longitude: -72.8585
 Name: NW BOLTON
+Longitude: -72.8585
 State: VT
 Elevation: 2790
 </description>
@@ -751,8 +751,8 @@ Elevation: 2790
       <Placemark id="S BLUFF">
         <name>S BLUFF</name>
         <description>Latitude: 44.858
-Longitude: -71.8625
 Name: S BLUFF
+Longitude: -71.8625
 State: VT
 Elevation: 2789
 </description>
@@ -764,8 +764,8 @@ Elevation: 2789
       <Placemark id="EAST">
         <name>EAST</name>
         <description>Latitude: 43.6526
-Longitude: -72.7518
 Name: EAST
+Longitude: -72.7518
 State: VT
 Elevation: 2787
 </description>
@@ -777,8 +777,8 @@ Elevation: 2787
       <Placemark id="SW COLD HOLLOW">
         <name>SW COLD HOLLOW</name>
         <description>Latitude: 44.7764
-Longitude: -72.7105
 Name: SW COLD HOLLOW
+Longitude: -72.7105
 State: VT
 Elevation: 2785
 </description>
@@ -790,8 +790,8 @@ Elevation: 2785
       <Placemark id="THE DOME">
         <name>THE DOME</name>
         <description>Latitude: 42.7788
-Longitude: -73.1704
 Name: THE DOME
+Longitude: -73.1704
 State: VT
 Elevation: 2784
 </description>
@@ -800,37 +800,11 @@ Elevation: 2784
           <coordinates>-73.170400,42.778800</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="DEER LEAP">
-        <name>DEER LEAP</name>
-        <description>Latitude: 43.67
-Longitude: -72.8363
-Name: DEER LEAP
-State: VT
-Elevation: 2782
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.836300,43.670000</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="WHEELOCK">
-        <name>WHEELOCK</name>
-        <description>Latitude: 44.5576
-Longitude: -72.16
-Name: WHEELOCK
-State: VT
-Elevation: 2782
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.160000,44.557600</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="WILDER">
         <name>WILDER</name>
         <description>Latitude: 43.3955
-Longitude: -72.91
 Name: WILDER
+Longitude: -72.91
 State: VT
 Elevation: 2782
 </description>
@@ -839,11 +813,24 @@ Elevation: 2782
           <coordinates>-72.910000,43.395500</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="WHEELOCK">
+        <name>WHEELOCK</name>
+        <description>Latitude: 44.5576
+Name: WHEELOCK
+Longitude: -72.16
+State: VT
+Elevation: 2782
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.160000,44.557600</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="DORSET HILL">
         <name>DORSET HILL</name>
         <description>Latitude: 43.2606
-Longitude: -73.0328
 Name: DORSET HILL
+Longitude: -73.0328
 State: VT
 Elevation: 2782
 </description>
@@ -852,11 +839,24 @@ Elevation: 2782
           <coordinates>-73.032800,43.260600</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="DEER LEAP">
+        <name>DEER LEAP</name>
+        <description>Latitude: 43.67
+Name: DEER LEAP
+Longitude: -72.8363
+State: VT
+Elevation: 2782
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.836300,43.670000</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="NORTH POND PEAK">
         <name>NORTH POND PEAK</name>
         <description>Latitude: 43.7435
-Longitude: -72.8822
 Name: NORTH POND PEAK
+Longitude: -72.8822
 State: VT
 Elevation: 2781
 </description>
@@ -868,8 +868,8 @@ Elevation: 2781
       <Placemark id="WILLARD">
         <name>WILLARD</name>
         <description>Latitude: 43.3878
-Longitude: -72.8922
 Name: WILLARD
+Longitude: -72.8922
 State: VT
 Elevation: 2779
 </description>
@@ -881,8 +881,8 @@ Elevation: 2779
       <Placemark id="S BRAINTREE">
         <name>S BRAINTREE</name>
         <description>Latitude: 43.9232
-Longitude: -72.7671
 Name: S BRAINTREE
+Longitude: -72.7671
 State: VT
 Elevation: 2778
 </description>
@@ -894,8 +894,8 @@ Elevation: 2778
       <Placemark id="N BLUFF">
         <name>N BLUFF</name>
         <description>Latitude: 44.8663
-Longitude: -71.8526
 Name: N BLUFF
+Longitude: -71.8526
 State: VT
 Elevation: 2774
 </description>
@@ -907,8 +907,8 @@ Elevation: 2774
       <Placemark id="PROSPECT">
         <name>PROSPECT</name>
         <description>Latitude: 42.875
-Longitude: -73.06667
 Name: PROSPECT
+Longitude: -73.06667
 State: VT
 Elevation: 2767
 </description>
@@ -920,8 +920,8 @@ Elevation: 2767
       <Placemark id="PISGAH">
         <name>PISGAH</name>
         <description>Latitude: 44.7296
-Longitude: -72.0303
 Name: PISGAH
+Longitude: -72.0303
 State: VT
 Elevation: 2766
 </description>
@@ -933,8 +933,8 @@ Elevation: 2766
       <Placemark id="NW PEABODY">
         <name>NW PEABODY</name>
         <description>Latitude: 43.34
-Longitude: -72.855
 Name: NW PEABODY
+Longitude: -72.855
 State: VT
 Elevation: 2766
 </description>
@@ -946,8 +946,8 @@ Elevation: 2766
       <Placemark id="BULL">
         <name>BULL</name>
         <description>Latitude: 44.7299
-Longitude: -71.839
 Name: BULL
+Longitude: -71.839
 State: VT
 Elevation: 2758
 </description>
@@ -959,8 +959,8 @@ Elevation: 2758
       <Placemark id="THE BALL">
         <name>THE BALL</name>
         <description>Latitude: 43.0623
-Longitude: -73.1965
 Name: THE BALL
+Longitude: -73.1965
 State: VT
 Elevation: 2755
 </description>
@@ -972,8 +972,8 @@ Elevation: 2755
       <Placemark id="NICKWAKET">
         <name>NICKWAKET</name>
         <description>Latitude: 43.7788
-Longitude: -72.994
 Name: NICKWAKET
+Longitude: -72.994
 State: VT
 Elevation: 2753
 </description>
@@ -985,8 +985,8 @@ Elevation: 2753
       <Placemark id="WOZNIAK">
         <name>WOZNIAK</name>
         <description>Latitude: 44.7696
-Longitude: -71.9722
 Name: WOZNIAK
+Longitude: -71.9722
 State: VT
 Elevation: 2750
 </description>
@@ -995,24 +995,11 @@ Elevation: 2750
           <coordinates>-71.972200,44.769600</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="CUSHMAN">
-        <name>CUSHMAN</name>
-        <description>Latitude: 43.8974
-Longitude: -72.7648
-Name: CUSHMAN
-State: VT
-Elevation: 2750
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.764800,43.897400</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="KIRBY">
         <name>KIRBY</name>
         <description>Latitude: 44.5471
-Longitude: -71.9044
 Name: KIRBY
+Longitude: -71.9044
 State: VT
 Elevation: 2750
 </description>
@@ -1021,11 +1008,24 @@ Elevation: 2750
           <coordinates>-71.904400,44.547100</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="CUSHMAN">
+        <name>CUSHMAN</name>
+        <description>Latitude: 43.8974
+Name: CUSHMAN
+Longitude: -72.7648
+State: VT
+Elevation: 2750
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.764800,43.897400</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="SS BRAINTREE">
         <name>SS BRAINTREE</name>
         <description>Latitude: 43.91357
-Longitude: -72.76584
 Name: SS BRAINTREE
+Longitude: -72.76584
 State: VT
 Elevation: 2748
 </description>
@@ -1037,8 +1037,8 @@ Elevation: 2748
       <Placemark id="STONE">
         <name>STONE</name>
         <description>Latitude: 44.561
-Longitude: -71.6659
 Name: STONE
+Longitude: -71.6659
 State: VT
 Elevation: 2736
 </description>
@@ -1050,8 +1050,8 @@ Elevation: 2736
       <Placemark id="SE PHILADELPHIA">
         <name>SE PHILADELPHIA</name>
         <description>Latitude: 43.88833
-Longitude: -72.8431
 Name: SE PHILADELPHIA
+Longitude: -72.8431
 State: VT
 Elevation: 2735
 </description>
@@ -1063,8 +1063,8 @@ Elevation: 2735
       <Placemark id="SABLE">
         <name>SABLE</name>
         <description>Latitude: 44.9226
-Longitude: -71.6862
 Name: SABLE
+Longitude: -71.6862
 State: VT
 Elevation: 2734
 </description>
@@ -1076,8 +1076,8 @@ Elevation: 2734
       <Placemark id="WEST">
         <name>WEST</name>
         <description>Latitude: 44.7093
-Longitude: -71.7043
 Name: WEST
+Longitude: -71.7043
 State: VT
 Elevation: 2733
 </description>
@@ -1089,8 +1089,8 @@ Elevation: 2733
       <Placemark id="BROUSSEAU">
         <name>BROUSSEAU</name>
         <description>Latitude: 44.9678
-Longitude: -71.7393
 Name: BROUSSEAU
+Longitude: -71.7393
 State: VT
 Elevation: 2732
 </description>
@@ -1099,24 +1099,11 @@ Elevation: 2732
           <coordinates>-71.739300,44.967800</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="LITTLE WILCOX">
-        <name>LITTLE WILCOX</name>
-        <description>Latitude: 43.8199
-Longitude: -72.829
-Name: LITTLE WILCOX
-State: VT
-Elevation: 2730
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.829000,43.819900</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="N ELBOW">
         <name>N ELBOW</name>
         <description>Latitude: 43.7077
-Longitude: -72.8658
 Name: N ELBOW
+Longitude: -72.8658
 State: VT
 Elevation: 2730
 </description>
@@ -1125,11 +1112,24 @@ Elevation: 2730
           <coordinates>-72.865800,43.707700</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="LITTLE WILCOX">
+        <name>LITTLE WILCOX</name>
+        <description>Latitude: 43.8199
+Name: LITTLE WILCOX
+Longitude: -72.829
+State: VT
+Elevation: 2730
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.829000,43.819900</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="HERRICK">
         <name>HERRICK</name>
         <description>Latitude: 43.5625
-Longitude: -73.099
 Name: HERRICK
+Longitude: -73.099
 State: VT
 Elevation: 2726
 </description>
@@ -1141,8 +1141,8 @@ Elevation: 2726
       <Placemark id="HAYSTACK">
         <name>HAYSTACK</name>
         <description>Latitude: 44.7461
-Longitude: -72.002
 Name: HAYSTACK
+Longitude: -72.002
 State: VT
 Elevation: 2724
 </description>
@@ -1154,8 +1154,8 @@ Elevation: 2724
       <Placemark id="E ROUND">
         <name>E ROUND</name>
         <description>Latitude: 44.9373
-Longitude: -71.7728
 Name: E ROUND
+Longitude: -71.7728
 State: VT
 Elevation: 2714
 </description>
@@ -1167,8 +1167,8 @@ Elevation: 2714
       <Placemark id="DAVES">
         <name>DAVES</name>
         <description>Latitude: 43.7321
-Longitude: -72.871
 Name: DAVES
+Longitude: -72.871
 State: VT
 Elevation: 2707
 </description>
@@ -1180,8 +1180,8 @@ Elevation: 2707
       <Placemark id="UNNAMED (N SHAGBACK)">
         <name>UNNAMED (N SHAGBACK)</name>
         <description>Latitude: 43.6184
-Longitude: -72.7826
 Name: UNNAMED (N SHAGBACK)
+Longitude: -72.7826
 State: VT
 Elevation: 2704
 </description>
@@ -1193,8 +1193,8 @@ Elevation: 2704
       <Placemark id="PIGEON POND PEAK">
         <name>PIGEON POND PEAK</name>
         <description>Latitude: 44.2426
-Longitude: -72.3145
 Name: PIGEON POND PEAK
+Longitude: -72.3145
 State: VT
 Elevation: 2702
 </description>
@@ -1206,8 +1206,8 @@ Elevation: 2702
       <Placemark id="SOUTH POND PEAK">
         <name>SOUTH POND PEAK</name>
         <description>Latitude: 43.7097
-Longitude: -72.8759
 Name: SOUTH POND PEAK
+Longitude: -72.8759
 State: VT
 Elevation: 2696
 </description>
@@ -1216,24 +1216,11 @@ Elevation: 2696
           <coordinates>-72.875900,43.709700</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="DEVILS DEN PEAK">
-        <name>DEVILS DEN PEAK</name>
-        <description>Latitude: 43.3483
-Longitude: -72.8771
-Name: DEVILS DEN PEAK
-State: VT
-Elevation: 2694
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.877100,43.348300</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="N TERRIBLE">
         <name>N TERRIBLE</name>
         <description>Latitude: 43.3298
-Longitude: -72.7532
 Name: N TERRIBLE
+Longitude: -72.7532
 State: VT
 Elevation: 2694
 </description>
@@ -1242,11 +1229,24 @@ Elevation: 2694
           <coordinates>-72.753200,43.329800</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="DEVILS DEN PEAK">
+        <name>DEVILS DEN PEAK</name>
+        <description>Latitude: 43.3483
+Name: DEVILS DEN PEAK
+Longitude: -72.8771
+State: VT
+Elevation: 2694
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.877100,43.348300</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="MILES">
         <name>MILES</name>
         <description>Latitude: 44.4804
-Longitude: -71.8117
 Name: MILES
+Longitude: -71.8117
 State: VT
 Elevation: 2690
 </description>
@@ -1258,8 +1258,8 @@ Elevation: 2690
       <Placemark id="DELECTABLE">
         <name>DELECTABLE</name>
         <description>Latitude: 43.7003
-Longitude: -72.6804
 Name: DELECTABLE
+Longitude: -72.6804
 State: VT
 Elevation: 2690
 </description>
@@ -1271,8 +1271,8 @@ Elevation: 2690
       <Placemark id="BILLINGS">
         <name>BILLINGS</name>
         <description>Latitude: 44.7053
-Longitude: -72.6667
 Name: BILLINGS
+Longitude: -72.6667
 State: VT
 Elevation: 2689
 </description>
@@ -1284,8 +1284,8 @@ Elevation: 2689
       <Placemark id="WHITE ROCKS">
         <name>WHITE ROCKS</name>
         <description>Latitude: 43.4291
-Longitude: -72.9391
 Name: WHITE ROCKS
+Longitude: -72.9391
 State: VT
 Elevation: 2680
 </description>
@@ -1297,8 +1297,8 @@ Elevation: 2680
       <Placemark id="DUTCH HILL">
         <name>DUTCH HILL</name>
         <description>Latitude: 42.8083
-Longitude: -73.0008
 Name: DUTCH HILL
+Longitude: -73.0008
 State: VT
 Elevation: 2657
 </description>
@@ -1310,8 +1310,8 @@ Elevation: 2657
       <Placemark id="MT HOR">
         <name>MT HOR</name>
         <description>Latitude: 44.7129
-Longitude: -72.0535
 Name: MT HOR
+Longitude: -72.0535
 State: VT
 Elevation: 2655
 </description>
@@ -1320,24 +1320,11 @@ Elevation: 2655
           <coordinates>-72.053500,44.712900</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="INGALLS HILL">
-        <name>INGALLS HILL</name>
-        <description>Latitude: 43.55806
-Longitude: -72.7805
-Name: INGALLS HILL
-State: VT
-Elevation: 2654
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.780500,43.558060</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="PARRIS HILL">
         <name>PARRIS HILL</name>
         <description>Latitude: 43.34611
-Longitude: -73.08139
 Name: PARRIS HILL
+Longitude: -73.08139
 State: VT
 Elevation: 2654
 </description>
@@ -1346,11 +1333,24 @@ Elevation: 2654
           <coordinates>-73.081390,43.346110</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="INGALLS HILL">
+        <name>INGALLS HILL</name>
+        <description>Latitude: 43.55806
+Name: INGALLS HILL
+Longitude: -72.7805
+State: VT
+Elevation: 2654
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.780500,43.558060</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="MOOSALAMOO">
         <name>MOOSALAMOO</name>
         <description>Latitude: 43.93028
-Longitude: -73.0495
 Name: MOOSALAMOO
+Longitude: -73.0495
 State: VT
 Elevation: 2640
 </description>
@@ -1359,24 +1359,11 @@ Elevation: 2640
           <coordinates>-73.049500,43.930280</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="LEAD MINE MOUNTAIN">
-        <name>LEAD MINE MOUNTAIN</name>
-        <description>Latitude: 43.7979
-Longitude: -73.005
-Name: LEAD MINE MOUNTAIN
-State: VT
-Elevation: 2635
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.005000,43.797900</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="THE CAPE">
         <name>THE CAPE</name>
         <description>Latitude: 43.8083
-Longitude: -72.9867
 Name: THE CAPE
+Longitude: -72.9867
 State: VT
 Elevation: 2635
 </description>
@@ -1385,11 +1372,24 @@ Elevation: 2635
           <coordinates>-72.986700,43.808300</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="LEAD MINE MOUNTAIN">
+        <name>LEAD MINE MOUNTAIN</name>
+        <description>Latitude: 43.7979
+Name: LEAD MINE MOUNTAIN
+Longitude: -73.005
+State: VT
+Elevation: 2635
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.005000,43.797900</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="BURPEE">
         <name>BURPEE</name>
         <description>Latitude: 43.7044
-Longitude: -72.7488
 Name: BURPEE
+Longitude: -72.7488
 State: VT
 Elevation: 2627
 </description>
@@ -1401,8 +1401,8 @@ Elevation: 2627
       <Placemark id="JOCKEY HILL">
         <name>JOCKEY HILL</name>
         <description>Latitude: 43.5645
-Longitude: -72.8282
 Name: JOCKEY HILL
+Longitude: -72.8282
 State: VT
 Elevation: 2626
 </description>
@@ -1414,8 +1414,8 @@ Elevation: 2626
       <Placemark id="SABLE">
         <name>SABLE</name>
         <description>Latitude: 43.7444
-Longitude: -72.7691
 Name: SABLE
+Longitude: -72.7691
 State: VT
 Elevation: 2625
 </description>
@@ -1427,8 +1427,8 @@ Elevation: 2625
       <Placemark id="IDE MOUNTAIN">
         <name>IDE MOUNTAIN</name>
         <description>Latitude: 44.543
-Longitude: -72.1607
 Name: IDE MOUNTAIN
+Longitude: -72.1607
 State: VT
 Elevation: 2624
 </description>
@@ -1437,24 +1437,11 @@ Elevation: 2624
           <coordinates>-72.160700,44.543000</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="COOPER HILL">
-        <name>COOPER HILL</name>
-        <description>Latitude: 42.9504
-Longitude: -72.8222
-Name: COOPER HILL
-State: VT
-Elevation: 2620
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.822200,42.950400</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="QUIMBY">
         <name>QUIMBY</name>
         <description>Latitude: 43.6869
-Longitude: -72.751
 Name: QUIMBY
+Longitude: -72.751
 State: VT
 Elevation: 2620
 </description>
@@ -1463,11 +1450,24 @@ Elevation: 2620
           <coordinates>-72.751000,43.686900</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="COOPER HILL">
+        <name>COOPER HILL</name>
+        <description>Latitude: 42.9504
+Name: COOPER HILL
+Longitude: -72.8222
+State: VT
+Elevation: 2620
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.822200,42.950400</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="PROSPECT (EAST PEAK)">
         <name>PROSPECT (EAST PEAK)</name>
         <description>Latitude: 42.87111
-Longitude: -73.0341
 Name: PROSPECT (EAST PEAK)
+Longitude: -73.0341
 State: VT
 Elevation: 2618
 </description>
@@ -1479,8 +1479,8 @@ Elevation: 2618
       <Placemark id="MORGAN PEAK">
         <name>MORGAN PEAK</name>
         <description>Latitude: 43.5857
-Longitude: -72.7429
 Name: MORGAN PEAK
+Longitude: -72.7429
 State: VT
 Elevation: 2618
 </description>
@@ -1492,8 +1492,8 @@ Elevation: 2618
       <Placemark id="E READSBORO">
         <name>E READSBORO</name>
         <description>Latitude: 42.855
-Longitude: -72.9327
 Name: E READSBORO
+Longitude: -72.9327
 State: VT
 Elevation: 2611
 </description>
@@ -1505,8 +1505,8 @@ Elevation: 2611
       <Placemark id="ELMORE">
         <name>ELMORE</name>
         <description>Latitude: 44.5264
-Longitude: -72.5461
 Name: ELMORE
+Longitude: -72.5461
 State: VT
 Elevation: 2607
 </description>
@@ -1518,8 +1518,8 @@ Elevation: 2607
       <Placemark id="MOSES">
         <name>MOSES</name>
         <description>Latitude: 43.5285
-Longitude: -72.6186
 Name: MOSES
+Longitude: -72.6186
 State: VT
 Elevation: 2602
 </description>
@@ -1531,8 +1531,8 @@ Elevation: 2602
       <Placemark id="ANTONE">
         <name>ANTONE</name>
         <description>Latitude: 43.2544
-Longitude: -73.1912
 Name: ANTONE
+Longitude: -73.1912
 State: VT
 Elevation: 2600
 </description>
@@ -1544,8 +1544,8 @@ Elevation: 2600
       <Placemark id="STANNARD">
         <name>STANNARD</name>
         <description>Latitude: 44.5223
-Longitude: -72.2124
 Name: STANNARD
+Longitude: -72.2124
 State: VT
 Elevation: 2578
 </description>

@@ -255,6 +255,8 @@ class HikingList(object):
         """
         Return list of peaks sorted by requested field in requested order.
         """
+        self.peaks = sorted(self.peaks, key=itemgetter("Name"),
+                            reverse=not self.ascendingsort)
         self.peaks = sorted(self.peaks, key=itemgetter(self.sortby),
                             reverse=not self.ascendingsort)
 

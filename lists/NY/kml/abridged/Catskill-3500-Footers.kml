@@ -10,8 +10,8 @@
       <Placemark id="SLIDE MTN">
         <name>SLIDE MTN</name>
         <description>Latitude: 41.99916667
-Longitude: -74.38611111
 Name: SLIDE MTN
+Longitude: -74.38611111
 State: NY
 Elevation: 4190
 </description>
@@ -23,8 +23,8 @@ Elevation: 4190
       <Placemark id="HUNTER MTN">
         <name>HUNTER MTN</name>
         <description>Latitude: 42.1775
-Longitude: -74.23083333
 Name: HUNTER MTN
+Longitude: -74.23083333
 State: NY
 Elevation: 4050
 </description>
@@ -36,8 +36,8 @@ Elevation: 4050
       <Placemark id="BLACK DOME">
         <name>BLACK DOME</name>
         <description>Latitude: 42.27
-Longitude: -74.12333333
 Name: BLACK DOME
+Longitude: -74.12333333
 State: NY
 Elevation: 3990
 </description>
@@ -49,8 +49,8 @@ Elevation: 3990
       <Placemark id="THOMAS COLE MTN">
         <name>THOMAS COLE MTN</name>
         <description>Latitude: 42.27083333
-Longitude: -74.13666667
 Name: THOMAS COLE MTN
+Longitude: -74.13666667
 State: NY
 Elevation: 3950
 </description>
@@ -62,8 +62,8 @@ Elevation: 3950
       <Placemark id="BLACKHEAD">
         <name>BLACKHEAD</name>
         <description>Latitude: 42.26777778
-Longitude: -74.10527778
 Name: BLACKHEAD
+Longitude: -74.10527778
 State: NY
 Elevation: 3950
 </description>
@@ -75,8 +75,8 @@ Elevation: 3950
       <Placemark id="WEST KILL MTN">
         <name>WEST KILL MTN</name>
         <description>Latitude: 42.16777778
-Longitude: -74.29027778
 Name: WEST KILL MTN
+Longitude: -74.29027778
 State: NY
 Elevation: 3890
 </description>
@@ -88,8 +88,8 @@ Elevation: 3890
       <Placemark id="DOUBLETOP MTN">
         <name>DOUBLETOP MTN</name>
         <description>Latitude: 42.0275
-Longitude: -74.52861111
 Name: DOUBLETOP MTN
+Longitude: -74.52861111
 State: NY
 Elevation: 3870
 </description>
@@ -101,8 +101,8 @@ Elevation: 3870
       <Placemark id="CORNELL MTN">
         <name>CORNELL MTN</name>
         <description>Latitude: 42.00138889
-Longitude: -74.35722222
 Name: CORNELL MTN
+Longitude: -74.35722222
 State: NY
 Elevation: 3870
 </description>
@@ -114,8 +114,8 @@ Elevation: 3870
       <Placemark id="GRAHAM MTN">
         <name>GRAHAM MTN</name>
         <description>Latitude: 42.03944444
-Longitude: -74.54972222
 Name: GRAHAM MTN
+Longitude: -74.54972222
 State: NY
 Elevation: 3868
 </description>
@@ -127,8 +127,8 @@ Elevation: 3868
       <Placemark id="PLATEAU MTN">
         <name>PLATEAU MTN</name>
         <description>Latitude: 42.13805556
-Longitude: -74.17472222
 Name: PLATEAU MTN
+Longitude: -74.17472222
 State: NY
 Elevation: 3850
 </description>
@@ -140,8 +140,8 @@ Elevation: 3850
       <Placemark id="TABLE MTN">
         <name>TABLE MTN</name>
         <description>Latitude: 41.95833333
-Longitude: -74.40527778
 Name: TABLE MTN
+Longitude: -74.40527778
 State: NY
 Elevation: 3847
 </description>
@@ -153,8 +153,8 @@ Elevation: 3847
       <Placemark id="PEEKAMOOSE MTN">
         <name>PEEKAMOOSE MTN</name>
         <description>Latitude: 41.95305556
-Longitude: -74.39861111
 Name: PEEKAMOOSE MTN
+Longitude: -74.39861111
 State: NY
 Elevation: 3843
 </description>
@@ -166,8 +166,8 @@ Elevation: 3843
       <Placemark id="SUGARLOAF MTN">
         <name>SUGARLOAF MTN</name>
         <description>Latitude: 42.13111111
-Longitude: -74.15083333
 Name: SUGARLOAF MTN
+Longitude: -74.15083333
 State: NY
 Elevation: 3810
 </description>
@@ -179,8 +179,8 @@ Elevation: 3810
       <Placemark id="WITTENBERG MTN">
         <name>WITTENBERG MTN</name>
         <description>Latitude: 42.00805556
-Longitude: -74.3475
 Name: WITTENBERG MTN
+Longitude: -74.3475
 State: NY
 Elevation: 3790
 </description>
@@ -192,8 +192,8 @@ Elevation: 3790
       <Placemark id="HUNTER MTN (SW PK)">
         <name>HUNTER MTN (SW PK)</name>
         <description>Latitude: 42.1625
-Longitude: -74.24416667
 Name: HUNTER MTN (SW PK)
+Longitude: -74.24416667
 State: NY
 Elevation: 3750
 </description>
@@ -202,24 +202,11 @@ Elevation: 3750
           <coordinates>-74.244167,42.162500</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BALSAM LAKE MTN">
-        <name>BALSAM LAKE MTN</name>
-        <description>Latitude: 42.04555556
-Longitude: -74.595
-Name: BALSAM LAKE MTN
-State: NY
-Elevation: 3730
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-74.595000,42.045556</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="PANTHER MTN">
         <name>PANTHER MTN</name>
         <description>Latitude: 42.05833333
-Longitude: -74.39666667
 Name: PANTHER MTN
+Longitude: -74.39666667
 State: NY
 Elevation: 3730
 </description>
@@ -228,11 +215,24 @@ Elevation: 3730
           <coordinates>-74.396667,42.058333</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="BALSAM LAKE MTN">
+        <name>BALSAM LAKE MTN</name>
+        <description>Latitude: 42.04555556
+Name: BALSAM LAKE MTN
+Longitude: -74.595
+State: NY
+Elevation: 3730
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.595000,42.045556</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="LONE MTN">
         <name>LONE MTN</name>
         <description>Latitude: 41.96916667
-Longitude: -74.38972222
 Name: LONE MTN
+Longitude: -74.38972222
 State: NY
 Elevation: 3721
 </description>
@@ -244,8 +244,8 @@ Elevation: 3721
       <Placemark id="BIG INDIAN MTN">
         <name>BIG INDIAN MTN</name>
         <description>Latitude: 42.035
-Longitude: -74.49722222
 Name: BIG INDIAN MTN
+Longitude: -74.49722222
 State: NY
 Elevation: 3710
 </description>
@@ -257,8 +257,8 @@ Elevation: 3710
       <Placemark id="FRIDAY MTN">
         <name>FRIDAY MTN</name>
         <description>Latitude: 41.98777778
-Longitude: -74.3625
 Name: FRIDAY MTN
+Longitude: -74.3625
 State: NY
 Elevation: 3694
 </description>
@@ -270,8 +270,8 @@ Elevation: 3694
       <Placemark id="RUSK MTN">
         <name>RUSK MTN</name>
         <description>Latitude: 42.20055556
-Longitude: -74.27777778
 Name: RUSK MTN
+Longitude: -74.27777778
 State: NY
 Elevation: 3690
 </description>
@@ -283,8 +283,8 @@ Elevation: 3690
       <Placemark id="KAATERSKILL HIGH PK">
         <name>KAATERSKILL HIGH PK</name>
         <description>Latitude: 42.16222222
-Longitude: -74.08055556
 Name: KAATERSKILL HIGH PK
+Longitude: -74.08055556
 State: NY
 Elevation: 3655
 </description>
@@ -296,8 +296,8 @@ Elevation: 3655
       <Placemark id="TWIN MTN">
         <name>TWIN MTN</name>
         <description>Latitude: 42.12555556
-Longitude: -74.12972222
 Name: TWIN MTN
+Longitude: -74.12972222
 State: NY
 Elevation: 3650
 </description>
@@ -309,8 +309,8 @@ Elevation: 3650
       <Placemark id="FIR MTN">
         <name>FIR MTN</name>
         <description>Latitude: 42.0275
-Longitude: -74.46944444
 Name: FIR MTN
+Longitude: -74.46944444
 State: NY
 Elevation: 3630
 </description>
@@ -322,8 +322,8 @@ Elevation: 3630
       <Placemark id="BALSAM CAP">
         <name>BALSAM CAP</name>
         <description>Latitude: 41.97694444
-Longitude: -74.35777778
 Name: BALSAM CAP
+Longitude: -74.35777778
 State: NY
 Elevation: 3623
 </description>
@@ -332,37 +332,11 @@ Elevation: 3623
           <coordinates>-74.357778,41.976944</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="EAGLE MTN">
-        <name>EAGLE MTN</name>
-        <description>Latitude: 42.06166667
-Longitude: -74.51
-Name: EAGLE MTN
-State: NY
-Elevation: 3610
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-74.510000,42.061667</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="BALSAM MTN">
-        <name>BALSAM MTN</name>
-        <description>Latitude: 42.09055556
-Longitude: -74.48833333
-Name: BALSAM MTN
-State: NY
-Elevation: 3610
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-74.488333,42.090556</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="NORTH DOME">
         <name>NORTH DOME</name>
         <description>Latitude: 42.17361111
-Longitude: -74.34944444
 Name: NORTH DOME
+Longitude: -74.34944444
 State: NY
 Elevation: 3610
 </description>
@@ -371,11 +345,24 @@ Elevation: 3610
           <coordinates>-74.349444,42.173611</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="EAGLE MTN">
+        <name>EAGLE MTN</name>
+        <description>Latitude: 42.06166667
+Name: EAGLE MTN
+Longitude: -74.51
+State: NY
+Elevation: 3610
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.510000,42.061667</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="BEARPEN MTN">
         <name>BEARPEN MTN</name>
         <description>Latitude: 42.265
-Longitude: -74.47416667
 Name: BEARPEN MTN
+Longitude: -74.47416667
 State: NY
 Elevation: 3610
 </description>
@@ -384,11 +371,24 @@ Elevation: 3610
           <coordinates>-74.474167,42.265000</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="BALSAM MTN">
+        <name>BALSAM MTN</name>
+        <description>Latitude: 42.09055556
+Name: BALSAM MTN
+Longitude: -74.48833333
+State: NY
+Elevation: 3610
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.488333,42.090556</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="INDIAN HEAD MTN">
         <name>INDIAN HEAD MTN</name>
         <description>Latitude: 42.11638889
-Longitude: -74.115
 Name: INDIAN HEAD MTN
+Longitude: -74.115
 State: NY
 Elevation: 3573
 </description>
@@ -400,8 +400,8 @@ Elevation: 3573
       <Placemark id="MT SHERRILL">
         <name>MT SHERRILL</name>
         <description>Latitude: 42.17555556
-Longitude: -74.37333333
 Name: MT SHERRILL
+Longitude: -74.37333333
 State: NY
 Elevation: 3550
 </description>
@@ -413,8 +413,8 @@ Elevation: 3550
       <Placemark id="HALCOTT MTN">
         <name>HALCOTT MTN</name>
         <description>Latitude: 42.18027778
-Longitude: -74.43833333
 Name: HALCOTT MTN
+Longitude: -74.43833333
 State: NY
 Elevation: 3530
 </description>
@@ -426,8 +426,8 @@ Elevation: 3530
       <Placemark id="VLY MTN">
         <name>VLY MTN</name>
         <description>Latitude: 42.24583333
-Longitude: -74.44861111
 Name: VLY MTN
+Longitude: -74.44861111
 State: NY
 Elevation: 3529
 </description>
@@ -439,8 +439,8 @@ Elevation: 3529
       <Placemark id="WINDHAM HIGH PK">
         <name>WINDHAM HIGH PK</name>
         <description>Latitude: 42.31472222
-Longitude: -74.14361111
 Name: WINDHAM HIGH PK
+Longitude: -74.14361111
 State: NY
 Elevation: 3524
 </description>
@@ -452,8 +452,8 @@ Elevation: 3524
       <Placemark id="ROCKY MTN">
         <name>ROCKY MTN</name>
         <description>Latitude: 41.97277778
-Longitude: -74.37333333
 Name: ROCKY MTN
+Longitude: -74.37333333
 State: NY
 Elevation: 3508
 </description>

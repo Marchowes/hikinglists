@@ -9,11 +9,11 @@
       <visibility>1</visibility>
       <Placemark id="MT MARCY">
         <name>MT MARCY</name>
-        <description>Latitude: 44.1125
-Longitude: -73.92416667
+        <description>State: NY
 Elevation: 5344
-State: NY
+Latitude: 44.1125
 Name: MT MARCY
+Longitude: -73.92416667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -22,11 +22,11 @@ Name: MT MARCY
       </Placemark>
       <Placemark id="ALGONQUIN PK">
         <name>ALGONQUIN PK</name>
-        <description>Latitude: 44.14361111
-Longitude: -73.98694444
+        <description>State: NY
 Elevation: 5115
-State: NY
+Latitude: 44.14361111
 Name: ALGONQUIN PK
+Longitude: -73.98694444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -35,11 +35,11 @@ Name: ALGONQUIN PK
       </Placemark>
       <Placemark id="MT HAYSTACK">
         <name>MT HAYSTACK</name>
-        <description>Latitude: 44.10555556
-Longitude: -73.90111111
+        <description>State: NY
 Elevation: 4961
-State: NY
+Latitude: 44.10555556
 Name: MT HAYSTACK
+Longitude: -73.90111111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -48,11 +48,11 @@ Name: MT HAYSTACK
       </Placemark>
       <Placemark id="MT SKYLIGHT">
         <name>MT SKYLIGHT</name>
-        <description>Latitude: 44.09944444
-Longitude: -73.93138889
+        <description>State: NY
 Elevation: 4925
-State: NY
+Latitude: 44.09944444
 Name: MT SKYLIGHT
+Longitude: -73.93138889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -61,11 +61,11 @@ Name: MT SKYLIGHT
       </Placemark>
       <Placemark id="WHITEFACE MTN">
         <name>WHITEFACE MTN</name>
-        <description>Latitude: 44.36555556
-Longitude: -73.90361111
+        <description>State: NY
 Elevation: 4865
-State: NY
+Latitude: 44.36555556
 Name: WHITEFACE MTN
+Longitude: -73.90361111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -74,11 +74,11 @@ Name: WHITEFACE MTN
       </Placemark>
       <Placemark id="IROQUOIS PK">
         <name>IROQUOIS PK</name>
-        <description>Latitude: 44.13694444
-Longitude: -73.99861111
+        <description>State: NY
 Elevation: 4849
-State: NY
+Latitude: 44.13694444
 Name: IROQUOIS PK
+Longitude: -73.99861111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -87,50 +87,50 @@ Name: IROQUOIS PK
       </Placemark>
       <Placemark id="DIX MTN">
         <name>DIX MTN</name>
-        <description>Latitude: 44.08222222
-Longitude: -73.78666667
+        <description>State: NY
 Elevation: 4839
-State: NY
+Latitude: 44.08222222
 Name: DIX MTN
+Longitude: -73.78666667
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.786667,44.082222</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BASIN MTN">
-        <name>BASIN MTN</name>
-        <description>Latitude: 44.12111111
-Longitude: -73.88694444
-Elevation: 4826
-State: NY
-Name: BASIN MTN
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.886944,44.121111</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="GRAY PEAK">
         <name>GRAY PEAK</name>
-        <description>Latitude: 44.11138889
-Longitude: -73.93555556
+        <description>State: NY
 Elevation: 4826
-State: NY
+Latitude: 44.11138889
 Name: GRAY PEAK
+Longitude: -73.93555556
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.935556,44.111389</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="BASIN MTN">
+        <name>BASIN MTN</name>
+        <description>State: NY
+Elevation: 4826
+Latitude: 44.12111111
+Name: BASIN MTN
+Longitude: -73.88694444
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.886944,44.121111</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="GOTHICS">
         <name>GOTHICS</name>
-        <description>Latitude: 44.12777778
-Longitude: -73.85777778
+        <description>State: NY
 Elevation: 4734
-State: NY
+Latitude: 44.12777778
 Name: GOTHICS
+Longitude: -73.85777778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -139,11 +139,11 @@ Name: GOTHICS
       </Placemark>
       <Placemark id="MT COLDEN">
         <name>MT COLDEN</name>
-        <description>Latitude: 44.12694444
-Longitude: -73.96055556
+        <description>State: NY
 Elevation: 4715
-State: NY
+Latitude: 44.12694444
 Name: MT COLDEN
+Longitude: -73.96055556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -152,11 +152,11 @@ Name: MT COLDEN
       </Placemark>
       <Placemark id="GIANT MTN">
         <name>GIANT MTN</name>
-        <description>Latitude: 44.16111111
-Longitude: -73.72055556
+        <description>State: NY
 Elevation: 4626
-State: NY
+Latitude: 44.16111111
 Name: GIANT MTN
+Longitude: -73.72055556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -165,11 +165,11 @@ Name: GIANT MTN
       </Placemark>
       <Placemark id="NIPPLE TOP">
         <name>NIPPLE TOP</name>
-        <description>Latitude: 44.08888889
-Longitude: -73.81638889
+        <description>State: NY
 Elevation: 4610
-State: NY
+Latitude: 44.08888889
 Name: NIPPLE TOP
+Longitude: -73.81638889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -178,11 +178,11 @@ Name: NIPPLE TOP
       </Placemark>
       <Placemark id="SANTANONI PK">
         <name>SANTANONI PK</name>
-        <description>Latitude: 44.08222222
-Longitude: -74.13138889
+        <description>State: NY
 Elevation: 4606
-State: NY
+Latitude: 44.08222222
 Name: SANTANONI PK
+Longitude: -74.13138889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -191,11 +191,11 @@ Name: SANTANONI PK
       </Placemark>
       <Placemark id="MT REDFIELD">
         <name>MT REDFIELD</name>
-        <description>Latitude: 44.09472222
-Longitude: -73.95027778
+        <description>State: NY
 Elevation: 4606
-State: NY
+Latitude: 44.09472222
 Name: MT REDFIELD
+Longitude: -73.95027778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -204,11 +204,11 @@ Name: MT REDFIELD
       </Placemark>
       <Placemark id="WRIGHT PK">
         <name>WRIGHT PK</name>
-        <description>Latitude: 44.15166667
-Longitude: -73.98
+        <description>State: NY
 Elevation: 4587
-State: NY
+Latitude: 44.15166667
 Name: WRIGHT PK
+Longitude: -73.98
 </description>
         <visibility>1</visibility>
         <Point>
@@ -217,11 +217,11 @@ Name: WRIGHT PK
       </Placemark>
       <Placemark id="SADDLEBACK MTN">
         <name>SADDLEBACK MTN</name>
-        <description>Latitude: 44.12638889
-Longitude: -73.87527778
+        <description>State: NY
 Elevation: 4528
-State: NY
+Latitude: 44.12638889
 Name: SADDLEBACK MTN
+Longitude: -73.87527778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -230,11 +230,11 @@ Name: SADDLEBACK MTN
       </Placemark>
       <Placemark id="ARMSTRONG MTN">
         <name>ARMSTRONG MTN</name>
-        <description>Latitude: 44.13444444
-Longitude: -73.85
+        <description>State: NY
 Elevation: 4446
-State: NY
+Latitude: 44.13444444
 Name: ARMSTRONG MTN
+Longitude: -73.85
 </description>
         <visibility>1</visibility>
         <Point>
@@ -243,11 +243,11 @@ Name: ARMSTRONG MTN
       </Placemark>
       <Placemark id="PANTHER PK">
         <name>PANTHER PK</name>
-        <description>Latitude: 44.09833333
-Longitude: -74.13277778
+        <description>State: NY
 Elevation: 4442
-State: NY
+Latitude: 44.09833333
 Name: PANTHER PK
+Longitude: -74.13277778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -256,11 +256,11 @@ Name: PANTHER PK
       </Placemark>
       <Placemark id="TABLE TOP MTN">
         <name>TABLE TOP MTN</name>
-        <description>Latitude: 44.14055556
-Longitude: -73.91666667
+        <description>State: NY
 Elevation: 4413
-State: NY
+Latitude: 44.14055556
 Name: TABLE TOP MTN
+Longitude: -73.91666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -269,11 +269,11 @@ Name: TABLE TOP MTN
       </Placemark>
       <Placemark id="HOUGH PK">
         <name>HOUGH PK</name>
-        <description>Latitude: 44.06944444
-Longitude: -73.77805556
+        <description>State: NY
 Elevation: 4409
-State: NY
+Latitude: 44.06944444
 Name: HOUGH PK
+Longitude: -73.77805556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -282,11 +282,11 @@ Name: HOUGH PK
       </Placemark>
       <Placemark id="MACOMB MTN">
         <name>MACOMB MTN</name>
-        <description>Latitude: 44.05166667
-Longitude: -73.78027778
+        <description>State: NY
 Elevation: 4390
-State: NY
+Latitude: 44.05166667
 Name: MACOMB MTN
+Longitude: -73.78027778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -295,11 +295,11 @@ Name: MACOMB MTN
       </Placemark>
       <Placemark id="ROCKY PEAK RIDGE">
         <name>ROCKY PEAK RIDGE</name>
-        <description>Latitude: 44.15416667
-Longitude: -73.70583333
+        <description>State: NY
 Elevation: 4383
-State: NY
+Latitude: 44.15416667
 Name: ROCKY PEAK RIDGE
+Longitude: -73.70583333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -308,50 +308,50 @@ Name: ROCKY PEAK RIDGE
       </Placemark>
       <Placemark id="MT MARSHALL">
         <name>MT MARSHALL</name>
-        <description>Latitude: 44.1275
-Longitude: -74.0125
+        <description>State: NY
 Elevation: 4380
-State: NY
+Latitude: 44.1275
 Name: MT MARSHALL
+Longitude: -74.0125
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-74.012500,44.127500</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="ALLEN MTN">
-        <name>ALLEN MTN</name>
-        <description>Latitude: 44.07083333
-Longitude: -73.94
-Elevation: 4347
-State: NY
-Name: ALLEN MTN
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.940000,44.070833</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="SEWARD MTN">
         <name>SEWARD MTN</name>
-        <description>Latitude: 44.15972222
-Longitude: -74.2
+        <description>State: NY
 Elevation: 4347
-State: NY
+Latitude: 44.15972222
 Name: SEWARD MTN
+Longitude: -74.2
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-74.200000,44.159722</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="ALLEN MTN">
+        <name>ALLEN MTN</name>
+        <description>State: NY
+Elevation: 4347
+Latitude: 44.07083333
+Name: ALLEN MTN
+Longitude: -73.94
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.940000,44.070833</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="TABLE TOP MTN (E PK)">
         <name>TABLE TOP MTN (E PK)</name>
-        <description>Latitude: 44.14361111
-Longitude: -73.90777778
+        <description>State: NY
 Elevation: 4304
-State: NY
+Latitude: 44.14361111
 Name: TABLE TOP MTN (E PK)
+Longitude: -73.90777778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -360,11 +360,11 @@ Name: TABLE TOP MTN (E PK)
       </Placemark>
       <Placemark id="BIG SLIDE MTN">
         <name>BIG SLIDE MTN</name>
-        <description>Latitude: 44.18222222
-Longitude: -73.87138889
+        <description>State: NY
 Elevation: 4249
-State: NY
+Latitude: 44.18222222
 Name: BIG SLIDE MTN
+Longitude: -73.87138889
 </description>
         <visibility>1</visibility>
         <Point>
@@ -373,11 +373,11 @@ Name: BIG SLIDE MTN
       </Placemark>
       <Placemark id="ESTHER MTN">
         <name>ESTHER MTN</name>
-        <description>Latitude: 44.38694444
-Longitude: -73.89027778
+        <description>State: NY
 Elevation: 4239
-State: NY
+Latitude: 44.38694444
 Name: ESTHER MTN
+Longitude: -73.89027778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -386,11 +386,11 @@ Name: ESTHER MTN
       </Placemark>
       <Placemark id="UPPER WOLFJAW MTN">
         <name>UPPER WOLFJAW MTN</name>
-        <description>Latitude: 44.14027778
-Longitude: -73.84583333
+        <description>State: NY
 Elevation: 4203
-State: NY
+Latitude: 44.14027778
 Name: UPPER WOLFJAW MTN
+Longitude: -73.84583333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -399,11 +399,11 @@ Name: UPPER WOLFJAW MTN
       </Placemark>
       <Placemark id="LOWER WOLFJAW MTN">
         <name>LOWER WOLFJAW MTN</name>
-        <description>Latitude: 44.14805556
-Longitude: -73.83305556
+        <description>State: NY
 Elevation: 4173
-State: NY
+Latitude: 44.14805556
 Name: LOWER WOLFJAW MTN
+Longitude: -73.83305556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -412,50 +412,50 @@ Name: LOWER WOLFJAW MTN
       </Placemark>
       <Placemark id="PHELPS MTN">
         <name>PHELPS MTN</name>
-        <description>Latitude: 44.15694444
-Longitude: -73.92166667
+        <description>State: NY
 Elevation: 4160
-State: NY
+Latitude: 44.15694444
 Name: PHELPS MTN
+Longitude: -73.92166667
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.921667,44.156944</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTEETH">
-        <name>SAWTEETH</name>
-        <description>Latitude: 44.11444444
-Longitude: -73.85055556
-Elevation: 4150
-State: NY
-Name: SAWTEETH
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.850556,44.114444</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="STREET MTN">
         <name>STREET MTN</name>
-        <description>Latitude: 44.17944444
-Longitude: -74.0275
+        <description>State: NY
 Elevation: 4150
-State: NY
+Latitude: 44.17944444
 Name: STREET MTN
+Longitude: -74.0275
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-74.027500,44.179444</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="SAWTEETH">
+        <name>SAWTEETH</name>
+        <description>State: NY
+Elevation: 4150
+Latitude: 44.11444444
+Name: SAWTEETH
+Longitude: -73.85055556
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.850556,44.114444</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="DONALDSON MTN">
         <name>DONALDSON MTN</name>
-        <description>Latitude: 44.15388889
-Longitude: -74.21194444
+        <description>State: NY
 Elevation: 4108
-State: NY
+Latitude: 44.15388889
 Name: DONALDSON MTN
+Longitude: -74.21194444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -464,11 +464,11 @@ Name: DONALDSON MTN
       </Placemark>
       <Placemark id="CASCADE MTN">
         <name>CASCADE MTN</name>
-        <description>Latitude: 44.21833333
-Longitude: -73.86055556
+        <description>State: NY
 Elevation: 4098
-State: NY
+Latitude: 44.21833333
 Name: CASCADE MTN
+Longitude: -73.86055556
 </description>
         <visibility>1</visibility>
         <Point>
@@ -477,63 +477,63 @@ Name: CASCADE MTN
       </Placemark>
       <Placemark id="SEYMOUR MTN">
         <name>SEYMOUR MTN</name>
-        <description>Latitude: 44.15805556
-Longitude: -74.17277778
+        <description>State: NY
 Elevation: 4091
-State: NY
+Latitude: 44.15805556
 Name: SEYMOUR MTN
+Longitude: -74.17277778
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-74.172778,44.158056</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT COLVIN">
-        <name>MT COLVIN</name>
-        <description>Latitude: 44.09388889
-Longitude: -73.83472222
-Elevation: 4085
-State: NY
-Name: MT COLVIN
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.834722,44.093889</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="PORTER MTN">
-        <name>PORTER MTN</name>
-        <description>Latitude: 44.21222222
-Longitude: -73.85416667
-Elevation: 4085
-State: NY
-Name: PORTER MTN
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.854167,44.212222</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="SOUTH DIX">
         <name>SOUTH DIX</name>
-        <description>Latitude: 44.06
-Longitude: -73.77472222
+        <description>State: NY
 Elevation: 4085
-State: NY
+Latitude: 44.06
 Name: SOUTH DIX
+Longitude: -73.77472222
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.774722,44.060000</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="PORTER MTN">
+        <name>PORTER MTN</name>
+        <description>State: NY
+Elevation: 4085
+Latitude: 44.21222222
+Name: PORTER MTN
+Longitude: -73.85416667
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.854167,44.212222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT COLVIN">
+        <name>MT COLVIN</name>
+        <description>State: NY
+Elevation: 4085
+Latitude: 44.09388889
+Name: MT COLVIN
+Longitude: -73.83472222
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.834722,44.093889</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="MT EMMONS">
         <name>MT EMMONS</name>
-        <description>Latitude: 44.14388889
-Longitude: -74.21472222
+        <description>State: NY
 Elevation: 4039
-State: NY
+Latitude: 44.14388889
 Name: MT EMMONS
+Longitude: -74.21472222
 </description>
         <visibility>1</visibility>
         <Point>
@@ -542,11 +542,11 @@ Name: MT EMMONS
       </Placemark>
       <Placemark id="DIAL MTN">
         <name>DIAL MTN</name>
-        <description>Latitude: 44.10583333
-Longitude: -73.79666667
+        <description>State: NY
 Elevation: 4019
-State: NY
+Latitude: 44.10583333
 Name: DIAL MTN
+Longitude: -73.79666667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -555,11 +555,11 @@ Name: DIAL MTN
       </Placemark>
       <Placemark id="YARD MTN">
         <name>YARD MTN</name>
-        <description>Latitude: 44.17444444
-Longitude: -73.88527778
+        <description>State: NY
 Elevation: 4009
-State: NY
+Latitude: 44.17444444
 Name: YARD MTN
+Longitude: -73.88527778
 </description>
         <visibility>1</visibility>
         <Point>
@@ -568,11 +568,11 @@ Name: YARD MTN
       </Placemark>
       <Placemark id="EAST DIX">
         <name>EAST DIX</name>
-        <description>Latitude: 44.06527778
-Longitude: -73.75777778
+        <description>State: NY
 Elevation: 4006
-State: NY
+Latitude: 44.06527778
 Name: EAST DIX
+Longitude: -73.75777778
 </description>
         <visibility>1</visibility>
         <Point>

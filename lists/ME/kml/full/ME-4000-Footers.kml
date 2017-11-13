@@ -9,11 +9,11 @@
       <visibility>1</visibility>
       <Placemark id="MT KATAHDIN (BAXTER PK)">
         <name>MT KATAHDIN (BAXTER PK)</name>
-        <description>Latitude: 45.90416667
-Longitude: -68.92194444
+        <description>State: ME
 Elevation: 5268
-State: ME
+Latitude: 45.90416667
 Name: MT KATAHDIN (BAXTER PK)
+Longitude: -68.92194444
 </description>
         <visibility>1</visibility>
         <Point>
@@ -22,11 +22,11 @@ Name: MT KATAHDIN (BAXTER PK)
       </Placemark>
       <Placemark id="MT KATAHDIN (HAMLIN PK)">
         <name>MT KATAHDIN (HAMLIN PK)</name>
-        <description>Latitude: 45.92416667
-Longitude: -68.92833333
+        <description>State: ME
 Elevation: 4756
-State: ME
+Latitude: 45.92416667
 Name: MT KATAHDIN (HAMLIN PK)
+Longitude: -68.92833333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -35,11 +35,11 @@ Name: MT KATAHDIN (HAMLIN PK)
       </Placemark>
       <Placemark id="SUGARLOAF MTN">
         <name>SUGARLOAF MTN</name>
-        <description>Latitude: 45.03166667
-Longitude: -70.31361111
+        <description>State: ME
 Elevation: 4250
-State: ME
+Latitude: 45.03166667
 Name: SUGARLOAF MTN
+Longitude: -70.31361111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -48,11 +48,11 @@ Name: SUGARLOAF MTN
       </Placemark>
       <Placemark id="CROCKER MTN">
         <name>CROCKER MTN</name>
-        <description>Latitude: 45.04694444
-Longitude: -70.38333333
+        <description>State: ME
 Elevation: 4228
-State: ME
+Latitude: 45.04694444
 Name: CROCKER MTN
+Longitude: -70.38333333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -61,11 +61,11 @@ Name: CROCKER MTN
       </Placemark>
       <Placemark id="OLD SPECK MTN">
         <name>OLD SPECK MTN</name>
-        <description>Latitude: 44.57083333
-Longitude: -70.95416667
+        <description>State: ME
 Elevation: 4170
-State: ME
+Latitude: 44.57083333
 Name: OLD SPECK MTN
+Longitude: -70.95416667
 </description>
         <visibility>1</visibility>
         <Point>
@@ -74,11 +74,11 @@ Name: OLD SPECK MTN
       </Placemark>
       <Placemark id="NORTH BROTHER">
         <name>NORTH BROTHER</name>
-        <description>Latitude: 45.95694444
-Longitude: -68.98583333
+        <description>State: ME
 Elevation: 4151
-State: ME
+Latitude: 45.95694444
 Name: NORTH BROTHER
+Longitude: -68.98583333
 </description>
         <visibility>1</visibility>
         <Point>
@@ -87,11 +87,11 @@ Name: NORTH BROTHER
       </Placemark>
       <Placemark id="BIGELOW MTN (WEST PK)">
         <name>BIGELOW MTN (WEST PK)</name>
-        <description>Latitude: 45.14666667
-Longitude: -70.28861111
+        <description>State: ME
 Elevation: 4145
-State: ME
+Latitude: 45.14666667
 Name: BIGELOW MTN (WEST PK)
+Longitude: -70.28861111
 </description>
         <visibility>1</visibility>
         <Point>
@@ -100,11 +100,11 @@ Name: BIGELOW MTN (WEST PK)
       </Placemark>
       <Placemark id="SADDLEBACK MTN">
         <name>SADDLEBACK MTN</name>
-        <description>Latitude: 44.93638889
-Longitude: -70.505
+        <description>State: ME
 Elevation: 4120
-State: ME
+Latitude: 44.93638889
 Name: SADDLEBACK MTN
+Longitude: -70.505
 </description>
         <visibility>1</visibility>
         <Point>
@@ -113,80 +113,80 @@ Name: SADDLEBACK MTN
       </Placemark>
       <Placemark id="BIGELOW MTN (AVERY PK)">
         <name>BIGELOW MTN (AVERY PK)</name>
-        <description>Latitude: 45.14666667
-Longitude: -70.27583333
+        <description>State: ME
 Elevation: 4090
-State: ME
+Latitude: 45.14666667
 Name: BIGELOW MTN (AVERY PK)
+Longitude: -70.27583333
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.275833,45.146667</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT ABRAHAM">
-        <name>MT ABRAHAM</name>
-        <description>Latitude: 44.97277778
-Longitude: -70.32694444
-Elevation: 4050
-State: ME
-Name: MT ABRAHAM
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.326944,44.972778</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="SOUTH CROCKER MTN">
         <name>SOUTH CROCKER MTN</name>
-        <description>Latitude: 45.03611111
-Longitude: -70.37638889
+        <description>State: ME
 Elevation: 4050
-State: ME
+Latitude: 45.03611111
 Name: SOUTH CROCKER MTN
+Longitude: -70.37638889
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.376389,45.036111</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="MT ABRAHAM">
+        <name>MT ABRAHAM</name>
+        <description>State: ME
+Elevation: 4050
+Latitude: 44.97277778
+Name: MT ABRAHAM
+Longitude: -70.32694444
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.326944,44.972778</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="SADDLEBACK MTN THE HORN">
         <name>SADDLEBACK MTN THE HORN</name>
-        <description>Latitude: 44.95111111
-Longitude: -70.4875
+        <description>State: ME
 Elevation: 4041
-State: ME
+Latitude: 44.95111111
 Name: SADDLEBACK MTN THE HORN
+Longitude: -70.4875
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.487500,44.951111</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT REDINGTON">
-        <name>MT REDINGTON</name>
-        <description>Latitude: 45.025
-Longitude: -70.38916667
-Elevation: 4010
-State: ME
-Name: MT REDINGTON
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.389167,45.025000</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="SPAULDING MTN">
         <name>SPAULDING MTN</name>
-        <description>Latitude: 45.00277778
-Longitude: -70.33388889
+        <description>State: ME
 Elevation: 4010
-State: ME
+Latitude: 45.00277778
 Name: SPAULDING MTN
+Longitude: -70.33388889
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.333889,45.002778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT REDINGTON">
+        <name>MT REDINGTON</name>
+        <description>State: ME
+Elevation: 4010
+Latitude: 45.025
+Name: MT REDINGTON
+Longitude: -70.38916667
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.389167,45.025000</coordinates>
         </Point>
       </Placemark>
     </Folder>
