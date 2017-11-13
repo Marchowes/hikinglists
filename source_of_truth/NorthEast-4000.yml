@@ -11,5 +11,10 @@
 import:
 - NewEngland-4000.yml
 - NY-4000.yml
+forced_import:
+- ME-4000.yml
+- NH-4000.yml
+- VT-4000.yml
+- NY-4000.yml
 location: NorthEast
 list_name: NorthEast-4000-Footers

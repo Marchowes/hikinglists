@@ -11,5 +11,8 @@
 import:
 - ADK-3000.yml
 - Catskill-3000.yml
+forced_import:
+- ADK-3000.yml
+- Catskill-3000.yml
 location: NY
 list_name: NY-4000-Footers

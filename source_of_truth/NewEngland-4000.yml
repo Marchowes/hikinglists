@@ -10,5 +10,9 @@ import:
 - ME-4000.yml
 - NH-4000.yml
 - VT-4000.yml
+forced_import:
+- ME-4000.yml
+- NH-4000.yml
+- VT-4000.yml
 location: NewEngland
 list_name: NewEngland-4000-Footers
