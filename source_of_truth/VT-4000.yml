@@ -1,3 +1,15 @@
+# Vermont 4000 Footers
+#
+# Authority: self
+# List Rules: 200' col, Threshold is 4000 feet and higher.
+# History: Data seeded from the Northeast 777 list.
+#
+# TODO:
+# - Standardize Names
+# - Ensure coordinates to 3 sig figures
+# - Validate coordinates
+# - Add Prominence
+
 ---
 location: VT
 standalone: false

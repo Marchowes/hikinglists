@@ -1,3 +1,10 @@
+# New England 4000 Footers
+#
+# Authority: self
+# List Rules: 200' col, Threshold is 4000 feet and higher.
+# History: Data seeded from the Northeast 777 list.
+#
+# This list only inherits from other lists.
 ---
 import:
 - ME-4000.yml

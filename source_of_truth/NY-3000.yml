@@ -1,3 +1,12 @@
+# New York 3000 Footers
+#
+# Authority: self
+# List Rules: 200' col, Threshold is 3000 feet and higher.
+# History: Data seeded from the Northeast 777 list.
+# Includes ADKs and Catskills
+#
+# This list only inherits from other lists.
+
 ---
 import:
 - ADK-3000.yml

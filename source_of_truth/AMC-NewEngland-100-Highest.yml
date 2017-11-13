@@ -1,3 +1,12 @@
+# AMC New England Hundred Highest (NEHH)
+#
+# Authority: AMC 4000 Footer Committee
+# List Rules: Generally 200' col. List contents controlled by AMC Threshold is
+# 100 peaks
+# See http://www.amc4000footer.org/
+#
+# This list relies entirely on imports.
+
 import:
   - AMC-NH-NEHH.yml
   - AMC-VT-NEHH.yml

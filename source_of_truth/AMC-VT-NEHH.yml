@@ -1,3 +1,18 @@
+# AMC New England Hundred Highest (VT Peaks)
+#
+# Authority: AMC 4000 Footer Committee
+# List Rules: Generally 200' col. List contents controlled by AMC
+# See http://www.amc4000footer.org/
+#
+# This is not a standalone list, and is intended to be imported by
+# AMC-NewEngland-100-Highest.yml
+#
+# TODO:
+# - Standardize Names
+# - Ensure coordinates to 3 sig figures
+# - Validate coordinates
+# - Add Prominence
+
 ---
 location: VT
 standalone: false

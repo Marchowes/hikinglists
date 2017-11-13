@@ -1,3 +1,11 @@
+# New England 3000 Footers
+#
+# Authority: self
+# List Rules: 200' col, Threshold is 3000 feet and higher.
+# History: Data seeded from the Northeast 777 list.
+#
+# This list only inherits from other lists.
+
 ---
 import:
 - ME-3000.yml

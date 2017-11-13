@@ -1,3 +1,17 @@
+# Adirondack 46rs
+#
+# Authority: Adirondack 46rs
+# List Rules: Generally 300' col OR more than 3/4 mile between higher peaks.
+# This list includes peaks which were once believed to be 4000 footers and
+# excludes peaks later discovered to be 4000 footers.
+# See http://www.adk46er.org/
+#
+# TODO:
+# - Standardize Names
+# - Ensure coordinates to 3 sig figures
+# - Validate coordinates
+# - Add Prominence
+
 ---
 location: NY
 list_name: ADK-46rs
