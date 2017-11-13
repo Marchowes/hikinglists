@@ -300,10 +300,11 @@ class HikingList(object):
                          self.filename,
                          'pinmap for {}'.format(self.filename))
         k.append(d)
-        kmlFolder = kml.Folder(ns,
-                                    self.filename,
-                                    self.filename,
-                                    'kml map of list points for {}'.format(self.filename))
+        kmlFolder =\
+            kml.Folder(ns,
+                       self.filename,
+                       self.filename,
+                       'kml map of list points for {}'.format(self.filename))
         for peak in peak_dict:
             details = ''
             for key, val in sorted(peak.items()):
