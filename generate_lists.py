@@ -308,7 +308,7 @@ class HikingList(object):
                                     'kml map of list points for {}'.format(self.filename))
         for peak in peak_dict:
             details = ''
-            for key, val in peak.items():
+            for key, val in sorted(peak.items()):
                 details += '{}: {}\n'.format(key, val)
             p = kml.Placemark(ns, peak['Name'], peak['Name'], details)
             p.geometry = Point(peak['Longitude'], peak['Latitude'])

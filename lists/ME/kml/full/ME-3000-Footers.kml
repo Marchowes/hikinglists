@@ -9,11 +9,11 @@
       <visibility>1</visibility>
       <Placemark id="MT KATAHDIN (BAXTER PK)">
         <name>MT KATAHDIN (BAXTER PK)</name>
-        <description>State: ME
-Elevation: 5268
+        <description>Elevation: 5268
 Latitude: 45.90416667
-Name: MT KATAHDIN (BAXTER PK)
 Longitude: -68.92194444
+Name: MT KATAHDIN (BAXTER PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -22,11 +22,11 @@ Longitude: -68.92194444
       </Placemark>
       <Placemark id="MT KATAHDIN (HAMLIN PK)">
         <name>MT KATAHDIN (HAMLIN PK)</name>
-        <description>State: ME
-Elevation: 4756
+        <description>Elevation: 4756
 Latitude: 45.92416667
-Name: MT KATAHDIN (HAMLIN PK)
 Longitude: -68.92833333
+Name: MT KATAHDIN (HAMLIN PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -35,11 +35,11 @@ Longitude: -68.92833333
       </Placemark>
       <Placemark id="SUGARLOAF MTN">
         <name>SUGARLOAF MTN</name>
-        <description>State: ME
-Elevation: 4250
+        <description>Elevation: 4250
 Latitude: 45.03166667
-Name: SUGARLOAF MTN
 Longitude: -70.31361111
+Name: SUGARLOAF MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -48,11 +48,11 @@ Longitude: -70.31361111
       </Placemark>
       <Placemark id="CROCKER MTN">
         <name>CROCKER MTN</name>
-        <description>State: ME
-Elevation: 4228
+        <description>Elevation: 4228
 Latitude: 45.04694444
-Name: CROCKER MTN
 Longitude: -70.38333333
+Name: CROCKER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -61,11 +61,11 @@ Longitude: -70.38333333
       </Placemark>
       <Placemark id="OLD SPECK MTN">
         <name>OLD SPECK MTN</name>
-        <description>State: ME
-Elevation: 4170
+        <description>Elevation: 4170
 Latitude: 44.57083333
-Name: OLD SPECK MTN
 Longitude: -70.95416667
+Name: OLD SPECK MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -74,11 +74,11 @@ Longitude: -70.95416667
       </Placemark>
       <Placemark id="NORTH BROTHER">
         <name>NORTH BROTHER</name>
-        <description>State: ME
-Elevation: 4151
+        <description>Elevation: 4151
 Latitude: 45.95694444
-Name: NORTH BROTHER
 Longitude: -68.98583333
+Name: NORTH BROTHER
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -87,11 +87,11 @@ Longitude: -68.98583333
       </Placemark>
       <Placemark id="BIGELOW MTN (WEST PK)">
         <name>BIGELOW MTN (WEST PK)</name>
-        <description>State: ME
-Elevation: 4145
+        <description>Elevation: 4145
 Latitude: 45.14666667
-Name: BIGELOW MTN (WEST PK)
 Longitude: -70.28861111
+Name: BIGELOW MTN (WEST PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -100,11 +100,11 @@ Longitude: -70.28861111
       </Placemark>
       <Placemark id="SADDLEBACK MTN">
         <name>SADDLEBACK MTN</name>
-        <description>State: ME
-Elevation: 4120
+        <description>Elevation: 4120
 Latitude: 44.93638889
-Name: SADDLEBACK MTN
 Longitude: -70.505
+Name: SADDLEBACK MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -113,11 +113,11 @@ Longitude: -70.505
       </Placemark>
       <Placemark id="BIGELOW MTN (AVERY PK)">
         <name>BIGELOW MTN (AVERY PK)</name>
-        <description>State: ME
-Elevation: 4090
+        <description>Elevation: 4090
 Latitude: 45.14666667
-Name: BIGELOW MTN (AVERY PK)
 Longitude: -70.27583333
+Name: BIGELOW MTN (AVERY PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -126,11 +126,11 @@ Longitude: -70.27583333
       </Placemark>
       <Placemark id="SOUTH CROCKER MTN">
         <name>SOUTH CROCKER MTN</name>
-        <description>State: ME
-Elevation: 4050
+        <description>Elevation: 4050
 Latitude: 45.03611111
-Name: SOUTH CROCKER MTN
 Longitude: -70.37638889
+Name: SOUTH CROCKER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -139,11 +139,11 @@ Longitude: -70.37638889
       </Placemark>
       <Placemark id="MT ABRAHAM">
         <name>MT ABRAHAM</name>
-        <description>State: ME
-Elevation: 4050
+        <description>Elevation: 4050
 Latitude: 44.97277778
-Name: MT ABRAHAM
 Longitude: -70.32694444
+Name: MT ABRAHAM
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -152,11 +152,11 @@ Longitude: -70.32694444
       </Placemark>
       <Placemark id="SADDLEBACK MTN THE HORN">
         <name>SADDLEBACK MTN THE HORN</name>
-        <description>State: ME
-Elevation: 4041
+        <description>Elevation: 4041
 Latitude: 44.95111111
-Name: SADDLEBACK MTN THE HORN
 Longitude: -70.4875
+Name: SADDLEBACK MTN THE HORN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -165,11 +165,11 @@ Longitude: -70.4875
       </Placemark>
       <Placemark id="SPAULDING MTN">
         <name>SPAULDING MTN</name>
-        <description>State: ME
-Elevation: 4010
+        <description>Elevation: 4010
 Latitude: 45.00277778
-Name: SPAULDING MTN
 Longitude: -70.33388889
+Name: SPAULDING MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -178,11 +178,11 @@ Longitude: -70.33388889
       </Placemark>
       <Placemark id="MT REDINGTON">
         <name>MT REDINGTON</name>
-        <description>State: ME
-Elevation: 4010
+        <description>Elevation: 4010
 Latitude: 45.025
-Name: MT REDINGTON
 Longitude: -70.38916667
+Name: MT REDINGTON
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -191,11 +191,11 @@ Longitude: -70.38916667
       </Placemark>
       <Placemark id="SOUTH BROTHER">
         <name>SOUTH BROTHER</name>
-        <description>State: ME
-Elevation: 3970
+        <description>Elevation: 3970
 Latitude: 45.94416667
-Name: SOUTH BROTHER
 Longitude: -69.00222222
+Name: SOUTH BROTHER
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -204,11 +204,11 @@ Longitude: -69.00222222
       </Placemark>
       <Placemark id="SNOW MTN">
         <name>SNOW MTN</name>
-        <description>State: ME
-Elevation: 3960
+        <description>Elevation: 3960
 Latitude: 45.29138889
-Name: SNOW MTN
 Longitude: -70.70972222
+Name: SNOW MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -217,11 +217,11 @@ Longitude: -70.70972222
       </Placemark>
       <Placemark id="GOOSE EYE MTN">
         <name>GOOSE EYE MTN</name>
-        <description>State: ME
-Elevation: 3870
+        <description>Elevation: 3870
 Latitude: 44.50277778
-Name: GOOSE EYE MTN
 Longitude: -71
+Name: GOOSE EYE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -230,11 +230,11 @@ Longitude: -71
       </Placemark>
       <Placemark id="FORT MTN">
         <name>FORT MTN</name>
-        <description>State: ME
-Elevation: 3867
+        <description>Elevation: 3867
 Latitude: 45.96194444
-Name: FORT MTN
 Longitude: -68.97527778
+Name: FORT MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -243,11 +243,11 @@ Longitude: -68.97527778
       </Placemark>
       <Placemark id="WHITE CAP MTN">
         <name>WHITE CAP MTN</name>
-        <description>State: ME
-Elevation: 3856
+        <description>Elevation: 3856
 Latitude: 45.23611111
-Name: WHITE CAP MTN
 Longitude: -70.81833333
+Name: WHITE CAP MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -256,11 +256,11 @@ Longitude: -70.81833333
       </Placemark>
       <Placemark id="PANTHER">
         <name>PANTHER</name>
-        <description>State: ME
-Elevation: 3855
+        <description>Elevation: 3855
 Latitude: 45.26722222
-Name: PANTHER
 Longitude: -70.84166667
+Name: PANTHER
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -269,11 +269,11 @@ Longitude: -70.84166667
       </Placemark>
       <Placemark id="BIGELOW MTN, THE HORNS (S PK)">
         <name>BIGELOW MTN, THE HORNS (S PK)</name>
-        <description>State: ME
-Elevation: 3805
+        <description>Elevation: 3805
 Latitude: 45.145
-Name: BIGELOW MTN, THE HORNS (S PK)
 Longitude: -70.32361111
+Name: BIGELOW MTN, THE HORNS (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -282,11 +282,11 @@ Longitude: -70.32361111
       </Placemark>
       <Placemark id="MT COE">
         <name>MT COE</name>
-        <description>State: ME
-Elevation: 3795
+        <description>Elevation: 3795
 Latitude: 45.93361111
-Name: MT COE
 Longitude: -69.00944444
+Name: MT COE
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -295,11 +295,11 @@ Longitude: -69.00944444
       </Placemark>
       <Placemark id="EAST KENNEBAGO MTN">
         <name>EAST KENNEBAGO MTN</name>
-        <description>State: ME
-Elevation: 3791
+        <description>Elevation: 3791
 Latitude: 45.12166667
-Name: EAST KENNEBAGO MTN
 Longitude: -70.6
+Name: EAST KENNEBAGO MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -308,11 +308,11 @@ Longitude: -70.6
       </Placemark>
       <Placemark id="BALDPATE MTN, E PK">
         <name>BALDPATE MTN, E PK</name>
-        <description>State: ME
-Elevation: 3790
+        <description>Elevation: 3790
 Latitude: 44.60916667
-Name: BALDPATE MTN, E PK
 Longitude: -70.89277778
+Name: BALDPATE MTN, E PK
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -321,11 +321,11 @@ Longitude: -70.89277778
       </Placemark>
       <Placemark id="SNOW MTN">
         <name>SNOW MTN</name>
-        <description>State: ME
-Elevation: 3784
+        <description>Elevation: 3784
 Latitude: 45.16916667
-Name: SNOW MTN
 Longitude: -70.82722222
+Name: SNOW MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -334,11 +334,11 @@ Longitude: -70.82722222
       </Placemark>
       <Placemark id="KENNEBAGO DIVIDE (N PK)">
         <name>KENNEBAGO DIVIDE (N PK)</name>
-        <description>State: ME
-Elevation: 3775
+        <description>Elevation: 3775
 Latitude: 45.2225
-Name: KENNEBAGO DIVIDE (N PK)
 Longitude: -70.81611111
+Name: KENNEBAGO DIVIDE (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -347,11 +347,11 @@ Longitude: -70.81611111
       </Placemark>
       <Placemark id="SADDLEBACK MTN, THE HORN (N PK)">
         <name>SADDLEBACK MTN, THE HORN (N PK)</name>
-        <description>State: ME
-Elevation: 3772
+        <description>Elevation: 3772
 Latitude: 44.95888889
-Name: SADDLEBACK MTN, THE HORN (N PK)
 Longitude: -70.49222222
+Name: SADDLEBACK MTN, THE HORN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -360,11 +360,11 @@ Longitude: -70.49222222
       </Placemark>
       <Placemark id="ELEPHANT MTN">
         <name>ELEPHANT MTN</name>
-        <description>State: ME
-Elevation: 3772
+        <description>Elevation: 3772
 Latitude: 44.76805556
-Name: ELEPHANT MTN
 Longitude: -70.78222222
+Name: ELEPHANT MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -373,11 +373,11 @@ Longitude: -70.78222222
       </Placemark>
       <Placemark id="REDINGTON POND RANGE (M PK)">
         <name>REDINGTON POND RANGE (M PK)</name>
-        <description>State: ME
-Elevation: 3770
+        <description>Elevation: 3770
 Latitude: 45.00777778
-Name: REDINGTON POND RANGE (M PK)
 Longitude: -70.39472222
+Name: REDINGTON POND RANGE (M PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -386,11 +386,11 @@ Longitude: -70.39472222
       </Placemark>
       <Placemark id="MAHOOSUC ARM">
         <name>MAHOOSUC ARM</name>
-        <description>State: ME
-Elevation: 3765
+        <description>Elevation: 3765
 Latitude: 44.56055556
-Name: MAHOOSUC ARM
 Longitude: -70.97861111
+Name: MAHOOSUC ARM
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -399,11 +399,11 @@ Longitude: -70.97861111
       </Placemark>
       <Placemark id="WEST KENNEBAGO MTN (N PK)">
         <name>WEST KENNEBAGO MTN (N PK)</name>
-        <description>State: ME
-Elevation: 3750
+        <description>Elevation: 3750
 Latitude: 45.12027778
-Name: WEST KENNEBAGO MTN (N PK)
 Longitude: -70.81611111
+Name: WEST KENNEBAGO MTN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -412,11 +412,11 @@ Longitude: -70.81611111
       </Placemark>
       <Placemark id="MT ABRAHAM (M PK)">
         <name>MT ABRAHAM (M PK)</name>
-        <description>State: ME
-Elevation: 3750
+        <description>Elevation: 3750
 Latitude: 44.95777778
-Name: MT ABRAHAM (M PK)
 Longitude: -70.30472222
+Name: MT ABRAHAM (M PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -425,11 +425,11 @@ Longitude: -70.30472222
       </Placemark>
       <Placemark id="COBURN MTN">
         <name>COBURN MTN</name>
-        <description>State: ME
-Elevation: 3730
+        <description>Elevation: 3730
 Latitude: 45.46861111
-Name: COBURN MTN
 Longitude: -70.12694444
+Name: COBURN MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -438,11 +438,11 @@ Longitude: -70.12694444
       </Placemark>
       <Placemark id="WEST KENNEBAGO MTN">
         <name>WEST KENNEBAGO MTN</name>
-        <description>State: ME
-Elevation: 3713
+        <description>Elevation: 3713
 Latitude: 45.10694444
-Name: WEST KENNEBAGO MTN
 Longitude: -70.81694444
+Name: WEST KENNEBAGO MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -451,11 +451,11 @@ Longitude: -70.81694444
       </Placemark>
       <Placemark id="BLACK NUBBLE">
         <name>BLACK NUBBLE</name>
-        <description>State: ME
-Elevation: 3710
+        <description>Elevation: 3710
 Latitude: 45.03194444
-Name: BLACK NUBBLE
 Longitude: -70.4475
+Name: BLACK NUBBLE
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -464,11 +464,11 @@ Longitude: -70.4475
       </Placemark>
       <Placemark id="KENNEBAGO DIVIDE (S PK)">
         <name>KENNEBAGO DIVIDE (S PK)</name>
-        <description>State: ME
-Elevation: 3705
+        <description>Elevation: 3705
 Latitude: 45.20583333
-Name: KENNEBAGO DIVIDE (S PK)
 Longitude: -70.82888889
+Name: KENNEBAGO DIVIDE (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -477,11 +477,11 @@ Longitude: -70.82888889
       </Placemark>
       <Placemark id="BARREN MTN">
         <name>BARREN MTN</name>
-        <description>State: ME
-Elevation: 3696
+        <description>Elevation: 3696
 Latitude: 45.91916667
-Name: BARREN MTN
 Longitude: -68.98305556
+Name: BARREN MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -490,11 +490,11 @@ Longitude: -68.98305556
       </Placemark>
       <Placemark id="GOOSE EYE MTN (N PK)">
         <name>GOOSE EYE MTN (N PK)</name>
-        <description>State: ME
-Elevation: 3675
+        <description>Elevation: 3675
 Latitude: 44.51611111
-Name: GOOSE EYE MTN (N PK)
 Longitude: -70.98888889
+Name: GOOSE EYE MTN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -503,11 +503,11 @@ Longitude: -70.98888889
       </Placemark>
       <Placemark id="MT ABRAHAM (S PK)">
         <name>MT ABRAHAM (S PK)</name>
-        <description>State: ME
-Elevation: 3671
+        <description>Elevation: 3671
 Latitude: 44.94361111
-Name: MT ABRAHAM (S PK)
 Longitude: -70.29083333
+Name: MT ABRAHAM (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -516,11 +516,11 @@ Longitude: -70.29083333
       </Placemark>
       <Placemark id="THE OWL">
         <name>THE OWL</name>
-        <description>State: ME
-Elevation: 3670
+        <description>Elevation: 3670
 Latitude: 45.90916667
-Name: THE OWL
 Longitude: -68.95861111
+Name: THE OWL
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -529,11 +529,11 @@ Longitude: -68.95861111
       </Placemark>
       <Placemark id="BALDPATE MTN, W PK">
         <name>BALDPATE MTN, W PK</name>
-        <description>State: ME
-Elevation: 3662
+        <description>Elevation: 3662
 Latitude: 44.60138889
-Name: BALDPATE MTN, W PK
 Longitude: -70.9025
+Name: BALDPATE MTN, W PK
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -542,11 +542,11 @@ Longitude: -70.9025
       </Placemark>
       <Placemark id="SADDLEBACK JUNIOR">
         <name>SADDLEBACK JUNIOR</name>
-        <description>State: ME
-Elevation: 3655
+        <description>Elevation: 3655
 Latitude: 44.95805556
-Name: SADDLEBACK JUNIOR
 Longitude: -70.45833333
+Name: SADDLEBACK JUNIOR
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -555,11 +555,11 @@ Longitude: -70.45833333
       </Placemark>
       <Placemark id="WHITE CAP MTN">
         <name>WHITE CAP MTN</name>
-        <description>State: ME
-Elevation: 3654
+        <description>Elevation: 3654
 Latitude: 45.55444444
-Name: WHITE CAP MTN
 Longitude: -69.24722222
+Name: WHITE CAP MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -568,11 +568,11 @@ Longitude: -69.24722222
       </Placemark>
       <Placemark id="RUMP MTN">
         <name>RUMP MTN</name>
-        <description>State: ME
-Elevation: 3654
+        <description>Elevation: 3654
 Latitude: 45.20361111
-Name: RUMP MTN
 Longitude: -71.06388889
+Name: RUMP MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -581,11 +581,11 @@ Longitude: -71.06388889
       </Placemark>
       <Placemark id="KIBBY MTN">
         <name>KIBBY MTN</name>
-        <description>State: ME
-Elevation: 3654
+        <description>Elevation: 3654
 Latitude: 45.41861111
-Name: KIBBY MTN
 Longitude: -70.54472222
+Name: KIBBY MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -594,11 +594,11 @@ Longitude: -70.54472222
       </Placemark>
       <Placemark id="EAST KENNEBAGO MTN (W PK)">
         <name>EAST KENNEBAGO MTN (W PK)</name>
-        <description>State: ME
-Elevation: 3650
+        <description>Elevation: 3650
 Latitude: 45.10194444
-Name: EAST KENNEBAGO MTN (W PK)
 Longitude: -70.63888889
+Name: EAST KENNEBAGO MTN (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -607,11 +607,11 @@ Longitude: -70.63888889
       </Placemark>
       <Placemark id="CARIBOU MTN (W PK)">
         <name>CARIBOU MTN (W PK)</name>
-        <description>State: ME
-Elevation: 3650
+        <description>Elevation: 3650
 Latitude: 45.42972222
-Name: CARIBOU MTN (W PK)
 Longitude: -70.62361111
+Name: CARIBOU MTN (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -620,11 +620,11 @@ Longitude: -70.62361111
       </Placemark>
       <Placemark id="COW RIDGE">
         <name>COW RIDGE</name>
-        <description>State: ME
-Elevation: 3645
+        <description>Elevation: 3645
 Latitude: 45.19194444
-Name: COW RIDGE
 Longitude: -70.72944444
+Name: COW RIDGE
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -633,11 +633,11 @@ Longitude: -70.72944444
       </Placemark>
       <Placemark id="BOUNDARY BALD MTN">
         <name>BOUNDARY BALD MTN</name>
-        <description>State: ME
-Elevation: 3630
+        <description>Elevation: 3630
 Latitude: 45.76666667
-Name: BOUNDARY BALD MTN
 Longitude: -70.20416667
+Name: BOUNDARY BALD MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -646,11 +646,11 @@ Longitude: -70.20416667
       </Placemark>
       <Placemark id="BURNT HILL">
         <name>BURNT HILL</name>
-        <description>State: ME
-Elevation: 3609
+        <description>Elevation: 3609
 Latitude: 45.03555556
-Name: BURNT HILL
 Longitude: -70.28277778
+Name: BURNT HILL
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -659,11 +659,11 @@ Longitude: -70.28277778
       </Placemark>
       <Placemark id="BOIL MTN">
         <name>BOIL MTN</name>
-        <description>State: ME
-Elevation: 3601
+        <description>Elevation: 3601
 Latitude: 45.24305556
-Name: BOIL MTN
 Longitude: -70.73611111
+Name: BOIL MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -672,11 +672,11 @@ Longitude: -70.73611111
       </Placemark>
       <Placemark id="OLD BLUE MTN">
         <name>OLD BLUE MTN</name>
-        <description>State: ME
-Elevation: 3592
+        <description>Elevation: 3592
 Latitude: 44.74694444
-Name: OLD BLUE MTN
 Longitude: -70.76611111
+Name: OLD BLUE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -685,11 +685,11 @@ Longitude: -70.76611111
       </Placemark>
       <Placemark id="CARIBOU MTN (M PK)">
         <name>CARIBOU MTN (M PK)</name>
-        <description>State: ME
-Elevation: 3591
+        <description>Elevation: 3591
 Latitude: 45.43527778
-Name: CARIBOU MTN (M PK)
 Longitude: -70.615
+Name: CARIBOU MTN (M PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -698,11 +698,11 @@ Longitude: -70.615
       </Placemark>
       <Placemark id="BEMIS MTN">
         <name>BEMIS MTN</name>
-        <description>State: ME
-Elevation: 3590
+        <description>Elevation: 3590
 Latitude: 44.79472222
-Name: BEMIS MTN
 Longitude: -70.76861111
+Name: BEMIS MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -711,11 +711,11 @@ Longitude: -70.76861111
       </Placemark>
       <Placemark id="TUMBLEDOWN MTN">
         <name>TUMBLEDOWN MTN</name>
-        <description>State: ME
-Elevation: 3588
+        <description>Elevation: 3588
 Latitude: 45.44916667
-Name: TUMBLEDOWN MTN
 Longitude: -70.47083333
+Name: TUMBLEDOWN MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -724,11 +724,11 @@ Longitude: -70.47083333
       </Placemark>
       <Placemark id="JACKSON MTN">
         <name>JACKSON MTN</name>
-        <description>State: ME
-Elevation: 3568
+        <description>Elevation: 3568
 Latitude: 44.76222222
-Name: JACKSON MTN
 Longitude: -70.52055556
+Name: JACKSON MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -737,11 +737,11 @@ Longitude: -70.52055556
       </Placemark>
       <Placemark id="MT CARLO">
         <name>MT CARLO</name>
-        <description>State: ME
-Elevation: 3565
+        <description>Elevation: 3565
 Latitude: 44.48916667
-Name: MT CARLO
 Longitude: -71.00861111
+Name: MT CARLO
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -750,11 +750,11 @@ Longitude: -71.00861111
       </Placemark>
       <Placemark id="UNNAMED BDY PK (DENNISON BOG)">
         <name>UNNAMED BDY PK (DENNISON BOG)</name>
-        <description>State: ME
-Elevation: 3552
+        <description>Elevation: 3552
 Latitude: 45.2375
-Name: UNNAMED BDY PK (DENNISON BOG)
 Longitude: -70.83694444
+Name: UNNAMED BDY PK (DENNISON BOG)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -763,11 +763,11 @@ Longitude: -70.83694444
       </Placemark>
       <Placemark id="TRAVELER MTN, THE TRAVELER">
         <name>TRAVELER MTN, THE TRAVELER</name>
-        <description>State: ME
-Elevation: 3551
+        <description>Elevation: 3551
 Latitude: 46.07277778
-Name: TRAVELER MTN, THE TRAVELER
 Longitude: -68.845
+Name: TRAVELER MTN, THE TRAVELER
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -776,11 +776,11 @@ Longitude: -68.845
       </Placemark>
       <Placemark id="UNNAMED BDY PK BROWN (N PK)">
         <name>UNNAMED BDY PK BROWN (N PK)</name>
-        <description>State: ME
-Elevation: 3541
+        <description>Elevation: 3541
 Latitude: 45.4025
-Name: UNNAMED BDY PK BROWN (N PK)
 Longitude: -70.62194444
+Name: UNNAMED BDY PK BROWN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -789,11 +789,11 @@ Longitude: -70.62194444
       </Placemark>
       <Placemark id="TWIN MTNS">
         <name>TWIN MTNS</name>
-        <description>State: ME
-Elevation: 3536
+        <description>Elevation: 3536
 Latitude: 45.15194444
-Name: TWIN MTNS
 Longitude: -70.825
+Name: TWIN MTNS
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -802,11 +802,11 @@ Longitude: -70.825
       </Placemark>
       <Placemark id="BAKER MTN">
         <name>BAKER MTN</name>
-        <description>State: ME
-Elevation: 3521
+        <description>Elevation: 3521
 Latitude: 45.57111111
-Name: BAKER MTN
 Longitude: -69.39444444
+Name: BAKER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -815,11 +815,11 @@ Longitude: -69.39444444
       </Placemark>
       <Placemark id="UNNAMED PK RAIN (W PK)">
         <name>UNNAMED PK RAIN (W PK)</name>
-        <description>State: ME
-Elevation: 3510
+        <description>Elevation: 3510
 Latitude: 45.39805556
-Name: UNNAMED PK RAIN (W PK)
 Longitude: -70.59805556
+Name: UNNAMED PK RAIN (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -828,11 +828,11 @@ Longitude: -70.59805556
       </Placemark>
       <Placemark id="DOUBLETOP MTN">
         <name>DOUBLETOP MTN</name>
-        <description>State: ME
-Elevation: 3489
+        <description>Elevation: 3489
 Latitude: 45.93583333
-Name: DOUBLETOP MTN
 Longitude: -69.06166667
+Name: DOUBLETOP MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -841,11 +841,11 @@ Longitude: -69.06166667
       </Placemark>
       <Placemark id="MAHOOSUC MTN">
         <name>MAHOOSUC MTN</name>
-        <description>State: ME
-Elevation: 3470
+        <description>Elevation: 3470
 Latitude: 44.54888889
-Name: MAHOOSUC MTN
 Longitude: -70.98666667
+Name: MAHOOSUC MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -854,11 +854,11 @@ Longitude: -70.98666667
       </Placemark>
       <Placemark id="LITTLE JACKSON MTN">
         <name>LITTLE JACKSON MTN</name>
-        <description>State: ME
-Elevation: 3470
+        <description>Elevation: 3470
 Latitude: 44.75416667
-Name: LITTLE JACKSON MTN
 Longitude: -70.53611111
+Name: LITTLE JACKSON MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -867,11 +867,11 @@ Longitude: -70.53611111
       </Placemark>
       <Placemark id="TWIN MTNS (SW PK)">
         <name>TWIN MTNS (SW PK)</name>
-        <description>State: ME
-Elevation: 3469
+        <description>Elevation: 3469
 Latitude: 45.14305556
-Name: TWIN MTNS (SW PK)
 Longitude: -70.84527778
+Name: TWIN MTNS (SW PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -880,11 +880,11 @@ Longitude: -70.84527778
       </Placemark>
       <Placemark id="MULLEN MTN">
         <name>MULLEN MTN</name>
-        <description>State: ME
-Elevation: 3463
+        <description>Elevation: 3463
 Latitude: 45.97972222
-Name: MULLEN MTN
 Longitude: -68.97555556
+Name: MULLEN MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -893,11 +893,11 @@ Longitude: -68.97555556
       </Placemark>
       <Placemark id="BOUNDARY BALD MTN (E PK)">
         <name>BOUNDARY BALD MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3459
+        <description>Elevation: 3459
 Latitude: 45.77277778
-Name: BOUNDARY BALD MTN (E PK)
 Longitude: -70.17888889
+Name: BOUNDARY BALD MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -906,11 +906,11 @@ Longitude: -70.17888889
       </Placemark>
       <Placemark id="FULLING MILL MTN">
         <name>FULLING MILL MTN</name>
-        <description>State: ME
-Elevation: 3450
+        <description>Elevation: 3450
 Latitude: 44.53666667
-Name: FULLING MILL MTN
 Longitude: -70.98
+Name: FULLING MILL MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -919,11 +919,11 @@ Longitude: -70.98
       </Placemark>
       <Placemark id="DEER MTN">
         <name>DEER MTN</name>
-        <description>State: ME
-Elevation: 3450
+        <description>Elevation: 3450
 Latitude: 45.00472222
-Name: DEER MTN
 Longitude: -70.92444444
+Name: DEER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -932,11 +932,11 @@ Longitude: -70.92444444
       </Placemark>
       <Placemark id="UNNAMED PK BUMP (E PK)">
         <name>UNNAMED PK BUMP (E PK)</name>
-        <description>State: ME
-Elevation: 3447
+        <description>Elevation: 3447
 Latitude: 45.45694444
-Name: UNNAMED PK BUMP (E PK)
 Longitude: -70.63361111
+Name: UNNAMED PK BUMP (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -945,11 +945,11 @@ Longitude: -70.63361111
       </Placemark>
       <Placemark id="MT O-J-I">
         <name>MT O-J-I</name>
-        <description>State: ME
-Elevation: 3434
+        <description>Elevation: 3434
 Latitude: 45.92777778
-Name: MT O-J-I
 Longitude: -69.01583333
+Name: MT O-J-I
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -958,11 +958,11 @@ Longitude: -69.01583333
       </Placemark>
       <Placemark id="UNNAMED PK BUMP">
         <name>UNNAMED PK BUMP</name>
-        <description>State: ME
-Elevation: 3430
+        <description>Elevation: 3430
 Latitude: 45.45444444
-Name: UNNAMED PK BUMP
 Longitude: -70.64527778
+Name: UNNAMED PK BUMP
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -971,11 +971,11 @@ Longitude: -70.64527778
       </Placemark>
       <Placemark id="SISK MTN (N PK)">
         <name>SISK MTN (N PK)</name>
-        <description>State: ME
-Elevation: 3430
+        <description>Elevation: 3430
 Latitude: 45.37472222
-Name: SISK MTN (N PK)
 Longitude: -70.63027778
+Name: SISK MTN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -984,11 +984,11 @@ Longitude: -70.63027778
       </Placemark>
       <Placemark id="SPOTTED MTN (M PK)">
         <name>SPOTTED MTN (M PK)</name>
-        <description>State: ME
-Elevation: 3401
+        <description>Elevation: 3401
 Latitude: 45.04111111
-Name: SPOTTED MTN (M PK)
 Longitude: -70.71861111
+Name: SPOTTED MTN (M PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -997,11 +997,11 @@ Longitude: -70.71861111
       </Placemark>
       <Placemark id="ONION HILL">
         <name>ONION HILL</name>
-        <description>State: ME
-Elevation: 3392
+        <description>Elevation: 3392
 Latitude: 45.25305556
-Name: ONION HILL
 Longitude: -70.72222222
+Name: ONION HILL
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1010,11 +1010,11 @@ Longitude: -70.72222222
       </Placemark>
       <Placemark id="MT PISGAH">
         <name>MT PISGAH</name>
-        <description>State: ME
-Elevation: 3390
+        <description>Elevation: 3390
 Latitude: 45.37277778
-Name: MT PISGAH
 Longitude: -70.66361111
+Name: MT PISGAH
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1023,11 +1023,11 @@ Longitude: -70.66361111
       </Placemark>
       <Placemark id="BIGELOW MTN (HORNS POND PK)">
         <name>BIGELOW MTN (HORNS POND PK)</name>
-        <description>State: ME
-Elevation: 3390
+        <description>Elevation: 3390
 Latitude: 45.1425
-Name: BIGELOW MTN (HORNS POND PK)
 Longitude: -70.34388889
+Name: BIGELOW MTN (HORNS POND PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1036,11 +1036,11 @@ Longitude: -70.34388889
       </Placemark>
       <Placemark id="BAKER MTN (M PK)">
         <name>BAKER MTN (M PK)</name>
-        <description>State: ME
-Elevation: 3361
+        <description>Elevation: 3361
 Latitude: 45.55805556
-Name: BAKER MTN (M PK)
 Longitude: -69.38944444
+Name: BAKER MTN (M PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1049,11 +1049,11 @@ Longitude: -69.38944444
       </Placemark>
       <Placemark id="SUNDAY RIVER WHITECAP">
         <name>SUNDAY RIVER WHITECAP</name>
-        <description>State: ME
-Elevation: 3335
+        <description>Elevation: 3335
 Latitude: 44.54888889
-Name: SUNDAY RIVER WHITECAP
 Longitude: -70.89722222
+Name: SUNDAY RIVER WHITECAP
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1062,11 +1062,11 @@ Longitude: -70.89722222
       </Placemark>
       <Placemark id="MERRILL MTN">
         <name>MERRILL MTN</name>
-        <description>State: ME
-Elevation: 3330
+        <description>Elevation: 3330
 Latitude: 45.47611111
-Name: MERRILL MTN
 Longitude: -70.68777778
+Name: MERRILL MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1075,11 +1075,11 @@ Longitude: -70.68777778
       </Placemark>
       <Placemark id="NORTH TURNER MTN">
         <name>NORTH TURNER MTN</name>
-        <description>State: ME
-Elevation: 3325
+        <description>Elevation: 3325
 Latitude: 45.9725
-Name: NORTH TURNER MTN
 Longitude: -68.84444444
+Name: NORTH TURNER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1088,11 +1088,11 @@ Longitude: -68.84444444
       </Placemark>
       <Placemark id="CARIBOU MTN (E PK)">
         <name>CARIBOU MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3325
+        <description>Elevation: 3325
 Latitude: 45.44416667
-Name: CARIBOU MTN (E PK)
 Longitude: -70.6
+Name: CARIBOU MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1101,11 +1101,11 @@ Longitude: -70.6
       </Placemark>
       <Placemark id="UNNAMED BOUNDARY PK (MON. 410)">
         <name>UNNAMED BOUNDARY PK (MON. 410)</name>
-        <description>State: ME
-Elevation: 3319
+        <description>Elevation: 3319
 Latitude: 45.445
-Name: UNNAMED BOUNDARY PK (MON. 410)
 Longitude: -70.65138889
+Name: UNNAMED BOUNDARY PK (MON. 410)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1114,11 +1114,11 @@ Longitude: -70.65138889
       </Placemark>
       <Placemark id="JACKSON MTN (N PK)">
         <name>JACKSON MTN (N PK)</name>
-        <description>State: ME
-Elevation: 3319
+        <description>Elevation: 3319
 Latitude: 44.78083333
-Name: JACKSON MTN (N PK)
 Longitude: -70.52805556
+Name: JACKSON MTN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1127,11 +1127,11 @@ Longitude: -70.52805556
       </Placemark>
       <Placemark id="NUMBER SIX MTN">
         <name>NUMBER SIX MTN</name>
-        <description>State: ME
-Elevation: 3315
+        <description>Elevation: 3315
 Latitude: 45.49416667
-Name: NUMBER SIX MTN
 Longitude: -70.40861111
+Name: NUMBER SIX MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1140,11 +1140,11 @@ Longitude: -70.40861111
       </Placemark>
       <Placemark id="BAKER MTN (S PK)">
         <name>BAKER MTN (S PK)</name>
-        <description>State: ME
-Elevation: 3307
+        <description>Elevation: 3307
 Latitude: 45.55138889
-Name: BAKER MTN (S PK)
 Longitude: -69.39805556
+Name: BAKER MTN (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1153,11 +1153,11 @@ Longitude: -69.39805556
       </Placemark>
       <Placemark id="SPENCER BALE MTN">
         <name>SPENCER BALE MTN</name>
-        <description>State: ME
-Elevation: 3301
+        <description>Elevation: 3301
 Latitude: 45.41527778
-Name: SPENCER BALE MTN
 Longitude: -70.49888889
+Name: SPENCER BALE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1166,11 +1166,11 @@ Longitude: -70.49888889
       </Placemark>
       <Placemark id="SMART MTN (W PK)">
         <name>SMART MTN (W PK)</name>
-        <description>State: ME
-Elevation: 3290
+        <description>Elevation: 3290
 Latitude: 45.46888889
-Name: SMART MTN (W PK)
 Longitude: -70.62861111
+Name: SMART MTN (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1179,11 +1179,11 @@ Longitude: -70.62861111
       </Placemark>
       <Placemark id="BEAR MTN (W PK) GREEN MTN">
         <name>BEAR MTN (W PK) GREEN MTN</name>
-        <description>State: ME
-Elevation: 3290
+        <description>Elevation: 3290
 Latitude: 44.45472222
-Name: BEAR MTN (W PK) GREEN MTN
 Longitude: -70.96527778
+Name: BEAR MTN (W PK) GREEN MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1192,11 +1192,11 @@ Longitude: -70.96527778
       </Placemark>
       <Placemark id="KIBBY RANGE (N PK)">
         <name>KIBBY RANGE (N PK)</name>
-        <description>State: ME
-Elevation: 3286
+        <description>Elevation: 3286
 Latitude: 45.35222222
-Name: KIBBY RANGE (N PK)
 Longitude: -70.57694444
+Name: KIBBY RANGE (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1205,11 +1205,11 @@ Longitude: -70.57694444
       </Placemark>
       <Placemark id="LILY BAY MTN (E PK)">
         <name>LILY BAY MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3281
+        <description>Elevation: 3281
 Latitude: 45.59055556
-Name: LILY BAY MTN (E PK)
 Longitude: -69.41722222
+Name: LILY BAY MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1218,11 +1218,11 @@ Longitude: -69.41722222
       </Placemark>
       <Placemark id="SISK MTN">
         <name>SISK MTN</name>
-        <description>State: ME
-Elevation: 3270
+        <description>Elevation: 3270
 Latitude: 45.34666667
-Name: SISK MTN
 Longitude: -70.62861111
+Name: SISK MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1231,11 +1231,11 @@ Longitude: -70.62861111
       </Placemark>
       <Placemark id="CENTER RIDGE (PEAK OF THE RIDGES)">
         <name>CENTER RIDGE (PEAK OF THE RIDGES)</name>
-        <description>State: ME
-Elevation: 3254
+        <description>Elevation: 3254
 Latitude: 46.07416667
-Name: CENTER RIDGE (PEAK OF THE RIDGES)
 Longitude: -68.86861111
+Name: CENTER RIDGE (PEAK OF THE RIDGES)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1244,11 +1244,11 @@ Longitude: -68.86861111
       </Placemark>
       <Placemark id="UNNAMED PK (CUPSUPTIC POND)">
         <name>UNNAMED PK (CUPSUPTIC POND)</name>
-        <description>State: ME
-Elevation: 3250
+        <description>Elevation: 3250
 Latitude: 45.22472222
-Name: UNNAMED PK (CUPSUPTIC POND)
 Longitude: -70.91611111
+Name: UNNAMED PK (CUPSUPTIC POND)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1257,11 +1257,11 @@ Longitude: -70.91611111
       </Placemark>
       <Placemark id="SLIDE MTN">
         <name>SLIDE MTN</name>
-        <description>State: ME
-Elevation: 3250
+        <description>Elevation: 3250
 Latitude: 44.55055556
-Name: SLIDE MTN
 Longitude: -70.9225
+Name: SLIDE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1270,11 +1270,11 @@ Longitude: -70.9225
       </Placemark>
       <Placemark id="SADDLE HILL (E PK)">
         <name>SADDLE HILL (E PK)</name>
-        <description>State: ME
-Elevation: 3250
+        <description>Elevation: 3250
 Latitude: 45.34416667
-Name: SADDLE HILL (E PK)
 Longitude: -71.00194444
+Name: SADDLE HILL (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1283,11 +1283,11 @@ Longitude: -71.00194444
       </Placemark>
       <Placemark id="HAY MTN">
         <name>HAY MTN</name>
-        <description>State: ME
-Elevation: 3250
+        <description>Elevation: 3250
 Latitude: 45.5525
-Name: HAY MTN
 Longitude: -69.27222222
+Name: HAY MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1296,11 +1296,11 @@ Longitude: -69.27222222
       </Placemark>
       <Placemark id="SMART MTN">
         <name>SMART MTN</name>
-        <description>State: ME
-Elevation: 3245
+        <description>Elevation: 3245
 Latitude: 45.47277778
-Name: SMART MTN
 Longitude: -70.61055556
+Name: SMART MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1309,11 +1309,11 @@ Longitude: -70.61055556
       </Placemark>
       <Placemark id="LILY BAY MTN">
         <name>LILY BAY MTN</name>
-        <description>State: ME
-Elevation: 3234
+        <description>Elevation: 3234
 Latitude: 45.59111111
-Name: LILY BAY MTN
 Longitude: -69.43694444
+Name: LILY BAY MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1322,11 +1322,11 @@ Longitude: -69.43694444
       </Placemark>
       <Placemark id="LITTLE SPRUCE MTN">
         <name>LITTLE SPRUCE MTN</name>
-        <description>State: ME
-Elevation: 3222
+        <description>Elevation: 3222
 Latitude: 45.53722222
-Name: LITTLE SPRUCE MTN
 Longitude: -69.21722222
+Name: LITTLE SPRUCE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1335,11 +1335,11 @@ Longitude: -69.21722222
       </Placemark>
       <Placemark id="SADDLE HILL (W PK)">
         <name>SADDLE HILL (W PK)</name>
-        <description>State: ME
-Elevation: 3210
+        <description>Elevation: 3210
 Latitude: 45.3475
-Name: SADDLE HILL (W PK)
 Longitude: -71.01138889
+Name: SADDLE HILL (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1348,11 +1348,11 @@ Longitude: -71.01138889
       </Placemark>
       <Placemark id="REDINGTON POND RANGE (S PK)">
         <name>REDINGTON POND RANGE (S PK)</name>
-        <description>State: ME
-Elevation: 3210
+        <description>Elevation: 3210
 Latitude: 44.99805556
-Name: REDINGTON POND RANGE (S PK)
 Longitude: -70.41027778
+Name: REDINGTON POND RANGE (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1361,11 +1361,11 @@ Longitude: -70.41027778
       </Placemark>
       <Placemark id="FARMER MTN">
         <name>FARMER MTN</name>
-        <description>State: ME
-Elevation: 3210
+        <description>Elevation: 3210
 Latitude: 44.94694444
-Name: FARMER MTN
 Longitude: -70.33416667
+Name: FARMER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1374,11 +1374,11 @@ Longitude: -70.33416667
       </Placemark>
       <Placemark id="BIG SPENCER MTN">
         <name>BIG SPENCER MTN</name>
-        <description>State: ME
-Elevation: 3210
+        <description>Elevation: 3210
 Latitude: 45.77555556
-Name: BIG SPENCER MTN
 Longitude: -69.44361111
+Name: BIG SPENCER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1387,11 +1387,11 @@ Longitude: -69.44361111
       </Placemark>
       <Placemark id="THREE SLIDE MTN (W PK)">
         <name>THREE SLIDE MTN (W PK)</name>
-        <description>State: ME
-Elevation: 3194
+        <description>Elevation: 3194
 Latitude: 45.44277778
-Name: THREE SLIDE MTN (W PK)
 Longitude: -70.43194444
+Name: THREE SLIDE MTN (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1400,11 +1400,11 @@ Longitude: -70.43194444
       </Placemark>
       <Placemark id="BIGELOW MTN, CRANBERRY PK">
         <name>BIGELOW MTN, CRANBERRY PK</name>
-        <description>State: ME
-Elevation: 3194
+        <description>Elevation: 3194
 Latitude: 45.14083333
-Name: BIGELOW MTN, CRANBERRY PK
 Longitude: -70.38083333
+Name: BIGELOW MTN, CRANBERRY PK
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1413,11 +1413,11 @@ Longitude: -70.38083333
       </Placemark>
       <Placemark id="BIG SQUAW MTN">
         <name>BIG SQUAW MTN</name>
-        <description>State: ME
-Elevation: 3194
+        <description>Elevation: 3194
 Latitude: 45.48388889
-Name: BIG SQUAW MTN
 Longitude: -69.71194444
+Name: BIG SQUAW MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1426,11 +1426,11 @@ Longitude: -69.71194444
       </Placemark>
       <Placemark id="VAN DYKE MTN">
         <name>VAN DYKE MTN</name>
-        <description>State: ME
-Elevation: 3190
+        <description>Elevation: 3190
 Latitude: 45.49277778
-Name: VAN DYKE MTN
 Longitude: -70.67888889
+Name: VAN DYKE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1439,11 +1439,11 @@ Longitude: -70.67888889
       </Placemark>
       <Placemark id="UNNAMED PK (NORTHWEST POND)">
         <name>UNNAMED PK (NORTHWEST POND)</name>
-        <description>State: ME
-Elevation: 3190
+        <description>Elevation: 3190
 Latitude: 45.31083333
-Name: UNNAMED PK (NORTHWEST POND)
 Longitude: -70.80888889
+Name: UNNAMED PK (NORTHWEST POND)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1452,11 +1452,11 @@ Longitude: -70.80888889
       </Placemark>
       <Placemark id="SPOTTED MTN (E PK)">
         <name>SPOTTED MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3190
+        <description>Elevation: 3190
 Latitude: 45.04833333
-Name: SPOTTED MTN (E PK)
 Longitude: -70.66638889
+Name: SPOTTED MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1465,11 +1465,11 @@ Longitude: -70.66638889
       </Placemark>
       <Placemark id="MT BLUE">
         <name>MT BLUE</name>
-        <description>State: ME
-Elevation: 3190
+        <description>Elevation: 3190
 Latitude: 44.72805556
-Name: MT BLUE
 Longitude: -70.3425
+Name: MT BLUE
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1478,11 +1478,11 @@ Longitude: -70.3425
       </Placemark>
       <Placemark id="BLACK NUBBLE (W PK)">
         <name>BLACK NUBBLE (W PK)</name>
-        <description>State: ME
-Elevation: 3190
+        <description>Elevation: 3190
 Latitude: 45.01638889
-Name: BLACK NUBBLE (W PK)
 Longitude: -70.46416667
+Name: BLACK NUBBLE (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1491,11 +1491,11 @@ Longitude: -70.46416667
       </Placemark>
       <Placemark id="AZISCOHOS/LOW AZISCOHOS MTN">
         <name>AZISCOHOS/LOW AZISCOHOS MTN</name>
-        <description>State: ME
-Elevation: 3190
+        <description>Elevation: 3190
 Latitude: 44.91416667
-Name: AZISCOHOS/LOW AZISCOHOS MTN
 Longitude: -71.0025
+Name: AZISCOHOS/LOW AZISCOHOS MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1504,11 +1504,11 @@ Longitude: -71.0025
       </Placemark>
       <Placemark id="NUMBER FIVE MTN">
         <name>NUMBER FIVE MTN</name>
-        <description>State: ME
-Elevation: 3186
+        <description>Elevation: 3186
 Latitude: 45.50111111
-Name: NUMBER FIVE MTN
 Longitude: -70.38722222
+Name: NUMBER FIVE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1517,11 +1517,11 @@ Longitude: -70.38722222
       </Placemark>
       <Placemark id="WHEELER MTN">
         <name>WHEELER MTN</name>
-        <description>State: ME
-Elevation: 3183
+        <description>Elevation: 3183
 Latitude: 44.44861111
-Name: WHEELER MTN
 Longitude: -70.90972222
+Name: WHEELER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1530,11 +1530,11 @@ Longitude: -70.90972222
       </Placemark>
       <Placemark id="BLACK MTN">
         <name>BLACK MTN</name>
-        <description>State: ME
-Elevation: 3183
+        <description>Elevation: 3183
 Latitude: 45.18694444
-Name: BLACK MTN
 Longitude: -70.65861111
+Name: BLACK MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1543,11 +1543,11 @@ Longitude: -70.65861111
       </Placemark>
       <Placemark id="WEST PK">
         <name>WEST PK</name>
-        <description>State: ME
-Elevation: 3178
+        <description>Elevation: 3178
 Latitude: 45.545
-Name: WEST PK
 Longitude: -69.29638889
+Name: WEST PK
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1556,11 +1556,11 @@ Longitude: -69.29638889
       </Placemark>
       <Placemark id="BAG POND MTN">
         <name>BAG POND MTN</name>
-        <description>State: ME
-Elevation: 3173
+        <description>Elevation: 3173
 Latitude: 45.305
-Name: BAG POND MTN
 Longitude: -70.66083333
+Name: BAG POND MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1569,11 +1569,11 @@ Longitude: -70.66083333
       </Placemark>
       <Placemark id="STONEY BROOK MTN">
         <name>STONEY BROOK MTN</name>
-        <description>State: ME
-Elevation: 3170
+        <description>Elevation: 3170
 Latitude: 45.07055556
-Name: STONEY BROOK MTN
 Longitude: -70.37027778
+Name: STONEY BROOK MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1582,11 +1582,11 @@ Longitude: -70.37027778
       </Placemark>
       <Placemark id="BIG SPENCER MTN (SW PK)">
         <name>BIG SPENCER MTN (SW PK)</name>
-        <description>State: ME
-Elevation: 3170
+        <description>Elevation: 3170
 Latitude: 45.76138889
-Name: BIG SPENCER MTN (SW PK)
 Longitude: -69.46666667
+Name: BIG SPENCER MTN (SW PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1595,11 +1595,11 @@ Longitude: -69.46666667
       </Placemark>
       <Placemark id="BOUNDARY BALD MTN (W PK)">
         <name>BOUNDARY BALD MTN (W PK)</name>
-        <description>State: ME
-Elevation: 3167
+        <description>Elevation: 3167
 Latitude: 45.77916667
-Name: BOUNDARY BALD MTN (W PK)
 Longitude: -70.24
+Name: BOUNDARY BALD MTN (W PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1608,11 +1608,11 @@ Longitude: -70.24
       </Placemark>
       <Placemark id="COW RIDGE (S PK)">
         <name>COW RIDGE (S PK)</name>
-        <description>State: ME
-Elevation: 3162
+        <description>Elevation: 3162
 Latitude: 45.1725
-Name: COW RIDGE (S PK)
 Longitude: -70.74472222
+Name: COW RIDGE (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1621,11 +1621,11 @@ Longitude: -70.74472222
       </Placemark>
       <Placemark id="BLACK MTN">
         <name>BLACK MTN</name>
-        <description>State: ME
-Elevation: 3162
+        <description>Elevation: 3162
 Latitude: 44.45638889
-Name: BLACK MTN
 Longitude: -70.90972222
+Name: BLACK MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1634,11 +1634,11 @@ Longitude: -70.90972222
       </Placemark>
       <Placemark id="ROUND MTN (N PK)">
         <name>ROUND MTN (N PK)</name>
-        <description>State: ME
-Elevation: 3161
+        <description>Elevation: 3161
 Latitude: 45.27611111
-Name: ROUND MTN (N PK)
 Longitude: -70.685
+Name: ROUND MTN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1647,11 +1647,11 @@ Longitude: -70.685
       </Placemark>
       <Placemark id="BEAVER MTN">
         <name>BEAVER MTN</name>
-        <description>State: ME
-Elevation: 3159
+        <description>Elevation: 3159
 Latitude: 44.88166667
-Name: BEAVER MTN
 Longitude: -70.63944444
+Name: BEAVER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1660,11 +1660,11 @@ Longitude: -70.63944444
       </Placemark>
       <Placemark id="NORTH TRAVELER MTN">
         <name>NORTH TRAVELER MTN</name>
-        <description>State: ME
-Elevation: 3152
+        <description>Elevation: 3152
 Latitude: 46.10027778
-Name: NORTH TRAVELER MTN
 Longitude: -68.85555556
+Name: NORTH TRAVELER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1673,11 +1673,11 @@ Longitude: -68.85555556
       </Placemark>
       <Placemark id="ROUND MTN (M PK)">
         <name>ROUND MTN (M PK)</name>
-        <description>State: ME
-Elevation: 3150
+        <description>Elevation: 3150
 Latitude: 45.25972222
-Name: ROUND MTN (M PK)
 Longitude: -70.67138889
+Name: ROUND MTN (M PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1686,11 +1686,11 @@ Longitude: -70.67138889
       </Placemark>
       <Placemark id="BOSEBUCK MTN">
         <name>BOSEBUCK MTN</name>
-        <description>State: ME
-Elevation: 3150
+        <description>Elevation: 3150
 Latitude: 45.11416667
-Name: BOSEBUCK MTN
 Longitude: -71.05555556
+Name: BOSEBUCK MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1699,11 +1699,11 @@ Longitude: -71.05555556
       </Placemark>
       <Placemark id="PUZZLE MTN">
         <name>PUZZLE MTN</name>
-        <description>State: ME
-Elevation: 3142
+        <description>Elevation: 3142
 Latitude: 44.54666667
-Name: PUZZLE MTN
 Longitude: -70.78888889
+Name: PUZZLE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1712,11 +1712,11 @@ Longitude: -70.78888889
       </Placemark>
       <Placemark id="POPLAR RIDGE">
         <name>POPLAR RIDGE</name>
-        <description>State: ME
-Elevation: 3142
+        <description>Elevation: 3142
 Latitude: 44.97222222
-Name: POPLAR RIDGE
 Longitude: -70.44861111
+Name: POPLAR RIDGE
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1725,11 +1725,11 @@ Longitude: -70.44861111
       </Placemark>
       <Placemark id="BULL MTN">
         <name>BULL MTN</name>
-        <description>State: ME
-Elevation: 3136
+        <description>Elevation: 3136
 Latitude: 45.1475
-Name: BULL MTN
 Longitude: -70.87222222
+Name: BULL MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1738,11 +1738,11 @@ Longitude: -70.87222222
       </Placemark>
       <Placemark id="UNNAMED PK (LEDGE POND)">
         <name>UNNAMED PK (LEDGE POND)</name>
-        <description>State: ME
-Elevation: 3130
+        <description>Elevation: 3130
 Latitude: 44.91638889
-Name: UNNAMED PK (LEDGE POND)
 Longitude: -70.53527778
+Name: UNNAMED PK (LEDGE POND)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1751,11 +1751,11 @@ Longitude: -70.53527778
       </Placemark>
       <Placemark id="UNNAMED BDY PK (CUPSUPTIC PD)">
         <name>UNNAMED BDY PK (CUPSUPTIC PD)</name>
-        <description>State: ME
-Elevation: 3130
+        <description>Elevation: 3130
 Latitude: 45.24305556
-Name: UNNAMED BDY PK (CUPSUPTIC PD)
 Longitude: -70.89833333
+Name: UNNAMED BDY PK (CUPSUPTIC PD)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1764,11 +1764,11 @@ Longitude: -70.89833333
       </Placemark>
       <Placemark id="UNNAMED PK (CARIBOU FLOW)">
         <name>UNNAMED PK (CARIBOU FLOW)</name>
-        <description>State: ME
-Elevation: 3122
+        <description>Elevation: 3122
 Latitude: 45.41611111
-Name: UNNAMED PK (CARIBOU FLOW)
 Longitude: -70.5725
+Name: UNNAMED PK (CARIBOU FLOW)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1777,11 +1777,11 @@ Longitude: -70.5725
       </Placemark>
       <Placemark id="BIG SHANTY MTN">
         <name>BIG SHANTY MTN</name>
-        <description>State: ME
-Elevation: 3121
+        <description>Elevation: 3121
 Latitude: 45.54833333
-Name: BIG SHANTY MTN
 Longitude: -69.19527778
+Name: BIG SHANTY MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1790,11 +1790,11 @@ Longitude: -69.19527778
       </Placemark>
       <Placemark id="EAST ROYCE MTN">
         <name>EAST ROYCE MTN</name>
-        <description>State: ME
-Elevation: 3114
+        <description>Elevation: 3114
 Latitude: 44.30722222
-Name: EAST ROYCE MTN
 Longitude: -71.00611111
+Name: EAST ROYCE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1803,11 +1803,11 @@ Longitude: -71.00611111
       </Placemark>
       <Placemark id="SOUTH TURNER MTN">
         <name>SOUTH TURNER MTN</name>
-        <description>State: ME
-Elevation: 3110
+        <description>Elevation: 3110
 Latitude: 45.94111111
-Name: SOUTH TURNER MTN
 Longitude: -68.85111111
+Name: SOUTH TURNER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1816,11 +1816,11 @@ Longitude: -68.85111111
       </Placemark>
       <Placemark id="SANDY BAY MTN">
         <name>SANDY BAY MTN</name>
-        <description>State: ME
-Elevation: 3110
+        <description>Elevation: 3110
 Latitude: 45.75416667
-Name: SANDY BAY MTN
 Longitude: -70.39416667
+Name: SANDY BAY MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1829,11 +1829,11 @@ Longitude: -70.39416667
       </Placemark>
       <Placemark id="ELEPHANT MTN (E PK)">
         <name>ELEPHANT MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3110
+        <description>Elevation: 3110
 Latitude: 44.77972222
-Name: ELEPHANT MTN (E PK)
 Longitude: -70.75027778
+Name: ELEPHANT MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1842,11 +1842,11 @@ Longitude: -70.75027778
       </Placemark>
       <Placemark id="BIG SPRUCE MTN">
         <name>BIG SPRUCE MTN</name>
-        <description>State: ME
-Elevation: 3103
+        <description>Elevation: 3103
 Latitude: 45.53222222
-Name: BIG SPRUCE MTN
 Longitude: -69.24694444
+Name: BIG SPRUCE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1855,11 +1855,11 @@ Longitude: -69.24694444
       </Placemark>
       <Placemark id="TUMBLEDOWN MTN (N PK)">
         <name>TUMBLEDOWN MTN (N PK)</name>
-        <description>State: ME
-Elevation: 3090
+        <description>Elevation: 3090
 Latitude: 44.75
-Name: TUMBLEDOWN MTN (N PK)
 Longitude: -70.54916667
+Name: TUMBLEDOWN MTN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1868,11 +1868,11 @@ Longitude: -70.54916667
       </Placemark>
       <Placemark id="East Kibby">
         <name>East Kibby</name>
-        <description>State: ME
-Elevation: 3088
+        <description>Elevation: 3088
 Latitude: 45.33472222
-Name: East Kibby
 Longitude: -70.53666667
+Name: East Kibby
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1881,11 +1881,11 @@ Longitude: -70.53666667
       </Placemark>
       <Placemark id="UNNAMED PK (BARKER POND)">
         <name>UNNAMED PK (BARKER POND)</name>
-        <description>State: ME
-Elevation: 3070
+        <description>Elevation: 3070
 Latitude: 45.30583333
-Name: UNNAMED PK (BARKER POND)
 Longitude: -71.03444444
+Name: UNNAMED PK (BARKER POND)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1894,11 +1894,11 @@ Longitude: -71.03444444
       </Placemark>
       <Placemark id="LITTLE SPENCER MTN">
         <name>LITTLE SPENCER MTN</name>
-        <description>State: ME
-Elevation: 3070
+        <description>Elevation: 3070
 Latitude: 45.75833333
-Name: LITTLE SPENCER MTN
 Longitude: -69.53277778
+Name: LITTLE SPENCER MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1907,11 +1907,11 @@ Longitude: -69.53277778
       </Placemark>
       <Placemark id="LITTLE BIGELOW MTN">
         <name>LITTLE BIGELOW MTN</name>
-        <description>State: ME
-Elevation: 3070
+        <description>Elevation: 3070
 Latitude: 45.13444444
-Name: LITTLE BIGELOW MTN
 Longitude: -70.21722222
+Name: LITTLE BIGELOW MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1920,11 +1920,11 @@ Longitude: -70.21722222
       </Placemark>
       <Placemark id="COBURN MTN (E PK)">
         <name>COBURN MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3070
+        <description>Elevation: 3070
 Latitude: 45.48027778
-Name: COBURN MTN (E PK)
 Longitude: -70.11166667
+Name: COBURN MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1933,11 +1933,11 @@ Longitude: -70.11166667
       </Placemark>
       <Placemark id="TWIN PKS">
         <name>TWIN PKS</name>
-        <description>State: ME
-Elevation: 3050
+        <description>Elevation: 3050
 Latitude: 45.31333333
-Name: TWIN PKS
 Longitude: -70.98972222
+Name: TWIN PKS
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1946,11 +1946,11 @@ Longitude: -70.98972222
       </Placemark>
       <Placemark id="KIBBY RANGE (S PK)">
         <name>KIBBY RANGE (S PK)</name>
-        <description>State: ME
-Elevation: 3043
+        <description>Elevation: 3043
 Latitude: 45.32583333
-Name: KIBBY RANGE (S PK)
 Longitude: -70.58527778
+Name: KIBBY RANGE (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1959,11 +1959,11 @@ Longitude: -70.58527778
       </Placemark>
       <Placemark id="MOOSE MTN">
         <name>MOOSE MTN</name>
-        <description>State: ME
-Elevation: 3041
+        <description>Elevation: 3041
 Latitude: 45.47444444
-Name: MOOSE MTN
 Longitude: -70.58027778
+Name: MOOSE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1972,11 +1972,11 @@ Longitude: -70.58027778
       </Placemark>
       <Placemark id="BEAR MTN (E PK)">
         <name>BEAR MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3041
+        <description>Elevation: 3041
 Latitude: 44.45722222
-Name: BEAR MTN (E PK)
 Longitude: -70.93444444
+Name: BEAR MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1985,11 +1985,11 @@ Longitude: -70.93444444
       </Placemark>
       <Placemark id="PEAKED MTN">
         <name>PEAKED MTN</name>
-        <description>State: ME
-Elevation: 3037
+        <description>Elevation: 3037
 Latitude: 45.455
-Name: PEAKED MTN
 Longitude: -70.53472222
+Name: PEAKED MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -1998,11 +1998,11 @@ Longitude: -70.53472222
       </Placemark>
       <Placemark id="UNNAMED BDY PK (MASS. BOG)">
         <name>UNNAMED BDY PK (MASS. BOG)</name>
-        <description>State: ME
-Elevation: 3030
+        <description>Elevation: 3030
 Latitude: 45.32805556
-Name: UNNAMED BDY PK (MASS. BOG)
 Longitude: -70.81305556
+Name: UNNAMED BDY PK (MASS. BOG)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2011,11 +2011,11 @@ Longitude: -70.81305556
       </Placemark>
       <Placemark id="RED RIDGE">
         <name>RED RIDGE</name>
-        <description>State: ME
-Elevation: 3030
+        <description>Elevation: 3030
 Latitude: 44.61
-Name: RED RIDGE
 Longitude: -71.02277778
+Name: RED RIDGE
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2024,11 +2024,11 @@ Longitude: -71.02277778
       </Placemark>
       <Placemark id="POTATO NUBBLE">
         <name>POTATO NUBBLE</name>
-        <description>State: ME
-Elevation: 3030
+        <description>Elevation: 3030
 Latitude: 44.97805556
-Name: POTATO NUBBLE
 Longitude: -70.5025
+Name: POTATO NUBBLE
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2037,11 +2037,11 @@ Longitude: -70.5025
       </Placemark>
       <Placemark id="LEROY PEAK">
         <name>LEROY PEAK</name>
-        <description>State: ME
-Elevation: 3030
+        <description>Elevation: 3030
 Latitude: 45.44805556
-Name: LEROY PEAK
 Longitude: -70.50138889
+Name: LEROY PEAK
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2050,11 +2050,11 @@ Longitude: -70.50138889
       </Placemark>
       <Placemark id="ROUND MTN (E PK)">
         <name>ROUND MTN (E PK)</name>
-        <description>State: ME
-Elevation: 3027
+        <description>Elevation: 3027
 Latitude: 45.25805556
-Name: ROUND MTN (E PK)
 Longitude: -70.65777778
+Name: ROUND MTN (E PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2063,11 +2063,11 @@ Longitude: -70.65777778
       </Placemark>
       <Placemark id="SQUAWS BOSOM">
         <name>SQUAWS BOSOM</name>
-        <description>State: ME
-Elevation: 3026
+        <description>Elevation: 3026
 Latitude: 45.93333333
-Name: SQUAWS BOSOM
 Longitude: -69.08638889
+Name: SQUAWS BOSOM
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2076,11 +2076,11 @@ Longitude: -69.08638889
       </Placemark>
       <Placemark id="LONG MTN">
         <name>LONG MTN</name>
-        <description>State: ME
-Elevation: 3021
+        <description>Elevation: 3021
 Latitude: 44.59111111
-Name: LONG MTN
 Longitude: -70.8175
+Name: LONG MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2089,11 +2089,11 @@ Longitude: -70.8175
       </Placemark>
       <Placemark id="NUMBER SIX MTN (S PK)">
         <name>NUMBER SIX MTN (S PK)</name>
-        <description>State: ME
-Elevation: 3011
+        <description>Elevation: 3011
 Latitude: 45.47944444
-Name: NUMBER SIX MTN (S PK)
 Longitude: -70.42277778
+Name: NUMBER SIX MTN (S PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2102,11 +2102,11 @@ Longitude: -70.42277778
       </Placemark>
       <Placemark id="SPOTTED MTN (NW PK)">
         <name>SPOTTED MTN (NW PK)</name>
-        <description>State: ME
-Elevation: 3010
+        <description>Elevation: 3010
 Latitude: 45.05333333
-Name: SPOTTED MTN (NW PK)
 Longitude: -70.75444444
+Name: SPOTTED MTN (NW PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2115,11 +2115,11 @@ Longitude: -70.75444444
       </Placemark>
       <Placemark id="SPOTTED MTN (N PK)">
         <name>SPOTTED MTN (N PK)</name>
-        <description>State: ME
-Elevation: 3010
+        <description>Elevation: 3010
 Latitude: 45.05527778
-Name: SPOTTED MTN (N PK)
 Longitude: -70.74222222
+Name: SPOTTED MTN (N PK)
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2128,11 +2128,11 @@ Longitude: -70.74222222
       </Placemark>
       <Placemark id="MARBLE MTN">
         <name>MARBLE MTN</name>
-        <description>State: ME
-Elevation: 3010
+        <description>Elevation: 3010
 Latitude: 45.33388889
-Name: MARBLE MTN
 Longitude: -71.0125
+Name: MARBLE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -2141,11 +2141,11 @@ Longitude: -71.0125
       </Placemark>
       <Placemark id="BOTTLE MTN">
         <name>BOTTLE MTN</name>
-        <description>State: ME
-Elevation: 3010
+        <description>Elevation: 3010
 Latitude: 45.18333333
-Name: BOTTLE MTN
 Longitude: -70.89666667
+Name: BOTTLE MTN
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>

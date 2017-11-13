@@ -9,11 +9,11 @@
       <visibility>1</visibility>
       <Placemark id="MT DAVIS">
         <name>MT DAVIS</name>
-        <description>State: PA
-Elevation: 3213
+        <description>Elevation: 3213
 Latitude: 39.78583333
-Name: MT DAVIS
 Longitude: 79.17694444
+Name: MT DAVIS
+State: PA
 </description>
         <visibility>1</visibility>
         <Point>
@@ -22,11 +22,11 @@ Longitude: 79.17694444
       </Placemark>
       <Placemark id="BLUE KNOB">
         <name>BLUE KNOB</name>
-        <description>State: PA
-Elevation: 3130
+        <description>Elevation: 3130
 Latitude: 40.28888889
-Name: BLUE KNOB
 Longitude: 78.56333333
+Name: BLUE KNOB
+State: PA
 </description>
         <visibility>1</visibility>
         <Point>
@@ -35,11 +35,11 @@ Longitude: 78.56333333
       </Placemark>
       <Placemark id="GLADE MTN">
         <name>GLADE MTN</name>
-        <description>State: PA
-Elevation: 3089
+        <description>Elevation: 3089
 Latitude: 39.79027778
-Name: GLADE MTN
 Longitude: 79.20333333
+Name: GLADE MTN
+State: PA
 </description>
         <visibility>1</visibility>
         <Point>
@@ -48,11 +48,11 @@ Longitude: 79.20333333
       </Placemark>
       <Placemark id="BOARDMAN RIDGE">
         <name>BOARDMAN RIDGE</name>
-        <description>State: PA
-Elevation: 3032
+        <description>Elevation: 3032
 Latitude: 39.76305556
-Name: BOARDMAN RIDGE
 Longitude: 79.24777778
+Name: BOARDMAN RIDGE
+State: PA
 </description>
         <visibility>1</visibility>
         <Point>
