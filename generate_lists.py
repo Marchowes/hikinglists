@@ -186,8 +186,8 @@ class HikingList(object):
         # todo: NEED to validate sortby field is in ordered_columns!
         self.ascendingsort = False
 
-
-    def output_dir(self, filetype=None):
+    @property
+    def output_dir(self):
         """
         Output directory for any lists files created %CWD/lists/%location.
         """
@@ -195,15 +195,13 @@ class HikingList(object):
             subdir = "full"
         else:
             subdir = "abridged"
-        if filetype:
-            return '{}/lists/{}/{}/{}'.format(WORKING_DIR, self.location,
-                                              filetype, subdir)
-        else:
-            return '{}/lists/{}/{}'.format(WORKING_DIR, self.location, subdir)
+        return '{}/lists/{}/{}/{}'.format(WORKING_DIR, self.location,
+                                             self.filename, subdir)
 
-    def output_file(self, filetype=None):
+    @property
+    def output_file(self):
         """Output file without type complete with full path."""
-        return '{}/{}'.format(self.output_dir(filetype), self.filename)
+        return '{}/{}'.format(self.output_dir, self.filename)
 
     def generate_tablib_structure(self):
         """Generate tablib structure from provided object data."""
@@ -274,21 +272,21 @@ class HikingList(object):
     def write_csv(self):
         """Write CSV file."""
         filetype = 'csv'
-        make_dir_if_not_exist(self.output_dir(filetype))
-        with open('{}.csv'.format(self.output_file(filetype)), 'w') as output_csv:
+        make_dir_if_not_exist(self.output_dir)
+        with open('{}.csv'.format(self.output_file), 'w') as output_csv:
             output_csv.write(self.tablib_data.export(filetype))
 
     def write_xls(self):
         """Write XLS file."""
         filetype = 'xls'
-        make_dir_if_not_exist(self.output_dir(filetype))
-        with open('{}.xls'.format(self.output_file(filetype)), 'wb') as output_xls:
+        make_dir_if_not_exist(self.output_dir)
+        with open('{}.xls'.format(self.output_file), 'wb') as output_xls:
             output_xls.write(self.tablib_data.export(filetype))
 
     def write_kml(self):
         """Write KML file."""
         filetype = 'kml'
-        make_dir_if_not_exist(self.output_dir(filetype))
+        make_dir_if_not_exist(self.output_dir)
         # shamefully dump as JSON then unmarshal into a dict -- sigh.
         peak_dict = json.loads(self.tablib_data.export('json'))
         print(peak_dict)
@@ -314,7 +312,7 @@ class HikingList(object):
             p.geometry = Point(peak['Longitude'], peak['Latitude'])
             kmlFolder.append(p)
         d.append(kmlFolder)
-        with open('{}.kml'.format(self.output_file(filetype)), 'w') as output_kml:
+        with open('{}.kml'.format(self.output_file), 'w') as output_kml:
             output_kml.write(k.to_string(prettyprint=True))
 
 
