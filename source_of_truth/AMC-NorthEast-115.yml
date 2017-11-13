@@ -1,0 +1,22 @@
+# AMC North East 115 (NE111, or NE115)
+#
+# Authority: AMC 4000 Footer Committee
+# List Rules: New England & Catskills: Generally 200' col. ADK: 300'col or more
+# than 3/4 mile away. 4000 footers except some historic ADK peaks.
+# List contents controlled by AMC and ADK46rs
+# See http://www.amc4000footer.org/ look for Northeast 111
+#
+# This list relies entirely on imports.
+
+import:
+  - AMC-NewEngland-4000.yml
+  - ADK-46rs.yml
+  - Catskill-4000.yml
+forced_import:
+  - AMC-NH-4000.yml
+  - AMC-VT-4000.yml
+  - AMC-ME-4000.yml
+  - ADK-46rs.yml
+  - Catskill-4000.yml
+location: NorthEast
+list_name: AMC-NorthEast-115

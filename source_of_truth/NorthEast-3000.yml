@@ -12,5 +12,10 @@ import:
 - NewEngland-3000.yml
 - NY-3000.yml
 - PA-3000.yml
+forced_import:
+- NewEngland-3000.yml
+- MA-3000.yml
+- NY-3000.yml
+- PA-3000.yml
 location: NorthEast
 list_name: NorthEast-3000-Footers
