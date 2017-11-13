@@ -1,3 +1,11 @@
+# AMC New England 4000 Footers (NE67)
+#
+# Authority: AMC 4000 Footer Committee
+# List Rules: Generally 200' col. List contents controlled by AMC
+# See http://www.amc4000footer.org/
+#
+# This list relies entirely on imports.
+
 import:
   - AMC-NH-4000.yml
   - AMC-VT-4000.yml

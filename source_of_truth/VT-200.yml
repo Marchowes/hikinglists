@@ -1,8 +1,21 @@
+# Vermont 200 Highest
+#
+# Authority: self
+# List Rules: 200' col, Threshold is 200 highest peaks.
+# History: Derived from a hodgepodge of lists floating around.
+#
+# TODO:
+# - Standardize Names
+# - Ensure coordinates to 3 sig figures
+# - Validate coordinates
+# - Add Prominence
+# - Figure out if BuckBall or Baker should go.
+
 ---
 location: VT
 import:
   - VT-3000.yml
-max: 201 # Buckball & N Baker are equal.
+max: 201 # Buckball & N Baker are equal. and have the same key col
 list_name: VT-200-highest
 ordered_columns:
   - Name

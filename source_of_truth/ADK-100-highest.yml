@@ -1,3 +1,19 @@
+# Adirondack Hundred Highest (ADKHH)
+#
+# Authority: Adirondack Hundred Highest (defunct)
+# List Rules: Generally 300' col OR more than 3/4 mile between higher peaks.
+# Threshold is set at 100 peaks
+# This list inherits its ruleset from the ADK46rs and defers to it for peaks
+# Over 4000 feet.
+# There used to be an official webpage for this list but its gone. Unsure who
+# the current authority of this list is.
+#
+# TODO:
+# - Standardize /Fix Names
+# - Ensure coordinates to 3 sig figures
+# - Validate coordinates
+# - Add Prominence
+
 ---
 location: NY
 import:
