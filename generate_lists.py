@@ -109,6 +109,8 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
         if explicit_columns and not hiking_list.get('ordered_columns', None):
             raise('Can only use "only_use_explicit_ordered_columns" when'
                   ' ordered_columns is specified! in {}'.format(truth_file))
+        # peakcount workaround.
+        peakcountlist = list()
 
         # If this yaml file is loaded first and standalone is turned off and
         # cascading is turned off, then return an empty list.
@@ -132,6 +134,20 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
                 imported_list = generate_import(forced_imported_resource)
                 imported_list_peaks = load_yaml(imported_list, cascading=False)
                 peaks = peaks + imported_list_peaks
+        # if we've got no cascading, and we've got a max limit set, we need to
+        # load all the imports and conjure up a length.
+        if first and not cascading and maximum:
+            for imported_resource in imported_resources:
+                imported_list = generate_import(imported_resource)
+                # if the imported list was already explored
+                # then we have an import loop! fuck! Throw error and Bail!
+                if imported_list in explored_files:
+                    raise Exception("Import Cycle {} located in "
+                                    "{}".format(explored_files, truth_file))
+                imported_list_peaks = load_yaml(imported_list,
+                                                explored_files=explored_files)
+                peakcountlist = peakcountlist + imported_list_peaks
+
         # Make sure our manditory columns are present for every peak.
         validate_columns(peaks, truth_file)
         if first:
@@ -139,12 +155,27 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
                               filename, standalone, cascading,
                               maximum=maximum, sortby=sortby,
                               explicit_columns=explicit_columns,
-                              ordered_columns=ordered_columns)
+                              ordered_columns=ordered_columns,
+                              peakcountlist=peakcountlist)
         # end of recursion, remove truth_file from explored list. Tree
         # redundancy is taken care of in the HikingList Object by
         # self.remove_duplicate_peaks()
         explored_files.remove(truth_file)
         return peaks
+
+
+def import_recursion(imported_resources):
+    for imported_resource in imported_resources:
+        imported_list = generate_import(imported_resource)
+        # if the imported list was already explored
+        # then we have an import loop! fuck! Throw error and Bail!
+        if imported_list in explored_files:
+            raise Exception("Import Cycle {} located in "
+                            "{}".format(explored_files, truth_file))
+        imported_list_peaks = load_yaml(imported_list,
+                                        explored_files=explored_files)
+        return imported_list_peaks
+
 
 def generate_import(imported_resource):
     """Produces full path yml file import."""
@@ -173,7 +204,7 @@ def make_dir_if_not_exist(directory):
 class HikingList(object):
     def __init__(self, peaks, location, filename, standalone, cascading,
                  ordered_columns=[], maximum=0, sortby='Elevation',
-                 explicit_columns=False):
+                 explicit_columns=False, peakcountlist=[]):
         self.peaks = peaks
         self.maximum = maximum
         self.location = location
@@ -183,8 +214,8 @@ class HikingList(object):
         self.ordered_columns = ordered_columns
         self.sortby = sortby
         self.explicit_columns = explicit_columns
-        # todo: NEED to validate sortby field is in ordered_columns!
         self.ascendingsort = False
+        self.peakcountlist = peakcountlist
 
     @property
     def output_dir(self):
@@ -213,11 +244,32 @@ class HikingList(object):
         self.remove_duplicate_peaks()
         # sort the peaks list
         self.sort_by()
+        # test
+        self.calculate_abridge_peak_list_length()
         # trim the peaks list
         self.trim_by_maximum()
         # validate columns, compare against what was passed in.
         self.format_data_structure()
         print(self.tablib_data)
+
+    def calculate_abridge_peak_list_length(self):
+        """
+        Changes the maximum to work with abridged lists
+        This is achieved by first calculating the total number of unique
+        imported peaks as a set of the entire peak set. Then subtracting that
+        from the set maximum to find the accurate difference for the abridged
+        set.
+        """
+        if self.maximum and self.peakcountlist:
+            uniqueImportedPeaks = [dict(t) for t in set(
+                                  [tuple(d.items()) for d in self.peakcountlist])]
+            uniqueProperPeaks = [dict(t) for t in set(
+                                [tuple(d.items()) for d in self.peaks])]
+            uniqueAllPeaks = [dict(t) for t in set(
+                             [tuple(d.items()) for d in uniqueProperPeaks + uniqueImportedPeaks])]
+            importLth = len(uniqueAllPeaks) - len(uniqueProperPeaks)
+            abridgedLth = self.maximum - importLth
+            self.maximum = abridgedLth
 
     def remove_duplicate_peaks(self):
         """Remove all duplicate peak entries. Does not preserve ordering."""
@@ -267,7 +319,8 @@ class HikingList(object):
                 columnized_data.append(peak.get(ordered_column_name, ""))
             tablib_data.append(columnized_data)
         self.tablib_data = tablib.Dataset(*tablib_data,
-                                          headers=self.ordered_columns)
+                                          headers=self.ordered_columns,
+                                          title=self.filename)
 
     def write_csv(self):
         """Write CSV file."""
@@ -289,7 +342,6 @@ class HikingList(object):
         make_dir_if_not_exist(self.output_dir)
         # shamefully dump as JSON then unmarshal into a dict -- sigh.
         peak_dict = json.loads(self.tablib_data.export('json'))
-        print(peak_dict)
 
         k = kml.KML()
         ns = '{http://www.opengis.net/kml/2.2}'
