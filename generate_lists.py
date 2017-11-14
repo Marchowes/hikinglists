@@ -285,16 +285,6 @@ class HikingList(object):
             self.startingpoint = importLth + 1
             if self.maximum:
                 self.maximum = abridgedLth
-            if len(uniqueAllPeaks) == 594:
-                print("\n\n\n\n{}".format(uniqueAllPeaks))
-                print("\n\n\n\n{}".format(uniqueProperPeaks))
-                print("\n\n\n\n{}".format(uniqueImportedPeaks))
-            print("uniqueImportedPeaks: {}".format(len(uniqueImportedPeaks)))
-            print("uniqueProperPeaks: {}".format(len(uniqueProperPeaks)))
-            print("uniqueAllPeaks: {}".format(len(uniqueAllPeaks)))
-            print("Import Lth: {}".format(importLth))
-            print("Abridged Lth: {}".format(abridgedLth))
-            print("startingpoint: {}".format(self.startingpoint))
 
     def generate_autogen_columns(self):
         for agc in self.autogen_columns:
