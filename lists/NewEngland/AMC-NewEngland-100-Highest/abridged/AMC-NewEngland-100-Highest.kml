@@ -1,0 +1,474 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="AMC-NewEngland-100-Highest">
+    <name>AMC-NewEngland-100-Highest</name>
+    <description>pinmap for AMC-NewEngland-100-Highest</description>
+    <visibility>1</visibility>
+    <Folder id="AMC-NewEngland-100-Highest">
+      <name>AMC-NewEngland-100-Highest</name>
+      <description>kml map of list points for AMC-NewEngland-100-Highest</description>
+      <visibility>1</visibility>
+      <Placemark id="SANDWICH MTN">
+        <name>SANDWICH MTN</name>
+        <description>Elevation: 3980
+Latitude: 43.90027778
+Longitude: -71.49861111
+Name: SANDWICH MTN
+Rank: 68
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.498611,43.900278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SOUTH BROTHER">
+        <name>SOUTH BROTHER</name>
+        <description>Elevation: 3970
+Latitude: 45.94416667
+Longitude: -69.00222222
+Name: SOUTH BROTHER
+Rank: 69
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.002222,45.944167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SNOW MTN">
+        <name>SNOW MTN</name>
+        <description>Elevation: 3960
+Latitude: 45.29138889
+Longitude: -70.70972222
+Name: SNOW MTN
+Rank: 70
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.709722,45.291389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PICO PK">
+        <name>PICO PK</name>
+        <description>Elevation: 3957
+Latitude: 43.63944444
+Longitude: -72.83694444
+Name: PICO PK
+Rank: 71
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.836944,43.639444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE BULGE">
+        <name>THE BULGE</name>
+        <description>Elevation: 3950
+Latitude: 44.51444444
+Longitude: -71.40861111
+Name: THE BULGE
+Rank: 72
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.408611,44.514444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="STRATTON MTN">
+        <name>STRATTON MTN</name>
+        <description>Elevation: 3940
+Latitude: 43.08611111
+Longitude: -72.92555556
+Name: STRATTON MTN
+Rank: 73
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.925556,43.086111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT NANCY">
+        <name>MT NANCY</name>
+        <description>Elevation: 3926
+Latitude: 44.12222222
+Longitude: -71.405
+Name: MT NANCY
+Rank: 74
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.405000,44.122222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE HORN">
+        <name>THE HORN</name>
+        <description>Elevation: 3905
+Latitude: 44.51777778
+Longitude: -71.40055556
+Name: THE HORN
+Rank: 75
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.400556,44.517778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WEEKS (N PK)">
+        <name>MT WEEKS (N PK)</name>
+        <description>Elevation: 3901
+Latitude: 44.46138889
+Longitude: -71.38222222
+Name: MT WEEKS (N PK)
+Rank: 76
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.382222,44.461389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WEEKS (S PK)">
+        <name>MT WEEKS (S PK)</name>
+        <description>Elevation: 3885
+Latitude: 44.44222222
+Longitude: -71.38888889
+Name: MT WEEKS (S PK)
+Rank: 77
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.388889,44.442222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="GOOSE EYE MTN">
+        <name>GOOSE EYE MTN</name>
+        <description>Elevation: 3870
+Latitude: 44.50277778
+Longitude: -71
+Name: GOOSE EYE MTN
+Rank: 78
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.000000,44.502778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="FORT MTN">
+        <name>FORT MTN</name>
+        <description>Elevation: 3867
+Latitude: 45.96194444
+Longitude: -68.97527778
+Name: FORT MTN
+Rank: 79
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-68.975278,45.961944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="VOSE SPUR">
+        <name>VOSE SPUR</name>
+        <description>Elevation: 3862
+Latitude: 44.10277778
+Longitude: -71.435
+Name: VOSE SPUR
+Rank: 80
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.435000,44.102778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THE SLEEPERS (E PK)">
+        <name>THE SLEEPERS (E PK)</name>
+        <description>Elevation: 3860
+Latitude: 43.94666667
+Longitude: -71.42583333
+Name: THE SLEEPERS (E PK)
+Rank: 81
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.425833,43.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="JAY PK">
+        <name>JAY PK</name>
+        <description>Elevation: 3858
+Latitude: 44.92444444
+Longitude: -72.52638889
+Name: JAY PK
+Rank: 82
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.526389,44.924444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WHITE CAP MTN">
+        <name>WHITE CAP MTN</name>
+        <description>Elevation: 3856
+Latitude: 45.23611111
+Longitude: -70.81833333
+Name: WHITE CAP MTN
+Rank: 83
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.818333,45.236111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PANTHER">
+        <name>PANTHER</name>
+        <description>Elevation: 3855
+Latitude: 45.26722222
+Longitude: -70.84166667
+Name: PANTHER
+Rank: 84
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.841667,45.267222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="EQUINOX MTN">
+        <name>EQUINOX MTN</name>
+        <description>Elevation: 3850
+Latitude: 43.16583333
+Longitude: -73.11805556
+Name: EQUINOX MTN
+Rank: 85
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.118056,43.165833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MENDON PK">
+        <name>MENDON PK</name>
+        <description>Elevation: 3840
+Latitude: 43.595
+Longitude: -72.84666667
+Name: MENDON PK
+Rank: 86
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.846667,43.595000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BREAD LOAF MTN">
+        <name>BREAD LOAF MTN</name>
+        <description>Elevation: 3835
+Latitude: 44.00194444
+Longitude: -72.94166667
+Name: BREAD LOAF MTN
+Rank: 87
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.941667,44.001944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PEAK ABOVE THE NUBBLE">
+        <name>PEAK ABOVE THE NUBBLE</name>
+        <description>Elevation: 3813
+Latitude: 44.22277778
+Longitude: -71.56194444
+Name: PEAK ABOVE THE NUBBLE
+Rank: 88
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.561944,44.222778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BIGELOW MTN, THE HORNS (S PK)">
+        <name>BIGELOW MTN, THE HORNS (S PK)</name>
+        <description>Elevation: 3805
+Latitude: 45.145
+Longitude: -70.32361111
+Name: BIGELOW MTN, THE HORNS (S PK)
+Rank: 89
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.323611,45.145000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT COE">
+        <name>MT COE</name>
+        <description>Elevation: 3795
+Latitude: 45.93361111
+Longitude: -69.00944444
+Name: MT COE
+Rank: 90
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.009444,45.933611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="EAST KENNEBAGO MTN">
+        <name>EAST KENNEBAGO MTN</name>
+        <description>Elevation: 3791
+Latitude: 45.12166667
+Longitude: -70.6
+Name: EAST KENNEBAGO MTN
+Rank: 91
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.600000,45.121667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WILSON">
+        <name>MT WILSON</name>
+        <description>Elevation: 3790
+Latitude: 44.00472222
+Longitude: -72.92611111
+Name: MT WILSON
+Rank: 92
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.926111,44.004722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALDPATE MTN, E PK">
+        <name>BALDPATE MTN, E PK</name>
+        <description>Elevation: 3790
+Latitude: 44.60916667
+Longitude: -70.89277778
+Name: BALDPATE MTN, E PK
+Rank: 93
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.892778,44.609167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BIG JAY">
+        <name>BIG JAY</name>
+        <description>Elevation: 3786
+Latitude: 44.915
+Longitude: -72.54111111
+Name: BIG JAY
+Rank: 94
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.541111,44.915000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SNOW MTN">
+        <name>SNOW MTN</name>
+        <description>Elevation: 3784
+Latitude: 45.16916667
+Longitude: -70.82722222
+Name: SNOW MTN
+Rank: 95
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.827222,45.169167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="KENNEBAGO DIVIDE (N PK)">
+        <name>KENNEBAGO DIVIDE (N PK)</name>
+        <description>Elevation: 3775
+Latitude: 45.2225
+Longitude: -70.81611111
+Name: KENNEBAGO DIVIDE (N PK)
+Rank: 96
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.816111,45.222500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SCAR RIDGE (W PK)">
+        <name>SCAR RIDGE (W PK)</name>
+        <description>Elevation: 3774
+Latitude: 44.02916667
+Longitude: -71.59583333
+Name: SCAR RIDGE (W PK)
+Rank: 97
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.595833,44.029167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ELEPHANT MTN">
+        <name>ELEPHANT MTN</name>
+        <description>Elevation: 3772
+Latitude: 44.76805556
+Longitude: -70.78222222
+Name: ELEPHANT MTN
+Rank: 98
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.782222,44.768056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DORSET PK">
+        <name>DORSET PK</name>
+        <description>Elevation: 3770
+Latitude: 43.30916667
+Longitude: -73.02861111
+Name: DORSET PK
+Rank: 99
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.028611,43.309167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CANNON BALLS (NE PK)">
+        <name>CANNON BALLS (NE PK)</name>
+        <description>Elevation: 3769
+Latitude: 44.15
+Longitude: -71.71055556
+Name: CANNON BALLS (NE PK)
+Rank: 100
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.710556,44.150000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

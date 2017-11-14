@@ -1,0 +1,68 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="PA-3000-Footers">
+    <name>PA-3000-Footers</name>
+    <description>pinmap for PA-3000-Footers</description>
+    <visibility>1</visibility>
+    <Folder id="PA-3000-Footers">
+      <name>PA-3000-Footers</name>
+      <description>kml map of list points for PA-3000-Footers</description>
+      <visibility>1</visibility>
+      <Placemark id="MT DAVIS">
+        <name>MT DAVIS</name>
+        <description>Elevation: 3213
+Latitude: 39.78583333
+Longitude: 79.17694444
+Name: MT DAVIS
+Rank: 1
+State: PA
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>79.176944,39.785833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLUE KNOB">
+        <name>BLUE KNOB</name>
+        <description>Elevation: 3130
+Latitude: 40.28888889
+Longitude: 78.56333333
+Name: BLUE KNOB
+Rank: 2
+State: PA
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>78.563333,40.288889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="GLADE MTN">
+        <name>GLADE MTN</name>
+        <description>Elevation: 3089
+Latitude: 39.79027778
+Longitude: 79.20333333
+Name: GLADE MTN
+Rank: 3
+State: PA
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>79.203333,39.790278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BOARDMAN RIDGE">
+        <name>BOARDMAN RIDGE</name>
+        <description>Elevation: 3032
+Latitude: 39.76305556
+Longitude: 79.24777778
+Name: BOARDMAN RIDGE
+Rank: 4
+State: PA
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>79.247778,39.763056</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
