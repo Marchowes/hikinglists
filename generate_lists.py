@@ -11,7 +11,7 @@ from shapely.geometry import Point
 WORKING_DIR = os.getcwd()
 SOT = "source_of_truth"
 REQUIRED_COLUMNS = ['Name', 'Elevation', 'Latitude', 'Longitude']
-VALID_AUTOGEN_COLUMNS = ['Rank']
+VALID_AUTOGEN_COLUMNS = ['Rank', 'Meters']
 
 def main():
     """Main function."""
@@ -293,6 +293,8 @@ class HikingList(object):
                 continue
             if agc == "Rank":
                 self.autogen_rank()
+            if agc == "Meters":
+                self.autogen_metric()
 
     def autogen_rank(self):
         """
@@ -301,11 +303,19 @@ class HikingList(object):
         to be very very sad.
         """
         # Stick rank at the front of the list if its not already there.
-        if "Rank" not in self.ordered_columns:
-            self.ordered_columns.insert(0, "Rank")
+        if 'Rank' not in self.ordered_columns:
+            self.ordered_columns.insert(0, 'Rank')
         for index, peak in enumerate(self.peaks):
             peak['Rank'] = index + self.startingpoint
 
+    def autogen_metric(self):
+        """
+        Generate a Metric Elevation column.
+        """
+        if 'Meters' not in self.ordered_columns:
+            self.ordered_columns.append('Meters')
+        for peak in self.peaks:
+            peak['Meters'] = round(peak['Elevation'] * 0.3048)
 
     def remove_duplicate_peaks(self):
         """Remove all duplicate peak entries. Does not preserve ordering."""
