@@ -13,6 +13,7 @@
 Latitude: 45.90416667
 Longitude: -68.92194444
 Name: MT KATAHDIN (BAXTER PK)
+Rank: 1
 State: ME
 </description>
         <visibility>1</visibility>
@@ -26,6 +27,7 @@ State: ME
 Latitude: 45.92416667
 Longitude: -68.92833333
 Name: MT KATAHDIN (HAMLIN PK)
+Rank: 2
 State: ME
 </description>
         <visibility>1</visibility>
@@ -39,6 +41,7 @@ State: ME
 Latitude: 45.03166667
 Longitude: -70.31361111
 Name: SUGARLOAF MTN
+Rank: 3
 State: ME
 </description>
         <visibility>1</visibility>
@@ -52,6 +55,7 @@ State: ME
 Latitude: 45.04694444
 Longitude: -70.38333333
 Name: CROCKER MTN
+Rank: 4
 State: ME
 </description>
         <visibility>1</visibility>
@@ -65,6 +69,7 @@ State: ME
 Latitude: 44.57083333
 Longitude: -70.95416667
 Name: OLD SPECK MTN
+Rank: 5
 State: ME
 </description>
         <visibility>1</visibility>
@@ -78,6 +83,7 @@ State: ME
 Latitude: 45.95694444
 Longitude: -68.98583333
 Name: NORTH BROTHER
+Rank: 6
 State: ME
 </description>
         <visibility>1</visibility>
@@ -91,6 +97,7 @@ State: ME
 Latitude: 45.14666667
 Longitude: -70.28861111
 Name: BIGELOW MTN (WEST PK)
+Rank: 7
 State: ME
 </description>
         <visibility>1</visibility>
@@ -104,6 +111,7 @@ State: ME
 Latitude: 44.93638889
 Longitude: -70.505
 Name: SADDLEBACK MTN
+Rank: 8
 State: ME
 </description>
         <visibility>1</visibility>
@@ -117,6 +125,7 @@ State: ME
 Latitude: 45.14666667
 Longitude: -70.27583333
 Name: BIGELOW MTN (AVERY PK)
+Rank: 9
 State: ME
 </description>
         <visibility>1</visibility>
@@ -130,6 +139,7 @@ State: ME
 Latitude: 45.03611111
 Longitude: -70.37638889
 Name: SOUTH CROCKER MTN
+Rank: 10
 State: ME
 </description>
         <visibility>1</visibility>
@@ -143,6 +153,7 @@ State: ME
 Latitude: 44.97277778
 Longitude: -70.32694444
 Name: MT ABRAHAM
+Rank: 11
 State: ME
 </description>
         <visibility>1</visibility>
@@ -156,6 +167,7 @@ State: ME
 Latitude: 44.95111111
 Longitude: -70.4875
 Name: SADDLEBACK MTN THE HORN
+Rank: 12
 State: ME
 </description>
         <visibility>1</visibility>
@@ -169,6 +181,7 @@ State: ME
 Latitude: 45.00277778
 Longitude: -70.33388889
 Name: SPAULDING MTN
+Rank: 13
 State: ME
 </description>
         <visibility>1</visibility>
@@ -182,6 +195,7 @@ State: ME
 Latitude: 45.025
 Longitude: -70.38916667
 Name: MT REDINGTON
+Rank: 14
 State: ME
 </description>
         <visibility>1</visibility>

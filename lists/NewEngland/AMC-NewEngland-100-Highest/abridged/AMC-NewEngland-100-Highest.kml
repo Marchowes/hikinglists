@@ -13,6 +13,7 @@
 Latitude: 43.90027778
 Longitude: -71.49861111
 Name: SANDWICH MTN
+Rank: 68
 State: NH
 </description>
         <visibility>1</visibility>
@@ -26,6 +27,7 @@ State: NH
 Latitude: 45.94416667
 Longitude: -69.00222222
 Name: SOUTH BROTHER
+Rank: 69
 State: ME
 </description>
         <visibility>1</visibility>
@@ -39,6 +41,7 @@ State: ME
 Latitude: 45.29138889
 Longitude: -70.70972222
 Name: SNOW MTN
+Rank: 70
 State: ME
 </description>
         <visibility>1</visibility>
@@ -52,6 +55,7 @@ State: ME
 Latitude: 43.63944444
 Longitude: -72.83694444
 Name: PICO PK
+Rank: 71
 State: VT
 </description>
         <visibility>1</visibility>
@@ -65,6 +69,7 @@ State: VT
 Latitude: 44.51444444
 Longitude: -71.40861111
 Name: THE BULGE
+Rank: 72
 State: NH
 </description>
         <visibility>1</visibility>
@@ -78,6 +83,7 @@ State: NH
 Latitude: 43.08611111
 Longitude: -72.92555556
 Name: STRATTON MTN
+Rank: 73
 State: VT
 </description>
         <visibility>1</visibility>
@@ -91,6 +97,7 @@ State: VT
 Latitude: 44.12222222
 Longitude: -71.405
 Name: MT NANCY
+Rank: 74
 State: NH
 </description>
         <visibility>1</visibility>
@@ -104,6 +111,7 @@ State: NH
 Latitude: 44.51777778
 Longitude: -71.40055556
 Name: THE HORN
+Rank: 75
 State: NH
 </description>
         <visibility>1</visibility>
@@ -117,6 +125,7 @@ State: NH
 Latitude: 44.46138889
 Longitude: -71.38222222
 Name: MT WEEKS (N PK)
+Rank: 76
 State: NH
 </description>
         <visibility>1</visibility>
@@ -130,6 +139,7 @@ State: NH
 Latitude: 44.44222222
 Longitude: -71.38888889
 Name: MT WEEKS (S PK)
+Rank: 77
 State: NH
 </description>
         <visibility>1</visibility>
@@ -143,6 +153,7 @@ State: NH
 Latitude: 44.50277778
 Longitude: -71
 Name: GOOSE EYE MTN
+Rank: 78
 State: ME
 </description>
         <visibility>1</visibility>
@@ -156,6 +167,7 @@ State: ME
 Latitude: 45.96194444
 Longitude: -68.97527778
 Name: FORT MTN
+Rank: 79
 State: ME
 </description>
         <visibility>1</visibility>
@@ -169,6 +181,7 @@ State: ME
 Latitude: 44.10277778
 Longitude: -71.435
 Name: VOSE SPUR
+Rank: 80
 State: NH
 </description>
         <visibility>1</visibility>
@@ -182,6 +195,7 @@ State: NH
 Latitude: 43.94666667
 Longitude: -71.42583333
 Name: THE SLEEPERS (E PK)
+Rank: 81
 State: NH
 </description>
         <visibility>1</visibility>
@@ -195,6 +209,7 @@ State: NH
 Latitude: 44.92444444
 Longitude: -72.52638889
 Name: JAY PK
+Rank: 82
 State: VT
 </description>
         <visibility>1</visibility>
@@ -208,6 +223,7 @@ State: VT
 Latitude: 45.23611111
 Longitude: -70.81833333
 Name: WHITE CAP MTN
+Rank: 83
 State: ME
 </description>
         <visibility>1</visibility>
@@ -221,6 +237,7 @@ State: ME
 Latitude: 45.26722222
 Longitude: -70.84166667
 Name: PANTHER
+Rank: 84
 State: ME
 </description>
         <visibility>1</visibility>
@@ -234,6 +251,7 @@ State: ME
 Latitude: 43.16583333
 Longitude: -73.11805556
 Name: EQUINOX MTN
+Rank: 85
 State: VT
 </description>
         <visibility>1</visibility>
@@ -247,6 +265,7 @@ State: VT
 Latitude: 43.595
 Longitude: -72.84666667
 Name: MENDON PK
+Rank: 86
 State: VT
 </description>
         <visibility>1</visibility>
@@ -260,6 +279,7 @@ State: VT
 Latitude: 44.00194444
 Longitude: -72.94166667
 Name: BREAD LOAF MTN
+Rank: 87
 State: VT
 </description>
         <visibility>1</visibility>
@@ -273,6 +293,7 @@ State: VT
 Latitude: 44.22277778
 Longitude: -71.56194444
 Name: PEAK ABOVE THE NUBBLE
+Rank: 88
 State: NH
 </description>
         <visibility>1</visibility>
@@ -286,6 +307,7 @@ State: NH
 Latitude: 45.145
 Longitude: -70.32361111
 Name: BIGELOW MTN, THE HORNS (S PK)
+Rank: 89
 State: ME
 </description>
         <visibility>1</visibility>
@@ -299,6 +321,7 @@ State: ME
 Latitude: 45.93361111
 Longitude: -69.00944444
 Name: MT COE
+Rank: 90
 State: ME
 </description>
         <visibility>1</visibility>
@@ -312,6 +335,7 @@ State: ME
 Latitude: 45.12166667
 Longitude: -70.6
 Name: EAST KENNEBAGO MTN
+Rank: 91
 State: ME
 </description>
         <visibility>1</visibility>
@@ -325,6 +349,7 @@ State: ME
 Latitude: 44.00472222
 Longitude: -72.92611111
 Name: MT WILSON
+Rank: 92
 State: VT
 </description>
         <visibility>1</visibility>
@@ -338,6 +363,7 @@ State: VT
 Latitude: 44.60916667
 Longitude: -70.89277778
 Name: BALDPATE MTN, E PK
+Rank: 93
 State: ME
 </description>
         <visibility>1</visibility>
@@ -351,6 +377,7 @@ State: ME
 Latitude: 44.915
 Longitude: -72.54111111
 Name: BIG JAY
+Rank: 94
 State: VT
 </description>
         <visibility>1</visibility>
@@ -364,6 +391,7 @@ State: VT
 Latitude: 45.16916667
 Longitude: -70.82722222
 Name: SNOW MTN
+Rank: 95
 State: ME
 </description>
         <visibility>1</visibility>
@@ -377,6 +405,7 @@ State: ME
 Latitude: 45.2225
 Longitude: -70.81611111
 Name: KENNEBAGO DIVIDE (N PK)
+Rank: 96
 State: ME
 </description>
         <visibility>1</visibility>
@@ -390,6 +419,7 @@ State: ME
 Latitude: 44.02916667
 Longitude: -71.59583333
 Name: SCAR RIDGE (W PK)
+Rank: 97
 State: NH
 </description>
         <visibility>1</visibility>
@@ -403,6 +433,7 @@ State: NH
 Latitude: 44.76805556
 Longitude: -70.78222222
 Name: ELEPHANT MTN
+Rank: 98
 State: ME
 </description>
         <visibility>1</visibility>
@@ -416,6 +447,7 @@ State: ME
 Latitude: 43.30916667
 Longitude: -73.02861111
 Name: DORSET PK
+Rank: 99
 State: VT
 </description>
         <visibility>1</visibility>
@@ -429,6 +461,7 @@ State: VT
 Latitude: 44.15
 Longitude: -71.71055556
 Name: CANNON BALLS (NE PK)
+Rank: 100
 State: NH
 </description>
         <visibility>1</visibility>
