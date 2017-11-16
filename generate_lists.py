@@ -98,6 +98,11 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
         maximum = hiking_list.get('max', 0)
         validate_type("max Value", maximum, truth_file, int)
 
+        # Gather "prominence_style" bool and validate
+        prominence_style = hiking_list.get('prominence_style', False)
+        validate_type("prominence_style Bool", prominence_style,
+                      truth_file, int)
+
         # Gather "sortby" column name string and validate
         sortby = hiking_list.get('sortby', 'Elevation')
         validate_type("sortby Column", sortby, truth_file, str)
@@ -192,7 +197,8 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
                               explicit_columns=explicit_columns,
                               ordered_columns=ordered_columns,
                               peakcountlist=peakcountlist,
-                              autogen_columns=autogen_columns)
+                              autogen_columns=autogen_columns,
+                              prominence_style=prominence_style)
         # end of recursion, remove truth_file from explored list. Tree
         # redundancy is taken care of in the HikingList Object by
         # self.remove_duplicate_peaks()
@@ -242,7 +248,8 @@ def validate_type(message, value, truth_file, vartype):
 class HikingList(object):
     def __init__(self, peaks, location, filename, standalone, cascading,
                  ordered_columns=[], maximum=0, sortby='Elevation',
-                 explicit_columns=False, peakcountlist=[], autogen_columns=[]):
+                 explicit_columns=False, peakcountlist=[], autogen_columns=[],
+                 prominence_style=False):
         self.peaks = peaks
         self.maximum = maximum
         self.location = location
@@ -256,6 +263,7 @@ class HikingList(object):
         self.ascendingsort = False
         self.startingpoint = 1
         self.peakcountlist = peakcountlist
+        self.prominence_style = prominence_style
 
     @property
     def output_dir(self):
@@ -303,6 +311,8 @@ class HikingList(object):
         from the set maximum to find the accurate difference for the abridged
         set.
         """
+        if self.prominence_style:
+            return
         if self.peakcountlist:
             uniqueImportedPeaks = [dict(t) for t in set(frozenset(d.items())
                                    for d in self.peakcountlist)]
@@ -381,6 +391,24 @@ class HikingList(object):
         """
         Return list of peaks sorted by requested field in requested order.
         """
+        # If sorting by a non required column, figure out the datatype in case
+        # we need to backfill.
+        column_null_data = ""
+        if self.sortby not in REQUIRED_COLUMNS:
+            for peak in self.peaks:
+                example_value = peak.get(self.sortby, None)
+                if example_value:
+                    if isinstance(example_value, int):
+                        column_null_data = 0
+                    elif isinstance(example_value, str):
+                        column_null_data = ""
+                    else:
+                        raise Exception("Discovered sortable field "
+                                        "must be string, or integer")
+            for peak in self.peaks:
+                if not peak.get(self.sortby, None):
+                    peak[self.sortby] = column_null_data
+
         self.peaks = sorted(self.peaks, key=itemgetter("Name"),
                             reverse=not self.ascendingsort)
         self.peaks = sorted(self.peaks, key=itemgetter(self.sortby),
