@@ -30,18 +30,21 @@ peaks:
     Latitude: 43.08611111
     Longitude: -72.92555556
     State: VT
+    Prominence: 2410
 -
     Name: JAY PK
     Elevation: 3858
     Latitude: 44.92444444
     Longitude: -72.52638889
     State: VT
+    Prominence: 2975
 -
     Name: EQUINOX MTN
     Elevation: 3850
     Latitude: 43.16583333
     Longitude: -73.11805556
     State: VT
+    Prominence: 3060
 -
     Name: MENDON PK
     Elevation: 3840
@@ -72,6 +75,7 @@ peaks:
     Latitude: 43.30916667
     Longitude: -73.02861111
     State: VT
+    Prominence: 2840
 -
     Name: GLASTENBURY MTN
     Elevation: 3748
@@ -115,11 +119,12 @@ peaks:
     Longitude: -72.75888889
     State: VT
 -
-    Name: WORCESTER MTNS (S PK)
+    Name: MT PUTNAM (WORCESTER)
     Elevation: 3642
     Latitude: 44.41833333
     Longitude: -72.63888889
     State: VT
+    Prominence: 2470
 -
     Name: MT GRANT
     Elevation: 3623
@@ -186,6 +191,7 @@ peaks:
     Latitude: 44.66472222
     Longitude: -71.77055556
     State: VT
+    Prominence: 2230
 -
     Name: NORTH JAY PK
     Elevation: 3438
@@ -252,6 +258,7 @@ peaks:
     Latitude: 44.20611111
     Longitude: -72.32555556
     State: VT
+    Prominence: 2140
 -
     Name: GILLESPIE PK (WHITE ROCKS MTN)
     Elevation: 3366
@@ -294,12 +301,14 @@ peaks:
     Latitude: 44.7875
     Longitude: -72.68944444
     State: VT
+    Prominence: 2160
 -
     Name: GORE MTN
     Elevation: 3332
     Latitude: 44.91972222
     Longitude: -71.79416667
     State: VT
+    Prominence: 1982
 -
     Name: GLASTENBURY MTN (S PK)
     Elevation: 3331
@@ -492,6 +501,7 @@ peaks:
     Latitude: 43.44361111
     Longitude: -72.455
     State: VT
+    Prominence: 2290
 -
     Name: NORTHFIELD MTNS (S PK)
     Elevation: 3130
@@ -528,6 +538,7 @@ peaks:
     Latitude: 43.05277778
     Longitude: -73.22416667
     State: VT
+    Prominence: 2200
 -
     Name: HOUGHTON MTN
     Elevation: 3095

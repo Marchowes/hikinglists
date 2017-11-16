@@ -7,12 +7,13 @@
       <name>ME-4000-Footers</name>
       <description>kml map of list points for ME-4000-Footers</description>
       <visibility>1</visibility>
-      <Placemark id="MT KATAHDIN (BAXTER PK)">
-        <name>MT KATAHDIN (BAXTER PK)</name>
+      <Placemark id="MT KATAHDIN, BAXTER PK">
+        <name>MT KATAHDIN, BAXTER PK</name>
         <description>Elevation: 5268
 Latitude: 45.90416667
 Longitude: -68.92194444
-Name: MT KATAHDIN (BAXTER PK)
+Name: MT KATAHDIN, BAXTER PK
+Prominence: 4290
 Rank: 1
 State: ME
 </description>
@@ -27,6 +28,7 @@ State: ME
 Latitude: 45.92416667
 Longitude: -68.92833333
 Name: MT KATAHDIN (HAMLIN PK)
+Prominence: 
 Rank: 2
 State: ME
 </description>
@@ -41,6 +43,7 @@ State: ME
 Latitude: 45.03166667
 Longitude: -70.31361111
 Name: SUGARLOAF MTN
+Prominence: 3180
 Rank: 3
 State: ME
 </description>
@@ -55,6 +58,7 @@ State: ME
 Latitude: 45.04694444
 Longitude: -70.38333333
 Name: CROCKER MTN
+Prominence: 
 Rank: 4
 State: ME
 </description>
@@ -69,6 +73,7 @@ State: ME
 Latitude: 44.57083333
 Longitude: -70.95416667
 Name: OLD SPECK MTN
+Prominence: 2720
 Rank: 5
 State: ME
 </description>
@@ -83,6 +88,7 @@ State: ME
 Latitude: 45.95694444
 Longitude: -68.98583333
 Name: NORTH BROTHER
+Prominence: 
 Rank: 6
 State: ME
 </description>
@@ -91,12 +97,13 @@ State: ME
           <coordinates>-68.985833,45.956944</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN (WEST PK)">
-        <name>BIGELOW MTN (WEST PK)</name>
+      <Placemark id="BIGELOW MTN WEST PK">
+        <name>BIGELOW MTN WEST PK</name>
         <description>Elevation: 4145
 Latitude: 45.14666667
 Longitude: -70.28861111
-Name: BIGELOW MTN (WEST PK)
+Name: BIGELOW MTN WEST PK
+Prominence: 2855
 Rank: 7
 State: ME
 </description>
@@ -111,6 +118,7 @@ State: ME
 Latitude: 44.93638889
 Longitude: -70.505
 Name: SADDLEBACK MTN
+Prominence: 2446
 Rank: 8
 State: ME
 </description>
@@ -125,6 +133,7 @@ State: ME
 Latitude: 45.14666667
 Longitude: -70.27583333
 Name: BIGELOW MTN (AVERY PK)
+Prominence: 
 Rank: 9
 State: ME
 </description>
@@ -139,6 +148,7 @@ State: ME
 Latitude: 45.03611111
 Longitude: -70.37638889
 Name: SOUTH CROCKER MTN
+Prominence: 
 Rank: 10
 State: ME
 </description>
@@ -153,6 +163,7 @@ State: ME
 Latitude: 44.97277778
 Longitude: -70.32694444
 Name: MT ABRAHAM
+Prominence: 
 Rank: 11
 State: ME
 </description>
@@ -167,6 +178,7 @@ State: ME
 Latitude: 44.95111111
 Longitude: -70.4875
 Name: SADDLEBACK MTN THE HORN
+Prominence: 
 Rank: 12
 State: ME
 </description>
@@ -181,6 +193,7 @@ State: ME
 Latitude: 45.00277778
 Longitude: -70.33388889
 Name: SPAULDING MTN
+Prominence: 
 Rank: 13
 State: ME
 </description>
@@ -195,6 +208,7 @@ State: ME
 Latitude: 45.025
 Longitude: -70.38916667
 Name: MT REDINGTON
+Prominence: 
 Rank: 14
 State: ME
 </description>
