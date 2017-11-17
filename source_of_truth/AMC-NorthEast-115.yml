@@ -7,6 +7,10 @@
 # See http://www.amc4000footer.org/ look for Northeast 111
 #
 # This list relies entirely on imports.
+#
+# NOTE: please refrain from importing this list into other lists except for AMC
+# lists. Instead, import the NewEngland-4000 or NewEngland-3000 lists or ADK-[34]00.
+# This list is really intended  more as a reference for an "Official Club List"
 
 import:
   - AMC-NewEngland-4000.yml
