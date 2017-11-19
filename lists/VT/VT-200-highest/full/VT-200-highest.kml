@@ -7,12 +7,13 @@
       <name>VT-200-highest</name>
       <description>kml map of list points for VT-200-highest</description>
       <visibility>1</visibility>
-      <Placemark id="MT MANSFIELD (Chin)">
-        <name>MT MANSFIELD (Chin)</name>
+      <Placemark id="MT MANSFIELD (CHIN)">
+        <name>MT MANSFIELD (CHIN)</name>
         <description>Elevation: 4393
 Latitude: 44.54361111
 Longitude: -72.81472222
-Name: MT MANSFIELD (Chin)
+Name: MT MANSFIELD (CHIN)
+Prominence: 3640
 Rank: 1
 State: VT
 </description>
@@ -27,6 +28,7 @@ State: VT
 Latitude: 43.60444444
 Longitude: -72.82055556
 Name: KILLINGTON PK
+Prominence: 3320
 Rank: 2
 State: VT
 </description>
@@ -41,6 +43,7 @@ State: VT
 Latitude: 44.31944444
 Longitude: -72.88666667
 Name: CAMELS HUMP
+Prominence: 1880
 Rank: 3
 State: VT
 </description>
@@ -55,6 +58,7 @@ State: VT
 Latitude: 44.15972222
 Longitude: -72.92916667
 Name: MT ELLEN
+Prominence: 2132
 Rank: 4
 State: VT
 </description>
@@ -69,6 +73,7 @@ State: VT
 Latitude: 44.12027778
 Longitude: -72.93666667
 Name: MT ABRAHAM
+Prominence: 
 Rank: 5
 State: VT
 </description>
@@ -83,6 +88,7 @@ State: VT
 Latitude: 43.63944444
 Longitude: -72.83694444
 Name: PICO PK
+Prominence: 
 Rank: 6
 State: VT
 </description>
@@ -97,6 +103,7 @@ State: VT
 Latitude: 43.08611111
 Longitude: -72.92555556
 Name: STRATTON MTN
+Prominence: 2410
 Rank: 7
 State: VT
 </description>
@@ -111,6 +118,7 @@ State: VT
 Latitude: 44.92444444
 Longitude: -72.52638889
 Name: JAY PK
+Prominence: 2975
 Rank: 8
 State: VT
 </description>
@@ -125,6 +133,7 @@ State: VT
 Latitude: 43.16583333
 Longitude: -73.11805556
 Name: EQUINOX MTN
+Prominence: 3060
 Rank: 9
 State: VT
 </description>
@@ -139,6 +148,7 @@ State: VT
 Latitude: 43.595
 Longitude: -72.84666667
 Name: MENDON PK
+Prominence: 
 Rank: 10
 State: VT
 </description>
@@ -153,6 +163,7 @@ State: VT
 Latitude: 44.00194444
 Longitude: -72.94166667
 Name: BREAD LOAF MTN
+Prominence: 
 Rank: 11
 State: VT
 </description>
@@ -167,6 +178,7 @@ State: VT
 Latitude: 44.00472222
 Longitude: -72.92611111
 Name: MT WILSON
+Prominence: 
 Rank: 12
 State: VT
 </description>
@@ -181,6 +193,7 @@ State: VT
 Latitude: 44.915
 Longitude: -72.54111111
 Name: BIG JAY
+Prominence: 
 Rank: 13
 State: VT
 </description>
@@ -195,6 +208,7 @@ State: VT
 Latitude: 43.30916667
 Longitude: -73.02861111
 Name: DORSET PK
+Prominence: 2840
 Rank: 14
 State: VT
 </description>
@@ -209,6 +223,7 @@ State: VT
 Latitude: 42.97777778
 Longitude: -73.07222222
 Name: GLASTENBURY MTN
+Prominence: 
 Rank: 15
 State: VT
 </description>
@@ -223,6 +238,7 @@ State: VT
 Latitude: 43.57555556
 Longitude: -72.80638889
 Name: SHREWSBURY PK
+Prominence: 
 Rank: 16
 State: VT
 </description>
@@ -233,10 +249,11 @@ State: VT
       </Placemark>
       <Placemark id="STERLING MTN (WHITE FACE MTN)">
         <name>STERLING MTN (WHITE FACE MTN)</name>
-        <description>Elevation: 3714
+        <description>Elevation: 3713
 Latitude: 44.58222222
 Longitude: -72.74027778
 Name: STERLING MTN (WHITE FACE MTN)
+Prominence: 1543
 Rank: 17
 State: VT
 </description>
@@ -251,6 +268,7 @@ State: VT
 Latitude: 44.44916667
 Longitude: -72.84027778
 Name: BOLTON MTN
+Prominence: 1800
 Rank: 18
 State: VT
 </description>
@@ -265,6 +283,7 @@ State: VT
 Latitude: 44.29361111
 Longitude: -72.88472222
 Name: (MT ETHAN ALLEN)
+Prominence: 
 Rank: 19
 State: VT
 </description>
@@ -279,6 +298,7 @@ State: VT
 Latitude: 44.18416667
 Longitude: -72.92916667
 Name: GENERAL STARK MTN
+Prominence: 
 Rank: 20
 State: VT
 </description>
@@ -293,6 +313,7 @@ State: VT
 Latitude: 44.56138889
 Longitude: -72.75888889
 Name: MADONNA PK
+Prominence: 
 Rank: 21
 State: VT
 </description>
@@ -301,12 +322,13 @@ State: VT
           <coordinates>-72.758889,44.561389</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="WORCESTER MTNS (S PK)">
-        <name>WORCESTER MTNS (S PK)</name>
+      <Placemark id="MT PUTNAM (WORCESTER)">
+        <name>MT PUTNAM (WORCESTER)</name>
         <description>Elevation: 3642
 Latitude: 44.41833333
 Longitude: -72.63888889
-Name: WORCESTER MTNS (S PK)
+Name: MT PUTNAM (WORCESTER)
+Prominence: 2470
 Rank: 22
 State: VT
 </description>
@@ -321,6 +343,7 @@ State: VT
 Latitude: 44.05194444
 Longitude: -72.92666667
 Name: MT GRANT
+Prominence: 
 Rank: 23
 State: VT
 </description>
@@ -335,6 +358,7 @@ State: VT
 Latitude: 42.95916667
 Longitude: -72.92388889
 Name: MT SNOW
+Prominence: 
 Rank: 24
 State: VT
 </description>
@@ -349,6 +373,7 @@ State: VT
 Latitude: 44.40083333
 Longitude: -72.64388889
 Name: MT HUNGER (N PK)
+Prominence: 
 Rank: 25
 State: VT
 </description>
@@ -363,6 +388,7 @@ State: VT
 Latitude: 44.02
 Longitude: -72.91833333
 Name: MT ROOSEVELT
+Prominence: 
 Rank: 26
 State: VT
 </description>
@@ -377,6 +403,7 @@ State: VT
 Latitude: 43.80916667
 Longitude: -72.94444444
 Name: FARR PK
+Prominence: 
 Rank: 27
 State: VT
 </description>
@@ -391,6 +418,7 @@ State: VT
 Latitude: 43.30861111
 Longitude: -73.06416667
 Name: DORSET MTN (W PK)
+Prominence: 
 Rank: 28
 State: VT
 </description>
@@ -405,6 +433,7 @@ State: VT
 Latitude: 44.43055556
 Longitude: -72.61277778
 Name: WORCESTER MTNS (N PK)
+Prominence: 
 Rank: 29
 State: VT
 </description>
@@ -419,6 +448,7 @@ State: VT
 Latitude: 43.78555556
 Longitude: -72.93777778
 Name: BLOODROOT MTN
+Prominence: 
 Rank: 30
 State: VT
 </description>
@@ -433,6 +463,7 @@ State: VT
 Latitude: 44.04611111
 Longitude: -72.90833333
 Name: MT CLEVELAND
+Prominence: 
 Rank: 31
 State: VT
 </description>
@@ -447,6 +478,7 @@ State: VT
 Latitude: 42.91361111
 Longitude: -72.91972222
 Name: HAYSTACK MTN
+Prominence: 
 Rank: 32
 State: VT
 </description>
@@ -461,6 +493,7 @@ State: VT
 Latitude: 44.66472222
 Longitude: -71.77055556
 Name: EAST MTN
+Prominence: 2230
 Rank: 33
 State: VT
 </description>
@@ -475,6 +508,7 @@ State: VT
 Latitude: 44.9575
 Longitude: -72.53666667
 Name: NORTH JAY PK
+Prominence: 
 Rank: 34
 State: VT
 </description>
@@ -489,6 +523,7 @@ State: VT
 Latitude: 43.29444444
 Longitude: -72.93805556
 Name: PERU PK
+Prominence: 1477
 Rank: 35
 State: VT
 </description>
@@ -503,6 +538,7 @@ State: VT
 Latitude: 42.97777778
 Longitude: -73.11027778
 Name: GLASTENBURY MTN (W PK)
+Prominence: 
 Rank: 36
 State: VT
 </description>
@@ -517,6 +553,7 @@ State: VT
 Latitude: 43.02805556
 Longitude: -73.03166667
 Name: GLASTENBURY MTN (N PK)
+Prominence: 
 Rank: 37
 State: VT
 </description>
@@ -531,6 +568,7 @@ State: VT
 Latitude: 44.42055556
 Longitude: -72.82611111
 Name: RICKER MTN
+Prominence: 
 Rank: 38
 State: VT
 </description>
@@ -545,6 +583,7 @@ State: VT
 Latitude: 44.94694444
 Longitude: -72.54083333
 Name: NORTH JAY PK (S PK)
+Prominence: 
 Rank: 39
 State: VT
 </description>
@@ -559,6 +598,7 @@ State: VT
 Latitude: 43.27361111
 Longitude: -72.93861111
 Name: STYLES PK
+Prominence: 
 Rank: 40
 State: VT
 </description>
@@ -573,6 +613,7 @@ State: VT
 Latitude: 44.57638889
 Longitude: -72.75222222
 Name: MORSE MTN
+Prominence: 
 Rank: 41
 State: VT
 </description>
@@ -587,6 +628,7 @@ State: VT
 Latitude: 44.20611111
 Longitude: -72.32555556
 Name: SIGNAL MTN
+Prominence: 2140
 Rank: 42
 State: VT
 </description>
@@ -601,6 +643,7 @@ State: VT
 Latitude: 44.49361111
 Longitude: -72.82194444
 Name: DEWEY MTN
+Prominence: 
 Rank: 43
 State: VT
 </description>
@@ -615,6 +658,7 @@ State: VT
 Latitude: 43.85555556
 Longitude: -72.97333333
 Name: CAPE LOOKOFF MTN
+Prominence: 
 Rank: 44
 State: VT
 </description>
@@ -629,6 +673,7 @@ State: VT
 Latitude: 43.87138889
 Longitude: -72.97777778
 Name: GILLESPIE PK (WHITE ROCKS MTN)
+Prominence: 
 Rank: 45
 State: VT
 </description>
@@ -643,6 +688,7 @@ State: VT
 Latitude: 43.77444444
 Longitude: -72.92083333
 Name: MT CARMEL
+Prominence: 
 Rank: 46
 State: VT
 </description>
@@ -657,6 +703,7 @@ State: VT
 Latitude: 43.21333333
 Longitude: -73.11694444
 Name: MOTHER MYRICK MTN
+Prominence: 
 Rank: 47
 State: VT
 </description>
@@ -671,6 +718,7 @@ State: VT
 Latitude: 44.77305556
 Longitude: -72.55138889
 Name: BELVIDERE MTN
+Prominence: 1564
 Rank: 48
 State: VT
 </description>
@@ -685,6 +733,7 @@ State: VT
 Latitude: 43.40388889
 Longitude: -72.75194444
 Name: LUDLOW MTN (OKEMO MTN)
+Prominence: 
 Rank: 49
 State: VT
 </description>
@@ -699,6 +748,7 @@ State: VT
 Latitude: 43.81555556
 Longitude: -72.885
 Name: ROUND MTN
+Prominence: 
 Rank: 50
 State: VT
 </description>
@@ -713,6 +763,7 @@ State: VT
 Latitude: 44.7875
 Longitude: -72.68944444
 Name: COLD HOLLOW MTNS
+Prominence: 2160
 Rank: 51
 State: VT
 </description>
@@ -727,6 +778,7 @@ State: VT
 Latitude: 44.91972222
 Longitude: -71.79416667
 Name: GORE MTN
+Prominence: 1982
 Rank: 52
 State: VT
 </description>
@@ -741,6 +793,7 @@ State: VT
 Latitude: 42.93833333
 Longitude: -73.05805556
 Name: GLASTENBURY MTN (S PK)
+Prominence: 
 Rank: 53
 State: VT
 </description>
@@ -755,6 +808,7 @@ State: VT
 Latitude: 44.55083333
 Longitude: -72.78361111
 Name: SPRUCE PK
+Prominence: 
 Rank: 54
 State: VT
 </description>
@@ -769,6 +823,7 @@ State: VT
 Latitude: 43.97361111
 Longitude: -72.94111111
 Name: BOYCE MTN
+Prominence: 
 Rank: 55
 State: VT
 </description>
@@ -783,6 +838,7 @@ State: VT
 Latitude: 44.76611111
 Longitude: -71.98888889
 Name: BALD MTN
+Prominence: 1780
 Rank: 56
 State: VT
 </description>
@@ -797,6 +853,7 @@ State: VT
 Latitude: 43.20083333
 Longitude: -73.16722222
 Name: BEAR MTN
+Prominence: 
 Rank: 57
 State: VT
 </description>
@@ -811,6 +868,7 @@ State: VT
 Latitude: 44.44333333
 Longitude: -72.59222222
 Name: MT WORCESTER
+Prominence: 
 Rank: 58
 State: VT
 </description>
@@ -825,6 +883,7 @@ State: VT
 Latitude: 43.82944444
 Longitude: -72.97138889
 Name: GOSHEN MTN
+Prominence: 
 Rank: 59
 State: VT
 </description>
@@ -839,6 +898,7 @@ State: VT
 Latitude: 43.5025
 Longitude: -72.77444444
 Name: SALT ASH MTN
+Prominence: 
 Rank: 60
 State: VT
 </description>
@@ -853,6 +913,7 @@ State: VT
 Latitude: 43.22777778
 Longitude: -72.94027778
 Name: BROMLEY
+Prominence: 
 Rank: 61
 State: VT
 </description>
@@ -867,6 +928,7 @@ State: VT
 Latitude: 43.67805556
 Longitude: -72.90222222
 Name: BLUE RIDGE MTN (S PK)
+Prominence: 
 Rank: 62
 State: VT
 </description>
@@ -881,6 +943,7 @@ State: VT
 Latitude: 44.57055556
 Longitude: -71.89333333
 Name: BURKE MTN
+Prominence: 1600
 Rank: 63
 State: VT
 </description>
@@ -895,6 +958,7 @@ State: VT
 Latitude: 43.91
 Longitude: -72.96416667
 Name: WORTH MTN
+Prominence: 
 Rank: 64
 State: VT
 </description>
@@ -909,6 +973,7 @@ State: VT
 Latitude: 43.80611111
 Longitude: -72.8525
 Name: ROUND MTN (E PK)
+Prominence: 
 Rank: 65
 State: VT
 </description>
@@ -923,6 +988,7 @@ State: VT
 Latitude: 43.24055556
 Longitude: -73.03888889
 Name: GREEN PK (MT AEOLUS)
+Prominence: 
 Rank: 66
 State: VT
 </description>
@@ -937,6 +1003,7 @@ State: VT
 Latitude: 43.90694444
 Longitude: -72.93861111
 Name: MONASTERY MTN (W PK)
+Prominence: 
 Rank: 67
 State: VT
 </description>
@@ -951,6 +1018,7 @@ State: VT
 Latitude: 44.04361111
 Longitude: -72.80916667
 Name: ADAMS MTN
+Prominence: 1804
 Rank: 68
 State: VT
 </description>
@@ -965,6 +1033,7 @@ State: VT
 Latitude: 43.57611111
 Longitude: -72.78416667
 Name: SMITH PK
+Prominence: 
 Rank: 69
 State: VT
 </description>
@@ -979,6 +1048,7 @@ State: VT
 Latitude: 43.9
 Longitude: -72.88666667
 Name: PHILADELPHIA PK
+Prominence: 
 Rank: 70
 State: VT
 </description>
@@ -993,6 +1063,7 @@ State: VT
 Latitude: 44.82333333
 Longitude: -72.53861111
 Name: HAYSTACK MTN
+Prominence: 
 Rank: 71
 State: VT
 </description>
@@ -1007,6 +1078,7 @@ State: VT
 Latitude: 43.37722222
 Longitude: -72.76444444
 Name: LUDLOW MTN, S MTN
+Prominence: 
 Rank: 72
 State: VT
 </description>
@@ -1021,6 +1093,7 @@ State: VT
 Latitude: 44.695
 Longitude: -71.80416667
 Name: SENECA MTN (S PK)
+Prominence: 
 Rank: 73
 State: VT
 </description>
@@ -1035,6 +1108,7 @@ State: VT
 Latitude: 44.61416667
 Longitude: -72.76472222
 Name: STERLING RANGE (N PK)
+Prominence: 
 Rank: 74
 State: VT
 </description>
@@ -1049,6 +1123,7 @@ State: VT
 Latitude: 44.6975
 Longitude: -71.77472222
 Name: SENECA MTN (E PK)
+Prominence: 
 Rank: 75
 State: VT
 </description>
@@ -1063,6 +1138,7 @@ State: VT
 Latitude: 44.28444444
 Longitude: -72.86472222
 Name: MT ETHAN ALLEN (E PK)
+Prominence: 
 Rank: 76
 State: VT
 </description>
@@ -1077,6 +1153,7 @@ State: VT
 Latitude: 43.90333333
 Longitude: -72.91472222
 Name: MONASTERY MTN (E PK)
+Prominence: 
 Rank: 77
 State: VT
 </description>
@@ -1091,6 +1168,7 @@ State: VT
 Latitude: 44.2675
 Longitude: -72.89611111
 Name: BURNT ROCK MTN
+Prominence: 
 Rank: 78
 State: VT
 </description>
@@ -1105,6 +1183,7 @@ State: VT
 Latitude: 44.18333333
 Longitude: -72.33972222
 Name: BUTTERFIELD MTN
+Prominence: 
 Rank: 79
 State: VT
 </description>
@@ -1119,6 +1198,7 @@ State: VT
 Latitude: 43.96277778
 Longitude: -72.94555556
 Name: KIRBY PK
+Prominence: 
 Rank: 80
 State: VT
 </description>
@@ -1133,6 +1213,7 @@ State: VT
 Latitude: 44.8975
 Longitude: -71.54527778
 Name: MONADNOCK MTN
+Prominence: 1538
 Rank: 81
 State: VT
 </description>
@@ -1147,6 +1228,7 @@ State: VT
 Latitude: 44.46222222
 Longitude: -72.83888889
 Name: MT MAYO
+Prominence: 
 Rank: 82
 State: VT
 </description>
@@ -1161,6 +1243,7 @@ State: VT
 Latitude: 43.82916667
 Longitude: -72.87944444
 Name: CORPORATION MTN
+Prominence: 
 Rank: 83
 State: VT
 </description>
@@ -1175,6 +1258,7 @@ State: VT
 Latitude: 43.44361111
 Longitude: -72.455
 Name: MT ASCUTNEY
+Prominence: 2290
 Rank: 84
 State: VT
 </description>
@@ -1189,6 +1273,7 @@ State: VT
 Latitude: 44.01833333
 Longitude: -72.80972222
 Name: NORTHFIELD MTNS (S PK)
+Prominence: 
 Rank: 85
 State: VT
 </description>
@@ -1203,6 +1288,7 @@ State: VT
 Latitude: 43.05
 Longitude: -73.0075
 Name: GLASTENBURY MTN (NE PK)
+Prominence: 
 Rank: 86
 State: VT
 </description>
@@ -1217,6 +1303,7 @@ State: VT
 Latitude: 42.84888889
 Longitude: -72.97
 Name: UNNAMED PK (READSBORO)
+Prominence: 
 Rank: 87
 State: VT
 </description>
@@ -1231,6 +1318,7 @@ State: VT
 Latitude: 44.40666667
 Longitude: -72.83305556
 Name: WOODWARD MTN
+Prominence: 
 Rank: 88
 State: VT
 </description>
@@ -1245,6 +1333,7 @@ State: VT
 Latitude: 43.3375
 Longitude: -73.09833333
 Name: WOODLAWN MTN
+Prominence: 
 Rank: 89
 State: VT
 </description>
@@ -1259,6 +1348,7 @@ State: VT
 Latitude: 43.05277778
 Longitude: -73.22416667
 Name: GRASS MTN
+Prominence: 2200
 Rank: 90
 State: VT
 </description>
@@ -1273,6 +1363,7 @@ State: VT
 Latitude: 42.81888889
 Longitude: -73.08555556
 Name: HOUGHTON MTN
+Prominence: 
 Rank: 91
 State: VT
 </description>
@@ -1287,6 +1378,7 @@ State: VT
 Latitude: 43.06638889
 Longitude: -73.01694444
 Name: UNNAMED PK (BRANCH POND)
+Prominence: 
 Rank: 92
 State: VT
 </description>
@@ -1301,6 +1393,7 @@ State: VT
 Latitude: 44.16527778
 Longitude: -72.35666667
 Name: KNOX MTN (M PK)
+Prominence: 
 Rank: 93
 State: VT
 </description>
@@ -1315,6 +1408,7 @@ State: VT
 Latitude: 44.62138889
 Longitude: -71.83333333
 Name: EAST HAVEN MTN
+Prominence: 
 Rank: 94
 State: VT
 </description>
@@ -1329,6 +1423,7 @@ State: VT
 Latitude: 44.05638889
 Longitude: -72.80166667
 Name: RICE MTN
+Prominence: 
 Rank: 95
 State: VT
 </description>
@@ -1343,6 +1438,7 @@ State: VT
 Latitude: 44.03194444
 Longitude: -72.88555556
 Name: UNNAMED PK (MOSS GLEN FALLS)
+Prominence: 
 Rank: 96
 State: VT
 </description>
@@ -1357,6 +1453,7 @@ State: VT
 Latitude: 43.28194444
 Longitude: -72.96694444
 Name: MT TABOR
+Prominence: 
 Rank: 97
 State: VT
 </description>
@@ -1371,6 +1468,7 @@ State: VT
 Latitude: 44.56972222
 Longitude: -71.9575
 Name: UMPIRE MTN
+Prominence: 
 Rank: 98
 State: VT
 </description>
@@ -1385,6 +1483,7 @@ State: VT
 Latitude: 43.69194444
 Longitude: -72.91277778
 Name: BLUE RIDGE MTN (N PK)
+Prominence: 
 Rank: 99
 State: VT
 </description>
@@ -1399,6 +1498,7 @@ State: VT
 Latitude: 44.31916667
 Longitude: -72.90777778
 Name: BALD HILL
+Prominence: 
 Rank: 100
 State: VT
 </description>
@@ -1413,6 +1513,7 @@ State: VT
 Latitude: 44.71277778
 Longitude: -71.80166667
 Name: SENECA MTN (N PK)
+Prominence: 
 Rank: 101
 State: VT
 </description>
@@ -1427,6 +1528,7 @@ State: VT
 Latitude: 43.04444444
 Longitude: -73.21027778
 Name: SPRUCE PK
+Prominence: 
 Rank: 102
 State: VT
 </description>
@@ -1441,6 +1543,7 @@ State: VT
 Latitude: 44.23444444
 Longitude: -72.35555556
 Name: SPRUCE MTN
+Prominence: 
 Rank: 103
 State: VT
 </description>
@@ -1455,6 +1558,7 @@ State: VT
 Latitude: 43.95305556
 Longitude: -72.78583333
 Name: BRAINTREE MTN (N PK)
+Prominence: 
 Rank: 104
 State: VT
 </description>
@@ -1469,6 +1573,7 @@ State: VT
 Latitude: 42.78666667
 Longitude: -73.1225
 Name: UNNAMED PK (STAMFORD)
+Prominence: 
 Rank: 105
 State: VT
 </description>
@@ -1483,6 +1588,7 @@ State: VT
 Latitude: 43.75111111
 Longitude: -72.88833333
 Name: UNNAMED PK (TELEPHONE GAP)
+Prominence: 
 Rank: 106
 State: VT
 </description>
@@ -1497,6 +1603,7 @@ State: VT
 Latitude: 44.94083333
 Longitude: -72.57666667
 Name: NORTH JAY PK (SW PK)
+Prominence: 
 Rank: 107
 State: VT
 </description>
@@ -1511,6 +1618,7 @@ State: VT
 Latitude: 44.90861111
 Longitude: -72.49527778
 Name: GILPIN MTN
+Prominence: 
 Rank: 108
 State: VT
 </description>
@@ -1525,6 +1633,7 @@ State: VT
 Latitude: 42.75777778
 Longitude: -73.02666667
 Name: HOOSAC RANGE
+Prominence: 
 Rank: 109
 State: VT
 </description>
@@ -1539,6 +1648,7 @@ State: VT
 Latitude: 44.80666667
 Longitude: -72.55361111
 Name: TILLOTSON PK
+Prominence: 
 Rank: 110
 State: VT
 </description>
@@ -1553,6 +1663,7 @@ State: VT
 Latitude: 43.8703
 Longitude: -72.9556
 Name: BEAR
+Prominence: 
 Rank: 111
 State: VT
 </description>
@@ -1567,6 +1678,7 @@ State: VT
 Latitude: 42.82437
 Longitude: -72.94407
 Name: UNNAMED (READSBORO)
+Prominence: 
 Rank: 112
 State: VT
 </description>
@@ -1581,6 +1693,7 @@ State: VT
 Latitude: 44.1683
 Longitude: -72.34001
 Name: E KNOX
+Prominence: 
 Rank: 113
 State: VT
 </description>
@@ -1595,6 +1708,7 @@ State: VT
 Latitude: 42.81672
 Longitude: -73.05897
 Name: UNNAMED (STAMFORD POND PEAK)
+Prominence: 
 Rank: 114
 State: VT
 </description>
@@ -1609,6 +1723,7 @@ State: VT
 Latitude: 43.28539
 Longitude: -73.06724
 Name: S DORSET
+Prominence: 
 Rank: 115
 State: VT
 </description>
@@ -1623,6 +1738,7 @@ State: VT
 Latitude: 44.9023
 Longitude: -71.6318
 Name: MEACHAM SWAMP PEAK
+Prominence: 
 Rank: 116
 State: VT
 </description>
@@ -1637,6 +1753,7 @@ State: VT
 Latitude: 44.47889
 Longitude: -72.8414
 Name: CLARK
+Prominence: 
 Rank: 117
 State: VT
 </description>
@@ -1651,6 +1768,7 @@ State: VT
 Latitude: 44.22194
 Longitude: -72.92665
 Name: MOLLY STARK
+Prominence: 
 Rank: 118
 State: VT
 </description>
@@ -1665,6 +1783,7 @@ State: VT
 Latitude: 43.32194
 Longitude: -72.90473
 Name: PETE PARENT
+Prominence: 
 Rank: 119
 State: VT
 </description>
@@ -1679,6 +1798,7 @@ State: VT
 Latitude: 42.98722
 Longitude: -72.83612
 Name: N RICE
+Prominence: 
 Rank: 120
 State: VT
 </description>
@@ -1693,6 +1813,7 @@ State: VT
 Latitude: 43.95611
 Longitude: -72.87612
 Name: GILLESPIE
+Prominence: 
 Rank: 121
 State: VT
 </description>
@@ -1707,6 +1828,7 @@ State: VT
 Latitude: 42.99416
 Longitude: -72.87334
 Name: UNNAMED (BLUE BROOK)
+Prominence: 
 Rank: 122
 State: VT
 </description>
@@ -1721,6 +1843,7 @@ State: VT
 Latitude: 43.86694
 Longitude: -72.74834
 Name: ROCHESTER
+Prominence: 
 Rank: 123
 State: VT
 </description>
@@ -1735,6 +1858,7 @@ State: VT
 Latitude: 42.97833
 Longitude: -72.8275
 Name: RICE HILL
+Prominence: 
 Rank: 124
 State: VT
 </description>
@@ -1749,6 +1873,7 @@ State: VT
 Latitude: 44.91722
 Longitude: -71.83168
 Name: MIDDLE
+Prominence: 
 Rank: 125
 State: VT
 </description>
@@ -1763,6 +1888,7 @@ State: VT
 Latitude: 43.18888
 Longitude: -72.76084
 Name: GLEBE
+Prominence: 
 Rank: 126
 State: VT
 </description>
@@ -1777,6 +1903,7 @@ State: VT
 Latitude: 43.08084
 Longitude: -73.04601
 Name: LYE BROOK MEADOWS PEAK
+Prominence: 
 Rank: 127
 State: VT
 </description>
@@ -1791,6 +1918,7 @@ State: VT
 Latitude: 44.87861
 Longitude: -72.50917
 Name: BUCHANAN
+Prominence: 
 Rank: 128
 State: VT
 </description>
@@ -1805,6 +1933,7 @@ State: VT
 Latitude: 43.11416
 Longitude: -72.96972
 Name: STRATTON POND PEAK
+Prominence: 
 Rank: 129
 State: VT
 </description>
@@ -1819,6 +1948,7 @@ State: VT
 Latitude: 44.93305
 Longitude: -71.7875
 Name: ROUND
+Prominence: 
 Rank: 130
 State: VT
 </description>
@@ -1833,6 +1963,7 @@ State: VT
 Latitude: 42.9894444
 Longitude: -72.9097222
 Name: N SNOW
+Prominence: 
 Rank: 131
 State: VT
 </description>
@@ -1847,6 +1978,7 @@ State: VT
 Latitude: 42.8719444
 Longitude: -72.9844444
 Name: W WINDFARM
+Prominence: 
 Rank: 132
 State: VT
 </description>
@@ -1861,6 +1993,7 @@ State: VT
 Latitude: 44.8913889
 Longitude: -72.4997222
 Name: DOMEYS DOME
+Prominence: 
 Rank: 133
 State: VT
 </description>
@@ -1875,6 +2008,7 @@ State: VT
 Latitude: 42.8052778
 Longitude: -73.1077778
 Name: SCRUB HILL
+Prominence: 
 Rank: 134
 State: VT
 </description>
@@ -1889,6 +2023,7 @@ State: VT
 Latitude: 44.1561111
 Longitude: -72.7727778
 Name: SCRAG
+Prominence: 
 Rank: 135
 State: VT
 </description>
@@ -1903,6 +2038,7 @@ State: VT
 Latitude: 44.4025
 Longitude: -72.8444444
 Name: BONE
+Prominence: 
 Rank: 136
 State: VT
 </description>
@@ -1917,6 +2053,7 @@ State: VT
 Latitude: 43.9341
 Longitude: -72.7764
 Name: NS BRAINTREE
+Prominence: 
 Rank: 137
 State: VT
 </description>
@@ -1931,6 +2068,7 @@ State: VT
 Latitude: 44.7741667
 Longitude: -72.0069444
 Name: GOODWIN
+Prominence: 
 Rank: 138
 State: VT
 </description>
@@ -1945,6 +2083,7 @@ State: VT
 Latitude: 43.1377778
 Longitude: -73.0136111
 Name: DOWNER GLEN PEAK
+Prominence: 
 Rank: 139
 State: VT
 </description>
@@ -1959,6 +2098,7 @@ State: VT
 Latitude: 43.3597222
 Longitude: -72.8725
 Name: NE DEVILS DEN PEAK
+Prominence: 
 Rank: 140
 State: VT
 </description>
@@ -1973,6 +2113,7 @@ State: VT
 Latitude: 43.7352
 Longitude: -72.8488
 Name: DARNING NEEDLE
+Prominence: 
 Rank: 141
 State: VT
 </description>
@@ -1987,6 +2128,7 @@ State: VT
 Latitude: 43.3135
 Longitude: -72.7436
 Name: TERRIBLE
+Prominence: 
 Rank: 142
 State: VT
 </description>
@@ -2001,6 +2143,7 @@ State: VT
 Latitude: 44.7957
 Longitude: -72.5597
 Name: S TILLOTSON
+Prominence: 
 Rank: 143
 State: VT
 </description>
@@ -2015,6 +2158,7 @@ State: VT
 Latitude: 43.2769
 Longitude: -73.0298
 Name: NETOP
+Prominence: 
 Rank: 144
 State: VT
 </description>
@@ -2029,6 +2173,7 @@ State: VT
 Latitude: 43.32889
 Longitude: -72.9602
 Name: N BAKER
+Prominence: 
 Rank: 145
 State: VT
 </description>
@@ -2043,6 +2188,7 @@ State: VT
 Latitude: 43.3428
 Longitude: -72.9427
 Name: BUCKBALL PEAK
+Prominence: 
 Rank: 146
 State: VT
 </description>
@@ -2057,6 +2203,7 @@ State: VT
 Latitude: 42.9221
 Longitude: -73.1439
 Name: BALD
+Prominence: 
 Rank: 147
 State: VT
 </description>
@@ -2071,6 +2218,7 @@ State: VT
 Latitude: 44.08083
 Longitude: -72.928
 Name: S LINCOLN GAP PEAK
+Prominence: 
 Rank: 148
 State: VT
 </description>
@@ -2085,6 +2233,7 @@ State: VT
 Latitude: 43.108
 Longitude: -73.168
 Name: RED
+Prominence: 
 Rank: 149
 State: VT
 </description>
@@ -2099,6 +2248,7 @@ State: VT
 Latitude: 43.3402
 Longitude: -72.7558
 Name: NN TERRIBLE
+Prominence: 
 Rank: 150
 State: VT
 </description>
@@ -2113,6 +2263,7 @@ State: VT
 Latitude: 44.1706
 Longitude: -72.3679
 Name: NW KNOX
+Prominence: 
 Rank: 151
 State: VT
 </description>
@@ -2121,18 +2272,19 @@ State: VT
           <coordinates>-72.367900,44.170600</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SE BULL HILL">
-        <name>SE BULL HILL</name>
+      <Placemark id="CHATEAUGUAY PEAK">
+        <name>CHATEAUGUAY PEAK</name>
         <description>Elevation: 2836
-Latitude: 43.6779
-Longitude: -72.6719
-Name: SE BULL HILL
+Latitude: 43.678
+Longitude: -72.6721
+Name: CHATEAUGUAY PEAK
+Prominence: 1486
 Rank: 152
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-72.671900,43.677900</coordinates>
+          <coordinates>-72.672100,43.678000</coordinates>
         </Point>
       </Placemark>
       <Placemark id="TINMOUTH">
@@ -2141,6 +2293,7 @@ State: VT
 Latitude: 43.4194
 Longitude: -73.0761
 Name: TINMOUTH
+Prominence: 
 Rank: 153
 State: VT
 </description>
@@ -2155,6 +2308,7 @@ State: VT
 Latitude: 43.3749
 Longitude: -72.8436
 Name: MT HOLLY PEAK
+Prominence: 
 Rank: 154
 State: VT
 </description>
@@ -2169,6 +2323,7 @@ State: VT
 Latitude: 44.0893
 Longitude: -72.7902
 Name: S ROXBURY GAP PEAK
+Prominence: 
 Rank: 155
 State: VT
 </description>
@@ -2183,6 +2338,7 @@ State: VT
 Latitude: 44.9271
 Longitude: -71.7475
 Name: BLACK
+Prominence: 
 Rank: 156
 State: VT
 </description>
@@ -2197,6 +2353,7 @@ State: VT
 Latitude: 44.1311
 Longitude: -72.7783
 Name: N BURNT
+Prominence: 
 Rank: 157
 State: VT
 </description>
@@ -2211,6 +2368,7 @@ State: VT
 Latitude: 43.7184
 Longitude: -72.8673
 Name: NE S POND PEAK
+Prominence: 
 Rank: 158
 State: VT
 </description>
@@ -2225,6 +2383,7 @@ State: VT
 Latitude: 44.7613
 Longitude: -71.9636
 Name: JOBS
+Prominence: 
 Rank: 159
 State: VT
 </description>
@@ -2239,6 +2398,7 @@ State: VT
 Latitude: 43.3252
 Longitude: -72.8374
 Name: PEABODY HILL
+Prominence: 
 Rank: 160
 State: VT
 </description>
@@ -2253,6 +2413,7 @@ State: VT
 Latitude: 43.68222
 Longitude: -72.8577
 Name: ELBOW PEAK
+Prominence: 
 Rank: 161
 State: VT
 </description>
@@ -2267,6 +2428,7 @@ State: VT
 Latitude: 43.7094
 Longitude: -72.7874
 Name: WOLF HILL
+Prominence: 
 Rank: 162
 State: VT
 </description>
@@ -2281,6 +2443,7 @@ State: VT
 Latitude: 43.2397
 Longitude: -73.1411
 Name: SPRUCE PEAK
+Prominence: 
 Rank: 163
 State: VT
 </description>
@@ -2295,6 +2458,7 @@ State: VT
 Latitude: 43.5416
 Longitude: -72.7722
 Name: BURNT
+Prominence: 
 Rank: 164
 State: VT
 </description>
@@ -2309,6 +2473,7 @@ State: VT
 Latitude: 44.7259
 Longitude: -72.7119
 Name: LARAWAY
+Prominence: 1527
 Rank: 165
 State: VT
 </description>
@@ -2323,6 +2488,7 @@ State: VT
 Latitude: 43.9775
 Longitude: -72.8027
 Name: S NORTHFIELD
+Prominence: 
 Rank: 166
 State: VT
 </description>
@@ -2337,6 +2503,7 @@ State: VT
 Latitude: 44.4561
 Longitude: -72.8585
 Name: NW BOLTON
+Prominence: 
 Rank: 167
 State: VT
 </description>
@@ -2351,6 +2518,7 @@ State: VT
 Latitude: 44.858
 Longitude: -71.8625
 Name: S BLUFF
+Prominence: 
 Rank: 168
 State: VT
 </description>
@@ -2365,6 +2533,7 @@ State: VT
 Latitude: 43.6526
 Longitude: -72.7518
 Name: EAST
+Prominence: 
 Rank: 169
 State: VT
 </description>
@@ -2379,6 +2548,7 @@ State: VT
 Latitude: 44.7764
 Longitude: -72.7105
 Name: SW COLD HOLLOW
+Prominence: 
 Rank: 170
 State: VT
 </description>
@@ -2393,6 +2563,7 @@ State: VT
 Latitude: 42.7788
 Longitude: -73.1704
 Name: THE DOME
+Prominence: 
 Rank: 171
 State: VT
 </description>
@@ -2407,6 +2578,7 @@ State: VT
 Latitude: 43.3955
 Longitude: -72.91
 Name: WILDER
+Prominence: 
 Rank: 172
 State: VT
 </description>
@@ -2421,6 +2593,7 @@ State: VT
 Latitude: 44.5576
 Longitude: -72.16
 Name: WHEELOCK
+Prominence: 
 Rank: 173
 State: VT
 </description>
@@ -2435,6 +2608,7 @@ State: VT
 Latitude: 43.2606
 Longitude: -73.0328
 Name: DORSET HILL
+Prominence: 
 Rank: 174
 State: VT
 </description>
@@ -2449,6 +2623,7 @@ State: VT
 Latitude: 43.67
 Longitude: -72.8363
 Name: DEER LEAP
+Prominence: 
 Rank: 175
 State: VT
 </description>
@@ -2463,6 +2638,7 @@ State: VT
 Latitude: 43.7435
 Longitude: -72.8822
 Name: NORTH POND PEAK
+Prominence: 
 Rank: 176
 State: VT
 </description>
@@ -2477,6 +2653,7 @@ State: VT
 Latitude: 43.3878
 Longitude: -72.8922
 Name: WILLARD
+Prominence: 
 Rank: 177
 State: VT
 </description>
@@ -2491,6 +2668,7 @@ State: VT
 Latitude: 43.9232
 Longitude: -72.7671
 Name: S BRAINTREE
+Prominence: 
 Rank: 178
 State: VT
 </description>
@@ -2505,6 +2683,7 @@ State: VT
 Latitude: 44.8663
 Longitude: -71.8526
 Name: N BLUFF
+Prominence: 
 Rank: 179
 State: VT
 </description>
@@ -2519,6 +2698,7 @@ State: VT
 Latitude: 42.875
 Longitude: -73.06667
 Name: PROSPECT
+Prominence: 
 Rank: 180
 State: VT
 </description>
@@ -2533,6 +2713,7 @@ State: VT
 Latitude: 44.7296
 Longitude: -72.0303
 Name: PISGAH
+Prominence: 
 Rank: 181
 State: VT
 </description>
@@ -2547,6 +2728,7 @@ State: VT
 Latitude: 43.34
 Longitude: -72.855
 Name: NW PEABODY
+Prominence: 
 Rank: 182
 State: VT
 </description>
@@ -2561,6 +2743,7 @@ State: VT
 Latitude: 44.7299
 Longitude: -71.839
 Name: BULL
+Prominence: 
 Rank: 183
 State: VT
 </description>
@@ -2575,6 +2758,7 @@ State: VT
 Latitude: 43.0623
 Longitude: -73.1965
 Name: THE BALL
+Prominence: 
 Rank: 184
 State: VT
 </description>
@@ -2589,6 +2773,7 @@ State: VT
 Latitude: 43.7788
 Longitude: -72.994
 Name: NICKWAKET
+Prominence: 
 Rank: 185
 State: VT
 </description>
@@ -2603,6 +2788,7 @@ State: VT
 Latitude: 44.7696
 Longitude: -71.9722
 Name: WOZNIAK
+Prominence: 
 Rank: 186
 State: VT
 </description>
@@ -2617,6 +2803,7 @@ State: VT
 Latitude: 44.5471
 Longitude: -71.9044
 Name: KIRBY
+Prominence: 
 Rank: 187
 State: VT
 </description>
@@ -2631,6 +2818,7 @@ State: VT
 Latitude: 43.8974
 Longitude: -72.7648
 Name: CUSHMAN
+Prominence: 
 Rank: 188
 State: VT
 </description>
@@ -2645,6 +2833,7 @@ State: VT
 Latitude: 43.91357
 Longitude: -72.76584
 Name: SS BRAINTREE
+Prominence: 
 Rank: 189
 State: VT
 </description>
@@ -2659,6 +2848,7 @@ State: VT
 Latitude: 44.561
 Longitude: -71.6659
 Name: STONE
+Prominence: 
 Rank: 190
 State: VT
 </description>
@@ -2673,6 +2863,7 @@ State: VT
 Latitude: 43.88833
 Longitude: -72.8431
 Name: SE PHILADELPHIA
+Prominence: 
 Rank: 191
 State: VT
 </description>
@@ -2687,6 +2878,7 @@ State: VT
 Latitude: 44.9226
 Longitude: -71.6862
 Name: SABLE
+Prominence: 
 Rank: 192
 State: VT
 </description>
@@ -2701,6 +2893,7 @@ State: VT
 Latitude: 44.7093
 Longitude: -71.7043
 Name: WEST
+Prominence: 
 Rank: 193
 State: VT
 </description>
@@ -2715,6 +2908,7 @@ State: VT
 Latitude: 44.9678
 Longitude: -71.7393
 Name: BROUSSEAU
+Prominence: 
 Rank: 194
 State: VT
 </description>
@@ -2729,6 +2923,7 @@ State: VT
 Latitude: 43.7077
 Longitude: -72.8658
 Name: N ELBOW
+Prominence: 
 Rank: 195
 State: VT
 </description>
@@ -2743,6 +2938,7 @@ State: VT
 Latitude: 43.8199
 Longitude: -72.829
 Name: LITTLE WILCOX
+Prominence: 
 Rank: 196
 State: VT
 </description>
@@ -2757,6 +2953,7 @@ State: VT
 Latitude: 43.5625
 Longitude: -73.099
 Name: HERRICK
+Prominence: 1536
 Rank: 197
 State: VT
 </description>
@@ -2771,6 +2968,7 @@ State: VT
 Latitude: 44.7461
 Longitude: -72.002
 Name: HAYSTACK
+Prominence: 
 Rank: 198
 State: VT
 </description>
@@ -2785,6 +2983,7 @@ State: VT
 Latitude: 44.9373
 Longitude: -71.7728
 Name: E ROUND
+Prominence: 
 Rank: 199
 State: VT
 </description>
@@ -2799,6 +2998,7 @@ State: VT
 Latitude: 43.7321
 Longitude: -72.871
 Name: DAVES
+Prominence: 
 Rank: 200
 State: VT
 </description>
@@ -2813,6 +3013,7 @@ State: VT
 Latitude: 43.6184
 Longitude: -72.7826
 Name: UNNAMED (N SHAGBACK)
+Prominence: 
 Rank: 201
 State: VT
 </description>

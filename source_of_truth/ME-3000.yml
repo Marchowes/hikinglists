@@ -30,6 +30,7 @@ peaks:
     Latitude: 45.29138889
     Longitude: -70.70972222
     State: ME
+    Prominence: 2330
 -
     Name: GOOSE EYE MTN
     Elevation: 3870
@@ -72,12 +73,14 @@ peaks:
     Latitude: 45.12166667
     Longitude: -70.6
     State: ME
+    Prominence: 1801
 -
-    Name: BALDPATE MTN, E PK
+    Name: BALDPATE MTN (E PK)
     Elevation: 3790
     Latitude: 44.60916667
     Longitude: -70.89277778
     State: ME
+    Prominence: 2240
 -
     Name: SNOW MTN
     Elevation: 3784
@@ -96,6 +99,7 @@ peaks:
     Latitude: 44.76805556
     Longitude: -70.78222222
     State: ME
+    Prominence: 2060
 -
     Name: SADDLEBACK MTN, THE HORN (N PK)
     Elevation: 3772
@@ -132,6 +136,7 @@ peaks:
     Latitude: 45.46861111
     Longitude: -70.12694444
     State: ME
+    Prominence: 2510
 -
     Name: WEST KENNEBAGO MTN
     Elevation: 3713
@@ -175,7 +180,7 @@ peaks:
     Longitude: -68.95861111
     State: ME
 -
-    Name: BALDPATE MTN, W PK
+    Name: BALDPATE MTN (W PK)
     Elevation: 3662
     Latitude: 44.60138889
     Longitude: -70.9025
@@ -192,18 +197,21 @@ peaks:
     Latitude: 45.41861111
     Longitude: -70.54472222
     State: ME
+    Prominence: 2260
 -
     Name: RUMP MTN
     Elevation: 3654
     Latitude: 45.20361111
     Longitude: -71.06388889
     State: ME
+    Prominence: 1524
 -
     Name: WHITE CAP MTN
     Elevation: 3654
     Latitude: 45.55444444
     Longitude: -69.24722222
     State: ME
+    Prominence: 2610
 -
     Name: CARIBOU MTN (W PK)
     Elevation: 3650
@@ -222,12 +230,14 @@ peaks:
     Latitude: 45.19194444
     Longitude: -70.72944444
     State: ME
+    Prominence: 1435
 -
     Name: BOUNDARY BALD MTN
     Elevation: 3630
     Latitude: 45.76666667
     Longitude: -70.20416667
     State: ME
+    Prominence: 2010
 -
     Name: BURNT HILL
     Elevation: 3609
@@ -270,6 +280,7 @@ peaks:
     Latitude: 44.76222222
     Longitude: -70.52055556
     State: ME
+    Prominence: 1798
 -
     Name: MT CARLO
     Elevation: 3565
@@ -277,11 +288,12 @@ peaks:
     Longitude: -71.00861111
     State: ME
 -
-    Name: TRAVELER MTN, THE TRAVELER
+    Name: TRAVELER MTN (THE TRAVELER)
     Elevation: 3551
     Latitude: 46.07277778
     Longitude: -68.845
     State: ME
+    Prominence: 2340
 -
     Name: UNNAMED BDY PK (DENNISON BOG)
     Elevation: 3552
@@ -306,6 +318,7 @@ peaks:
     Latitude: 45.57111111
     Longitude: -69.39444444
     State: ME
+    Prominence: 2190
 -
     Name: UNNAMED PK RAIN (W PK)
     Elevation: 3510
@@ -318,6 +331,7 @@ peaks:
     Latitude: 45.93583333
     Longitude: -69.06166667
     State: ME
+    Prominence: 2080
 -
     Name: LITTLE JACKSON MTN
     Elevation: 3470
@@ -354,6 +368,7 @@ peaks:
     Latitude: 45.00472222
     Longitude: -70.92444444
     State: ME
+    Prominence: 1540
 -
     Name: FULLING MILL MTN
     Elevation: 3450
@@ -390,6 +405,7 @@ peaks:
     Latitude: 45.04111111
     Longitude: -70.71861111
     State: ME
+    Prominence: 1571
 -
     Name: ONION HILL
     Elevation: 3392
@@ -438,6 +454,7 @@ peaks:
     Latitude: 45.9725
     Longitude: -68.84444444
     State: ME
+    Prominence: 1715
 -
     Name: JACKSON MTN (N PK)
     Elevation: 3319
@@ -570,6 +587,7 @@ peaks:
     Latitude: 45.77555556
     Longitude: -69.44361111
     State: ME
+    Prominence: 1920
 -
     Name: BIGELOW MTN, CRANBERRY PK
     Elevation: 3194
@@ -582,6 +600,7 @@ peaks:
     Latitude: 45.48388889
     Longitude: -69.71194444
     State: ME
+    Prominence: 2130
 -
     Name: THREE SLIDE MTN (W PK)
     Elevation: 3194
@@ -594,6 +613,7 @@ peaks:
     Latitude: 44.91416667
     Longitude: -71.0025
     State: ME
+    Prominence: 1640
 -
     Name: BLACK NUBBLE (W PK)
     Elevation: 3190
@@ -606,6 +626,7 @@ peaks:
     Latitude: 44.72805556
     Longitude: -70.3425
     State: ME
+    Prominence: 1840
 -
     Name: SPOTTED MTN (E PK)
     Elevation: 3190
@@ -816,6 +837,7 @@ peaks:
     Latitude: 45.75833333
     Longitude: -69.53277778
     State: ME
+    Prominence: 1780
 -
     Name: UNNAMED PK (BARKER POND)
     Elevation: 3070

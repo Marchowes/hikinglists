@@ -8,7 +8,10 @@
 # - Standardize Names
 # - Ensure coordinates to 3 sig figures
 # - Validate coordinates
-# - Add Prominence
+#
+# NOTE: please refrain from importing this list into other lists except for AMC
+# lists. Instead, import the NH-4000 or NH-3000 lists. This list is really intended
+# more as a reference for an "Official Club List"
 
 ---
 location: NH

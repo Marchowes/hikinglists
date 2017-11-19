@@ -60,6 +60,7 @@ peaks:
     Latitude: 43.7
     Longitude: -74.38694444
     State: NY
+    Prominence: 2243
 -
     Name: MOOSE MTN
     Elevation: 3898
@@ -90,6 +91,7 @@ peaks:
     Latitude: 44.30277778
     Longitude: -73.8825
     State: NY
+    Prominence: 1700
 -
     Name: NORTH RIVER MTNS (N PK)
     Elevation: 3878
@@ -138,6 +140,7 @@ peaks:
     Latitude: 44.70305556
     Longitude: -73.86472222
     State: NY
+    Prominence: 2247
 -
     Name: UNNAMED PK INDIAN FALLS
     Elevation: 3822
@@ -186,6 +189,7 @@ peaks:
     Latitude: 43.73694444
     Longitude: -74.51527778
     State: NY
+    Prominence: 1631
 -
     Name: SAWTOOTH MTNS (WSW PK)
     Elevation: 3757
@@ -198,6 +202,7 @@ peaks:
     Latitude: 43.87222222
     Longitude: -74.40138889
     State: NY
+    Prominence: 1939
 -
     Name: DONALDSON MTN (W PK)
     Elevation: 3734
@@ -240,6 +245,7 @@ peaks:
     Latitude: 43.91138889
     Longitude: -73.81888889
     State: NY
+    Prominence: 1962
 -
     Name: SAWTOOTH MTNS (SSE PK)
     Elevation: 3694
@@ -258,6 +264,7 @@ peaks:
     Latitude: 44.235
     Longitude: -73.71083333
     State: NY
+    Prominence: 1988
 -
     Name: SNOWY MTN (W PK)
     Elevation: 3652
@@ -324,6 +331,7 @@ peaks:
     Latitude: 43.67333333
     Longitude: -74.04888889
     State: NY
+    Prominence: 1870
 -
     Name: SAWTOOTH MTNS (E PK)
     Elevation: 3560
@@ -444,6 +452,7 @@ peaks:
     Latitude: 43.66138889
     Longitude: -74.2
     State: NY
+    Prominence: 1670
 -
     Name: WOLF POND MTN
     Elevation: 3442
@@ -492,6 +501,7 @@ peaks:
     Latitude: 43.89805556
     Longitude: -74.09638889
     State: NY
+    Prominence: 1686
 -
     Name: BEAR DEN MTN
     Elevation: 3399
@@ -564,6 +574,7 @@ peaks:
     Latitude: 44.02444444
     Longitude: -74.33
     State: NY
+    Prominence: 1640
 -
     Name: MOOSE MTN (SE PK)
     Elevation: 3363
@@ -594,6 +605,7 @@ peaks:
     Latitude: 44.55805556
     Longitude: -74.15194444
     State: NY
+    Prominence: 1600
 -
     Name: AMPERSAND MTN
     Elevation: 3330
@@ -630,6 +642,7 @@ peaks:
     Latitude: 44.60333333
     Longitude: -74.22083333
     State: NY
+    Prominence: 1660
 -
     Name: TRIPOD MTN
     Elevation: 3297
@@ -684,6 +697,7 @@ peaks:
     Latitude: 43.54472222
     Longitude: -73.96277778
     State: NY
+    Prominence: 1745
 -
     Name: HAMILTON MTN
     Elevation: 3238

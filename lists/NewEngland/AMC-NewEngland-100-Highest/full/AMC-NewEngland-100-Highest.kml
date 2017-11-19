@@ -329,12 +329,12 @@ State: NH
           <coordinates>-71.493889,44.083333</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT MANSFIELD (Chin)">
-        <name>MT MANSFIELD (Chin)</name>
+      <Placemark id="MT MANSFIELD (CHIN)">
+        <name>MT MANSFIELD (CHIN)</name>
         <description>Elevation: 4393
 Latitude: 44.54361111
 Longitude: -72.81472222
-Name: MT MANSFIELD (Chin)
+Name: MT MANSFIELD (CHIN)
 Rank: 24
 State: VT
 </description>
@@ -595,12 +595,12 @@ State: ME
           <coordinates>-68.985833,45.956944</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN, WEST PK">
-        <name>BIGELOW MTN, WEST PK</name>
+      <Placemark id="BIGELOW MTN WEST PK">
+        <name>BIGELOW MTN WEST PK</name>
         <description>Elevation: 4145
 Latitude: 45.14666667
 Longitude: -70.28861111
-Name: BIGELOW MTN, WEST PK
+Name: BIGELOW MTN WEST PK
 Rank: 43
 State: ME
 </description>

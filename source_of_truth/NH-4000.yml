@@ -22,6 +22,7 @@ peaks:
     Latitude: 44.27055556
     Longitude: -71.30388889
     State: NH
+    Prominence: 6150
 -
     Name: MT ADAMS
     Elevation: 5774
@@ -52,6 +53,7 @@ peaks:
     Latitude: 44.16055556
     Longitude: -71.645
     State: NH
+    Prominence: 3360
 -
     Name: MT LINCOLN
     Elevation: 5089
@@ -64,18 +66,21 @@ peaks:
     Latitude: 44.1875
     Longitude: -71.55527778
     State: NH
+    Prominence: 1522
 -
     Name: CARTER DOME
     Elevation: 4832
     Latitude: 44.26722222
     Longitude: -71.17972222
     State: NH
+    Prominence: 2821
 -
     Name: MT MOOSILAUKE
     Elevation: 4802
     Latitude: 44.02333333
     Longitude: -71.83194444
     State: NH
+    Prominence: 2932
 -
     Name: MT EISENHOWER
     Elevation: 4780
@@ -94,6 +99,7 @@ peaks:
     Latitude: 44.09361111
     Longitude: -71.4475
     State: NH
+    Prominence: 2240
 -
     Name: MT BOND
     Elevation: 4698
@@ -154,18 +160,21 @@ peaks:
     Latitude: 44.12277778
     Longitude: -71.73694444
     State: NH
+    Prominence: 2420
 -
     Name: MT FIELD
     Elevation: 4340
     Latitude: 44.19611111
     Longitude: -71.43388889
     State: NH
+    Prominence: 1702
 -
     Name: MT OSCEOLA
     Elevation: 4340
     Latitude: 44.00166667
     Longitude: -71.53638889
     State: NH
+    Prominence: 2040
 -
     Name: MT FLUME
     Elevation: 4328
@@ -220,6 +229,7 @@ peaks:
     Latitude: 44.50583333
     Longitude: -71.41472222
     State: NH
+    Prominence: 2670
 -
     Name: MT OSCEOLA (E PK)
     Elevation: 4156
@@ -310,3 +320,4 @@ peaks:
     Latitude: 43.96638889
     Longitude: -71.55694444
     State: NH
+    Prominence: 1743

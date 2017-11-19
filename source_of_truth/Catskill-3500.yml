@@ -24,6 +24,7 @@ peaks:
     Latitude: 42.27
     Longitude: -74.12333333
     State: NY
+    Prominence: 2080
 -
     Name: BLACKHEAD
     Elevation: 3950
@@ -66,6 +67,7 @@ peaks:
     Latitude: 42.13805556
     Longitude: -74.17472222
     State: NY
+    Prominence: 1780
 -
     Name: TABLE MTN
     Elevation: 3847
@@ -138,6 +140,7 @@ peaks:
     Latitude: 42.16222222
     Longitude: -74.08055556
     State: NY
+    Prominence: 1705
 -
     Name: TWIN MTN
     Elevation: 3650
@@ -162,6 +165,7 @@ peaks:
     Latitude: 42.17361111
     Longitude: -74.34944444
     State: NY
+    Prominence: 1160
 -
     Name: BALSAM MTN
     Elevation: 3610
