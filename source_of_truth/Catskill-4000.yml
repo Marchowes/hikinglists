@@ -21,9 +21,11 @@ peaks:
     Latitude: 41.99916667
     Longitude: -74.38611111
     State: NY
+    Prominence: 3295
 -
     Name: HUNTER MTN
     Elevation: 4050
     Latitude: 42.1775
     Longitude: -74.23083333
     State: NY
+    Prominence: 2160

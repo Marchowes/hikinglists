@@ -121,11 +121,12 @@ peaks:
     Longitude: -71.455
     State: NH
 -
-    Name: BLUE MTN
+    Name: BUNNEL MTN (BLUE MTN)
     Elevation: 3730
     Latitude: 44.79138889
     Longitude: -71.47916667
     State: NH
+    Prominence: 1800
 -
     Name: MT DARTMOUTH
     Elevation: 3727
@@ -195,9 +196,10 @@ peaks:
 -
     Name: LONG MTN (M PK)
     Elevation: 3661
-    Latitude: 44.68
-    Longitude: -71.38
+    Latitude: 44.6799
+    Longitude: -71.3794
     State: NH
+    Prominence: 1711
 -
     Name: TERRACE MTN (E PK)
     Elevation: 3655
@@ -271,11 +273,12 @@ peaks:
     Longitude: -71.49638889
     State: NH
 -
-    Name: CHERRY MTN, MT MARTHA
-    Elevation: 3573
+    Name: CHERRY MTN (MT MARTHA)
+    Elevation: 3572
     Latitude: 44.33083333
     Longitude: -71.49972222
     State: NH
+    Prominence: 1574
 -
     Name: SOUTH BALDFACE
     Elevation: 3570
@@ -378,6 +381,7 @@ peaks:
     Latitude: 43.88472222
     Longitude: -71.84388889
     State: NH
+    Prominence: 1480
 -
     Name: PERCY PKS (N PK)
     Elevation: 3430
@@ -450,6 +454,7 @@ peaks:
     Latitude: 44.05333333
     Longitude: -71.3575
     State: NH
+    Prominence: 1591
 -
     Name: WHITCOMB MTN (M PK)
     Elevation: 3354
@@ -540,6 +545,7 @@ peaks:
     Latitude: 44.10583333
     Longitude: -71.09444444
     State: NH
+    Prominence: 1758
 -
     Name: BLACK CRESCENT MTN (S PK)
     Elevation: 3264
@@ -601,6 +607,7 @@ peaks:
     Latitude: 44.02944444
     Longitude: -71.30222222
     State: NH
+    Prominence: 1440
 -
     Name: WEST ROYCE MTN
     Elevation: 3210

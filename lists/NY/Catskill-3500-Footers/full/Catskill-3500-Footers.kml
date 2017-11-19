@@ -13,6 +13,7 @@
 Latitude: 41.99916667
 Longitude: -74.38611111
 Name: SLIDE MTN
+Prominence: 3295
 Rank: 1
 State: NY
 </description>
@@ -27,6 +28,7 @@ State: NY
 Latitude: 42.1775
 Longitude: -74.23083333
 Name: HUNTER MTN
+Prominence: 2160
 Rank: 2
 State: NY
 </description>
@@ -41,6 +43,7 @@ State: NY
 Latitude: 42.27
 Longitude: -74.12333333
 Name: BLACK DOME
+Prominence: 2080
 Rank: 3
 State: NY
 </description>
@@ -55,6 +58,7 @@ State: NY
 Latitude: 42.27083333
 Longitude: -74.13666667
 Name: THOMAS COLE MTN
+Prominence: 
 Rank: 4
 State: NY
 </description>
@@ -69,6 +73,7 @@ State: NY
 Latitude: 42.26777778
 Longitude: -74.10527778
 Name: BLACKHEAD
+Prominence: 
 Rank: 5
 State: NY
 </description>
@@ -83,6 +88,7 @@ State: NY
 Latitude: 42.16777778
 Longitude: -74.29027778
 Name: WEST KILL MTN
+Prominence: 
 Rank: 6
 State: NY
 </description>
@@ -97,6 +103,7 @@ State: NY
 Latitude: 42.0275
 Longitude: -74.52861111
 Name: DOUBLETOP MTN
+Prominence: 
 Rank: 7
 State: NY
 </description>
@@ -111,6 +118,7 @@ State: NY
 Latitude: 42.00138889
 Longitude: -74.35722222
 Name: CORNELL MTN
+Prominence: 
 Rank: 8
 State: NY
 </description>
@@ -125,6 +133,7 @@ State: NY
 Latitude: 42.03944444
 Longitude: -74.54972222
 Name: GRAHAM MTN
+Prominence: 
 Rank: 9
 State: NY
 </description>
@@ -139,6 +148,7 @@ State: NY
 Latitude: 42.13805556
 Longitude: -74.17472222
 Name: PLATEAU MTN
+Prominence: 1780
 Rank: 10
 State: NY
 </description>
@@ -153,6 +163,7 @@ State: NY
 Latitude: 41.95833333
 Longitude: -74.40527778
 Name: TABLE MTN
+Prominence: 
 Rank: 11
 State: NY
 </description>
@@ -167,6 +178,7 @@ State: NY
 Latitude: 41.95305556
 Longitude: -74.39861111
 Name: PEEKAMOOSE MTN
+Prominence: 
 Rank: 12
 State: NY
 </description>
@@ -181,6 +193,7 @@ State: NY
 Latitude: 42.13111111
 Longitude: -74.15083333
 Name: SUGARLOAF MTN
+Prominence: 
 Rank: 13
 State: NY
 </description>
@@ -195,6 +208,7 @@ State: NY
 Latitude: 42.00805556
 Longitude: -74.3475
 Name: WITTENBERG MTN
+Prominence: 
 Rank: 14
 State: NY
 </description>
@@ -209,6 +223,7 @@ State: NY
 Latitude: 42.1625
 Longitude: -74.24416667
 Name: HUNTER MTN (SW PK)
+Prominence: 
 Rank: 15
 State: NY
 </description>
@@ -223,6 +238,7 @@ State: NY
 Latitude: 42.05833333
 Longitude: -74.39666667
 Name: PANTHER MTN
+Prominence: 
 Rank: 16
 State: NY
 </description>
@@ -237,6 +253,7 @@ State: NY
 Latitude: 42.04555556
 Longitude: -74.595
 Name: BALSAM LAKE MTN
+Prominence: 
 Rank: 17
 State: NY
 </description>
@@ -251,6 +268,7 @@ State: NY
 Latitude: 41.96916667
 Longitude: -74.38972222
 Name: LONE MTN
+Prominence: 
 Rank: 18
 State: NY
 </description>
@@ -265,6 +283,7 @@ State: NY
 Latitude: 42.035
 Longitude: -74.49722222
 Name: BIG INDIAN MTN
+Prominence: 
 Rank: 19
 State: NY
 </description>
@@ -279,6 +298,7 @@ State: NY
 Latitude: 41.98777778
 Longitude: -74.3625
 Name: FRIDAY MTN
+Prominence: 
 Rank: 20
 State: NY
 </description>
@@ -293,6 +313,7 @@ State: NY
 Latitude: 42.20055556
 Longitude: -74.27777778
 Name: RUSK MTN
+Prominence: 
 Rank: 21
 State: NY
 </description>
@@ -307,6 +328,7 @@ State: NY
 Latitude: 42.16222222
 Longitude: -74.08055556
 Name: KAATERSKILL HIGH PK
+Prominence: 1705
 Rank: 22
 State: NY
 </description>
@@ -321,6 +343,7 @@ State: NY
 Latitude: 42.12555556
 Longitude: -74.12972222
 Name: TWIN MTN
+Prominence: 
 Rank: 23
 State: NY
 </description>
@@ -335,6 +358,7 @@ State: NY
 Latitude: 42.0275
 Longitude: -74.46944444
 Name: FIR MTN
+Prominence: 
 Rank: 24
 State: NY
 </description>
@@ -349,6 +373,7 @@ State: NY
 Latitude: 41.97694444
 Longitude: -74.35777778
 Name: BALSAM CAP
+Prominence: 
 Rank: 25
 State: NY
 </description>
@@ -363,6 +388,7 @@ State: NY
 Latitude: 42.17361111
 Longitude: -74.34944444
 Name: NORTH DOME
+Prominence: 1160
 Rank: 26
 State: NY
 </description>
@@ -377,6 +403,7 @@ State: NY
 Latitude: 42.06166667
 Longitude: -74.51
 Name: EAGLE MTN
+Prominence: 
 Rank: 27
 State: NY
 </description>
@@ -391,6 +418,7 @@ State: NY
 Latitude: 42.265
 Longitude: -74.47416667
 Name: BEARPEN MTN
+Prominence: 
 Rank: 28
 State: NY
 </description>
@@ -405,6 +433,7 @@ State: NY
 Latitude: 42.09055556
 Longitude: -74.48833333
 Name: BALSAM MTN
+Prominence: 
 Rank: 29
 State: NY
 </description>
@@ -419,6 +448,7 @@ State: NY
 Latitude: 42.11638889
 Longitude: -74.115
 Name: INDIAN HEAD MTN
+Prominence: 
 Rank: 30
 State: NY
 </description>
@@ -433,6 +463,7 @@ State: NY
 Latitude: 42.17555556
 Longitude: -74.37333333
 Name: MT SHERRILL
+Prominence: 
 Rank: 31
 State: NY
 </description>
@@ -447,6 +478,7 @@ State: NY
 Latitude: 42.18027778
 Longitude: -74.43833333
 Name: HALCOTT MTN
+Prominence: 
 Rank: 32
 State: NY
 </description>
@@ -461,6 +493,7 @@ State: NY
 Latitude: 42.24583333
 Longitude: -74.44861111
 Name: VLY MTN
+Prominence: 
 Rank: 33
 State: NY
 </description>
@@ -475,6 +508,7 @@ State: NY
 Latitude: 42.31472222
 Longitude: -74.14361111
 Name: WINDHAM HIGH PK
+Prominence: 
 Rank: 34
 State: NY
 </description>
@@ -489,6 +523,7 @@ State: NY
 Latitude: 41.97277778
 Longitude: -74.37333333
 Name: ROCKY MTN
+Prominence: 
 Rank: 35
 State: NY
 </description>

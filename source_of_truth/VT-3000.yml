@@ -90,16 +90,18 @@ peaks:
     State: VT
 -
     Name: STERLING MTN (WHITE FACE MTN)
-    Elevation: 3714
+    Elevation: 3713
     Latitude: 44.58222222
     Longitude: -72.74027778
     State: VT
+    Prominence: 1543
 -
     Name: BOLTON MTN
     Elevation: 3690
     Latitude: 44.44916667
     Longitude: -72.84027778
     State: VT
+    Prominence: 1800
 -
     Name: (MT ETHAN ALLEN)
     Elevation: 3688
@@ -204,6 +206,7 @@ peaks:
     Latitude: 43.29444444
     Longitude: -72.93805556
     State: VT
+    Prominence: 1477
 -
     Name: GLASTENBURY MTN (W PK)
     Elevation: 3423
@@ -283,6 +286,7 @@ peaks:
     Latitude: 44.77305556
     Longitude: -72.55138889
     State: VT
+    Prominence: 1564
 -
     Name: LUDLOW MTN (OKEMO MTN)
     Elevation: 3343
@@ -333,6 +337,7 @@ peaks:
     Latitude: 44.76611111
     Longitude: -71.98888889
     State: VT
+    Prominence: 1780
 -
     Name: BEAR MTN
     Elevation: 3301
@@ -375,6 +380,7 @@ peaks:
     Latitude: 44.57055556
     Longitude: -71.89333333
     State: VT
+    Prominence: 1600
 -
     Name: WORTH MTN
     Elevation: 3234
@@ -405,6 +411,7 @@ peaks:
     Latitude: 44.04361111
     Longitude: -72.80916667
     State: VT
+    Prominence: 1804
 -
     Name: SMITH PK
     Elevation: 3210
@@ -483,6 +490,7 @@ peaks:
     Latitude: 44.8975
     Longitude: -71.54527778
     State: VT
+    Prominence: 1538
 -
     Name: MT MAYO
     Elevation: 3143

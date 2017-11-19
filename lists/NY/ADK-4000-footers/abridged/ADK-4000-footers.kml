@@ -13,6 +13,7 @@
 Latitude: 44.1125
 Longitude: -73.92416667
 Name: MT MARCY
+Prominence: 4919
 Rank: 1
 State: NY
 </description>
@@ -27,6 +28,7 @@ State: NY
 Latitude: 44.14361111
 Longitude: -73.98694444
 Name: ALGONQUIN PK
+Prominence: 2113
 Rank: 2
 State: NY
 </description>
@@ -41,6 +43,7 @@ State: NY
 Latitude: 44.10555556
 Longitude: -73.90111111
 Name: MT HAYSTACK
+Prominence: 
 Rank: 3
 State: NY
 </description>
@@ -55,6 +58,7 @@ State: NY
 Latitude: 44.09944444
 Longitude: -73.93138889
 Name: MT SKYLIGHT
+Prominence: 
 Rank: 4
 State: NY
 </description>
@@ -69,6 +73,7 @@ State: NY
 Latitude: 44.36555556
 Longitude: -73.90361111
 Name: WHITEFACE MTN
+Prominence: 3110
 Rank: 5
 State: NY
 </description>
@@ -83,6 +88,7 @@ State: NY
 Latitude: 44.13694444
 Longitude: -73.99861111
 Name: IROQUOIS PK
+Prominence: 
 Rank: 6
 State: NY
 </description>
@@ -97,6 +103,7 @@ State: NY
 Latitude: 44.08222222
 Longitude: -73.78666667
 Name: DIX MTN
+Prominence: 2822
 Rank: 7
 State: NY
 </description>
@@ -111,6 +118,7 @@ State: NY
 Latitude: 44.11138889
 Longitude: -73.93555556
 Name: GRAY PEAK
+Prominence: 
 Rank: 8
 State: NY
 </description>
@@ -125,6 +133,7 @@ State: NY
 Latitude: 44.12111111
 Longitude: -73.88694444
 Name: BASIN MTN
+Prominence: 
 Rank: 9
 State: NY
 </description>
@@ -139,6 +148,7 @@ State: NY
 Latitude: 44.12777778
 Longitude: -73.85777778
 Name: GOTHICS
+Prominence: 
 Rank: 10
 State: NY
 </description>
@@ -153,6 +163,7 @@ State: NY
 Latitude: 44.12694444
 Longitude: -73.96055556
 Name: MT COLDEN
+Prominence: 
 Rank: 11
 State: NY
 </description>
@@ -167,6 +178,7 @@ State: NY
 Latitude: 44.16111111
 Longitude: -73.72055556
 Name: GIANT MTN
+Prominence: 2969
 Rank: 12
 State: NY
 </description>
@@ -181,6 +193,7 @@ State: NY
 Latitude: 44.08888889
 Longitude: -73.81638889
 Name: NIPPLE TOP
+Prominence: 
 Rank: 13
 State: NY
 </description>
@@ -195,6 +208,7 @@ State: NY
 Latitude: 44.08222222
 Longitude: -74.13138889
 Name: SANTANONI PK
+Prominence: 2425
 Rank: 14
 State: NY
 </description>
@@ -209,6 +223,7 @@ State: NY
 Latitude: 44.09472222
 Longitude: -73.95027778
 Name: MT REDFIELD
+Prominence: 
 Rank: 15
 State: NY
 </description>
@@ -223,6 +238,7 @@ State: NY
 Latitude: 44.15166667
 Longitude: -73.98
 Name: WRIGHT PK
+Prominence: 
 Rank: 16
 State: NY
 </description>
@@ -237,6 +253,7 @@ State: NY
 Latitude: 44.12638889
 Longitude: -73.87527778
 Name: SADDLEBACK MTN
+Prominence: 
 Rank: 17
 State: NY
 </description>
@@ -251,6 +268,7 @@ State: NY
 Latitude: 44.13444444
 Longitude: -73.85
 Name: ARMSTRONG MTN
+Prominence: 
 Rank: 18
 State: NY
 </description>
@@ -265,6 +283,7 @@ State: NY
 Latitude: 44.09833333
 Longitude: -74.13277778
 Name: PANTHER PK
+Prominence: 
 Rank: 19
 State: NY
 </description>
@@ -279,6 +298,7 @@ State: NY
 Latitude: 44.14055556
 Longitude: -73.91666667
 Name: TABLE TOP MTN
+Prominence: 
 Rank: 20
 State: NY
 </description>
@@ -293,6 +313,7 @@ State: NY
 Latitude: 44.06944444
 Longitude: -73.77805556
 Name: HOUGH PK
+Prominence: 
 Rank: 21
 State: NY
 </description>
@@ -307,6 +328,7 @@ State: NY
 Latitude: 44.05166667
 Longitude: -73.78027778
 Name: MACOMB MTN
+Prominence: 
 Rank: 22
 State: NY
 </description>
@@ -321,6 +343,7 @@ State: NY
 Latitude: 44.15416667
 Longitude: -73.70583333
 Name: ROCKY PEAK RIDGE
+Prominence: 
 Rank: 23
 State: NY
 </description>
@@ -335,6 +358,7 @@ State: NY
 Latitude: 44.1275
 Longitude: -74.0125
 Name: MT MARSHALL
+Prominence: 
 Rank: 24
 State: NY
 </description>
@@ -349,6 +373,7 @@ State: NY
 Latitude: 44.15972222
 Longitude: -74.2
 Name: SEWARD MTN
+Prominence: 2035
 Rank: 25
 State: NY
 </description>
@@ -363,6 +388,7 @@ State: NY
 Latitude: 44.07083333
 Longitude: -73.94
 Name: ALLEN MTN
+Prominence: 
 Rank: 26
 State: NY
 </description>
@@ -377,6 +403,7 @@ State: NY
 Latitude: 44.14361111
 Longitude: -73.90777778
 Name: TABLE TOP MTN (E PK)
+Prominence: 
 Rank: 27
 State: NY
 </description>
@@ -391,6 +418,7 @@ State: NY
 Latitude: 44.18222222
 Longitude: -73.87138889
 Name: BIG SLIDE MTN
+Prominence: 
 Rank: 28
 State: NY
 </description>
@@ -405,6 +433,7 @@ State: NY
 Latitude: 44.38694444
 Longitude: -73.89027778
 Name: ESTHER MTN
+Prominence: 
 Rank: 29
 State: NY
 </description>
@@ -419,6 +448,7 @@ State: NY
 Latitude: 44.14027778
 Longitude: -73.84583333
 Name: UPPER WOLFJAW MTN
+Prominence: 
 Rank: 30
 State: NY
 </description>
@@ -433,6 +463,7 @@ State: NY
 Latitude: 44.14805556
 Longitude: -73.83305556
 Name: LOWER WOLFJAW MTN
+Prominence: 
 Rank: 31
 State: NY
 </description>
@@ -447,6 +478,7 @@ State: NY
 Latitude: 44.15694444
 Longitude: -73.92166667
 Name: PHELPS MTN
+Prominence: 
 Rank: 32
 State: NY
 </description>
@@ -461,6 +493,7 @@ State: NY
 Latitude: 44.17944444
 Longitude: -74.0275
 Name: STREET MTN
+Prominence: 
 Rank: 33
 State: NY
 </description>
@@ -475,6 +508,7 @@ State: NY
 Latitude: 44.11444444
 Longitude: -73.85055556
 Name: SAWTEETH
+Prominence: 
 Rank: 34
 State: NY
 </description>
@@ -489,6 +523,7 @@ State: NY
 Latitude: 44.15388889
 Longitude: -74.21194444
 Name: DONALDSON MTN
+Prominence: 
 Rank: 35
 State: NY
 </description>
@@ -503,6 +538,7 @@ State: NY
 Latitude: 44.21833333
 Longitude: -73.86055556
 Name: CASCADE MTN
+Prominence: 
 Rank: 36
 State: NY
 </description>
@@ -517,6 +553,7 @@ State: NY
 Latitude: 44.15805556
 Longitude: -74.17277778
 Name: SEYMOUR MTN
+Prominence: 
 Rank: 37
 State: NY
 </description>
@@ -531,6 +568,7 @@ State: NY
 Latitude: 44.06
 Longitude: -73.77472222
 Name: SOUTH DIX
+Prominence: 
 Rank: 38
 State: NY
 </description>
@@ -545,6 +583,7 @@ State: NY
 Latitude: 44.21222222
 Longitude: -73.85416667
 Name: PORTER MTN
+Prominence: 
 Rank: 39
 State: NY
 </description>
@@ -559,6 +598,7 @@ State: NY
 Latitude: 44.09388889
 Longitude: -73.83472222
 Name: MT COLVIN
+Prominence: 
 Rank: 40
 State: NY
 </description>
@@ -573,6 +613,7 @@ State: NY
 Latitude: 44.14388889
 Longitude: -74.21472222
 Name: MT EMMONS
+Prominence: 
 Rank: 41
 State: NY
 </description>
@@ -587,6 +628,7 @@ State: NY
 Latitude: 44.10583333
 Longitude: -73.79666667
 Name: DIAL MTN
+Prominence: 
 Rank: 42
 State: NY
 </description>
@@ -601,6 +643,7 @@ State: NY
 Latitude: 44.17444444
 Longitude: -73.88527778
 Name: YARD MTN
+Prominence: 
 Rank: 43
 State: NY
 </description>
@@ -615,6 +658,7 @@ State: NY
 Latitude: 44.06527778
 Longitude: -73.75777778
 Name: EAST DIX
+Prominence: 
 Rank: 44
 State: NY
 </description>

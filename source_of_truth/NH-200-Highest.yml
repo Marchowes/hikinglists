@@ -1,8 +1,7 @@
 # New Hampshire 200 Highest (NH200)
 #
 # Authority: self
-# List Rules: 200' col, Threshold is 100 highest peaks.
-# History: Data seeded from the Northeast 777 list.
+# List Rules: 200' col, Threshold is 200 highest peaks.
 #
 # TODO:
 # - Standardize Names
@@ -194,7 +193,7 @@ peaks:
     Longitude: -71.2989
     State: NH
     Prominence: 200 # from LOJ
--
+- # This peaks is replicated in NH300
     Name: STINSON
     Elevation: 2900
     Latitude: 43.8346

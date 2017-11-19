@@ -88,7 +88,7 @@ State: NH
 Latitude: 44.1125
 Longitude: -73.92416667
 Name: MT MARCY
-Prominence: 
+Prominence: 4919
 Rank: 6
 State: NY
 </description>
@@ -133,7 +133,7 @@ State: NH
 Latitude: 44.14361111
 Longitude: -73.98694444
 Name: ALGONQUIN PK
-Prominence: 
+Prominence: 2113
 Rank: 9
 State: NY
 </description>
@@ -193,7 +193,7 @@ State: NY
 Latitude: 44.1875
 Longitude: -71.55527778
 Name: SOUTH TWIN MTN
-Prominence: 
+Prominence: 1522
 Rank: 13
 State: NH
 </description>
@@ -208,7 +208,7 @@ State: NH
 Latitude: 44.36555556
 Longitude: -73.90361111
 Name: WHITEFACE MTN
-Prominence: 
+Prominence: 3110
 Rank: 14
 State: NY
 </description>
@@ -238,7 +238,7 @@ State: NY
 Latitude: 44.08222222
 Longitude: -73.78666667
 Name: DIX MTN
-Prominence: 
+Prominence: 2822
 Rank: 16
 State: NY
 </description>
@@ -418,7 +418,7 @@ State: NH
 Latitude: 44.16111111
 Longitude: -73.72055556
 Name: GIANT MTN
-Prominence: 
+Prominence: 2969
 Rank: 28
 State: NY
 </description>
@@ -463,7 +463,7 @@ State: NH
 Latitude: 44.08222222
 Longitude: -74.13138889
 Name: SANTANONI PK
-Prominence: 
+Prominence: 2425
 Rank: 31
 State: NY
 </description>
@@ -763,7 +763,7 @@ State: NH
 Latitude: 44.15972222
 Longitude: -74.2
 Name: SEWARD MTN
-Prominence: 
+Prominence: 2035
 Rank: 51
 State: NY
 </description>
@@ -808,7 +808,7 @@ State: NH
 Latitude: 44.19611111
 Longitude: -71.43388889
 Name: MT FIELD
-Prominence: 
+Prominence: 1702
 Rank: 54
 State: NH
 </description>
@@ -1033,7 +1033,7 @@ State: NY
 Latitude: 41.99916667
 Longitude: -74.38611111
 Name: SLIDE MTN
-Prominence: 
+Prominence: 3295
 Rank: 69
 State: NY
 </description>
@@ -1468,7 +1468,7 @@ State: ME
 Latitude: 42.1775
 Longitude: -74.23083333
 Name: HUNTER MTN
-Prominence: 
+Prominence: 2160
 Rank: 98
 State: NY
 </description>
@@ -1708,7 +1708,7 @@ State: NH
 Latitude: 43.96638889
 Longitude: -71.55694444
 Name: MT TECUMSEH
-Prominence: 
+Prominence: 1743
 Rank: 114
 State: NH
 </description>

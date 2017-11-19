@@ -118,7 +118,7 @@ State: NH
 Latitude: 44.1875
 Longitude: -71.55527778
 Name: SOUTH TWIN MTN
-Prominence: 
+Prominence: 1522
 Rank: 8
 State: NH
 </description>
@@ -373,7 +373,7 @@ State: NH
 Latitude: 44.19611111
 Longitude: -71.43388889
 Name: MT FIELD
-Prominence: 
+Prominence: 1702
 Rank: 25
 State: NH
 </description>
@@ -733,7 +733,7 @@ State: NH
 Latitude: 43.96638889
 Longitude: -71.55694444
 Name: MT TECUMSEH
-Prominence: 
+Prominence: 1743
 Rank: 49
 State: NH
 </description>
@@ -997,13 +997,13 @@ State: NH
           <coordinates>-71.455000,44.548056</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BLUE MTN">
-        <name>BLUE MTN</name>
+      <Placemark id="BUNNEL MTN (BLUE MTN)">
+        <name>BUNNEL MTN (BLUE MTN)</name>
         <description>Elevation: 3730
 Latitude: 44.79138889
 Longitude: -71.47916667
-Name: BLUE MTN
-Prominence: 
+Name: BUNNEL MTN (BLUE MTN)
+Prominence: 1800
 Rank: 67
 State: NH
 </description>
@@ -1180,16 +1180,16 @@ State: NH
       <Placemark id="LONG MTN (M PK)">
         <name>LONG MTN (M PK)</name>
         <description>Elevation: 3661
-Latitude: 44.68
-Longitude: -71.38
+Latitude: 44.6799
+Longitude: -71.3794
 Name: LONG MTN (M PK)
-Prominence: 
+Prominence: 1711
 Rank: 79
 State: NH
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.380000,44.680000</coordinates>
+          <coordinates>-71.379400,44.679900</coordinates>
         </Point>
       </Placemark>
       <Placemark id="TERRACE MTN (E PK)">
@@ -1372,13 +1372,13 @@ State: NH
           <coordinates>-71.582500,44.192778</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="CHERRY MTN, MT MARTHA">
-        <name>CHERRY MTN, MT MARTHA</name>
-        <description>Elevation: 3573
+      <Placemark id="CHERRY MTN (MT MARTHA)">
+        <name>CHERRY MTN (MT MARTHA)</name>
+        <description>Elevation: 3572
 Latitude: 44.33083333
 Longitude: -71.49972222
-Name: CHERRY MTN, MT MARTHA
-Prominence: 
+Name: CHERRY MTN (MT MARTHA)
+Prominence: 1574
 Rank: 92
 State: NH
 </description>

@@ -22,12 +22,14 @@ peaks:
     Latitude: 44.1125
     Longitude: -73.92416667
     State: NY
+    Prominence: 4919
 -
     Name: ALGONQUIN PK
     Elevation: 5115
     Latitude: 44.14361111
     Longitude: -73.98694444
     State: NY
+    Prominence: 2113
 -
     Name: MT HAYSTACK
     Elevation: 4961
@@ -46,6 +48,7 @@ peaks:
     Latitude: 44.36555556
     Longitude: -73.90361111
     State: NY
+    Prominence: 3110
 -
     Name: IROQUOIS PK
     Elevation: 4849
@@ -58,6 +61,7 @@ peaks:
     Latitude: 44.08222222
     Longitude: -73.78666667
     State: NY
+    Prominence: 2822
 -
     Name: BASIN MTN
     Elevation: 4826
@@ -88,6 +92,7 @@ peaks:
     Latitude: 44.16111111
     Longitude: -73.72055556
     State: NY
+    Prominence: 2969
 -
     Name: NIPPLE TOP
     Elevation: 4610
@@ -106,6 +111,7 @@ peaks:
     Latitude: 44.08222222
     Longitude: -74.13138889
     State: NY
+    Prominence: 2425
 -
     Name: WRIGHT PK
     Elevation: 4587
@@ -172,6 +178,7 @@ peaks:
     Latitude: 44.15972222
     Longitude: -74.2
     State: NY
+    Prominence: 2035
 -
     Name: TABLE TOP MTN (E PK)
     Elevation: 4304

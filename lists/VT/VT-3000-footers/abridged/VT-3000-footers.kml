@@ -174,11 +174,11 @@ State: VT
       </Placemark>
       <Placemark id="STERLING MTN (WHITE FACE MTN)">
         <name>STERLING MTN (WHITE FACE MTN)</name>
-        <description>Elevation: 3714
+        <description>Elevation: 3713
 Latitude: 44.58222222
 Longitude: -72.74027778
 Name: STERLING MTN (WHITE FACE MTN)
-Prominence: 
+Prominence: 1543
 Rank: 17
 State: VT
 </description>
@@ -193,7 +193,7 @@ State: VT
 Latitude: 44.44916667
 Longitude: -72.84027778
 Name: BOLTON MTN
-Prominence: 
+Prominence: 1800
 Rank: 18
 State: VT
 </description>
@@ -448,7 +448,7 @@ State: VT
 Latitude: 43.29444444
 Longitude: -72.93805556
 Name: PERU PK
-Prominence: 
+Prominence: 1477
 Rank: 35
 State: VT
 </description>
@@ -643,7 +643,7 @@ State: VT
 Latitude: 44.77305556
 Longitude: -72.55138889
 Name: BELVIDERE MTN
-Prominence: 
+Prominence: 1564
 Rank: 48
 State: VT
 </description>
@@ -763,7 +763,7 @@ State: VT
 Latitude: 44.76611111
 Longitude: -71.98888889
 Name: BALD MTN
-Prominence: 
+Prominence: 1780
 Rank: 56
 State: VT
 </description>
@@ -868,7 +868,7 @@ State: VT
 Latitude: 44.57055556
 Longitude: -71.89333333
 Name: BURKE MTN
-Prominence: 
+Prominence: 1600
 Rank: 63
 State: VT
 </description>
@@ -943,7 +943,7 @@ State: VT
 Latitude: 44.04361111
 Longitude: -72.80916667
 Name: ADAMS MTN
-Prominence: 
+Prominence: 1804
 Rank: 68
 State: VT
 </description>
@@ -1138,7 +1138,7 @@ State: VT
 Latitude: 44.8975
 Longitude: -71.54527778
 Name: MONADNOCK MTN
-Prominence: 
+Prominence: 1538
 Rank: 81
 State: VT
 </description>

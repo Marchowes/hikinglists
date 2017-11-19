@@ -118,7 +118,7 @@ State: NH
 Latitude: 44.1875
 Longitude: -71.55527778
 Name: SOUTH TWIN MTN
-Prominence: 
+Prominence: 1522
 Rank: 8
 State: NH
 </description>
@@ -373,7 +373,7 @@ State: NH
 Latitude: 44.19611111
 Longitude: -71.43388889
 Name: MT FIELD
-Prominence: 
+Prominence: 1702
 Rank: 25
 State: NH
 </description>
@@ -733,7 +733,7 @@ State: NH
 Latitude: 43.96638889
 Longitude: -71.55694444
 Name: MT TECUMSEH
-Prominence: 
+Prominence: 1743
 Rank: 49
 State: NH
 </description>

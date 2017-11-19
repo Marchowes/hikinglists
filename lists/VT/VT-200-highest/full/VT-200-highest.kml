@@ -249,11 +249,11 @@ State: VT
       </Placemark>
       <Placemark id="STERLING MTN (WHITE FACE MTN)">
         <name>STERLING MTN (WHITE FACE MTN)</name>
-        <description>Elevation: 3714
+        <description>Elevation: 3713
 Latitude: 44.58222222
 Longitude: -72.74027778
 Name: STERLING MTN (WHITE FACE MTN)
-Prominence: 
+Prominence: 1543
 Rank: 17
 State: VT
 </description>
@@ -268,7 +268,7 @@ State: VT
 Latitude: 44.44916667
 Longitude: -72.84027778
 Name: BOLTON MTN
-Prominence: 
+Prominence: 1800
 Rank: 18
 State: VT
 </description>
@@ -523,7 +523,7 @@ State: VT
 Latitude: 43.29444444
 Longitude: -72.93805556
 Name: PERU PK
-Prominence: 
+Prominence: 1477
 Rank: 35
 State: VT
 </description>
@@ -718,7 +718,7 @@ State: VT
 Latitude: 44.77305556
 Longitude: -72.55138889
 Name: BELVIDERE MTN
-Prominence: 
+Prominence: 1564
 Rank: 48
 State: VT
 </description>
@@ -838,7 +838,7 @@ State: VT
 Latitude: 44.76611111
 Longitude: -71.98888889
 Name: BALD MTN
-Prominence: 
+Prominence: 1780
 Rank: 56
 State: VT
 </description>
@@ -943,7 +943,7 @@ State: VT
 Latitude: 44.57055556
 Longitude: -71.89333333
 Name: BURKE MTN
-Prominence: 
+Prominence: 1600
 Rank: 63
 State: VT
 </description>
@@ -1018,7 +1018,7 @@ State: VT
 Latitude: 44.04361111
 Longitude: -72.80916667
 Name: ADAMS MTN
-Prominence: 
+Prominence: 1804
 Rank: 68
 State: VT
 </description>
@@ -1213,7 +1213,7 @@ State: VT
 Latitude: 44.8975
 Longitude: -71.54527778
 Name: MONADNOCK MTN
-Prominence: 
+Prominence: 1538
 Rank: 81
 State: VT
 </description>
@@ -2272,19 +2272,19 @@ State: VT
           <coordinates>-72.367900,44.170600</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SE BULL HILL">
-        <name>SE BULL HILL</name>
+      <Placemark id="CHATEAUGUAY PEAK">
+        <name>CHATEAUGUAY PEAK</name>
         <description>Elevation: 2836
-Latitude: 43.6779
-Longitude: -72.6719
-Name: SE BULL HILL
-Prominence: 
+Latitude: 43.678
+Longitude: -72.6721
+Name: CHATEAUGUAY PEAK
+Prominence: 1486
 Rank: 152
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-72.671900,43.677900</coordinates>
+          <coordinates>-72.672100,43.678000</coordinates>
         </Point>
       </Placemark>
       <Placemark id="TINMOUTH">
@@ -2473,7 +2473,7 @@ State: VT
 Latitude: 44.7259
 Longitude: -72.7119
 Name: LARAWAY
-Prominence: 
+Prominence: 1527
 Rank: 165
 State: VT
 </description>
@@ -2953,7 +2953,7 @@ State: VT
 Latitude: 43.5625
 Longitude: -73.099
 Name: HERRICK
-Prominence: 
+Prominence: 1536
 Rank: 197
 State: VT
 </description>

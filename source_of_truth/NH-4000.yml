@@ -66,6 +66,7 @@ peaks:
     Latitude: 44.1875
     Longitude: -71.55527778
     State: NH
+    Prominence: 1522
 -
     Name: CARTER DOME
     Elevation: 4832
@@ -166,6 +167,7 @@ peaks:
     Latitude: 44.19611111
     Longitude: -71.43388889
     State: NH
+    Prominence: 1702
 -
     Name: MT OSCEOLA
     Elevation: 4340
@@ -318,3 +320,4 @@ peaks:
     Latitude: 43.96638889
     Longitude: -71.55694444
     State: NH
+    Prominence: 1743

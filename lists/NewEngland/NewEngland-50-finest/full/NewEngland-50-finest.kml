@@ -412,12 +412,12 @@ State: NH
           <coordinates>-71.447500,44.093611</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BALDPATE MTN, E PK">
-        <name>BALDPATE MTN, E PK</name>
+      <Placemark id="BALDPATE MTN (E PK)">
+        <name>BALDPATE MTN (E PK)</name>
         <description>Elevation: 3790
 Latitude: 44.60916667
 Longitude: -70.89277778
-Name: BALDPATE MTN, E PK
+Name: BALDPATE MTN (E PK)
 Prominence: 2240
 Rank: 28
 State: ME
@@ -705,7 +705,7 @@ Longitude: -69.135994
 Name: SADDLEBACK MTN
 Prominence: 1850
 Rank: 47
-State: NH
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
@@ -750,7 +750,7 @@ Longitude: -69.893914
 Name: MOXIE MTN
 Prominence: 1820
 Rank: 50
-State: NH
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>

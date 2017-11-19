@@ -13,7 +13,7 @@
 Latitude: 42.27
 Longitude: -74.12333333
 Name: BLACK DOME
-Prominence: 
+Prominence: 2080
 Rank: 115
 State: NY
 </description>
@@ -268,7 +268,7 @@ State: NH
 Latitude: 43.7
 Longitude: -74.38694444
 Name: SNOWY MTN
-Prominence: 
+Prominence: 2243
 Rank: 132
 State: NY
 </description>
@@ -388,7 +388,7 @@ State: NH
 Latitude: 44.30277778
 Longitude: -73.8825
 Name: KILBURN MTN
-Prominence: 
+Prominence: 1700
 Rank: 140
 State: NY
 </description>
@@ -643,7 +643,7 @@ State: ME
 Latitude: 42.13805556
 Longitude: -74.17472222
 Name: PLATEAU MTN
-Prominence: 
+Prominence: 1780
 Rank: 157
 State: NY
 </description>
@@ -763,7 +763,7 @@ State: NY
 Latitude: 44.70305556
 Longitude: -73.86472222
 Name: LYON MTN (NE PK)
-Prominence: 
+Prominence: 2247
 Rank: 165
 State: NY
 </description>
@@ -898,7 +898,7 @@ State: NY
 Latitude: 45.12166667
 Longitude: -70.6
 Name: EAST KENNEBAGO MTN
-Prominence: 
+Prominence: 1801
 Rank: 174
 State: ME
 </description>
@@ -937,12 +937,12 @@ State: VT
           <coordinates>-72.926111,44.004722</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BALDPATE MTN, E PK">
-        <name>BALDPATE MTN, E PK</name>
+      <Placemark id="BALDPATE MTN (E PK)">
+        <name>BALDPATE MTN (E PK)</name>
         <description>Elevation: 3790
 Latitude: 44.60916667
 Longitude: -70.89277778
-Name: BALDPATE MTN, E PK
+Name: BALDPATE MTN (E PK)
 Prominence: 2240
 Rank: 177
 State: ME
@@ -1138,7 +1138,7 @@ State: NH
 Latitude: 43.73694444
 Longitude: -74.51527778
 Name: WAKELY MTN
-Prominence: 
+Prominence: 1631
 Rank: 190
 State: NY
 </description>
@@ -1243,7 +1243,7 @@ State: NY
 Latitude: 43.87222222
 Longitude: -74.40138889
 Name: BLUE MTN
-Prominence: 
+Prominence: 1939
 Rank: 197
 State: NY
 </description>
@@ -1402,13 +1402,13 @@ State: ME
           <coordinates>-70.126944,45.468611</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BLUE MTN">
-        <name>BLUE MTN</name>
+      <Placemark id="BUNNEL MTN (BLUE MTN)">
+        <name>BUNNEL MTN (BLUE MTN)</name>
         <description>Elevation: 3730
 Latitude: 44.79138889
 Longitude: -71.47916667
-Name: BLUE MTN
-Prominence: 
+Name: BUNNEL MTN (BLUE MTN)
+Prominence: 1800
 Rank: 208
 State: NH
 </description>
@@ -1507,21 +1507,6 @@ State: NY
           <coordinates>-74.389722,41.969167</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="STERLING MTN (WHITE FACE MTN)">
-        <name>STERLING MTN (WHITE FACE MTN)</name>
-        <description>Elevation: 3714
-Latitude: 44.58222222
-Longitude: -72.74027778
-Name: STERLING MTN (WHITE FACE MTN)
-Prominence: 
-Rank: 215
-State: VT
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.740278,44.582222</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="PANTHER MTN (S PK)">
         <name>PANTHER MTN (S PK)</name>
         <description>Elevation: 3714
@@ -1529,7 +1514,7 @@ Latitude: 43.72527778
 Longitude: -74.39333333
 Name: PANTHER MTN (S PK)
 Prominence: 
-Rank: 216
+Rank: 215
 State: NY
 </description>
         <visibility>1</visibility>
@@ -1544,12 +1529,27 @@ Latitude: 45.10694444
 Longitude: -70.81694444
 Name: WEST KENNEBAGO MTN
 Prominence: 
-Rank: 217
+Rank: 216
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.816944,45.106944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="STERLING MTN (WHITE FACE MTN)">
+        <name>STERLING MTN (WHITE FACE MTN)</name>
+        <description>Elevation: 3713
+Latitude: 44.58222222
+Longitude: -72.74027778
+Name: STERLING MTN (WHITE FACE MTN)
+Prominence: 1543
+Rank: 217
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.740278,44.582222</coordinates>
         </Point>
       </Placemark>
       <Placemark id="SUGARLOAF">
@@ -1618,7 +1618,7 @@ State: ME
 Latitude: 43.91138889
 Longitude: -73.81888889
 Name: HOFFMAN MTN
-Prominence: 
+Prominence: 1962
 Rank: 222
 State: NY
 </description>
@@ -1753,7 +1753,7 @@ State: NY
 Latitude: 44.44916667
 Longitude: -72.84027778
 Name: BOLTON MTN
-Prominence: 
+Prominence: 1800
 Rank: 231
 State: VT
 </description>
@@ -1813,7 +1813,7 @@ State: NY
 Latitude: 44.235
 Longitude: -73.71083333
 Name: HURRICANE MTN
-Prominence: 
+Prominence: 1988
 Rank: 235
 State: NY
 </description>
@@ -1912,12 +1912,12 @@ State: VT
           <coordinates>-72.929167,44.184167</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BALDPATE MTN, W PK">
-        <name>BALDPATE MTN, W PK</name>
+      <Placemark id="BALDPATE MTN (W PK)">
+        <name>BALDPATE MTN (W PK)</name>
         <description>Elevation: 3662
 Latitude: 44.60138889
 Longitude: -70.9025
-Name: BALDPATE MTN, W PK
+Name: BALDPATE MTN (W PK)
 Prominence: 
 Rank: 242
 State: ME
@@ -1945,16 +1945,16 @@ State: NH
       <Placemark id="LONG MTN (M PK)">
         <name>LONG MTN (M PK)</name>
         <description>Elevation: 3661
-Latitude: 44.68
-Longitude: -71.38
+Latitude: 44.6799
+Longitude: -71.3794
 Name: LONG MTN (M PK)
-Prominence: 
+Prominence: 1711
 Rank: 244
 State: NH
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.380000,44.680000</coordinates>
+          <coordinates>-71.379400,44.679900</coordinates>
         </Point>
       </Placemark>
       <Placemark id="TERRACE MTN (E PK)">
@@ -1993,7 +1993,7 @@ State: ME
 Latitude: 42.16222222
 Longitude: -74.08055556
 Name: KAATERSKILL HIGH PK
-Prominence: 
+Prominence: 1705
 Rank: 247
 State: NY
 </description>
@@ -2023,7 +2023,7 @@ State: ME
 Latitude: 45.20361111
 Longitude: -71.06388889
 Name: RUMP MTN
-Prominence: 
+Prominence: 1524
 Rank: 249
 State: ME
 </description>
@@ -2128,7 +2128,7 @@ State: ME
 Latitude: 45.19194444
 Longitude: -70.72944444
 Name: COW RIDGE
-Prominence: 
+Prominence: 1435
 Rank: 256
 State: ME
 </description>
@@ -2383,7 +2383,7 @@ State: NY
 Latitude: 42.17361111
 Longitude: -74.34944444
 Name: NORTH DOME
-Prominence: 
+Prominence: 1160
 Rank: 273
 State: NY
 </description>
@@ -2713,7 +2713,7 @@ State: NY
 Latitude: 43.67333333
 Longitude: -74.04888889
 Name: GORE MTN
-Prominence: 
+Prominence: 1870
 Rank: 295
 State: NY
 </description>
@@ -2722,13 +2722,13 @@ State: NY
           <coordinates>-74.048889,43.673333</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="CHERRY MTN, MT MARTHA">
-        <name>CHERRY MTN, MT MARTHA</name>
-        <description>Elevation: 3573
+      <Placemark id="CHERRY MTN (MT MARTHA)">
+        <name>CHERRY MTN (MT MARTHA)</name>
+        <description>Elevation: 3572
 Latitude: 44.33083333
 Longitude: -71.49972222
-Name: CHERRY MTN, MT MARTHA
-Prominence: 
+Name: CHERRY MTN (MT MARTHA)
+Prominence: 1574
 Rank: 296
 State: NH
 </description>
@@ -2773,7 +2773,7 @@ State: NH
 Latitude: 44.76222222
 Longitude: -70.52055556
 Name: JACKSON MTN
-Prominence: 
+Prominence: 1798
 Rank: 299
 State: ME
 </description>
@@ -3688,7 +3688,7 @@ State: NY
 Latitude: 43.88472222
 Longitude: -71.84388889
 Name: CARR MTN
-Prominence: 
+Prominence: 1480
 Rank: 360
 State: NH
 </description>
@@ -3703,7 +3703,7 @@ State: NH
 Latitude: 43.66138889
 Longitude: -74.2
 Name: PUFFER MTN
-Prominence: 
+Prominence: 1670
 Rank: 361
 State: NY
 </description>
@@ -3793,7 +3793,7 @@ State: ME
 Latitude: 45.00472222
 Longitude: -70.92444444
 Name: DEER MTN
-Prominence: 
+Prominence: 1540
 Rank: 367
 State: ME
 </description>
@@ -3883,7 +3883,7 @@ State: VT
 Latitude: 43.29444444
 Longitude: -72.93805556
 Name: PERU PK
-Prominence: 
+Prominence: 1477
 Rank: 373
 State: VT
 </description>
@@ -4213,7 +4213,7 @@ State: NY
 Latitude: 43.89805556
 Longitude: -74.09638889
 Name: VANDERWHACKER MTN
-Prominence: 
+Prominence: 1686
 Rank: 395
 State: NY
 </description>
@@ -4273,7 +4273,7 @@ State: NH
 Latitude: 45.04111111
 Longitude: -70.71861111
 Name: SPOTTED MTN (M PK)
-Prominence: 
+Prominence: 1571
 Rank: 399
 State: ME
 </description>
@@ -4618,7 +4618,7 @@ State: NY
 Latitude: 44.05333333
 Longitude: -71.3575
 Name: MT TREMONT
-Prominence: 
+Prominence: 1591
 Rank: 422
 State: NH
 </description>
@@ -4768,7 +4768,7 @@ State: NY
 Latitude: 44.02444444
 Longitude: -74.33
 Name: KEMPSHALL MTN
-Prominence: 
+Prominence: 1640
 Rank: 432
 State: NY
 </description>
@@ -4828,7 +4828,7 @@ State: NY
 Latitude: 44.77305556
 Longitude: -72.55138889
 Name: BELVIDERE MTN
-Prominence: 
+Prominence: 1564
 Rank: 436
 State: VT
 </description>
@@ -4903,7 +4903,7 @@ State: NY
 Latitude: 42.28555556
 Longitude: -74.66388889
 Name: PLATTEKILL MTN (N PK)
-Prominence: 
+Prominence: 1780
 Rank: 441
 State: NY
 </description>
@@ -5158,7 +5158,7 @@ State: ME
 Latitude: 44.55805556
 Longitude: -74.15194444
 Name: LOON LAKE MTNS (M PK)
-Prominence: 
+Prominence: 1600
 Rank: 458
 State: NY
 </description>
@@ -5248,7 +5248,7 @@ State: NH
 Latitude: 45.9725
 Longitude: -68.84444444
 Name: NORTH TURNER MTN
-Prominence: 
+Prominence: 1715
 Rank: 464
 State: ME
 </description>
@@ -5353,7 +5353,7 @@ State: NH
 Latitude: 44.60333333
 Longitude: -74.22083333
 Name: DEBAR MTN
-Prominence: 
+Prominence: 1660
 Rank: 471
 State: NY
 </description>
@@ -5368,7 +5368,7 @@ State: NY
 Latitude: 44.76611111
 Longitude: -71.98888889
 Name: BALD MTN
-Prominence: 
+Prominence: 1780
 Rank: 472
 State: VT
 </description>
@@ -5788,7 +5788,7 @@ State: NY
 Latitude: 44.57055556
 Longitude: -71.89333333
 Name: BURKE MTN
-Prominence: 
+Prominence: 1600
 Rank: 500
 State: VT
 </description>
@@ -5803,7 +5803,7 @@ State: VT
 Latitude: 44.10583333
 Longitude: -71.09444444
 Name: KEARSARGE NORTH
-Prominence: 
+Prominence: 1758
 Rank: 501
 State: NH
 </description>
@@ -5998,7 +5998,7 @@ State: ME
 Latitude: 43.54472222
 Longitude: -73.96277778
 Name: CRANE MTN
-Prominence: 
+Prominence: 1745
 Rank: 514
 State: NY
 </description>
@@ -6373,7 +6373,7 @@ State: NH
 Latitude: 44.02944444
 Longitude: -71.30222222
 Name: BEAR MTN
-Prominence: 
+Prominence: 1440
 Rank: 539
 State: NH
 </description>
@@ -6418,7 +6418,7 @@ State: NY
 Latitude: 44.04361111
 Longitude: -72.80916667
 Name: ADAMS MTN
-Prominence: 
+Prominence: 1804
 Rank: 542
 State: VT
 </description>
@@ -6928,7 +6928,7 @@ State: ME
 Latitude: 44.91416667
 Longitude: -71.0025
 Name: AZISCOHOS/LOW AZISCOHOS MTN
-Prominence: 
+Prominence: 1640
 Rank: 576
 State: ME
 </description>
@@ -7648,7 +7648,7 @@ State: ME
 Latitude: 44.8975
 Longitude: -71.54527778
 Name: MONADNOCK MTN
-Prominence: 
+Prominence: 1538
 Rank: 624
 State: VT
 </description>
@@ -8608,7 +8608,7 @@ State: NY
 Latitude: 45.75833333
 Longitude: -69.53277778
 Name: LITTLE SPENCER MTN
-Prominence: 
+Prominence: 1780
 Rank: 688
 State: ME
 </description>
