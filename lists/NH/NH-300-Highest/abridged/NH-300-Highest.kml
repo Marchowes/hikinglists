@@ -895,8 +895,8 @@ State: NH
       <Placemark id="UNNAMED (CHERRY APPLEBY)">
         <name>UNNAMED (CHERRY APPLEBY)</name>
         <description>Elevation: 2598
-Latitude: 44.9682
-Longitude: -71.3767
+Latitude: 44.312088
+Longitude: -71.470313
 Name: UNNAMED (CHERRY APPLEBY)
 Prominence: 196
 Rank: 261
@@ -904,7 +904,7 @@ State: NH
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.376700,44.968200</coordinates>
+          <coordinates>-71.470313,44.312088</coordinates>
         </Point>
       </Placemark>
       <Placemark id="TRIDENT">

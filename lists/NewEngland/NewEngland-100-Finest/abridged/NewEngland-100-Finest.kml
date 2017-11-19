@@ -1432,6 +1432,21 @@ State: ME
           <coordinates>-69.029300,46.013500</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="SADDLE HILL (E PK)">
+        <name>SADDLE HILL (E PK)</name>
+        <description>Elevation: 3250
+Latitude: 45.34416667
+Longitude: -71.00194444
+Name: SADDLE HILL (E PK)
+Prominence: 1120
+Rank: 96
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.001944,45.344167</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="CARIBOU">
         <name>CARIBOU</name>
         <description>Elevation: 2850
@@ -1439,7 +1454,7 @@ Latitude: 44.3404
 Longitude: -70.9304
 Name: CARIBOU
 Prominence: 1040
-Rank: 96
+Rank: 97
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1454,7 +1469,7 @@ Latitude: 45.3313
 Longitude: -70.7128
 Name: INDIAN STREAM MTN
 Prominence: 1020
-Rank: 97
+Rank: 98
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1469,7 +1484,7 @@ Latitude: 44.7856
 Longitude: -70.831
 Name: METALLAK MTN
 Prominence: 860
-Rank: 98
+Rank: 99
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1484,27 +1499,12 @@ Latitude: 44.9999
 Longitude: -70.2567
 Name: BLACK NUBBLE
 Prominence: 794
-Rank: 99
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.256700,44.999900</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="OWLS HEAD">
-        <name>OWLS HEAD</name>
-        <description>Elevation: 2977
-Latitude: 45.0255
-Longitude: -70.2471
-Name: OWLS HEAD
-Prominence: 787
 Rank: 100
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-70.247100,45.025500</coordinates>
+          <coordinates>-70.256700,44.999900</coordinates>
         </Point>
       </Placemark>
     </Folder>

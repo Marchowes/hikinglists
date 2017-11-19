@@ -187,12 +187,12 @@ State: ME
           <coordinates>-70.816111,45.222500</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SADDLEBACK MTN, THE HORN (N PK)">
-        <name>SADDLEBACK MTN, THE HORN (N PK)</name>
+      <Placemark id="SADDLEBACK MTN (THE HORN N PK)">
+        <name>SADDLEBACK MTN (THE HORN N PK)</name>
         <description>Elevation: 3772
 Latitude: 44.95888889
 Longitude: -70.49222222
-Name: SADDLEBACK MTN, THE HORN (N PK)
+Name: SADDLEBACK MTN (THE HORN N PK)
 Prominence: 
 Rank: 27
 State: ME
@@ -1258,7 +1258,7 @@ State: ME
 Latitude: 45.34416667
 Longitude: -71.00194444
 Name: SADDLE HILL (E PK)
-Prominence: 
+Prominence: 1120
 Rank: 98
 State: ME
 </description>
@@ -1327,21 +1327,6 @@ State: ME
           <coordinates>-69.217222,45.537222</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SADDLE HILL (W PK)">
-        <name>SADDLE HILL (W PK)</name>
-        <description>Elevation: 3210
-Latitude: 45.3475
-Longitude: -71.01138889
-Name: SADDLE HILL (W PK)
-Prominence: 
-Rank: 103
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.011389,45.347500</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="REDINGTON POND RANGE (S PK)">
         <name>REDINGTON POND RANGE (S PK)</name>
         <description>Elevation: 3210
@@ -1349,7 +1334,7 @@ Latitude: 44.99805556
 Longitude: -70.41027778
 Name: REDINGTON POND RANGE (S PK)
 Prominence: 
-Rank: 104
+Rank: 103
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1364,7 +1349,7 @@ Latitude: 44.94694444
 Longitude: -70.33416667
 Name: FARMER MTN
 Prominence: 
-Rank: 105
+Rank: 104
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1379,7 +1364,7 @@ Latitude: 45.77555556
 Longitude: -69.44361111
 Name: BIG SPENCER MTN
 Prominence: 1920
-Rank: 106
+Rank: 105
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1394,7 +1379,7 @@ Latitude: 45.44277778
 Longitude: -70.43194444
 Name: THREE SLIDE MTN (W PK)
 Prominence: 
-Rank: 107
+Rank: 106
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1409,7 +1394,7 @@ Latitude: 45.14083333
 Longitude: -70.38083333
 Name: BIGELOW MTN, CRANBERRY PK
 Prominence: 
-Rank: 108
+Rank: 107
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1424,7 +1409,7 @@ Latitude: 45.48388889
 Longitude: -69.71194444
 Name: BIG SQUAW MTN
 Prominence: 2130
-Rank: 109
+Rank: 108
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1439,7 +1424,7 @@ Latitude: 45.49277778
 Longitude: -70.67888889
 Name: VAN DYKE MTN
 Prominence: 
-Rank: 110
+Rank: 109
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1454,7 +1439,7 @@ Latitude: 45.31083333
 Longitude: -70.80888889
 Name: UNNAMED PK (NORTHWEST POND)
 Prominence: 
-Rank: 111
+Rank: 110
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1469,12 +1454,27 @@ Latitude: 45.04833333
 Longitude: -70.66638889
 Name: SPOTTED MTN (E PK)
 Prominence: 
-Rank: 112
+Rank: 111
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.666389,45.048333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SADDLE HILL (W PK)">
+        <name>SADDLE HILL (W PK)</name>
+        <description>Elevation: 3190
+Latitude: 45.3477
+Longitude: -71.0106
+Name: SADDLE HILL (W PK)
+Prominence: 200
+Rank: 112
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.010600,45.347700</coordinates>
         </Point>
       </Placemark>
       <Placemark id="MT BLUE">
