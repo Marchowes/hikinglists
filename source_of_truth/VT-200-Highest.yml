@@ -273,11 +273,12 @@ peaks:
     Longitude: -72.3679
     State: VT
 -
-    Name: SE BULL HILL
+    Name: CHATEAUGUAY PEAK
     Elevation: 2836
-    Latitude: 43.6779
-    Longitude: -72.6719
+    Latitude: 43.6780
+    Longitude: -72.6721
     State: VT
+    Prominence: 1486
 -
     Name: TINMOUTH
     Elevation: 2835
@@ -356,6 +357,7 @@ peaks:
     Latitude: 44.7259
     Longitude: -72.7119
     State: VT
+    Prominence: 1527
 -
     Name: NW BOLTON
     Elevation: 2790
@@ -548,6 +550,7 @@ peaks:
     Latitude: 43.5625
     Longitude: -73.0990
     State: VT
+    Prominence: 1536
 -
     Name: HAYSTACK
     Elevation: 2724
