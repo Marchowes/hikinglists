@@ -101,7 +101,7 @@ peaks:
     State: ME
     Prominence: 2060
 -
-    Name: SADDLEBACK MTN, THE HORN (N PK)
+    Name: SADDLEBACK MTN (THE HORN N PK)
     Elevation: 3772
     Latitude: 44.95888889
     Longitude: -70.49222222
@@ -533,6 +533,7 @@ peaks:
     Latitude: 45.34416667
     Longitude: -71.00194444
     State: ME
+    Prominence: 1120
 -
     Name: SLIDE MTN
     Elevation: 3250
@@ -577,10 +578,11 @@ peaks:
     State: ME
 -
     Name: SADDLE HILL (W PK)
-    Elevation: 3210
-    Latitude: 45.3475
-    Longitude: -71.01138889
+    Elevation: 3190
+    Latitude: 45.3477
+    Longitude: -71.0106
     State: ME
+    Prominence: 200
 -
     Name: BIG SPENCER MTN
     Elevation: 3210
