@@ -18,8 +18,10 @@ import:
 max: 201 # Buckball & N Baker are equal. and have the same key col
 list_name: VT-200-highest
 ordered_columns:
+  - Rank
   - Name
   - Elevation
+  - Prominence
   - Latitude
   - Longitude
   - State

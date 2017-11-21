@@ -13,7 +13,7 @@
 Latitude: 44.27055556
 Longitude: -71.30388889
 Name: MT WASHINGTON
-Prominence: 6150
+Prominence: 6153
 Rank: 1
 State: NH
 </description>
@@ -28,7 +28,7 @@ State: NH
 Latitude: 44.32055556
 Longitude: -71.29194444
 Name: MT ADAMS
-Prominence: 
+Prominence: 843
 Rank: 2
 State: NH
 </description>
@@ -39,11 +39,11 @@ State: NH
       </Placemark>
       <Placemark id="MT JEFFERSON">
         <name>MT JEFFERSON</name>
-        <description>Elevation: 5712
+        <description>Elevation: 5711
 Latitude: 44.30416667
 Longitude: -71.31722222
 Name: MT JEFFERSON
-Prominence: 
+Prominence: 741
 Rank: 3
 State: NH
 </description>
@@ -54,11 +54,11 @@ State: NH
       </Placemark>
       <Placemark id="MT MONROE">
         <name>MT MONROE</name>
-        <description>Elevation: 5384
+        <description>Elevation: 5383
 Latitude: 44.25527778
 Longitude: -71.32166667
 Name: MT MONROE
-Prominence: 
+Prominence: 275
 Rank: 4
 State: NH
 </description>
@@ -73,7 +73,7 @@ State: NH
 Latitude: 44.32861111
 Longitude: -71.27722222
 Name: MT MADISON
-Prominence: 
+Prominence: 476
 Rank: 5
 State: NH
 </description>
@@ -97,21 +97,6 @@ State: NH
           <coordinates>-71.645000,44.160556</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT LINCOLN">
-        <name>MT LINCOLN</name>
-        <description>Elevation: 5089
-Latitude: 44.14888889
-Longitude: -71.645
-Name: MT LINCOLN
-Prominence: 
-Rank: 7
-State: NH
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.645000,44.148889</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="SOUTH TWIN MTN">
         <name>SOUTH TWIN MTN</name>
         <description>Elevation: 4902
@@ -119,7 +104,7 @@ Latitude: 44.1875
 Longitude: -71.55527778
 Name: SOUTH TWIN MTN
 Prominence: 1522
-Rank: 8
+Rank: 7
 State: NH
 </description>
         <visibility>1</visibility>
@@ -133,8 +118,8 @@ State: NH
 Latitude: 44.26722222
 Longitude: -71.17972222
 Name: CARTER DOME
-Prominence: 2821
-Rank: 9
+Prominence: 2815
+Rank: 8
 State: NH
 </description>
         <visibility>1</visibility>
@@ -144,12 +129,12 @@ State: NH
       </Placemark>
       <Placemark id="MT MOOSILAUKE">
         <name>MT MOOSILAUKE</name>
-        <description>Elevation: 4802
+        <description>Elevation: 4820
 Latitude: 44.02333333
 Longitude: -71.83194444
 Name: MT MOOSILAUKE
-Prominence: 2932
-Rank: 10
+Prominence: 2960
+Rank: 9
 State: NH
 </description>
         <visibility>1</visibility>
@@ -163,8 +148,8 @@ State: NH
 Latitude: 44.24055556
 Longitude: -71.35083333
 Name: MT EISENHOWER
-Prominence: 
-Rank: 11
+Prominence: 360
+Rank: 10
 State: NH
 </description>
         <visibility>1</visibility>
@@ -178,8 +163,8 @@ State: NH
 Latitude: 44.2025
 Longitude: -71.55833333
 Name: NORTH TWIN MTN
-Prominence: 
-Rank: 12
+Prominence: 301
+Rank: 11
 State: NH
 </description>
         <visibility>1</visibility>
@@ -194,7 +179,7 @@ Latitude: 44.09361111
 Longitude: -71.4475
 Name: MT CARRIGAIN
 Prominence: 2240
-Rank: 13
+Rank: 12
 State: NH
 </description>
         <visibility>1</visibility>
@@ -208,8 +193,8 @@ State: NH
 Latitude: 44.15305556
 Longitude: -71.53166667
 Name: MT BOND
-Prominence: 
-Rank: 14
+Prominence: 318
+Rank: 13
 State: NH
 </description>
         <visibility>1</visibility>
@@ -223,8 +208,8 @@ State: NH
 Latitude: 44.30305556
 Longitude: -71.16833333
 Name: MIDDLE CARTER MTN
-Prominence: 
-Rank: 15
+Prominence: 720
+Rank: 14
 State: NH
 </description>
         <visibility>1</visibility>
@@ -238,8 +223,8 @@ State: NH
 Latitude: 44.16805556
 Longitude: -71.53444444
 Name: MT GUYOT
-Prominence: 
-Rank: 16
+Prominence: 200
+Rank: 15
 State: NH
 </description>
         <visibility>1</visibility>
@@ -253,8 +238,8 @@ State: NH
 Latitude: 44.15472222
 Longitude: -71.54388889
 Name: MT BOND (W PK)
-Prominence: 
-Rank: 17
+Prominence: 200
+Rank: 16
 State: NH
 </description>
         <visibility>1</visibility>
@@ -268,8 +253,8 @@ State: NH
 Latitude: 44.18722222
 Longitude: -71.61111111
 Name: MT GARFIELD
-Prominence: 
-Rank: 18
+Prominence: 840
+Rank: 17
 State: NH
 </description>
         <visibility>1</visibility>
@@ -283,8 +268,8 @@ State: NH
 Latitude: 44.11583333
 Longitude: -71.64277778
 Name: MT LIBERTY
-Prominence: 
-Rank: 19
+Prominence: 399
+Rank: 18
 State: NH
 </description>
         <visibility>1</visibility>
@@ -298,8 +283,8 @@ State: NH
 Latitude: 44.28972222
 Longitude: -71.17694444
 Name: SOUTH CARTER MTN
-Prominence: 
-Rank: 20
+Prominence: 240
+Rank: 19
 State: NH
 </description>
         <visibility>1</visibility>
@@ -313,8 +298,8 @@ State: NH
 Latitude: 44.25916667
 Longitude: -71.20222222
 Name: WILDCAT MTN
-Prominence: 
-Rank: 21
+Prominence: 1034
+Rank: 20
 State: NH
 </description>
         <visibility>1</visibility>
@@ -328,8 +313,8 @@ State: NH
 Latitude: 44.08333333
 Longitude: -71.49388889
 Name: MT HANCOCK
-Prominence: 
-Rank: 22
+Prominence: 1240
+Rank: 21
 State: NH
 </description>
         <visibility>1</visibility>
@@ -343,8 +328,8 @@ State: NH
 Latitude: 44.12277778
 Longitude: -71.73694444
 Name: KINSMAN MTN (S PK)
-Prominence: 2420
-Rank: 23
+Prominence: 2418
+Rank: 22
 State: NH
 </description>
         <visibility>1</visibility>
@@ -359,7 +344,7 @@ Latitude: 44.00166667
 Longitude: -71.53638889
 Name: MT OSCEOLA
 Prominence: 2040
-Rank: 24
+Rank: 23
 State: NH
 </description>
         <visibility>1</visibility>
@@ -374,7 +359,7 @@ Latitude: 44.19611111
 Longitude: -71.43388889
 Name: MT FIELD
 Prominence: 1702
-Rank: 25
+Rank: 24
 State: NH
 </description>
         <visibility>1</visibility>
@@ -388,28 +373,13 @@ State: NH
 Latitude: 44.10861111
 Longitude: -71.62861111
 Name: MT FLUME
-Prominence: 
-Rank: 26
+Prominence: 428
+Rank: 25
 State: NH
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-71.628611,44.108611</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="MT HANCOCK (S PK)">
-        <name>MT HANCOCK (S PK)</name>
-        <description>Elevation: 4319
-Latitude: 44.07333333
-Longitude: -71.4875
-Name: MT HANCOCK (S PK)
-Prominence: 
-Rank: 27
-State: NH
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.487500,44.073333</coordinates>
         </Point>
       </Placemark>
       <Placemark id="MT PIERCE">
@@ -418,8 +388,8 @@ State: NH
 Latitude: 44.22694444
 Longitude: -71.36611111
 Name: MT PIERCE
-Prominence: 
-Rank: 28
+Prominence: 250
+Rank: 26
 State: NH
 </description>
         <visibility>1</visibility>
@@ -433,8 +403,8 @@ State: NH
 Latitude: 44.13333333
 Longitude: -71.73722222
 Name: KINSMAN MTN (N PK)
-Prominence: 
-Rank: 29
+Prominence: 273
+Rank: 27
 State: NH
 </description>
         <visibility>1</visibility>
@@ -448,8 +418,8 @@ State: NH
 Latitude: 44.18333333
 Longitude: -71.42166667
 Name: MT WILLEY
-Prominence: 
-Rank: 30
+Prominence: 305
+Rank: 28
 State: NH
 </description>
         <visibility>1</visibility>
@@ -457,14 +427,14 @@ State: NH
           <coordinates>-71.421667,44.183333</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT BOND, THE CLIFFS">
-        <name>MT BOND, THE CLIFFS</name>
+      <Placemark id="BONDCLIFF">
+        <name>BONDCLIFF</name>
         <description>Elevation: 4265
 Latitude: 44.14055556
 Longitude: -71.54111111
-Name: MT BOND, THE CLIFFS
-Prominence: 
-Rank: 31
+Name: BONDCLIFF
+Prominence: 205
+Rank: 29
 State: NH
 </description>
         <visibility>1</visibility>
@@ -478,8 +448,8 @@ State: NH
 Latitude: 44.17972222
 Longitude: -71.52194444
 Name: ZEALAND RIDGE
-Prominence: 
-Rank: 32
+Prominence: 240
+Rank: 30
 State: NH
 </description>
         <visibility>1</visibility>
@@ -493,8 +463,8 @@ State: NH
 Latitude: 43.97305556
 Longitude: -71.44333333
 Name: MT TRIPYRAMID (N PK)
-Prominence: 
-Rank: 33
+Prominence: 1360
+Rank: 31
 State: NH
 </description>
         <visibility>1</visibility>
@@ -508,8 +478,8 @@ State: NH
 Latitude: 44.50583333
 Longitude: -71.41472222
 Name: MT CABOT
-Prominence: 2670
-Rank: 34
+Prominence: 2665
+Rank: 32
 State: NH
 </description>
         <visibility>1</visibility>
@@ -523,8 +493,8 @@ State: NH
 Latitude: 44.00611111
 Longitude: -71.52111111
 Name: MT OSCEOLA (E PK)
-Prominence: 
-Rank: 35
+Prominence: 336
+Rank: 33
 State: NH
 </description>
         <visibility>1</visibility>
@@ -538,8 +508,8 @@ State: NH
 Latitude: 43.96444444
 Longitude: -71.44055556
 Name: MT TRIPYRAMID (M PK)
-Prominence: 
-Rank: 36
+Prominence: 280
+Rank: 34
 State: NH
 </description>
         <visibility>1</visibility>
@@ -553,8 +523,8 @@ State: NH
 Latitude: 44.15666667
 Longitude: -71.69944444
 Name: CANNON MTN
-Prominence: 
-Rank: 37
+Prominence: 760
+Rank: 35
 State: NH
 </description>
         <visibility>1</visibility>
@@ -568,8 +538,8 @@ State: NH
 Latitude: 44.24916667
 Longitude: -71.22416667
 Name: WILDCAT RIDGE (D PK)
-Prominence: 
-Rank: 38
+Prominence: 300
+Rank: 36
 State: NH
 </description>
         <visibility>1</visibility>
@@ -583,8 +553,8 @@ State: NH
 Latitude: 44.22166667
 Longitude: -71.5125
 Name: MT HALE
-Prominence: 
-Rank: 39
+Prominence: 634
+Rank: 37
 State: NH
 </description>
         <visibility>1</visibility>
@@ -598,8 +568,8 @@ State: NH
 Latitude: 44.20305556
 Longitude: -71.37583333
 Name: MT JACKSON
-Prominence: 
-Rank: 40
+Prominence: 352
+Rank: 38
 State: NH
 </description>
         <visibility>1</visibility>
@@ -613,8 +583,8 @@ State: NH
 Latitude: 44.21027778
 Longitude: -71.44666667
 Name: MT TOM
-Prominence: 
-Rank: 41
+Prominence: 351
+Rank: 39
 State: NH
 </description>
         <visibility>1</visibility>
@@ -628,8 +598,8 @@ State: NH
 Latitude: 44.34027778
 Longitude: -71.13222222
 Name: MT MORIAH
-Prominence: 
-Rank: 42
+Prominence: 922
+Rank: 40
 State: NH
 </description>
         <visibility>1</visibility>
@@ -643,8 +613,8 @@ State: NH
 Latitude: 43.95472222
 Longitude: -71.38111111
 Name: MT PASSACONAWAY
-Prominence: 
-Rank: 43
+Prominence: 783
+Rank: 41
 State: NH
 </description>
         <visibility>1</visibility>
@@ -658,8 +628,8 @@ State: NH
 Latitude: 44.14416667
 Longitude: -71.60555556
 Name: OWLS HEAD
-Prominence: 
-Rank: 44
+Prominence: 845
+Rank: 42
 State: NH
 </description>
         <visibility>1</visibility>
@@ -673,8 +643,8 @@ State: NH
 Latitude: 44.185
 Longitude: -71.57388889
 Name: GALEHEAD
-Prominence: 
-Rank: 45
+Prominence: 284
+Rank: 43
 State: NH
 </description>
         <visibility>1</visibility>
@@ -688,8 +658,8 @@ State: NH
 Latitude: 43.93666667
 Longitude: -71.40805556
 Name: MT WHITEFACE
-Prominence: 
-Rank: 46
+Prominence: 600
+Rank: 44
 State: NH
 </description>
         <visibility>1</visibility>
@@ -699,12 +669,12 @@ State: NH
       </Placemark>
       <Placemark id="MT WAUMBEK">
         <name>MT WAUMBEK</name>
-        <description>Elevation: 4006
+        <description>Elevation: 4005
 Latitude: 44.4325
 Longitude: -71.41777778
 Name: MT WAUMBEK
-Prominence: 
-Rank: 47
+Prominence: 1299
+Rank: 45
 State: NH
 </description>
         <visibility>1</visibility>
@@ -718,8 +688,8 @@ State: NH
 Latitude: 44.21472222
 Longitude: -71.31
 Name: MT ISOLATION
-Prominence: 
-Rank: 48
+Prominence: 224
+Rank: 46
 State: NH
 </description>
         <visibility>1</visibility>
@@ -734,7 +704,7 @@ Latitude: 43.96638889
 Longitude: -71.55694444
 Name: MT TECUMSEH
 Prominence: 1743
-Rank: 49
+Rank: 47
 State: NH
 </description>
         <visibility>1</visibility>

@@ -7,13 +7,13 @@
       <name>ME-3000-Footers</name>
       <description>kml map of list points for ME-3000-Footers</description>
       <visibility>1</visibility>
-      <Placemark id="MT KATAHDIN, BAXTER PK">
-        <name>MT KATAHDIN, BAXTER PK</name>
+      <Placemark id="MT KATAHDIN (BAXTER PK)">
+        <name>MT KATAHDIN (BAXTER PK)</name>
         <description>Elevation: 5268
 Latitude: 45.90416667
 Longitude: -68.92194444
-Name: MT KATAHDIN, BAXTER PK
-Prominence: 4290
+Name: MT KATAHDIN (BAXTER PK)
+Prominence: 4293
 Rank: 1
 State: ME
 </description>
@@ -28,7 +28,7 @@ State: ME
 Latitude: 45.92416667
 Longitude: -68.92833333
 Name: MT KATAHDIN (HAMLIN PK)
-Prominence: 
+Prominence: 506
 Rank: 2
 State: ME
 </description>
@@ -58,7 +58,7 @@ State: ME
 Latitude: 45.04694444
 Longitude: -70.38333333
 Name: CROCKER MTN
-Prominence: 
+Prominence: 1218
 Rank: 4
 State: ME
 </description>
@@ -88,7 +88,7 @@ State: ME
 Latitude: 45.95694444
 Longitude: -68.98583333
 Name: NORTH BROTHER
-Prominence: 
+Prominence: 1256
 Rank: 6
 State: ME
 </description>
@@ -97,12 +97,12 @@ State: ME
           <coordinates>-68.985833,45.956944</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN WEST PK">
-        <name>BIGELOW MTN WEST PK</name>
+      <Placemark id="BIGELOW MTN (W PK)">
+        <name>BIGELOW MTN (W PK)</name>
         <description>Elevation: 4145
 Latitude: 45.14666667
 Longitude: -70.28861111
-Name: BIGELOW MTN WEST PK
+Name: BIGELOW MTN (W PK)
 Prominence: 2855
 Rank: 7
 State: ME
@@ -133,7 +133,7 @@ State: ME
 Latitude: 45.14666667
 Longitude: -70.27583333
 Name: BIGELOW MTN (AVERY PK)
-Prominence: 
+Prominence: 277
 Rank: 9
 State: ME
 </description>
@@ -148,7 +148,7 @@ State: ME
 Latitude: 45.03611111
 Longitude: -70.37638889
 Name: SOUTH CROCKER MTN
-Prominence: 
+Prominence: 360
 Rank: 10
 State: ME
 </description>
@@ -163,7 +163,7 @@ State: ME
 Latitude: 44.97277778
 Longitude: -70.32694444
 Name: MT ABRAHAM
-Prominence: 
+Prominence: 900
 Rank: 11
 State: ME
 </description>
@@ -172,13 +172,13 @@ State: ME
           <coordinates>-70.326944,44.972778</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SADDLEBACK MTN THE HORN">
-        <name>SADDLEBACK MTN THE HORN</name>
+      <Placemark id="SADDLEBACK MTN (THE HORN)">
+        <name>SADDLEBACK MTN (THE HORN)</name>
         <description>Elevation: 4041
 Latitude: 44.95111111
 Longitude: -70.4875
-Name: SADDLEBACK MTN THE HORN
-Prominence: 
+Name: SADDLEBACK MTN (THE HORN)
+Prominence: 471
 Rank: 12
 State: ME
 </description>
@@ -193,7 +193,7 @@ State: ME
 Latitude: 45.00277778
 Longitude: -70.33388889
 Name: SPAULDING MTN
-Prominence: 
+Prominence: 595
 Rank: 13
 State: ME
 </description>
@@ -208,7 +208,7 @@ State: ME
 Latitude: 45.025
 Longitude: -70.38916667
 Name: MT REDINGTON
-Prominence: 
+Prominence: 460
 Rank: 14
 State: ME
 </description>
@@ -307,12 +307,12 @@ State: ME
           <coordinates>-70.841667,45.267222</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN, THE HORNS (S PK)">
-        <name>BIGELOW MTN, THE HORNS (S PK)</name>
+      <Placemark id="BIGELOW MTN (THE HORNS S PK)">
+        <name>BIGELOW MTN (THE HORNS S PK)</name>
         <description>Elevation: 3805
 Latitude: 45.145
 Longitude: -70.32361111
-Name: BIGELOW MTN, THE HORNS (S PK)
+Name: BIGELOW MTN (THE HORNS S PK)
 Prominence: 
 Rank: 21
 State: ME
@@ -418,7 +418,7 @@ State: ME
 Latitude: 44.76805556
 Longitude: -70.78222222
 Name: ELEPHANT MTN
-Prominence: 2060
+Prominence: 2062
 Rank: 28
 State: ME
 </description>
@@ -493,7 +493,7 @@ State: ME
 Latitude: 45.46861111
 Longitude: -70.12694444
 Name: COBURN MTN
-Prominence: 2510
+Prominence: 2520
 Rank: 33
 State: ME
 </description>
@@ -643,7 +643,7 @@ State: ME
 Latitude: 45.55444444
 Longitude: -69.24722222
 Name: WHITE CAP MTN
-Prominence: 2610
+Prominence: 2624
 Rank: 43
 State: ME
 </description>
@@ -673,7 +673,7 @@ State: ME
 Latitude: 45.41861111
 Longitude: -70.54472222
 Name: KIBBY MTN
-Prominence: 2260
+Prominence: 2264
 Rank: 45
 State: ME
 </description>
@@ -733,7 +733,7 @@ State: ME
 Latitude: 45.76666667
 Longitude: -70.20416667
 Name: BOUNDARY BALD MTN
-Prominence: 2010
+Prominence: 2002
 Rank: 49
 State: ME
 </description>
@@ -883,7 +883,7 @@ State: ME
 Latitude: 46.07277778
 Longitude: -68.845
 Name: TRAVELER MTN (THE TRAVELER)
-Prominence: 2340
+Prominence: 2331
 Rank: 59
 State: ME
 </description>
@@ -928,7 +928,7 @@ State: ME
 Latitude: 45.57111111
 Longitude: -69.39444444
 Name: BAKER MTN
-Prominence: 2190
+Prominence: 2191
 Rank: 62
 State: ME
 </description>
@@ -958,7 +958,7 @@ State: ME
 Latitude: 45.93583333
 Longitude: -69.06166667
 Name: DOUBLETOP MTN
-Prominence: 2080
+Prominence: 2079
 Rank: 64
 State: ME
 </description>
@@ -1597,12 +1597,12 @@ State: ME
           <coordinates>-70.431944,45.442778</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN, CRANBERRY PK">
-        <name>BIGELOW MTN, CRANBERRY PK</name>
+      <Placemark id="BIGELOW MTN (CRANBERRY PK)">
+        <name>BIGELOW MTN (CRANBERRY PK)</name>
         <description>Elevation: 3194
 Latitude: 45.14083333
 Longitude: -70.38083333
-Name: BIGELOW MTN, CRANBERRY PK
+Name: BIGELOW MTN (CRANBERRY PK)
 Prominence: 
 Rank: 107
 State: ME
@@ -1618,7 +1618,7 @@ State: ME
 Latitude: 45.48388889
 Longitude: -69.71194444
 Name: BIG SQUAW MTN
-Prominence: 2130
+Prominence: 2124
 Rank: 108
 State: ME
 </description>
@@ -1702,6 +1702,21 @@ State: ME
           <coordinates>-70.342500,44.728056</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="LOWER AZISCOHOS MTN">
+        <name>LOWER AZISCOHOS MTN</name>
+        <description>Elevation: 3190
+Latitude: 44.91416667
+Longitude: -71.0025
+Name: LOWER AZISCOHOS MTN
+Prominence: 1640
+Rank: 114
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.002500,44.914167</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="BLACK NUBBLE (W PK)">
         <name>BLACK NUBBLE (W PK)</name>
         <description>Elevation: 3190
@@ -1709,27 +1724,12 @@ Latitude: 45.01638889
 Longitude: -70.46416667
 Name: BLACK NUBBLE (W PK)
 Prominence: 
-Rank: 114
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.464167,45.016389</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="AZISCOHOS/LOW AZISCOHOS MTN">
-        <name>AZISCOHOS/LOW AZISCOHOS MTN</name>
-        <description>Elevation: 3190
-Latitude: 44.91416667
-Longitude: -71.0025
-Name: AZISCOHOS/LOW AZISCOHOS MTN
-Prominence: 1640
 Rank: 115
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.002500,44.914167</coordinates>
+          <coordinates>-70.464167,45.016389</coordinates>
         </Point>
       </Placemark>
       <Placemark id="NUMBER FIVE MTN">
@@ -2152,12 +2152,12 @@ State: ME
           <coordinates>-70.549167,44.750000</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="East Kibby">
-        <name>East Kibby</name>
+      <Placemark id="KIBBY MTN (E PK)">
+        <name>KIBBY MTN (E PK)</name>
         <description>Elevation: 3088
 Latitude: 45.33472222
 Longitude: -70.53666667
-Name: East Kibby
+Name: KIBBY MTN (E PK)
 Prominence: 
 Rank: 144
 State: ME

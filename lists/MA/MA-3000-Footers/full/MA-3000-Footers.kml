@@ -10,31 +10,31 @@
       <Placemark id="MT GREYLOCK">
         <name>MT GREYLOCK</name>
         <description>Elevation: 3488
-Latitude: 42.63722222
-Longitude: -73.16638889
+Latitude: 42.6374
+Longitude: -73.1662
 Name: MT GREYLOCK
-Prominence: 2470
+Prominence: 2474
 Rank: 1
 State: MA
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-73.166389,42.637222</coordinates>
+          <coordinates>-73.166200,42.637400</coordinates>
         </Point>
       </Placemark>
       <Placemark id="SADDLE BALL MTN">
         <name>SADDLE BALL MTN</name>
-        <description>Elevation: 3258
-Latitude: 42.61722222
-Longitude: -73.19027778
+        <description>Elevation: 3257
+Latitude: 42.6137
+Longitude: -73.1916
 Name: SADDLE BALL MTN
-Prominence: 
+Prominence: 227
 Rank: 2
 State: MA
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-73.190278,42.617222</coordinates>
+          <coordinates>-73.191600,42.613700</coordinates>
         </Point>
       </Placemark>
     </Folder>
