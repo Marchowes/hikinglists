@@ -28,7 +28,7 @@ State: ME
 Latitude: 45.92416667
 Longitude: -68.92833333
 Name: MT KATAHDIN (HAMLIN PK)
-Prominence: 
+Prominence: 506
 Rank: 2
 State: ME
 </description>
@@ -58,7 +58,7 @@ State: ME
 Latitude: 45.04694444
 Longitude: -70.38333333
 Name: CROCKER MTN
-Prominence: 
+Prominence: 1218
 Rank: 4
 State: ME
 </description>
@@ -88,7 +88,7 @@ State: ME
 Latitude: 45.95694444
 Longitude: -68.98583333
 Name: NORTH BROTHER
-Prominence: 
+Prominence: 1256
 Rank: 6
 State: ME
 </description>
@@ -97,12 +97,12 @@ State: ME
           <coordinates>-68.985833,45.956944</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN WEST PK">
-        <name>BIGELOW MTN WEST PK</name>
+      <Placemark id="BIGELOW MTN (W PK)">
+        <name>BIGELOW MTN (W PK)</name>
         <description>Elevation: 4145
 Latitude: 45.14666667
 Longitude: -70.28861111
-Name: BIGELOW MTN WEST PK
+Name: BIGELOW MTN (W PK)
 Prominence: 2855
 Rank: 7
 State: ME
@@ -133,7 +133,7 @@ State: ME
 Latitude: 45.14666667
 Longitude: -70.27583333
 Name: BIGELOW MTN (AVERY PK)
-Prominence: 
+Prominence: 277
 Rank: 9
 State: ME
 </description>
@@ -148,7 +148,7 @@ State: ME
 Latitude: 45.03611111
 Longitude: -70.37638889
 Name: SOUTH CROCKER MTN
-Prominence: 
+Prominence: 360
 Rank: 10
 State: ME
 </description>
@@ -163,7 +163,7 @@ State: ME
 Latitude: 44.97277778
 Longitude: -70.32694444
 Name: MT ABRAHAM
-Prominence: 
+Prominence: 900
 Rank: 11
 State: ME
 </description>
@@ -172,13 +172,13 @@ State: ME
           <coordinates>-70.326944,44.972778</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SADDLEBACK MTN THE HORN">
-        <name>SADDLEBACK MTN THE HORN</name>
+      <Placemark id="SADDLEBACK MTN (THE HORN)">
+        <name>SADDLEBACK MTN (THE HORN)</name>
         <description>Elevation: 4041
 Latitude: 44.95111111
 Longitude: -70.4875
-Name: SADDLEBACK MTN THE HORN
-Prominence: 
+Name: SADDLEBACK MTN (THE HORN)
+Prominence: 471
 Rank: 12
 State: ME
 </description>
@@ -193,7 +193,7 @@ State: ME
 Latitude: 45.00277778
 Longitude: -70.33388889
 Name: SPAULDING MTN
-Prominence: 
+Prominence: 595
 Rank: 13
 State: ME
 </description>
@@ -208,7 +208,7 @@ State: ME
 Latitude: 45.025
 Longitude: -70.38916667
 Name: MT REDINGTON
-Prominence: 
+Prominence: 460
 Rank: 14
 State: ME
 </description>

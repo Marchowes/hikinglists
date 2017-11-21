@@ -1,3 +1,3 @@
-Rank,Name,Elevation,Latitude,Longitude,State,Prominence
-1,MT GREYLOCK,3488,42.6374,-73.1662,MA,2474
-2,SADDLE BALL MTN,3257,42.6137,-73.1916,MA,227
+Rank,Name,Elevation,Prominence,Latitude,Longitude,State
+1,MT GREYLOCK,3488,2474,42.6374,-73.1662,MA
+2,SADDLE BALL MTN,3257,227,42.6137,-73.1916,MA

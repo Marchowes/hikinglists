@@ -129,7 +129,7 @@ State: VT
       </Placemark>
       <Placemark id="MT MOOSILAUKE">
         <name>MT MOOSILAUKE</name>
-        <description>Elevation: 4802
+        <description>Elevation: 4820
 Latitude: 44.02333333
 Longitude: -71.83194444
 Name: MT MOOSILAUKE
@@ -142,12 +142,12 @@ State: NH
           <coordinates>-71.831944,44.023333</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN WEST PK">
-        <name>BIGELOW MTN WEST PK</name>
+      <Placemark id="BIGELOW MTN (W PK)">
+        <name>BIGELOW MTN (W PK)</name>
         <description>Elevation: 4145
 Latitude: 45.14666667
 Longitude: -70.28861111
-Name: BIGELOW MTN WEST PK
+Name: BIGELOW MTN (W PK)
 Prominence: 2855
 Rank: 10
 State: ME
@@ -178,7 +178,7 @@ State: VT
 Latitude: 44.26722222
 Longitude: -71.17972222
 Name: CARTER DOME
-Prominence: 2821
+Prominence: 2815
 Rank: 12
 State: NH
 </description>

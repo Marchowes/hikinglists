@@ -129,7 +129,7 @@ State: VT
       </Placemark>
       <Placemark id="MT MOOSILAUKE">
         <name>MT MOOSILAUKE</name>
-        <description>Elevation: 4802
+        <description>Elevation: 4820
 Latitude: 44.02333333
 Longitude: -71.83194444
 Name: MT MOOSILAUKE
@@ -142,12 +142,12 @@ State: NH
           <coordinates>-71.831944,44.023333</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN WEST PK">
-        <name>BIGELOW MTN WEST PK</name>
+      <Placemark id="BIGELOW MTN (W PK)">
+        <name>BIGELOW MTN (W PK)</name>
         <description>Elevation: 4145
 Latitude: 45.14666667
 Longitude: -70.28861111
-Name: BIGELOW MTN WEST PK
+Name: BIGELOW MTN (W PK)
 Prominence: 2855
 Rank: 10
 State: ME
@@ -178,7 +178,7 @@ State: VT
 Latitude: 44.26722222
 Longitude: -71.17972222
 Name: CARTER DOME
-Prominence: 2821
+Prominence: 2815
 Rank: 12
 State: NH
 </description>
@@ -1402,6 +1402,36 @@ State: NH
           <coordinates>-71.657800,43.566900</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="MT TRIPYRAMID (N PK)">
+        <name>MT TRIPYRAMID (N PK)</name>
+        <description>Elevation: 4180
+Latitude: 43.97305556
+Longitude: -71.44333333
+Name: MT TRIPYRAMID (N PK)
+Prominence: 1360
+Rank: 94
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.443333,43.973056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WAUMBEK">
+        <name>MT WAUMBEK</name>
+        <description>Elevation: 4005
+Latitude: 44.4325
+Longitude: -71.41777778
+Name: MT WAUMBEK
+Prominence: 1299
+Rank: 95
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.417778,44.432500</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="NORTH POGY MTN">
         <name>NORTH POGY MTN</name>
         <description>Elevation: 2850
@@ -1409,12 +1439,42 @@ Latitude: 46.0411
 Longitude: -68.9433
 Name: NORTH POGY MTN
 Prominence: 1280
-Rank: 94
+Rank: 96
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-68.943300,46.041100</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NORTH BROTHER">
+        <name>NORTH BROTHER</name>
+        <description>Elevation: 4151
+Latitude: 45.95694444
+Longitude: -68.98583333
+Name: NORTH BROTHER
+Prominence: 1256
+Rank: 97
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-68.985833,45.956944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT HANCOCK">
+        <name>MT HANCOCK</name>
+        <description>Elevation: 4420
+Latitude: 44.08333333
+Longitude: -71.49388889
+Name: MT HANCOCK
+Prominence: 1240
+Rank: 98
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.493889,44.083333</coordinates>
         </Point>
       </Placemark>
       <Placemark id="CENTER MTN">
@@ -1424,7 +1484,7 @@ Latitude: 46.0135
 Longitude: -69.0293
 Name: CENTER MTN
 Prominence: 1220
-Rank: 95
+Rank: 99
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1432,79 +1492,19 @@ State: ME
           <coordinates>-69.029300,46.013500</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SADDLE HILL (E PK)">
-        <name>SADDLE HILL (E PK)</name>
-        <description>Elevation: 3250
-Latitude: 45.34416667
-Longitude: -71.00194444
-Name: SADDLE HILL (E PK)
-Prominence: 1120
-Rank: 96
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.001944,45.344167</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="CARIBOU">
-        <name>CARIBOU</name>
-        <description>Elevation: 2850
-Latitude: 44.3404
-Longitude: -70.9304
-Name: CARIBOU
-Prominence: 1040
-Rank: 97
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.930400,44.340400</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="INDIAN STREAM MTN">
-        <name>INDIAN STREAM MTN</name>
-        <description>Elevation: 2930
-Latitude: 45.3313
-Longitude: -70.7128
-Name: INDIAN STREAM MTN
-Prominence: 1020
-Rank: 98
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.712800,45.331300</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="METALLAK MTN">
-        <name>METALLAK MTN</name>
-        <description>Elevation: 2870
-Latitude: 44.7856
-Longitude: -70.831
-Name: METALLAK MTN
-Prominence: 860
-Rank: 99
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.831000,44.785600</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="BLACK NUBBLE">
-        <name>BLACK NUBBLE</name>
-        <description>Elevation: 2904
-Latitude: 44.9999
-Longitude: -70.2567
-Name: BLACK NUBBLE
-Prominence: 794
+      <Placemark id="CROCKER MTN">
+        <name>CROCKER MTN</name>
+        <description>Elevation: 4228
+Latitude: 45.04694444
+Longitude: -70.38333333
+Name: CROCKER MTN
+Prominence: 1218
 Rank: 100
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-70.256700,44.999900</coordinates>
+          <coordinates>-70.383333,45.046944</coordinates>
         </Point>
       </Placemark>
     </Folder>

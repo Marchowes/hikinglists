@@ -174,7 +174,7 @@ State: VT
       </Placemark>
       <Placemark id="GIANT MTN">
         <name>GIANT MTN</name>
-        <description>Elevation: 4626
+        <description>Elevation: 4625
 Latitude: 44.16111111
 Longitude: -73.72055556
 Name: GIANT MTN
@@ -189,7 +189,7 @@ State: NY
       </Placemark>
       <Placemark id="MT MOOSILAUKE">
         <name>MT MOOSILAUKE</name>
-        <description>Elevation: 4802
+        <description>Elevation: 4820
 Latitude: 44.02333333
 Longitude: -71.83194444
 Name: MT MOOSILAUKE
@@ -202,12 +202,12 @@ State: NH
           <coordinates>-71.831944,44.023333</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BIGELOW MTN WEST PK">
-        <name>BIGELOW MTN WEST PK</name>
+      <Placemark id="BIGELOW MTN (W PK)">
+        <name>BIGELOW MTN (W PK)</name>
         <description>Elevation: 4145
 Latitude: 45.14666667
 Longitude: -70.28861111
-Name: BIGELOW MTN WEST PK
+Name: BIGELOW MTN (W PK)
 Prominence: 2855
 Rank: 14
 State: ME
@@ -253,7 +253,7 @@ State: NY
 Latitude: 44.26722222
 Longitude: -71.17972222
 Name: CARTER DOME
-Prominence: 2821
+Prominence: 2815
 Rank: 17
 State: NH
 </description>
@@ -714,7 +714,7 @@ State: ME
       </Placemark>
       <Placemark id="ALGONQUIN PK">
         <name>ALGONQUIN PK</name>
-        <description>Elevation: 5115
+        <description>Elevation: 5114
 Latitude: 44.14361111
 Longitude: -73.98694444
 Name: ALGONQUIN PK
