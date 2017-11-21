@@ -13,7 +13,7 @@
 Latitude: 44.54361111
 Longitude: -72.81472222
 Name: MT MANSFIELD (CHIN)
-Prominence: 3640
+Prominence: 3643
 Rank: 1
 State: VT
 </description>
@@ -22,13 +22,13 @@ State: VT
           <coordinates>-72.814722,44.543611</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="KILLINGTON PK">
-        <name>KILLINGTON PK</name>
+      <Placemark id="KILLINGTON PEAK">
+        <name>KILLINGTON PEAK</name>
         <description>Elevation: 4235
 Latitude: 43.60444444
 Longitude: -72.82055556
-Name: KILLINGTON PK
-Prominence: 3320
+Name: KILLINGTON PEAK
+Prominence: 3325
 Rank: 2
 State: VT
 </description>
@@ -43,7 +43,7 @@ State: VT
 Latitude: 44.31944444
 Longitude: -72.88666667
 Name: CAMELS HUMP
-Prominence: 1880
+Prominence: 2140
 Rank: 3
 State: VT
 </description>
@@ -58,7 +58,7 @@ State: VT
 Latitude: 44.15972222
 Longitude: -72.92916667
 Name: MT ELLEN
-Prominence: 2132
+Prominence: 1873
 Rank: 4
 State: VT
 </description>
@@ -73,7 +73,7 @@ State: VT
 Latitude: 44.12027778
 Longitude: -72.93666667
 Name: MT ABRAHAM
-Prominence: 
+Prominence: 296
 Rank: 5
 State: VT
 </description>
@@ -103,7 +103,7 @@ State: VT
 Latitude: 43.08611111
 Longitude: -72.92555556
 Name: STRATTON MTN
-Prominence: 2410
+Prominence: 2415
 Rank: 7
 State: VT
 </description>
@@ -118,7 +118,7 @@ State: VT
 Latitude: 44.92444444
 Longitude: -72.52638889
 Name: JAY PK
-Prominence: 2975
+Prominence: 2970
 Rank: 8
 State: VT
 </description>
@@ -328,7 +328,7 @@ State: VT
 Latitude: 44.41833333
 Longitude: -72.63888889
 Name: MT PUTNAM (WORCESTER)
-Prominence: 2470
+Prominence: 2472
 Rank: 22
 State: VT
 </description>
@@ -493,7 +493,7 @@ State: VT
 Latitude: 44.66472222
 Longitude: -71.77055556
 Name: EAST MTN
-Prominence: 2230
+Prominence: 2229
 Rank: 33
 State: VT
 </description>
@@ -763,7 +763,7 @@ State: VT
 Latitude: 44.7875
 Longitude: -72.68944444
 Name: COLD HOLLOW MTNS
-Prominence: 2160
+Prominence: 2165
 Rank: 51
 State: VT
 </description>
@@ -778,7 +778,7 @@ State: VT
 Latitude: 44.91972222
 Longitude: -71.79416667
 Name: GORE MTN
-Prominence: 1982
+Prominence: 1971
 Rank: 52
 State: VT
 </description>
@@ -1258,7 +1258,7 @@ State: VT
 Latitude: 43.44361111
 Longitude: -72.455
 Name: MT ASCUTNEY
-Prominence: 2290
+Prominence: 2289
 Rank: 84
 State: VT
 </description>
@@ -1348,7 +1348,7 @@ State: VT
 Latitude: 43.05277778
 Longitude: -73.22416667
 Name: GRASS MTN
-Prominence: 2200
+Prominence: 2199
 Rank: 90
 State: VT
 </description>

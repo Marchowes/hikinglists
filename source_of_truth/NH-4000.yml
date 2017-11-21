@@ -22,7 +22,7 @@ peaks:
     Latitude: 44.27055556
     Longitude: -71.30388889
     State: NH
-    Prominence: 6150
+    Prominence: 6153
 -
     Name: MT ADAMS
     Elevation: 5774
@@ -54,12 +54,14 @@ peaks:
     Longitude: -71.645
     State: NH
     Prominence: 3360
--
-    Name: MT LINCOLN
-    Elevation: 5089
-    Latitude: 44.14888889
-    Longitude: -71.645
-    State: NH
+# DELISTED, MT LINCOLN: Insufficient Col
+# -
+#     Name: MT LINCOLN
+#     Elevation: 5089
+#     Latitude: 44.14888889
+#     Longitude: -71.645
+#     State: NH
+#     Prominence: 189
 -
     Name: SOUTH TWIN MTN
     Elevation: 4902
@@ -80,7 +82,7 @@ peaks:
     Latitude: 44.02333333
     Longitude: -71.83194444
     State: NH
-    Prominence: 2932
+    Prominence: 2960
 -
     Name: MT EISENHOWER
     Elevation: 4780
@@ -160,7 +162,7 @@ peaks:
     Latitude: 44.12277778
     Longitude: -71.73694444
     State: NH
-    Prominence: 2420
+    Prominence: 2418
 -
     Name: MT FIELD
     Elevation: 4340
@@ -181,12 +183,13 @@ peaks:
     Latitude: 44.10861111
     Longitude: -71.62861111
     State: NH
--
-    Name: MT HANCOCK (S PK)
-    Elevation: 4319
-    Latitude: 44.07333333
-    Longitude: -71.4875
-    State: NH
+# DELISTED, MT HANCOCK (S PK): Insufficient Col
+# -
+#     Name: MT HANCOCK (S PK)
+#     Elevation: 4319
+#     Latitude: 44.07333333
+#     Longitude: -71.4875
+#     State: NH
 -
     Name: MT PIERCE
     Elevation: 4310
@@ -229,7 +232,7 @@ peaks:
     Latitude: 44.50583333
     Longitude: -71.41472222
     State: NH
-    Prominence: 2670
+    Prominence: 2665
 -
     Name: MT OSCEOLA (E PK)
     Elevation: 4156

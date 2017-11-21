@@ -3,12 +3,7 @@
 # Authority: self
 # List Rules: 200' col, Threshold is 3000 feet and higher.
 # History: Data seeded from the Northeast 777 list.
-#
-# TODO:
-# - Standardize Names
-# - Ensure coordinates to 3 sig figures
-# - Validate coordinates
-# - Add Prominence
+
 ---
 location: MA
 list_name: MA-3000-Footers
@@ -18,13 +13,14 @@ peaks:
 -
     Name: MT GREYLOCK
     Elevation: 3488
-    Latitude: 42.63722222
-    Longitude: -73.16638889
+    Latitude: 42.6374
+    Longitude: -73.1662
     State: MA
-    Prominence: 2470
+    Prominence: 2474
 -
     Name: SADDLE BALL MTN
-    Elevation: 3258
-    Latitude: 42.61722222
-    Longitude: -73.19027778
+    Elevation: 3257
+    Latitude: 42.6137
+    Longitude: -73.1916
     State: MA
+    Prominence: 227

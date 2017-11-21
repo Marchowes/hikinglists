@@ -7,13 +7,13 @@
       <name>ME-4000-Footers</name>
       <description>kml map of list points for ME-4000-Footers</description>
       <visibility>1</visibility>
-      <Placemark id="MT KATAHDIN, BAXTER PK">
-        <name>MT KATAHDIN, BAXTER PK</name>
+      <Placemark id="MT KATAHDIN (BAXTER PK)">
+        <name>MT KATAHDIN (BAXTER PK)</name>
         <description>Elevation: 5268
 Latitude: 45.90416667
 Longitude: -68.92194444
-Name: MT KATAHDIN, BAXTER PK
-Prominence: 4290
+Name: MT KATAHDIN (BAXTER PK)
+Prominence: 4293
 Rank: 1
 State: ME
 </description>
