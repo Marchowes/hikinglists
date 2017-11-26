@@ -32,102 +32,119 @@ peaks:
     Latitude: 43.90027778
     Longitude: -71.49861111
     State: NH
+    Prominence: 1200
 -
     Name: THE BULGE
     Elevation: 3950
     Latitude: 44.51444444
     Longitude: -71.40861111
     State: NH
+    Prominence: 240
 -
     Name: MT NANCY
     Elevation: 3926
     Latitude: 44.12222222
     Longitude: -71.405
     State: NH
+    Prominence: 1026
 -
     Name: THE HORN
     Elevation: 3905
     Latitude: 44.51777778
     Longitude: -71.40055556
     State: NH
+    Prominence: 255
 -
     Name: MT WEEKS (N PK)
-    Elevation: 3901
+    Elevation: 3900
     Latitude: 44.46138889
     Longitude: -71.38222222
     State: NH
+    Prominence: 623
 -
     Name: MT WEEKS (S PK)
     Elevation: 3885
     Latitude: 44.44222222
     Longitude: -71.38888889
     State: NH
--
+    Prominence: 351
+- # Needs to be delisted
     Name: THE SLEEPERS (W PK)
     Elevation: 3881
     Latitude: 43.95416667
     Longitude: -71.43583333
     State: NH
+    Prominence: 181
 -
     Name: VOSE SPUR
     Elevation: 3862
     Latitude: 44.10277778
     Longitude: -71.435
     State: NH
+    Prominence: 242
 -
     Name: THE SLEEPERS (E PK)
     Elevation: 3860
     Latitude: 43.94666667
     Longitude: -71.42583333
     State: NH
+    Prominence: 320
 -
     Name: PEAK ABOVE THE NUBBLE
     Elevation: 3813
     Latitude: 44.22277778
     Longitude: -71.56194444
     State: NH
+    Prominence: 193
 -
     Name: SCAR RIDGE (W PK)
     Elevation: 3774
     Latitude: 44.02916667
     Longitude: -71.59583333
     State: NH
+    Prominence: 674
 -
     Name: CANNON BALLS (NE PK)
     Elevation: 3769
     Latitude: 44.15
     Longitude: -71.71055556
     State: NH
+    Prominence: 349
 -
     Name: MT KANCAMAGUS
     Elevation: 3763
     Latitude: 44.01111111
     Longitude: -71.47944444
     State: NH
+    Prominence: 863
 -
     Name: MT ANDERSON
     Elevation: 3740
     Latitude: 44.1125
     Longitude: -71.41833333
     State: NH
+    Prominence: 480
 -
     Name: MT LOWELL
     Elevation: 3740
     Latitude: 44.10361111
     Longitude: -71.41861111
     State: NH
+    Prominence: 600
 -
     Name: SHELBURNE MORIAH MTN
     Elevation: 3735
     Latitude: 44.35305556
     Longitude: -71.09916667
     State: NH
+    Prominence: 445
 -
     Name: HUTCHINS MTN MT PILOT
     Elevation: 3730
     Latitude: 44.54805556
     Longitude: -71.455
     State: NH
+    Prominence: 511
 -
     Name: BUNNEL MTN (BLUE MTN)
     Elevation: 3730
@@ -141,66 +158,77 @@ peaks:
     Latitude: 44.3025
     Longitude: -71.38416667
     State: NH
+    Prominence: 720
 -
     Name: MT BEMIS
     Elevation: 3725
     Latitude: 44.12694444
     Longitude: -71.39416667
     State: NH
+    Prominence: 265
 -
     Name: SUGARLOAF
     Elevation: 3710
     Latitude: 44.74416667
     Longitude: -71.46833333
     State: NH
+    Prominence: 600
 -
-    Name: MT HALE (S PK)
+    Name: ZEALE
     Elevation: 3700
-    Latitude: 44.20083333
-    Longitude: -71.51916667
+    Latitude: 44.2008
+    Longitude: -71.5183
     State: NH
+    Prominence: 280
 -
     Name: MT HUNTINGTON
     Elevation: 3700
-    Latitude: 44.05
-    Longitude: -71.49166667
+    Latitude: 44.0501
+    Longitude: -71.4912
     State: NH
+    Prominence: 840
 -
     Name: MT HUNTINGTON (S PK)
     Elevation: 3700
     Latitude: 44.04611111
     Longitude: -71.48555556
     State: NH
+    Prominence: 200 # Estimated
 -
     Name: MT FIELD (W PK)
     Elevation: 3691
     Latitude: 44.18916667
     Longitude: -71.4475
     State: NH
--
+    Prominence: 211 # Estimated
+- # May need to de-list
     Name: MT WEEKS (M PK)
     Elevation: 3684
     Latitude: 44.44944444
     Longitude: -71.37972222
     State: NH
+    Prominence: 190
 -
     Name: MT DECEPTION (E PK)
     Elevation: 3671
     Latitude: 44.29361111
     Longitude: -71.42111111
     State: NH
+    Prominence: 571
 -
     Name: GARFIELD RIDGE (W PK)
     Elevation: 3667
     Latitude: 44.18972222
     Longitude: -71.59583333
     State: NH
+    Prominence: 227 # Estimated
 -
     Name: LONG MTN (W PK)
     Elevation: 3661
     Latitude: 44.66944444
     Longitude: -71.40277778
     State: NH
+    Prominence: 241 # Estimated
 -
     Name: LONG MTN (M PK)
     Elevation: 3661
@@ -209,77 +237,89 @@ peaks:
     State: NH
     Prominence: 1711
 -
-    Name: TERRACE MTN (E PK)
-    Elevation: 3655
+    Name: TERRACE MTN
+    Elevation: 3654
     Latitude: 44.47722222
     Longitude: -71.39583333
     State: NH
+    Prominence: 613
 -
     Name: STUB HILL
     Elevation: 3627
     Latitude: 45.10666667
     Longitude: -71.09805556
     State: NH
+    Prominence: 1337
 -
     Name: SCAR RIDGE (E PK)
     Elevation: 3620
     Latitude: 44.01916667
     Longitude: -71.56555556
     State: NH
+    Prominence: 360
 -
-    Name: MT HITCHCOCK (M PK)
+    Name: MT HITCHCOCK
     Elevation: 3620
     Latitude: 44.07416667
     Longitude: -71.54
     State: NH
+    Prominence: 560
 -
     Name: PILOT RIDGE (M PK)
     Elevation: 3615
     Latitude: 44.53388889
     Longitude: -71.43777778
     State: NH
+    Prominence: 325
 -
-    Name: WHITCOMB MTN (N PK)
+    Name: MUISE MTN
     Elevation: 3615
-    Latitude: 44.78555556
-    Longitude: -71.37861111
+    Latitude: 44.7855
+    Longitude: -71.3781
     State: NH
+    Prominence: 1265
 -
     Name: NORTH BALDFACE
     Elevation: 3610
     Latitude: 44.24277778
     Longitude: -71.0875
     State: NH
+    Prominence: 1260
 -
     Name: GORE MTN
     Elevation: 3610
     Latitude: 44.77388889
     Longitude: -71.46583333
     State: NH
+    Prominence: 360
 -
     Name: PLINY MTN
     Elevation: 3606
     Latitude: 44.41666667
     Longitude: -71.39333333
     State: NH
--
+    Prominence: 466
+- # Might need to de-list
     Name: SCAUR PK
     Elevation: 3605
     Latitude: 43.985
     Longitude: -71.45055556
     State: NH
+    Prominence: 185
 -
     Name: GARFIELD RIDGE (E PK)
     Elevation: 3590
     Latitude: 44.19277778
     Longitude: -71.5825
     State: NH
+    Prominence: 205 # Estimate
 -
     Name: WEST PK
-    Elevation: 3593
+    Elevation: 3590
     Latitude: 44.75416667
     Longitude: -71.49638889
     State: NH
+    Prominence: 260
 -
     Name: CHERRY MTN (MT MARTHA)
     Elevation: 3572
@@ -293,96 +333,112 @@ peaks:
     Latitude: 44.23083333
     Longitude: -71.07833333
     State: NH
+    Prominence: 300
 -
-    Name: PILOT RIDGE (E PK)
+    Name: MARY MTN
     Elevation: 3570
     Latitude: 44.52833333
     Longitude: -71.42861111
     State: NH
+    Prominence: 230 # Estimated
 -
     Name: MT SUCCESS
     Elevation: 3565
     Latitude: 44.47138889
     Longitude: -71.03972222
     State: NH
+    Prominence: 675
 -
     Name: MT CLOUGH
     Elevation: 3561
     Latitude: 44.02916667
     Longitude: -71.87277778
     State: NH
+    Prominence: 1261
 -
     Name: THE FOOL KILLER
     Elevation: 3548
     Latitude: 43.97138889
     Longitude: -71.42694444
     State: NH
+    Prominence: 208
 -
-    Name: THE CAPTAIN CARRIGAIN POND PK
+    Name: THE CAPTAIN
     Elevation: 3540
     Latitude: 44.08388889
     Longitude: -71.46277778
     State: NH
+    Prominence: 240
 -
     Name: SABLE MTN
     Elevation: 3519
     Latitude: 44.21472222
     Longitude: -71.09638889
     State: NH
+    Prominence: 629
 -
     Name: SAVAGE MTN
     Elevation: 3510
     Latitude: 44.73194444
     Longitude: -71.545
     State: NH
+    Prominence: 1360
 -
-    Name: UNNAMED PK UNKNOWN POND
+    Name: UNNAMED (UNKNOWN POND PK)
     Elevation: 3510
-    Latitude: 44.52861111
-    Longitude: -71.38083333
+    Latitude: 44.5285
+    Longitude: -71.3803
     State: NH
+    Prominence: 400
 -
     Name: MT CHOCORUA
     Elevation: 3500
     Latitude: 43.95444444
     Longitude: -71.27388889
     State: NH
+    Prominence: 1280
 -
     Name: MT HITCHCOCK (S PK)
     Elevation: 3500
     Latitude: 44.06638889
     Longitude: -71.52861111
     State: NH
+    Prominence: 200 # Estimated
 -
     Name: SCAR RIDGE (M PK)
     Elevation: 3500
     Latitude: 44.02527778
     Longitude: -71.58083333
     State: NH
+    Prominence: 240 # Estimated
 -
     Name: MT WOLF
     Elevation: 3500
     Latitude: 44.0775
     Longitude: -71.75388889
     State: NH
+    Prominence: 920
 -
     Name: DIXVILLE PK
     Elevation: 3490
     Latitude: 44.83583333
     Longitude: -71.31861111
     State: NH
+    Prominence: 900
 -
     Name: MT KELSEY
     Elevation: 3472
     Latitude: 44.80138889
     Longitude: -71.31444444
     State: NH
+    Prominence: 1102
 -
     Name: STAIRS MTN
     Elevation: 3463
     Latitude: 44.155
     Longitude: -71.31888889
     State: NH
+    Prominence: 528
 -
     Name: CARR MTN
     Elevation: 3453
@@ -391,71 +447,82 @@ peaks:
     State: NH
     Prominence: 1480
 -
-    Name: PERCY PKS (N PK)
+    Name: NORTH PERCY PEAK
     Elevation: 3430
     Latitude: 44.66305556
     Longitude: -71.43555556
     State: NH
+    Prominence: 800
 -
     Name: STUB HILL (N PK)
     Elevation: 3422
     Latitude: 45.11833333
     Longitude: -71.1025
     State: NH
+    Prominence: 242 # Estimated
 -
     Name: EAGLE CLIFF
     Elevation: 3420
     Latitude: 44.16861111
     Longitude: -71.67194444
     State: NH
+    Prominence: 440
 -
     Name: MT RESOLUTION
     Elevation: 3415
     Latitude: 44.1475
     Longitude: -71.31444444
     State: NH
+    Prominence: 355
 -
     Name: WHITEWALL MTN
     Elevation: 3405
     Latitude: 44.1825
     Longitude: -71.4725
     State: NH
+    Prominence: 305
 -
     Name: MT HUNTINGTON (W PK)
     Elevation: 3393
     Latitude: 44.04361111
     Longitude: -71.50666667
     State: NH
+    Prominence: 203 # Estimated
 -
     Name: RICE MTN
     Elevation: 3390
     Latitude: 44.85277778
     Longitude: -71.24083333
     State: NH
+    Prominence: 1380
 -
     Name: SALMON MTN
     Elevation: 3390
     Latitude: 45.24305556
     Longitude: -71.13388889
     State: NH
+    Prominence: 880
 -
     Name: TEAPOT MTN
     Elevation: 3390
     Latitude: 44.7475
     Longitude: -71.55666667
     State: NH
+    Prominence: 340
 -
     Name: MAGALLOWAY MTN
     Elevation: 3383
     Latitude: 45.06333333
     Longitude: -71.16305556
     State: NH
+    Prominence: 1013
 -
     Name: MILLEN HILL
-    Elevation: 3376
+    Elevation: 3375
     Latitude: 44.29361111
     Longitude: -71.36527778
     State: NH
+    Prominence: 255
 -
     Name: MT TREMONT
     Elevation: 3371
@@ -464,89 +531,103 @@ peaks:
     State: NH
     Prominence: 1591
 -
-    Name: WHITCOMB MTN (M PK)
+    Name: WHITCOMB MTN
     Elevation: 3354
     Latitude: 44.74361111
     Longitude: -71.37055556
     State: NH
+    Prominence: 984
 -
     Name: LITTLE WILDCAT MTN
     Elevation: 3350
     Latitude: 44.27722222
     Longitude: -71.21
     State: NH
+    Prominence: 280
 -
     Name: DUCK POND MTN
     Elevation: 3340
     Latitude: 44.10694444
     Longitude: -71.39527778
     State: NH
+    Prominence: 200
 -
     Name: WHITCOMB MTN (S PK)
     Elevation: 3338
     Latitude: 44.73
     Longitude: -71.37194444
     State: NH
+    Prominence: 308
 -
     Name: CHANDLER MTN
     Elevation: 3335
     Latitude: 44.20222222
     Longitude: -71.10638889
     State: NH
+    Prominence: 565
 -
     Name: FLAT MTN
     Elevation: 3331
     Latitude: 43.92861111
     Longitude: -71.46222222
     State: NH
+    Prominence: 551
 -
     Name: MT HITCHCOCK (E PK)
     Elevation: 3331
     Latitude: 44.07611111
     Longitude: -71.51472222
     State: NH
+    Prominence: 211 # Estimated
 -
     Name: BLUE MTN (W PK)
     Elevation: 3326
     Latitude: 44.79027778
     Longitude: -71.50555556
     State: NH
+    Prominence: 240 # Estimated
 -
     Name: MT KINEO
     Elevation: 3313
     Latitude: 43.92916667
     Longitude: -71.79888889
     State: NH
+    Prominence: 1253
 -
     Name: MT HUNTINGTON (E PK)
     Elevation: 3306
     Latitude: 44.03888889
     Longitude: -71.46944444
     State: NH
+    Prominence: 206 # Estimated
 -
     Name: BLACK MTN
     Elevation: 3304
     Latitude: 44.22527778
     Longitude: -71.15611111
     State: NH
+    Prominence: 714
 -
     Name: BIG COOLIDGE MTN
     Elevation: 3294
     Latitude: 44.07944444
     Longitude: -71.64305556
     State: NH
+    Prominence: 554
 -
     Name: CRYSTAL MTN (N PK)
     Elevation: 3279
     Latitude: 44.9375
     Longitude: -71.21027778
     State: NH
+    Prominence: 1149
 -
-    Name: UNNAMED PK BOUNDARY POND
+    Name: UNNAMED (BOUNDARY POND PK)
     Elevation: 3277
     Latitude: 45.27055556
     Longitude: -71.11666667
     State: NH
+    Prominence: 747
 -
     Name: KEARSARGE NORTH
     Elevation: 3268
@@ -555,29 +636,33 @@ peaks:
     State: NH
     Prominence: 1758
 -
-    Name: BLACK CRESCENT MTN (S PK)
+    Name: BLACK CRESCENT MTN
     Elevation: 3264
     Latitude: 44.43944444
     Longitude: -71.27111111
     State: NH
+    Prominence: 1070
 -
     Name: BIG BICKFORD MTN
     Elevation: 3261
     Latitude: 44.19694444
     Longitude: -71.65472222
     State: NH
+    Prominence: 201
 -
     Name: MT CRESCENT
     Elevation: 3251
     Latitude: 44.40416667
     Longitude: -71.29472222
     State: NH
--
+    Prominence: 781
+- # May need to delist
     Name: ENGINE HILL (S PK)
     Elevation: 3244
     Latitude: 44.19388889
     Longitude: -71.28277778
     State: NH
+    Prominence: 184
 -
     Name: SMARTS MTN
     Elevation: 3238
@@ -586,29 +671,33 @@ peaks:
     State: NH
     Prominence: 2188
 -
-    Name: PERCY PKS (S PK)
+    Name: SOUTH PERCY PEAK
     Elevation: 3234
     Latitude: 44.65638889
     Longitude: -71.43555556
     State: NH
+    Prominence: 344
 -
     Name: CRYSTAL MTN (NW PK)
     Elevation: 3230
-    Latitude: 44.97222222
-    Longitude: -71.23027778
+    Latitude: 44.9723
+    Longitude: -71.2297
     State: NH
+    Prominence: 340
 -
     Name: DIAMOND RIDGE
     Elevation: 3230
     Latitude: 45.09194444
     Longitude: -71.13611111
     State: NH
+    Prominence: 700
 -
     Name: MT CUSHMAN
     Elevation: 3221
     Latitude: 43.95833333
     Longitude: -71.77916667
     State: NH
+    Prominence: 690
 -
     Name: BEAR MTN
     Elevation: 3220
@@ -622,48 +711,56 @@ peaks:
     Latitude: 44.30222222
     Longitude: -71.01861111
     State: NH
+    Prominence: 1340
 -
     Name: MT PAUGUS
     Elevation: 3198
     Latitude: 43.95111111
     Longitude: -71.32944444
     State: NH
+    Prominence: 978
 -
     Name: NORTH MOAT MTN
     Elevation: 3196
     Latitude: 44.04305556
     Longitude: -71.215
     State: NH
+    Prominence: 1176
 -
     Name: BLACK CRESCENT MTN (N PK)
     Elevation: 3196
     Latitude: 44.44666667
     Longitude: -71.28027778
     State: NH
+    Prominence: 194 # Estimated
 -
     Name: MT HITCHCOCK (N PK)
     Elevation: 3194
     Latitude: 44.08722222
     Longitude: -71.54472222
     State: NH
+    Prominence: 214 # Estimated
 -
     Name: CAVE MTN
     Elevation: 3191
     Latitude: 44.88388889
     Longitude: -71.26611111
     State: NH
+    Prominence: 581
 -
     Name: BLUE MTN (N PK)
     Elevation: 3190
     Latitude: 44.82027778
     Longitude: -71.49305556
     State: NH
+    Prominence: 500
 -
     Name: DEER MTN (S PK)
     Elevation: 3190
     Latitude: 45.18972222
     Longitude: -71.22583333
     State: NH
+    Prominence: 820
 -
     Name: MONADNOCK MTN
     Elevation: 3159
@@ -681,120 +778,140 @@ peaks:
 -
     Name: MT HEDGEHOG
     Elevation: 3140
-    Latitude: 43.94138889
-    Longitude: -71.365
+    Latitude: 43.9414
+    Longitude: -71.3642
     State: NH
+    Prominence: 240
 -
     Name: MT KENT
     Elevation: 3137
     Latitude: 45.23138889
     Longitude: -71.095
     State: NH
+    Prominence: 387
 -
     Name: MT CRAWFORD
     Elevation: 3119
     Latitude: 44.13666667
     Longitude: -71.33305556
     State: NH
+    Prominence: 259
 -
     Name: BLUE RIDGE (N PK)
     Elevation: 3102
     Latitude: 44.95583333
     Longitude: -71.24694444
     State: NH
+    Prominence: 372
 -
     Name: BALDHEAD MTN (S PK)
     Elevation: 3097
-    Latitude: 44.82222222
-    Longitude: -71.36777778
+    Latitude: 44.8224
+    Longitude: -71.3671
     State: NH
+    Prominence: 467
 -
     Name: MT TUCKER (W PK)
     Elevation: 3097
-    Latitude: 44.94972222
-    Longitude: -71.16666667
+    Latitude: 44.9413
+    Longitude: -71.1661
     State: NH
+    Prominence: 687
 -
     Name: MT RANDOLPH (N PK)
     Elevation: 3097
-    Latitude: 44.39666667
-    Longitude: -71.31694444
+    Latitude: 44.3968
+    Longitude: -71.3166
     State: NH
+    Prominence: 292
 -
     Name: MT PISGAH
     Elevation: 3081
     Latitude: 44.99555556
     Longitude: -71.21305556
     State: NH
+    Prominence: 471
 -
     Name: BALD CAP
     Elevation: 3065
     Latitude: 44.44944444
     Longitude: -71.10305556
     State: NH
+    Prominence: 735
 -
     Name: LOON MTN (N PK)
     Elevation: 3065
     Latitude: 44.03611111
     Longitude: -71.62166667
     State: NH
+    Prominence: 205
 -
     Name: MT HITCHCOCK (W PK)
     Elevation: 3064
     Latitude: 44.07194444
     Longitude: -71.55333333
     State: NH
+    Prominence: 224 # Estimated
 -
     Name: WOLF CUB GORDON POND PEAK
     Elevation: 3063
     Latitude: 44.07166667
     Longitude: -71.74
     State: NH
+    Prominence: 283
 -
     Name: WHALEBACK MTN (S PK)
     Elevation: 3060
     Latitude: 44.08
     Longitude: -71.60888889
     State: NH
+    Prominence: 200 # Estimated
 -
     Name: NORTH DOUBLEHEAD
     Elevation: 3053
     Latitude: 44.16777778
     Longitude: -71.13055556
     State: NH
+    Prominence: 963
 -
-    Name: UNNAMED PK SHOAL POND
+    Name: UNNAMED (SHOAL POND PK)
     Elevation: 3051
-    Latitude: 44.14972222
-    Longitude: -71.48138889
+    Latitude: 44.1497
+    Longitude: -71.4807
     State: NH
+    Prominence: 511
 -
     Name: MT DURBAN
     Elevation: 3010
     Latitude: 45.29527778
     Longitude: -71.10527778
     State: NH
+    Prominence: 665
 -
     Name: SPRUCE MTN (E PK)
     Elevation: 3010
     Latitude: 44.72055556
     Longitude: -71.54888889
     State: NH
+    Prominence: 202 # Estimated
 -
     Name: BLUE RIDGE (N PK)
     Elevation: 3009
     Latitude: 44.0625
     Longitude: -71.76666667
     State: NH
--
+    Prominence: 189 # Estimated
+- # May Need to be delisted.
     Name: MT PARKER
     Elevation: 3004
     Latitude: 44.12361111
     Longitude: -71.29916667
     State: NH
+    Prominence: 184
 -
     Name: MT ROSEBROOK
     Elevation: 3004
     Latitude: 44.24305556
     Longitude: -71.47166667
     State: NH
+    Prominence: 264

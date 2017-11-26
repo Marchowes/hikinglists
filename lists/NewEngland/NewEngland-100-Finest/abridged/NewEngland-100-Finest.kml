@@ -1402,6 +1402,21 @@ State: NH
           <coordinates>-71.657800,43.566900</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="BREAD LOAF MTN">
+        <name>BREAD LOAF MTN</name>
+        <description>Elevation: 3835
+Latitude: 44.00194444
+Longitude: -72.94166667
+Name: BREAD LOAF MTN
+Prominence: 1405
+Rank: 94
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.941667,44.001944</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="NUMBER SIX MTN">
         <name>NUMBER SIX MTN</name>
         <description>Elevation: 3315
@@ -1409,12 +1424,42 @@ Latitude: 45.49416667
 Longitude: -70.40861111
 Name: NUMBER SIX MTN
 Prominence: 1385
-Rank: 94
+Rank: 95
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.408611,45.494167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WOODLAWN MTN">
+        <name>WOODLAWN MTN</name>
+        <description>Elevation: 3110
+Latitude: 43.3375
+Longitude: -73.09833333
+Name: WOODLAWN MTN
+Prominence: 1380
+Rank: 96
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.098333,43.337500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="RICE MTN">
+        <name>RICE MTN</name>
+        <description>Elevation: 3390
+Latitude: 44.85277778
+Longitude: -71.24083333
+Name: RICE MTN
+Prominence: 1380
+Rank: 97
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.240833,44.852778</coordinates>
         </Point>
       </Placemark>
       <Placemark id="GOOSE EYE MTN">
@@ -1424,12 +1469,27 @@ Latitude: 44.50277778
 Longitude: -71
 Name: GOOSE EYE MTN
 Prominence: 1380
-Rank: 95
+Rank: 98
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-71.000000,44.502778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="FARR PK">
+        <name>FARR PK</name>
+        <description>Elevation: 3522
+Latitude: 43.80916667
+Longitude: -72.94444444
+Name: FARR PK
+Prominence: 1378
+Rank: 99
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.944444,43.809167</coordinates>
         </Point>
       </Placemark>
       <Placemark id="PUZZLE MTN">
@@ -1439,72 +1499,12 @@ Latitude: 44.54666667
 Longitude: -70.78888889
 Name: PUZZLE MTN
 Prominence: 1372
-Rank: 96
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-70.788889,44.546667</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="MT TRIPYRAMID (N PK)">
-        <name>MT TRIPYRAMID (N PK)</name>
-        <description>Elevation: 4180
-Latitude: 43.97305556
-Longitude: -71.44333333
-Name: MT TRIPYRAMID (N PK)
-Prominence: 1360
-Rank: 97
-State: NH
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.443333,43.973056</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="MT WAUMBEK">
-        <name>MT WAUMBEK</name>
-        <description>Elevation: 4005
-Latitude: 44.4325
-Longitude: -71.41777778
-Name: MT WAUMBEK
-Prominence: 1299
-Rank: 98
-State: NH
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.417778,44.432500</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="NORTH POGY MTN">
-        <name>NORTH POGY MTN</name>
-        <description>Elevation: 2850
-Latitude: 46.0411
-Longitude: -68.9433
-Name: NORTH POGY MTN
-Prominence: 1280
-Rank: 99
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-68.943300,46.041100</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="SNOW MTN">
-        <name>SNOW MTN</name>
-        <description>Elevation: 3784
-Latitude: 45.16916667
-Longitude: -70.82722222
-Name: SNOW MTN
-Prominence: 1274
 Rank: 100
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-70.827222,45.169167</coordinates>
+          <coordinates>-70.788889,44.546667</coordinates>
         </Point>
       </Placemark>
     </Folder>

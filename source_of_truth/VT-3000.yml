@@ -32,6 +32,7 @@ peaks:
     Latitude: 43.63944444
     Longitude: -72.83694444
     State: VT
+    Prominence: 587
 -
     Name: STRATTON MTN
     Elevation: 3940
@@ -59,24 +60,28 @@ peaks:
     Latitude: 43.595
     Longitude: -72.84666667
     State: VT
+    Prominence: 290
 -
     Name: BREAD LOAF MTN
     Elevation: 3835
     Latitude: 44.00194444
     Longitude: -72.94166667
     State: VT
+    Prominence: 1405
 -
     Name: MT WILSON
-    Elevation: 3790
+    Elevation: 3780
     Latitude: 44.00472222
     Longitude: -72.92611111
     State: VT
+    Prominence: 210
 -
     Name: BIG JAY
     Elevation: 3786
     Latitude: 44.915
     Longitude: -72.54111111
     State: VT
+    Prominence: 391
 -
     Name: DORSET PK
     Elevation: 3770
@@ -90,12 +95,14 @@ peaks:
     Latitude: 42.97777778
     Longitude: -73.07222222
     State: VT
+    Prominence: 1121
 -
     Name: SHREWSBURY PK
     Elevation: 3730
     Latitude: 43.57555556
     Longitude: -72.80638889
     State: VT
+    Prominence: 640
 -
     Name: STERLING MTN (WHITE FACE MTN)
     Elevation: 3713
@@ -111,23 +118,26 @@ peaks:
     State: VT
     Prominence: 1800
 -
-    Name: (MT ETHAN ALLEN)
+    Name: MT ETHAN ALLEN
     Elevation: 3688
     Latitude: 44.29361111
     Longitude: -72.88472222
     State: VT
+    Prominence: 878
 -
     Name: GENERAL STARK MTN
     Elevation: 3662
     Latitude: 44.18416667
     Longitude: -72.92916667
     State: VT
+    Prominence: 232
 -
     Name: MADONNA PK
     Elevation: 3650
     Latitude: 44.56138889
     Longitude: -72.75888889
     State: VT
+    Prominence: 700
 -
     Name: MT PUTNAM (WORCESTER)
     Elevation: 3642
@@ -141,60 +151,70 @@ peaks:
     Latitude: 44.05194444
     Longitude: -72.92666667
     State: VT
+    Prominence: 673
 -
     Name: MT HUNGER (N PK)
     Elevation: 3586
     Latitude: 44.40083333
     Longitude: -72.64388889
     State: VT
+    Prominence: 316
 -
     Name: MT SNOW
     Elevation: 3586
     Latitude: 42.95916667
     Longitude: -72.92388889
     State: VT
+    Prominence: 1351
 -
     Name: MT ROOSEVELT
     Elevation: 3550
     Latitude: 44.02
     Longitude: -72.91833333
     State: VT
+    Prominence: 280
 -
     Name: FARR PK
     Elevation: 3522
     Latitude: 43.80916667
     Longitude: -72.94444444
     State: VT
+    Prominence: 1378
 -
     Name: DORSET MTN (W PK)
     Elevation: 3515
     Latitude: 43.30861111
     Longitude: -73.06416667
     State: VT
+    Prominence: 545
 -
     Name: WORCESTER MTNS (N PK)
     Elevation: 3490
     Latitude: 44.43055556
     Longitude: -72.61277778
     State: VT
+    Prominence: 440
 -
     Name: BLOODROOT MTN
     Elevation: 3485
     Latitude: 43.78555556
     Longitude: -72.93777778
     State: VT
+    Prominence: 375
 -
     Name: MT CLEVELAND
     Elevation: 3482
     Latitude: 44.04611111
     Longitude: -72.90833333
     State: VT
+    Prominence: 372
 -
     Name: HAYSTACK MTN
-    Elevation: 3445
+    Elevation: 3444
     Latitude: 42.91361111
     Longitude: -72.91972222
     State: VT
+    Prominence: 383
 -
     Name: EAST MTN
     Elevation: 3439
@@ -208,6 +228,7 @@ peaks:
     Latitude: 44.9575
     Longitude: -72.53666667
     State: VT
+    Prominence: 811
 -
     Name: PERU PK
     Elevation: 3435
@@ -221,48 +242,56 @@ peaks:
     Latitude: 42.97777778
     Longitude: -73.11027778
     State: VT
+    Prominence: 413
 -
     Name: GLASTENBURY MTN (N PK)
     Elevation: 3412
     Latitude: 43.02805556
     Longitude: -73.03166667
     State: VT
+    Prominence: 576
 -
     Name: RICKER MTN
     Elevation: 3410
     Latitude: 44.42055556
     Longitude: -72.82611111
     State: VT
+    Prominence: 640
 -
-    Name: NORTH JAY PK (S PK)
-    Elevation: 3409
+    Name: DOLL PK
+    Elevation: 3408
     Latitude: 44.94694444
     Longitude: -72.54083333
     State: VT
--
+    Prominence: 210
+- # May need to delist
     Name: STYLES PK
     Elevation: 3392
     Latitude: 43.27361111
     Longitude: -72.93861111
     State: VT
+    Prominence: 194
 -
     Name: MORSE MTN
     Elevation: 3390
     Latitude: 44.57638889
     Longitude: -72.75222222
     State: VT
+    Prominence: 251
 -
     Name: CAPE LOOKOFF MTN
     Elevation: 3370
     Latitude: 43.85555556
     Longitude: -72.97333333
     State: VT
+    Prominence: 1200
 -
     Name: DEWEY MTN
     Elevation: 3370
     Latitude: 44.49361111
     Longitude: -72.82194444
     State: VT
+    Prominence: 700
 -
     Name: SIGNAL MTN
     Elevation: 3370
@@ -276,18 +305,21 @@ peaks:
     Latitude: 43.87138889
     Longitude: -72.97777778
     State: VT
+    Prominence: 336
 -
     Name: MT CARMEL
     Elevation: 3365
     Latitude: 43.77444444
     Longitude: -72.92083333
     State: VT
+    Prominence: 755
 -
     Name: MOTHER MYRICK MTN
     Elevation: 3361
     Latitude: 43.21333333
     Longitude: -73.11694444
     State: VT
+    Prominence: 1091
 -
     Name: BELVIDERE MTN
     Elevation: 3356
@@ -301,12 +333,14 @@ peaks:
     Latitude: 43.40388889
     Longitude: -72.75194444
     State: VT
+    Prominence: 1227
 -
     Name: ROUND MTN
     Elevation: 3342
     Latitude: 43.81555556
     Longitude: -72.885
     State: VT
+    Prominence: 952
 -
     Name: COLD HOLLOW MTNS
     Elevation: 3337
@@ -327,18 +361,21 @@ peaks:
     Latitude: 42.93833333
     Longitude: -73.05805556
     State: VT
+    Prominence: 561
 -
     Name: SPRUCE PK
     Elevation: 3330
     Latitude: 44.55083333
     Longitude: -72.78361111
     State: VT
+    Prominence: 340
 -
     Name: BOYCE MTN
     Elevation: 3323
     Latitude: 43.97361111
     Longitude: -72.94111111
     State: VT
+    Prominence: 273
 -
     Name: BALD MTN
     Elevation: 3310
@@ -352,36 +389,42 @@ peaks:
     Latitude: 43.20083333
     Longitude: -73.16722222
     State: VT
+    Prominence: 722
 -
     Name: MT WORCESTER
     Elevation: 3293
     Latitude: 44.44333333
     Longitude: -72.59222222
     State: VT
+    Prominence: 403
 -
     Name: GOSHEN MTN
     Elevation: 3292
     Latitude: 43.82944444
     Longitude: -72.97138889
     State: VT
+    Prominence: 262
 -
     Name: SALT ASH MTN
     Elevation: 3286
     Latitude: 43.5025
     Longitude: -72.77444444
     State: VT
+    Prominence: 1196
 -
     Name: BROMLEY
-    Elevation: 3281
+    Elevation: 3280
     Latitude: 43.22777778
     Longitude: -72.94027778
     State: VT
+    Prominence: 849
 -
     Name: BLUE RIDGE MTN (S PK)
     Elevation: 3278
     Latitude: 43.67805556
     Longitude: -72.90222222
     State: VT
+    Prominence: 1308
 -
     Name: BURKE MTN
     Elevation: 3270
@@ -395,24 +438,28 @@ peaks:
     Latitude: 43.91
     Longitude: -72.96416667
     State: VT
+    Prominence: 784
 -
     Name: GREEN PK (MT AEOLUS)
     Elevation: 3230
     Latitude: 43.24055556
     Longitude: -73.03888889
     State: VT
+    Prominence: 1140
 -
     Name: ROUND MTN (E PK)
     Elevation: 3230
     Latitude: 43.80611111
     Longitude: -72.8525
     State: VT
+    Prominence: 580
 -
     Name: MONASTERY MTN (W PK)
     Elevation: 3224
     Latitude: 43.90694444
     Longitude: -72.93861111
     State: VT
+    Prominence: 854
 -
     Name: ADAMS MTN
     Elevation: 3214
@@ -426,72 +473,84 @@ peaks:
     Latitude: 43.57611111
     Longitude: -72.78416667
     State: VT
+    Prominence: 320
 -
     Name: PHILADELPHIA PK
     Elevation: 3203
     Latitude: 43.9
     Longitude: -72.88666667
     State: VT
+    Prominence: 633
 -
     Name: HAYSTACK MTN
-    Elevation: 3196
+    Elevation: 3195
     Latitude: 44.82333333
     Longitude: -72.53861111
     State: VT
+    Prominence: 587
 -
     Name: LUDLOW MTN, S MTN
     Elevation: 3179
     Latitude: 43.37722222
     Longitude: -72.76444444
     State: VT
+    Prominence: 768
 -
     Name: SENECA MTN (S PK)
     Elevation: 3174
     Latitude: 44.695
     Longitude: -71.80416667
     State: VT
+    Prominence: 624
 -
     Name: STERLING RANGE (N PK)
     Elevation: 3172
     Latitude: 44.61416667
     Longitude: -72.76472222
     State: VT
+    Prominence: 802
 -
     Name: BURNT ROCK MTN
     Elevation: 3170
     Latitude: 44.2675
     Longitude: -72.89611111
     State: VT
+    Prominence: 220
 -
     Name: MONASTERY MTN (E PK)
     Elevation: 3170
     Latitude: 43.90333333
     Longitude: -72.91472222
     State: VT
+    Prominence: 288 # Estimated
 -
     Name: SENECA MTN (E PK)
     Elevation: 3170
     Latitude: 44.6975
     Longitude: -71.77472222
     State: VT
+    Prominence: 320
 -
     Name: MT ETHAN ALLEN (E PK)
     Elevation: 3170
     Latitude: 44.28444444
     Longitude: -72.86472222
     State: VT
+    Prominence: 230 # Estimated
 -
     Name: BUTTERFIELD MTN
     Elevation: 3167
     Latitude: 44.18333333
     Longitude: -72.33972222
     State: VT
+    Prominence: 777
 -
     Name: KIRBY PK
     Elevation: 3150
     Latitude: 43.96277778
     Longitude: -72.94555556
     State: VT
+    Prominence: 200
 -
     Name: MONADNOCK MTN
     Elevation: 3148
@@ -505,12 +564,14 @@ peaks:
     Latitude: 44.46222222
     Longitude: -72.83888889
     State: VT
--
+    Prominence: 273
+- # might need to delist
     Name: CORPORATION MTN
     Elevation: 3142
     Latitude: 43.82916667
     Longitude: -72.87944444
     State: VT
+    Prominence: 192
 -
     Name: MT ASCUTNEY
     Elevation: 3140
@@ -524,30 +585,35 @@ peaks:
     Latitude: 44.01833333
     Longitude: -72.80972222
     State: VT
+    Prominence: 380
 -
     Name: GLASTENBURY MTN (NE PK)
     Elevation: 3130
     Latitude: 43.05
     Longitude: -73.0075
     State: VT
+    Prominence: 230 #ESTIMATED
 -
     Name: UNNAMED PK (READSBORO)
     Elevation: 3120
     Latitude: 42.84888889
     Longitude: -72.97
     State: VT
+    Prominence: 850
 -
     Name: WOODLAWN MTN
     Elevation: 3110
     Latitude: 43.3375
     Longitude: -73.09833333
     State: VT
+    Prominence: 1380
 -
     Name: WOODWARD MTN
     Elevation: 3110
     Latitude: 44.40666667
     Longitude: -72.83305556
     State: VT
+    Prominence: 200
 -
     Name: GRASS MTN
     Elevation: 3109
@@ -561,117 +627,130 @@ peaks:
     Latitude: 42.81888889
     Longitude: -73.08555556
     State: VT
+    Prominence: 698
 -
     Name: UNNAMED PK (BRANCH POND)
     Elevation: 3090
     Latitude: 43.06638889
     Longitude: -73.01694444
     State: VT
+    Prominence: 320
 -
     Name: KNOX MTN (M PK)
     Elevation: 3086
     Latitude: 44.16527778
     Longitude: -72.35666667
     State: VT
+    Prominence: 696
 -
     Name: EAST HAVEN MTN
     Elevation: 3070
     Latitude: 44.62138889
     Longitude: -71.83333333
     State: VT
+    Prominence: 860
 -
     Name: RICE MTN
     Elevation: 3066
     Latitude: 44.05638889
     Longitude: -72.80166667
     State: VT
+    Prominence: 216
 -
-    Name: UNNAMED PK (MOSS GLEN FALLS)
+    Name: UNNAMED (MOSS GLEN FALLS)
     Elevation: 3062
     Latitude: 44.03194444
     Longitude: -72.88555556
     State: VT
+    Prominence: 212 # Estimated
 -
     Name: MT TABOR
     Elevation: 3061
     Latitude: 43.28194444
     Longitude: -72.96694444
     State: VT
+    Prominence: 237
 -
     Name: UMPIRE MTN
     Elevation: 3051
     Latitude: 44.56972222
     Longitude: -71.9575
     State: VT
+    Prominence: 981
 -
     Name: BALD HILL
     Elevation: 3050
     Latitude: 44.31916667
     Longitude: -72.90777778
     State: VT
+    Prominence: 260
 -
     Name: BLUE RIDGE MTN (N PK)
     Elevation: 3050
     Latitude: 43.69194444
     Longitude: -72.91277778
     State: VT
+    Prominence: 205 #estimated
 -
     Name: SENECA MTN (N PK)
     Elevation: 3049
     Latitude: 44.71277778
     Longitude: -71.80166667
     State: VT
+    Prominence: 218 # Estimated
 -
     Name: SPRUCE PK
     Elevation: 3033
     Latitude: 43.04444444
     Longitude: -73.21027778
     State: VT
+    Prominence: 463
 -
     Name: BRAINTREE MTN (N PK)
     Elevation: 3030
     Latitude: 43.95305556
     Longitude: -72.78583333
     State: VT
+    Prominence: 640
 -
     Name: SPRUCE MTN
     Elevation: 3030
     Latitude: 44.23444444
     Longitude: -72.35555556
     State: VT
+    Prominence: 860
 -
-    Name: UNNAMED PK (STAMFORD)
+    Name: UNNAMED (STAMFORD)
     Elevation: 3025
     Latitude: 42.78666667
     Longitude: -73.1225
     State: VT
+    Prominence: 535
 -
-    Name: UNNAMED PK (TELEPHONE GAP)
+    Name: UNNAMED (TELEPHONE GAP)
     Elevation: 3022
     Latitude: 43.75111111
     Longitude: -72.88833333
     State: VT
+    Prominence: 712
 -
     Name: GILPIN MTN
     Elevation: 3015
     Latitude: 44.90861111
     Longitude: -72.49527778
     State: VT
+    Prominence: 781
 -
     Name: NORTH JAY PK (SW PK)
     Elevation: 3015
     Latitude: 44.94083333
     Longitude: -72.57666667
     State: VT
+    Prominence: 407
 -
     Name: HOOSAC RANGE
     Elevation: 3010
     Latitude: 42.75777778
     Longitude: -73.02666667
     State: VT
--
-    Name: TILLOTSON PK
-    Elevation: 3002
-    Latitude: 44.80666667
-    Longitude: -72.55361111
-    State: VT
+    Prominence: 1104
