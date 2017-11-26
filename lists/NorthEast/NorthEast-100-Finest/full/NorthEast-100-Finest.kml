@@ -1357,6 +1357,21 @@ State: NY
           <coordinates>-73.882500,44.302778</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="BEARPEN MTN">
+        <name>BEARPEN MTN</name>
+        <description>Elevation: 3610
+Latitude: 42.265
+Longitude: -74.47416667
+Name: BEARPEN MTN
+Prominence: 1700
+Rank: 91
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.474167,42.265000</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="VANDERWHACKER MTN">
         <name>VANDERWHACKER MTN</name>
         <description>Elevation: 3409
@@ -1364,7 +1379,7 @@ Latitude: 43.89805556
 Longitude: -74.09638889
 Name: VANDERWHACKER MTN
 Prominence: 1686
-Rank: 91
+Rank: 92
 State: NY
 </description>
         <visibility>1</visibility>
@@ -1379,7 +1394,7 @@ Latitude: 43.66138889
 Longitude: -74.2
 Name: PUFFER MTN
 Prominence: 1670
-Rank: 92
+Rank: 93
 State: NY
 </description>
         <visibility>1</visibility>
@@ -1394,7 +1409,7 @@ Latitude: 44.60333333
 Longitude: -74.22083333
 Name: DEBAR MTN
 Prominence: 1660
-Rank: 93
+Rank: 94
 State: NY
 </description>
         <visibility>1</visibility>
@@ -1409,7 +1424,7 @@ Latitude: 42.0032
 Longitude: -74.2175
 Name: TICETONYK
 Prominence: 1640
-Rank: 94
+Rank: 95
 State: NY
 </description>
         <visibility>1</visibility>
@@ -1424,7 +1439,7 @@ Latitude: 44.91416667
 Longitude: -71.0025
 Name: LOWER AZISCOHOS MTN
 Prominence: 1640
-Rank: 95
+Rank: 96
 State: ME
 </description>
         <visibility>1</visibility>
@@ -1439,7 +1454,7 @@ Latitude: 44.02444444
 Longitude: -74.33
 Name: KEMPSHALL MTN
 Prominence: 1640
-Rank: 96
+Rank: 97
 State: NY
 </description>
         <visibility>1</visibility>
@@ -1454,7 +1469,7 @@ Latitude: 43.73694444
 Longitude: -74.51527778
 Name: WAKELY MTN
 Prominence: 1631
-Rank: 97
+Rank: 98
 State: NY
 </description>
         <visibility>1</visibility>
@@ -1469,7 +1484,7 @@ Latitude: 43.623774
 Longitude: -73.085175
 Name: UNNAMED (W RUTLAND)
 Prominence: 1620
-Rank: 98
+Rank: 99
 State: VT
 </description>
         <visibility>1</visibility>
@@ -1484,27 +1499,12 @@ Latitude: 42.102
 Longitude: -73.4325
 Name: EVERETT
 Prominence: 1619
-Rank: 99
+Rank: 100
 State: MA
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.432500,42.102000</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="PHARAOH">
-        <name>PHARAOH</name>
-        <description>Elevation: 2556
-Latitude: 43.8186
-Longitude: -73.658
-Name: PHARAOH
-Prominence: 1606
-Rank: 100
-State: NY
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.658000,43.818600</coordinates>
         </Point>
       </Placemark>
     </Folder>

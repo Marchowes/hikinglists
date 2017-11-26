@@ -139,7 +139,7 @@ peaks:
     State: NY
     Prominence: 332
 -
-    Name: SAWTOOTH MTNS (M PK)
+    Name: SAWTOOTH MTNS (M PK) (SAWTOOTH 1)
     Elevation: 3854
     Latitude: 44.18861111
     Longitude: -74.12166667
@@ -202,7 +202,7 @@ peaks:
     State: NY
     Prominence: 433
 -
-    Name: SAWTOOTH MTNS (W PK)
+    Name: SAWTOOTH MTNS (W PK) (SAWTOOTH 2)
     Elevation: 3789
     Latitude: 44.1934
     Longitude: -74.1399
@@ -223,7 +223,7 @@ peaks:
     State: NY
     Prominence: 1631
 -
-    Name: SAWTOOTH MTNS (WSW PK)
+    Name: SAWTOOTH MTNS (WSW PK) (SAWTOOTH 2s)
     Elevation: 3757 # Needs Validation
     Latitude: 44.18444444
     Longitude: -74.14055556
@@ -279,7 +279,7 @@ peaks:
     State: NY
     Prominence: 1962
 -
-    Name: SAWTOOTH MTNS (SSE PK)
+    Name: SAWTOOTH MTNS (SSE PK) (SAWTOOTH 3)
     Elevation: 3694
     Latitude: 44.1717
     Longitude: -74.1078
@@ -377,7 +377,7 @@ peaks:
     State: NY
     Prominence: 1870
 - # May need to be delisted.
-    Name: SAWTOOTH MTNS (E PK)
+    Name: SAWTOOTH MTNS (E PK) (SAWTOOTH 1e)
     Elevation: 3560 # Needs Validation
     Latitude: 44.1915
     Longitude: -74.1011
@@ -475,7 +475,7 @@ peaks:
     State: NY
     Prominence: 220 # Estimated
 -
-    Name: SAWTOOTH MTNS (SW PK)
+    Name: SAWTOOTH MTNS (SW PK) (SAWTOOTH 5)
     Elevation: 3461
     Latitude: 44.17638889
     Longitude: -74.13388889
@@ -552,7 +552,7 @@ peaks:
     State: NY
     Prominence: 653
 -
-    Name: SAWTOOTH MTNS (NW PK)
+    Name: SAWTOOTH MTNS (NW PK) (SAWTOOTH 4)
     Elevation: 3415
     Latitude: 44.2008
     Longitude: -74.1628
@@ -587,7 +587,7 @@ peaks:
     State: NY
     Prominence: 689
 -
-    Name: SAWTOOTH MTNS (SE PK)
+    Name: SAWTOOTH MTNS (SE PK) (SAWTOOTH 9)
     Elevation: 3396 # Needs Validation
     Latitude: 44.1795
     Longitude: -74.1109
@@ -622,7 +622,7 @@ peaks:
     State: NY
     Prominence: 368
 -
-    Name: SAWTOOTH MTNS (NE PK) (#8)
+    Name: SAWTOOTH MTNS (NE PK) (SAWTOOTH 8)
     Elevation: 3386
     Latitude: 44.20333333
     Longitude: -74.09388889
@@ -769,7 +769,7 @@ peaks:
     State: NY
     Prominence: 859
 -
-    Name: SAWTOOTH MTNS (NNW PK) (#10)
+    Name: SAWTOOTH MTNS (NNW PK) (SAWTOOTH 10)
     Elevation: 3284
     Latitude: 44.20555556
     Longitude: -74.13555556
@@ -1245,7 +1245,7 @@ peaks:
     State: NY
     Prominence: 511
 -
-    Name: SAWTOOTH MTNS (S PK) (11)
+    Name: SAWTOOTH MTNS (S PK) (SAWTOOTH 11)
     Elevation: 3002 # estimated
     Latitude: 44.17055556
     Longitude: -74.12527778

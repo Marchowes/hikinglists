@@ -1738,7 +1738,7 @@ State: NY
 Latitude: 42.27083333
 Longitude: -74.13666667
 Name: THOMAS COLE MTN
-Prominence: 
+Prominence: 220
 Rank: 116
 State: NY
 </description>
@@ -1768,7 +1768,7 @@ State: NH
 Latitude: 42.26777778
 Longitude: -74.10527778
 Name: BLACKHEAD
-Prominence: 
+Prominence: 520
 Rank: 118
 State: NY
 </description>
@@ -1918,7 +1918,7 @@ State: NY
 Latitude: 42.16777778
 Longitude: -74.29027778
 Name: WEST KILL MTN
-Prominence: 
+Prominence: 1240
 Rank: 128
 State: NY
 </description>
@@ -2023,7 +2023,7 @@ State: ME
 Latitude: 42.0275
 Longitude: -74.52861111
 Name: DOUBLETOP MTN
-Prominence: 
+Prominence: 1200
 Rank: 135
 State: NY
 </description>
@@ -2038,7 +2038,7 @@ State: NY
 Latitude: 42.00138889
 Longitude: -74.35722222
 Name: CORNELL MTN
-Prominence: 
+Prominence: 620
 Rank: 136
 State: NY
 </description>
@@ -2053,7 +2053,7 @@ State: NY
 Latitude: 42.03944444
 Longitude: -74.54972222
 Name: GRAHAM MTN
-Prominence: 
+Prominence: 898
 Rank: 137
 State: NY
 </description>
@@ -2182,12 +2182,12 @@ State: ME
           <coordinates>-70.841667,45.267222</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (M PK)">
-        <name>SAWTOOTH MTNS (M PK)</name>
+      <Placemark id="SAWTOOTH MTNS (M PK) (SAWTOOTH 1)">
+        <name>SAWTOOTH MTNS (M PK) (SAWTOOTH 1)</name>
         <description>Elevation: 3854
 Latitude: 44.18861111
 Longitude: -74.12166667
-Name: SAWTOOTH MTNS (M PK)
+Name: SAWTOOTH MTNS (M PK) (SAWTOOTH 1)
 Prominence: 1476
 Rank: 146
 State: NY
@@ -2263,7 +2263,7 @@ State: NY
 Latitude: 41.95833333
 Longitude: -74.40527778
 Name: TABLE MTN
-Prominence: 
+Prominence: 657
 Rank: 151
 State: NY
 </description>
@@ -2278,7 +2278,7 @@ State: NY
 Latitude: 41.95305556
 Longitude: -74.39861111
 Name: PEEKAMOOSE MTN
-Prominence: 
+Prominence: 193
 Rank: 152
 State: NY
 </description>
@@ -2398,7 +2398,7 @@ State: NH
 Latitude: 42.13111111
 Longitude: -74.15083333
 Name: SUGARLOAF MTN
-Prominence: 
+Prominence: 1200
 Rank: 160
 State: NY
 </description>
@@ -2488,7 +2488,7 @@ State: ME
 Latitude: 42.00805556
 Longitude: -74.3475
 Name: WITTENBERG MTN
-Prominence: 
+Prominence: 240
 Rank: 166
 State: NY
 </description>
@@ -2512,12 +2512,12 @@ State: ME
           <coordinates>-70.892778,44.609167</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (W PK)">
-        <name>SAWTOOTH MTNS (W PK)</name>
+      <Placemark id="SAWTOOTH MTNS (W PK) (SAWTOOTH 2)">
+        <name>SAWTOOTH MTNS (W PK) (SAWTOOTH 2)</name>
         <description>Elevation: 3789
 Latitude: 44.1934
 Longitude: -74.1399
-Name: SAWTOOTH MTNS (W PK)
+Name: SAWTOOTH MTNS (W PK) (SAWTOOTH 2)
 Prominence: 492
 Rank: 168
 State: NY
@@ -2752,12 +2752,12 @@ State: NH
           <coordinates>-71.479444,44.011111</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (WSW PK)">
-        <name>SAWTOOTH MTNS (WSW PK)</name>
+      <Placemark id="SAWTOOTH MTNS (WSW PK) (SAWTOOTH 2s)">
+        <name>SAWTOOTH MTNS (WSW PK) (SAWTOOTH 2s)</name>
         <description>Elevation: 3757
 Latitude: 44.18444444
 Longitude: -74.14055556
-Name: SAWTOOTH MTNS (WSW PK)
+Name: SAWTOOTH MTNS (WSW PK) (SAWTOOTH 2s)
 Prominence: 190
 Rank: 184
 State: NY
@@ -2803,7 +2803,7 @@ State: ME
 Latitude: 42.1625
 Longitude: -74.24416667
 Name: HUNTER MTN (SW PK)
-Prominence: 
+Prominence: 200
 Rank: 187
 State: NY
 </description>
@@ -2923,7 +2923,7 @@ State: VT
 Latitude: 42.05833333
 Longitude: -74.39666667
 Name: PANTHER MTN
-Prominence: 
+Prominence: 980
 Rank: 195
 State: NY
 </description>
@@ -2998,7 +2998,7 @@ State: NH
 Latitude: 42.04555556
 Longitude: -74.595
 Name: BALSAM LAKE MTN
-Prominence: 
+Prominence: 480
 Rank: 200
 State: NY
 </description>
@@ -3073,7 +3073,7 @@ State: NY
 Latitude: 41.96916667
 Longitude: -74.38972222
 Name: LONE MTN
-Prominence: 
+Prominence: 291
 Rank: 205
 State: NY
 </description>
@@ -3163,7 +3163,7 @@ State: ME
 Latitude: 42.035
 Longitude: -74.49722222
 Name: BIG INDIAN MTN
-Prominence: 
+Prominence: 520
 Rank: 211
 State: NY
 </description>
@@ -3262,12 +3262,12 @@ State: ME
           <coordinates>-68.983056,45.919167</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (SSE PK)">
-        <name>SAWTOOTH MTNS (SSE PK)</name>
+      <Placemark id="SAWTOOTH MTNS (SSE PK) (SAWTOOTH 3)">
+        <name>SAWTOOTH MTNS (SSE PK) (SAWTOOTH 3)</name>
         <description>Elevation: 3694
 Latitude: 44.1717
 Longitude: -74.1078
-Name: SAWTOOTH MTNS (SSE PK)
+Name: SAWTOOTH MTNS (SSE PK) (SAWTOOTH 3)
 Prominence: 627
 Rank: 218
 State: NY
@@ -3283,7 +3283,7 @@ State: NY
 Latitude: 41.98777778
 Longitude: -74.3625
 Name: FRIDAY MTN
-Prominence: 
+Prominence: 204
 Rank: 219
 State: NY
 </description>
@@ -3313,7 +3313,7 @@ State: NH
 Latitude: 42.20055556
 Longitude: -74.27777778
 Name: RUSK MTN
-Prominence: 
+Prominence: 760
 Rank: 221
 State: NY
 </description>
@@ -3628,7 +3628,7 @@ State: NY
 Latitude: 42.12555556
 Longitude: -74.12972222
 Name: TWIN MTN
-Prominence: 
+Prominence: 840
 Rank: 242
 State: NY
 </description>
@@ -3748,7 +3748,7 @@ State: NY
 Latitude: 42.0275
 Longitude: -74.46944444
 Name: FIR MTN
-Prominence: 
+Prominence: 440
 Rank: 250
 State: NY
 </description>
@@ -3823,7 +3823,7 @@ State: VT
 Latitude: 41.97694444
 Longitude: -74.35777778
 Name: BALSAM CAP
-Prominence: 
+Prominence: 253
 Rank: 255
 State: NY
 </description>
@@ -4003,7 +4003,7 @@ State: NH
 Latitude: 42.06166667
 Longitude: -74.51
 Name: EAGLE MTN
-Prominence: 
+Prominence: 500
 Rank: 267
 State: NY
 </description>
@@ -4018,7 +4018,7 @@ State: NY
 Latitude: 42.265
 Longitude: -74.47416667
 Name: BEARPEN MTN
-Prominence: 
+Prominence: 1700
 Rank: 268
 State: NY
 </description>
@@ -4033,7 +4033,7 @@ State: NY
 Latitude: 42.09055556
 Longitude: -74.48833333
 Name: BALSAM MTN
-Prominence: 
+Prominence: 253
 Rank: 269
 State: NY
 </description>
@@ -4273,7 +4273,7 @@ State: VT
 Latitude: 42.11638889
 Longitude: -74.115
 Name: INDIAN HEAD MTN
-Prominence: 
+Prominence: 463
 Rank: 285
 State: NY
 </description>
@@ -4402,12 +4402,12 @@ State: NH
           <coordinates>-71.872778,44.029167</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (E PK)">
-        <name>SAWTOOTH MTNS (E PK)</name>
+      <Placemark id="SAWTOOTH MTNS (E PK) (SAWTOOTH 1e)">
+        <name>SAWTOOTH MTNS (E PK) (SAWTOOTH 1e)</name>
         <description>Elevation: 3560
 Latitude: 44.1915
 Longitude: -74.1011
-Name: SAWTOOTH MTNS (E PK)
+Name: SAWTOOTH MTNS (E PK) (SAWTOOTH 1e)
 Prominence: 190
 Rank: 294
 State: NY
@@ -4453,7 +4453,7 @@ State: ME
 Latitude: 42.17555556
 Longitude: -74.37333333
 Name: MT SHERRILL
-Prominence: 
+Prominence: 540
 Rank: 297
 State: NY
 </description>
@@ -4588,7 +4588,7 @@ State: ME
 Latitude: 42.18027778
 Longitude: -74.43833333
 Name: HALCOTT MTN
-Prominence: 
+Prominence: 720
 Rank: 306
 State: NY
 </description>
@@ -4603,7 +4603,7 @@ State: NY
 Latitude: 42.24583333
 Longitude: -74.44861111
 Name: VLY MTN
-Prominence: 
+Prominence: 659
 Rank: 307
 State: NY
 </description>
@@ -4618,7 +4618,7 @@ State: NY
 Latitude: 42.31472222
 Longitude: -74.14361111
 Name: WINDHAM HIGH PK
-Prominence: 
+Prominence: 754
 Rank: 308
 State: NY
 </description>
@@ -4753,7 +4753,7 @@ State: NH
 Latitude: 41.97277778
 Longitude: -74.37333333
 Name: ROCKY MTN
-Prominence: 
+Prominence: 218
 Rank: 317
 State: NY
 </description>
@@ -4903,7 +4903,7 @@ State: VT
 Latitude: 42.0525
 Longitude: -74.63333333
 Name: MILL BROOK RIDGE (E PK)
-Prominence: 
+Prominence: 380
 Rank: 327
 State: NY
 </description>
@@ -5053,7 +5053,7 @@ State: NH
 Latitude: 42.04
 Longitude: -74.61777778
 Name: WOODPECKER RIDGE
-Prominence: 
+Prominence: 320
 Rank: 337
 State: NY
 </description>
@@ -5098,7 +5098,7 @@ State: ME
 Latitude: 42.11277778
 Longitude: -74.60472222
 Name: DRY BROOK RIDGE
-Prominence: 
+Prominence: 860
 Rank: 340
 State: NY
 </description>
@@ -5167,12 +5167,12 @@ State: ME
           <coordinates>-68.975556,45.979722</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (SW PK)">
-        <name>SAWTOOTH MTNS (SW PK)</name>
+      <Placemark id="SAWTOOTH MTNS (SW PK) (SAWTOOTH 5)">
+        <name>SAWTOOTH MTNS (SW PK) (SAWTOOTH 5)</name>
         <description>Elevation: 3461
 Latitude: 44.17638889
 Longitude: -74.13388889
-Name: SAWTOOTH MTNS (SW PK)
+Name: SAWTOOTH MTNS (SW PK) (SAWTOOTH 5)
 Prominence: 295
 Rank: 345
 State: NY
@@ -5305,16 +5305,16 @@ State: NY
       <Placemark id="ROUNDTOP MTN">
         <name>ROUNDTOP MTN</name>
         <description>Elevation: 3450
-Latitude: 42.16833333
-Longitude: -74.09527778
+Latitude: 42.1685
+Longitude: -74.095
 Name: ROUNDTOP MTN
-Prominence: 
+Prominence: 260
 Rank: 354
 State: NY
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-74.095278,42.168333</coordinates>
+          <coordinates>-74.095000,42.168500</coordinates>
         </Point>
       </Placemark>
       <Placemark id="ROUNDTOP">
@@ -5323,7 +5323,7 @@ State: NY
 Latitude: 42.29388889
 Longitude: -74.49083333
 Name: ROUNDTOP
-Prominence: 
+Prominence: 360
 Rank: 355
 State: NY
 </description>
@@ -5338,7 +5338,7 @@ State: NY
 Latitude: 42.11611111
 Longitude: -74.18888889
 Name: OLDERBARK MTN
-Prominence: 
+Prominence: 200
 Rank: 356
 State: NY
 </description>
@@ -5497,21 +5497,6 @@ State: NY
           <coordinates>-74.186389,43.688889</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="WEST KILL MTN (W PK)">
-        <name>WEST KILL MTN (W PK)</name>
-        <description>Elevation: 3430
-Latitude: 42.17138889
-Longitude: -74.32083333
-Name: WEST KILL MTN (W PK)
-Prominence: 
-Rank: 367
-State: NY
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-74.320833,42.171389</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="UNNAMED (BUMP)">
         <name>UNNAMED (BUMP)</name>
         <description>Elevation: 3430
@@ -5519,7 +5504,7 @@ Latitude: 45.45444444
 Longitude: -70.64527778
 Name: UNNAMED (BUMP)
 Prominence: 280
-Rank: 368
+Rank: 367
 State: ME
 </description>
         <visibility>1</visibility>
@@ -5533,8 +5518,8 @@ State: ME
 Latitude: 42.225
 Longitude: -74.06555556
 Name: STOPPEL POINT
-Prominence: 
-Rank: 369
+Prominence: 920
+Rank: 368
 State: NY
 </description>
         <visibility>1</visibility>
@@ -5549,12 +5534,27 @@ Latitude: 45.37472222
 Longitude: -70.63027778
 Name: SISK MTN (N PK)
 Prominence: 440
-Rank: 370
+Rank: 369
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.630278,45.374722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SAINT ANNES PEAK">
+        <name>SAINT ANNES PEAK</name>
+        <description>Elevation: 3430
+Latitude: 42.17138889
+Longitude: -74.32083333
+Name: SAINT ANNES PEAK
+Prominence: 200
+Rank: 370
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.320833,42.171389</coordinates>
         </Point>
       </Placemark>
       <Placemark id="NORTH PERCY PEAK">
@@ -5578,7 +5578,7 @@ State: NH
 Latitude: 42.12861111
 Longitude: -74.51944444
 Name: BELLE AYR MTN
-Prominence: 
+Prominence: 580
 Rank: 372
 State: NY
 </description>
@@ -5623,7 +5623,7 @@ State: NY
 Latitude: 42.35555556
 Longitude: -74.34638889
 Name: HUNTERSFIELD MTN
-Prominence: 
+Prominence: 1493
 Rank: 375
 State: NY
 </description>
@@ -5707,12 +5707,12 @@ State: NY
           <coordinates>-74.155300,44.155900</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (NW PK)">
-        <name>SAWTOOTH MTNS (NW PK)</name>
+      <Placemark id="SAWTOOTH MTNS (NW PK) (SAWTOOTH 4)">
+        <name>SAWTOOTH MTNS (NW PK) (SAWTOOTH 4)</name>
         <description>Elevation: 3415
 Latitude: 44.2008
 Longitude: -74.1628
-Name: SAWTOOTH MTNS (NW PK)
+Name: SAWTOOTH MTNS (NW PK) (SAWTOOTH 4)
 Prominence: 446
 Rank: 381
 State: NY
@@ -5773,7 +5773,7 @@ State: VT
 Latitude: 42.24638889
 Longitude: -74.49277778
 Name: BEARPEN MTN (S PK)
-Prominence: 
+Prominence: 300
 Rank: 385
 State: NY
 </description>
@@ -5803,7 +5803,7 @@ State: NY
 Latitude: 42.1975
 Longitude: -74.4175
 Name: HALCOTT MTN (N PK)
-Prominence: 
+Prominence: 418
 Rank: 387
 State: NY
 </description>
@@ -5902,12 +5902,12 @@ State: NY
           <coordinates>-74.369600,43.933600</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (SE PK)">
-        <name>SAWTOOTH MTNS (SE PK)</name>
+      <Placemark id="SAWTOOTH MTNS (SE PK) (SAWTOOTH 9)">
+        <name>SAWTOOTH MTNS (SE PK) (SAWTOOTH 9)</name>
         <description>Elevation: 3396
 Latitude: 44.1795
 Longitude: -74.1109
-Name: SAWTOOTH MTNS (SE PK)
+Name: SAWTOOTH MTNS (SE PK) (SAWTOOTH 9)
 Prominence: 220
 Rank: 394
 State: NY
@@ -5998,7 +5998,7 @@ State: NH
 Latitude: 42.0175
 Longitude: -74.45055556
 Name: SPRUCE MTN
-Prominence: 
+Prominence: 280
 Rank: 400
 State: NY
 </description>
@@ -6112,12 +6112,12 @@ State: NY
           <coordinates>-74.467778,43.634722</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (NE PK) (#8)">
-        <name>SAWTOOTH MTNS (NE PK) (#8)</name>
+      <Placemark id="SAWTOOTH MTNS (NE PK) (SAWTOOTH 8)">
+        <name>SAWTOOTH MTNS (NE PK) (SAWTOOTH 8)</name>
         <description>Elevation: 3386
 Latitude: 44.20333333
 Longitude: -74.09388889
-Name: SAWTOOTH MTNS (NE PK) (#8)
+Name: SAWTOOTH MTNS (NE PK) (SAWTOOTH 8)
 Prominence: 280
 Rank: 408
 State: NY
@@ -6148,7 +6148,7 @@ State: NH
 Latitude: 41.99361111
 Longitude: -74.59166667
 Name: BEAVER KILL RANGE (SW PK)
-Prominence: 
+Prominence: 687
 Rank: 410
 State: NY
 </description>
@@ -6208,7 +6208,7 @@ State: NH
 Latitude: 42.22916667
 Longitude: -74.43861111
 Name: VLY MTN (S PK)
-Prominence: 
+Prominence: 260
 Rank: 414
 State: NY
 </description>
@@ -6463,7 +6463,7 @@ State: NY
 Latitude: 41.98777778
 Longitude: -74.44083333
 Name: WILDCAT MTN (E PK)
-Prominence: 
+Prominence: 280
 Rank: 431
 State: NY
 </description>
@@ -6508,7 +6508,7 @@ State: NH
 Latitude: 42.22083333
 Longitude: -74.73638889
 Name: MT PISGAH
-Prominence: 
+Prominence: 895
 Rank: 434
 State: NY
 </description>
@@ -7138,7 +7138,7 @@ State: NY
 Latitude: 42.31861111
 Longitude: -74.51611111
 Name: SHULTICE MTN
-Prominence: 
+Prominence: 660
 Rank: 476
 State: NY
 </description>
@@ -7207,12 +7207,12 @@ State: ME
           <coordinates>-70.576944,45.352222</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (NNW PK) (#10)">
-        <name>SAWTOOTH MTNS (NNW PK) (#10)</name>
+      <Placemark id="SAWTOOTH MTNS (NNW PK) (SAWTOOTH 10)">
+        <name>SAWTOOTH MTNS (NNW PK) (SAWTOOTH 10)</name>
         <description>Elevation: 3284
 Latitude: 44.20555556
 Longitude: -74.13555556
-Name: SAWTOOTH MTNS (NNW PK) (#10)
+Name: SAWTOOTH MTNS (NNW PK) (SAWTOOTH 10)
 Prominence: 200
 Rank: 481
 State: NY
@@ -7297,13 +7297,13 @@ State: NH
           <coordinates>-71.116667,45.270556</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="UNNAMED PK WINNISOOK LAKE">
-        <name>UNNAMED PK WINNISOOK LAKE</name>
+      <Placemark id="UNNAMED (WINNISOOK LAKE PK)">
+        <name>UNNAMED (WINNISOOK LAKE PK)</name>
         <description>Elevation: 3270
 Latitude: 42.01777778
 Longitude: -74.42
-Name: UNNAMED PK WINNISOOK LAKE
-Prominence: 
+Name: UNNAMED (WINNISOOK LAKE PK)
+Prominence: 220
 Rank: 487
 State: NY
 </description>
@@ -7348,7 +7348,7 @@ State: ME
 Latitude: 42.26638889
 Longitude: -74.64861111
 Name: PLATTEKILL MTN
-Prominence: 
+Prominence: 380
 Rank: 490
 State: NY
 </description>
@@ -7558,7 +7558,7 @@ State: ME
 Latitude: 42.37444444
 Longitude: -74.565
 Name: MORESVILLE RANGE (N PK)
-Prominence: 
+Prominence: 700
 Rank: 504
 State: NY
 </description>
@@ -7747,13 +7747,13 @@ State: NY
           <coordinates>-73.967222,44.371667</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="UNNAMED PK NARROW NOTCH">
-        <name>UNNAMED PK NARROW NOTCH</name>
+      <Placemark id="UNNAMED (NARROW NOTCH PK)">
+        <name>UNNAMED (NARROW NOTCH PK)</name>
         <description>Elevation: 3230
 Latitude: 42.33416667
 Longitude: -74.61666667
-Name: UNNAMED PK NARROW NOTCH
-Prominence: 
+Name: UNNAMED (NARROW NOTCH PK)
+Prominence: 740
 Rank: 517
 State: NY
 </description>
@@ -7783,7 +7783,7 @@ State: VT
 Latitude: 42.36722222
 Longitude: -74.27944444
 Name: RICHMOND MTN
-Prominence: 
+Prominence: 580
 Rank: 519
 State: NY
 </description>
@@ -7798,7 +7798,7 @@ State: NY
 Latitude: 42.22222222
 Longitude: -74.16833333
 Name: ONTEORA MTN
-Prominence: 
+Prominence: 840
 Rank: 520
 State: NY
 </description>
@@ -7888,7 +7888,7 @@ State: NY
 Latitude: 41.99
 Longitude: -74.62888889
 Name: MONGAUP MTN (NE PK)
-Prominence: 
+Prominence: 394
 Rank: 526
 State: NY
 </description>
@@ -7978,7 +7978,7 @@ State: NY
 Latitude: 42.39888889
 Longitude: -74.59
 Name: UTSAYANTHA MTN
-Prominence: 
+Prominence: 544
 Rank: 532
 State: NY
 </description>
@@ -8017,21 +8017,6 @@ State: PA
           <coordinates>79.176944,39.785833</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="UNNAMED PK HIGH FALLS">
-        <name>UNNAMED PK HIGH FALLS</name>
-        <description>Elevation: 3211
-Latitude: 41.99194444
-Longitude: -74.54555556
-Name: UNNAMED PK HIGH FALLS
-Prominence: 
-Rank: 535
-State: NY
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-74.545556,41.991944</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="UNNAMED (SENTINEL BM)">
         <name>UNNAMED (SENTINEL BM)</name>
         <description>Elevation: 3211
@@ -8039,12 +8024,27 @@ Latitude: 44.26333333
 Longitude: -73.89
 Name: UNNAMED (SENTINEL BM)
 Prominence: 374
-Rank: 536
+Rank: 535
 State: NY
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.890000,44.263333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED (HIGH FALLS PK)">
+        <name>UNNAMED (HIGH FALLS PK)</name>
+        <description>Elevation: 3211
+Latitude: 41.99194444
+Longitude: -74.54555556
+Name: UNNAMED (HIGH FALLS PK)
+Prominence: 281
+Rank: 536
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.545556,41.991944</coordinates>
         </Point>
       </Placemark>
       <Placemark id="WEST ROYCE MTN">
@@ -8098,7 +8098,7 @@ State: ME
 Latitude: 42.04027778
 Longitude: -74.39583333
 Name: GIANT LEDGE
-Prominence: 
+Prominence: 200
 Rank: 540
 State: NY
 </description>
@@ -8143,7 +8143,7 @@ State: ME
 Latitude: 41.95222222
 Longitude: -74.43583333
 Name: VAN WYCK MTN
-Prominence: 
+Prominence: 356
 Rank: 543
 State: NY
 </description>
@@ -8473,7 +8473,7 @@ State: NH
 Latitude: 42.30194444
 Longitude: -74.11972222
 Name: BURNT KNOB
-Prominence: 
+Prominence: 300
 Rank: 565
 State: NY
 </description>
@@ -8683,7 +8683,7 @@ State: ME
 Latitude: 41.99333333
 Longitude: -74.7
 Name: MONGAUP MTN
-Prominence: 
+Prominence: 627
 Rank: 579
 State: NY
 </description>
@@ -8773,7 +8773,7 @@ State: VT
 Latitude: 41.9775
 Longitude: -74.47611111
 Name: WILDCAT MTN (W PK)
-Prominence: 
+Prominence: 260
 Rank: 585
 State: NY
 </description>
@@ -8848,7 +8848,7 @@ State: VT
 Latitude: 42.03444444
 Longitude: -74.66194444
 Name: CRADLE ROCK RIDGE
-Prominence: 
+Prominence: 380
 Rank: 590
 State: NY
 </description>
@@ -9103,7 +9103,7 @@ State: NH
 Latitude: 42.28416667
 Longitude: -74.53416667
 Name: WHITE MAN MTN
-Prominence: 
+Prominence: 340
 Rank: 607
 State: NY
 </description>
@@ -9133,7 +9133,7 @@ State: ME
 Latitude: 42.22
 Longitude: -74.33305556
 Name: PINE ISLAND MTN
-Prominence: 
+Prominence: 580
 Rank: 609
 State: NY
 </description>
@@ -9148,7 +9148,7 @@ State: NY
 Latitude: 42.085
 Longitude: -74.09333333
 Name: OVERLOOK MTN
-Prominence: 
+Prominence: 640
 Rank: 610
 State: NY
 </description>
@@ -9178,7 +9178,7 @@ State: VT
 Latitude: 42.23277778
 Longitude: -74.19861111
 Name: EAST JEWETT RANGE
-Prominence: 
+Prominence: 860
 Rank: 612
 State: NY
 </description>
@@ -9637,29 +9637,14 @@ State: VT
           <coordinates>-73.098333,43.337500</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="UNNAMED PK RED KILL">
-        <name>UNNAMED PK RED KILL</name>
-        <description>Elevation: 3110
-Latitude: 42.22888889
-Longitude: -74.53833333
-Name: UNNAMED PK RED KILL
-Prominence: 
-Rank: 643
-State: NY
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-74.538333,42.228889</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="STOPPEL POINT (W PK)">
         <name>STOPPEL POINT (W PK)</name>
         <description>Elevation: 3110
 Latitude: 42.22416667
 Longitude: -74.10111111
 Name: STOPPEL POINT (W PK)
-Prominence: 
-Rank: 644
+Prominence: 300
+Rank: 643
 State: NY
 </description>
         <visibility>1</visibility>
@@ -9674,7 +9659,7 @@ Latitude: 45.94111111
 Longitude: -68.85111111
 Name: SOUTH TURNER MTN
 Prominence: 560
-Rank: 645
+Rank: 644
 State: ME
 </description>
         <visibility>1</visibility>
@@ -9689,12 +9674,27 @@ Latitude: 45.75416667
 Longitude: -70.39416667
 Name: SANDY BAY MTN
 Prominence: 1160
-Rank: 646
+Rank: 645
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-70.394167,45.754167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="RED KILL RIDGE">
+        <name>RED KILL RIDGE</name>
+        <description>Elevation: 3110
+Latitude: 42.22888889
+Longitude: -74.53833333
+Name: RED KILL RIDGE
+Prominence: 580
+Rank: 646
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.538333,42.228889</coordinates>
         </Point>
       </Placemark>
       <Placemark id="PLATTEKILL MTN">
@@ -9703,7 +9703,7 @@ State: ME
 Latitude: 42.10722222
 Longitude: -74.08638889
 Name: PLATTEKILL MTN
-Prominence: 
+Prominence: 520
 Rank: 647
 State: NY
 </description>
@@ -9718,7 +9718,7 @@ State: NY
 Latitude: 42.2175
 Longitude: -74.35916667
 Name: PACKSADDLE MTN
-Prominence: 
+Prominence: 500
 Rank: 648
 State: NY
 </description>
@@ -9748,7 +9748,7 @@ State: ME
 Latitude: 42.34
 Longitude: -74.65583333
 Name: COWAN MTN (SW PK)
-Prominence: 
+Prominence: 620
 Rank: 650
 State: NY
 </description>
@@ -9763,7 +9763,7 @@ State: NY
 Latitude: 42.28583333
 Longitude: -74.24694444
 Name: CAVE MTN (E PK)
-Prominence: 
+Prominence: 1160
 Rank: 651
 State: NY
 </description>
@@ -9778,7 +9778,7 @@ State: NY
 Latitude: 42.06194444
 Longitude: -74.70277778
 Name: BARKABOOM MTN (E PK)
-Prominence: 
+Prominence: 480
 Rank: 652
 State: NY
 </description>
@@ -9793,7 +9793,7 @@ State: NY
 Latitude: 42.29638889
 Longitude: -74.10055556
 Name: ACRA POINT
-Prominence: 
+Prominence: 240
 Rank: 653
 State: NY
 </description>
@@ -10033,7 +10033,7 @@ State: ME
 Latitude: 42.15055556
 Longitude: -74.43833333
 Name: ROSE MTN
-Prominence: 
+Prominence: 780
 Rank: 669
 State: NY
 </description>
@@ -10048,7 +10048,7 @@ State: NY
 Latitude: 41.92472222
 Longitude: -74.28805556
 Name: HIGH POINT
-Prominence: 
+Prominence: 1420
 Rank: 670
 State: NY
 </description>
@@ -10153,7 +10153,7 @@ State: ME
 Latitude: 42.27138889
 Longitude: -74.68361111
 Name: ROUND TOP
-Prominence: 
+Prominence: 300
 Rank: 677
 State: NY
 </description>
@@ -10198,7 +10198,7 @@ State: ME
 Latitude: 42.33555556
 Longitude: -74.52638889
 Name: IRISH MTN
-Prominence: 
+Prominence: 240
 Rank: 680
 State: NY
 </description>
@@ -10243,7 +10243,7 @@ State: ME
 Latitude: 42.38861111
 Longitude: -74.61055556
 Name: CHURCHILL MTN
-Prominence: 
+Prominence: 540
 Rank: 683
 State: NY
 </description>
@@ -10363,7 +10363,7 @@ State: VT
 Latitude: 41.985
 Longitude: -74.64888889
 Name: MONGAUP MTN (E PK)
-Prominence: 
+Prominence: 292
 Rank: 691
 State: NY
 </description>
@@ -10513,7 +10513,7 @@ State: NH
 Latitude: 41.90277778
 Longitude: -74.53972222
 Name: DENMAN MTN
-Prominence: 
+Prominence: 763
 Rank: 701
 State: NY
 </description>
@@ -10573,28 +10573,13 @@ State: NY
 Latitude: 41.94555556
 Longitude: -74.46416667
 Name: WOODHULL MTN
-Prominence: 
+Prominence: 400
 Rank: 705
 State: NY
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-74.464167,41.945556</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="WHITE MAN MTN (NE PK)">
-        <name>WHITE MAN MTN (NE PK)</name>
-        <description>Elevation: 3050
-Latitude: 42.29277778
-Longitude: -74.52055556
-Name: WHITE MAN MTN (NE PK)
-Prominence: 
-Rank: 706
-State: NY
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-74.520556,42.292778</coordinates>
         </Point>
       </Placemark>
       <Placemark id="TWIN PKS">
@@ -10604,7 +10589,7 @@ Latitude: 45.31333333
 Longitude: -70.98972222
 Name: TWIN PKS
 Prominence: 784
-Rank: 707
+Rank: 706
 State: ME
 </description>
         <visibility>1</visibility>
@@ -10618,13 +10603,28 @@ State: ME
 Latitude: 42.35555556
 Longitude: -74.56611111
 Name: MORESVILLE RANGE (S PK)
-Prominence: 
-Rank: 708
+Prominence: 300
+Rank: 707
 State: NY
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-74.566111,42.355556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MONTGOMERY HOLLOW PK">
+        <name>MONTGOMERY HOLLOW PK</name>
+        <description>Elevation: 3050
+Latitude: 42.29277778
+Longitude: -74.52055556
+Name: MONTGOMERY HOLLOW PK
+Prominence: 200
+Rank: 708
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.520556,42.292778</coordinates>
         </Point>
       </Placemark>
       <Placemark id="CAVE MTN (W PK)">
@@ -10633,7 +10633,7 @@ State: NY
 Latitude: 42.28444444
 Longitude: -74.26472222
 Name: CAVE MTN (W PK)
-Prominence: 
+Prominence: 240
 Rank: 709
 State: NY
 </description>
@@ -10933,7 +10933,7 @@ State: ME
 Latitude: 42.30583333
 Longitude: -74.69166667
 Name: MT WARREN (SE PK)
-Prominence: 
+Prominence: 440
 Rank: 729
 State: NY
 </description>
@@ -10948,7 +10948,7 @@ State: NY
 Latitude: 42.19888889
 Longitude: -74.72361111
 Name: MT PISGAH (S PK)
-Prominence: 
+Prominence: 240
 Rank: 730
 State: NY
 </description>
@@ -11158,7 +11158,7 @@ State: VT
 Latitude: 41.91833333
 Longitude: -74.33277778
 Name: LITTLE ROCKY MTN
-Prominence: 
+Prominence: 945
 Rank: 744
 State: NY
 </description>
@@ -11212,13 +11212,13 @@ State: ME
           <coordinates>-70.422778,45.479444</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="UNNAMED PK SILVER HOLLOW">
-        <name>UNNAMED PK SILVER HOLLOW</name>
+      <Placemark id="UNNAMED (SILVER HOLLOW PK)">
+        <name>UNNAMED (SILVER HOLLOW PK)</name>
         <description>Elevation: 3010
 Latitude: 42.1225
 Longitude: -74.2275
-Name: UNNAMED PK SILVER HOLLOW
-Prominence: 
+Name: UNNAMED (SILVER HOLLOW PK)
+Prominence: 660
 Rank: 748
 State: NY
 </description>
@@ -11278,7 +11278,7 @@ State: ME
 Latitude: 42.30583333
 Longitude: -74.59194444
 Name: OLD CLUMP
-Prominence: 
+Prominence: 300
 Rank: 752
 State: NY
 </description>
@@ -11338,7 +11338,7 @@ State: NY
 Latitude: 42.21583333
 Longitude: -74.64916667
 Name: HUBBELL HILL
-Prominence: 
+Prominence: 640
 Rank: 756
 State: NY
 </description>
@@ -11467,12 +11467,12 @@ State: NY
           <coordinates>-74.072222,44.167778</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="SAWTOOTH MTNS (S PK) (11)">
-        <name>SAWTOOTH MTNS (S PK) (11)</name>
+      <Placemark id="SAWTOOTH MTNS (S PK) (SAWTOOTH 11)">
+        <name>SAWTOOTH MTNS (S PK) (SAWTOOTH 11)</name>
         <description>Elevation: 3002
 Latitude: 44.17055556
 Longitude: -74.12527778
-Name: SAWTOOTH MTNS (S PK) (11)
+Name: SAWTOOTH MTNS (S PK) (SAWTOOTH 11)
 Prominence: 184
 Rank: 765
 State: NY
