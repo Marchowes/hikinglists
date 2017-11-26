@@ -324,7 +324,7 @@ State: VT
       </Placemark>
       <Placemark id="TRAVELER MTN (THE TRAVELER)">
         <name>TRAVELER MTN (THE TRAVELER)</name>
-        <description>Elevation: 3551
+        <description>Elevation: 3541
 Latitude: 46.07277778
 Longitude: -68.845
 Name: TRAVELER MTN (THE TRAVELER)
@@ -1402,109 +1402,109 @@ State: NH
           <coordinates>-71.657800,43.566900</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT TRIPYRAMID (N PK)">
-        <name>MT TRIPYRAMID (N PK)</name>
-        <description>Elevation: 4180
-Latitude: 43.97305556
-Longitude: -71.44333333
-Name: MT TRIPYRAMID (N PK)
-Prominence: 1360
+      <Placemark id="BREAD LOAF MTN">
+        <name>BREAD LOAF MTN</name>
+        <description>Elevation: 3835
+Latitude: 44.00194444
+Longitude: -72.94166667
+Name: BREAD LOAF MTN
+Prominence: 1405
 Rank: 94
-State: NH
+State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.443333,43.973056</coordinates>
+          <coordinates>-72.941667,44.001944</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="MT WAUMBEK">
-        <name>MT WAUMBEK</name>
-        <description>Elevation: 4005
-Latitude: 44.4325
-Longitude: -71.41777778
-Name: MT WAUMBEK
-Prominence: 1299
+      <Placemark id="NUMBER SIX MTN">
+        <name>NUMBER SIX MTN</name>
+        <description>Elevation: 3315
+Latitude: 45.49416667
+Longitude: -70.40861111
+Name: NUMBER SIX MTN
+Prominence: 1385
 Rank: 95
-State: NH
+State: ME
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.417778,44.432500</coordinates>
+          <coordinates>-70.408611,45.494167</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="NORTH POGY MTN">
-        <name>NORTH POGY MTN</name>
-        <description>Elevation: 2850
-Latitude: 46.0411
-Longitude: -68.9433
-Name: NORTH POGY MTN
-Prominence: 1280
+      <Placemark id="WOODLAWN MTN">
+        <name>WOODLAWN MTN</name>
+        <description>Elevation: 3110
+Latitude: 43.3375
+Longitude: -73.09833333
+Name: WOODLAWN MTN
+Prominence: 1380
 Rank: 96
-State: ME
+State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-68.943300,46.041100</coordinates>
+          <coordinates>-73.098333,43.337500</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="NORTH BROTHER">
-        <name>NORTH BROTHER</name>
-        <description>Elevation: 4151
-Latitude: 45.95694444
-Longitude: -68.98583333
-Name: NORTH BROTHER
-Prominence: 1256
+      <Placemark id="RICE MTN">
+        <name>RICE MTN</name>
+        <description>Elevation: 3390
+Latitude: 44.85277778
+Longitude: -71.24083333
+Name: RICE MTN
+Prominence: 1380
 Rank: 97
-State: ME
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-68.985833,45.956944</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="MT HANCOCK">
-        <name>MT HANCOCK</name>
-        <description>Elevation: 4420
-Latitude: 44.08333333
-Longitude: -71.49388889
-Name: MT HANCOCK
-Prominence: 1240
-Rank: 98
 State: NH
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.493889,44.083333</coordinates>
+          <coordinates>-71.240833,44.852778</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="CENTER MTN">
-        <name>CENTER MTN</name>
-        <description>Elevation: 2910
-Latitude: 46.0135
-Longitude: -69.0293
-Name: CENTER MTN
-Prominence: 1220
-Rank: 99
+      <Placemark id="GOOSE EYE MTN">
+        <name>GOOSE EYE MTN</name>
+        <description>Elevation: 3870
+Latitude: 44.50277778
+Longitude: -71
+Name: GOOSE EYE MTN
+Prominence: 1380
+Rank: 98
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-69.029300,46.013500</coordinates>
+          <coordinates>-71.000000,44.502778</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="CROCKER MTN">
-        <name>CROCKER MTN</name>
-        <description>Elevation: 4228
-Latitude: 45.04694444
-Longitude: -70.38333333
-Name: CROCKER MTN
-Prominence: 1218
+      <Placemark id="FARR PK">
+        <name>FARR PK</name>
+        <description>Elevation: 3522
+Latitude: 43.80916667
+Longitude: -72.94444444
+Name: FARR PK
+Prominence: 1378
+Rank: 99
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.944444,43.809167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PUZZLE MTN">
+        <name>PUZZLE MTN</name>
+        <description>Elevation: 3142
+Latitude: 44.54666667
+Longitude: -70.78888889
+Name: PUZZLE MTN
+Prominence: 1372
 Rank: 100
 State: ME
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-70.383333,45.046944</coordinates>
+          <coordinates>-70.788889,44.546667</coordinates>
         </Point>
       </Placemark>
     </Folder>

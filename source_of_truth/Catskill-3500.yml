@@ -5,10 +5,7 @@
 # See http://www.catskill-3500-club.org
 #
 # TODO:
-# - Standardize Names
-# - Ensure coordinates to 3 sig figures
 # - Validate coordinates
-# - Add Prominence
 
 ---
 location: NY
@@ -39,36 +36,42 @@ peaks:
     Latitude: 42.26777778
     Longitude: -74.10527778
     State: NY
+    Prominence: 520
 -
     Name: THOMAS COLE MTN
     Elevation: 3950
     Latitude: 42.27083333
     Longitude: -74.13666667
     State: NY
+    Prominence: 220
 -
     Name: WEST KILL MTN
     Elevation: 3890
     Latitude: 42.16777778
     Longitude: -74.29027778
     State: NY
+    Prominence: 1240
 -
     Name: CORNELL MTN
     Elevation: 3870
     Latitude: 42.00138889
     Longitude: -74.35722222
     State: NY
+    Prominence: 620
 -
     Name: DOUBLETOP MTN
     Elevation: 3870
     Latitude: 42.0275
     Longitude: -74.52861111
     State: NY
+    Prominence: 1200
 -
     Name: GRAHAM MTN
     Elevation: 3868
     Latitude: 42.03944444
     Longitude: -74.54972222
     State: NY
+    Prominence: 898
 -
     Name: PLATEAU MTN
     Elevation: 3850
@@ -82,66 +85,77 @@ peaks:
     Latitude: 41.95833333
     Longitude: -74.40527778
     State: NY
+    Prominence: 657
 -
     Name: PEEKAMOOSE MTN
     Elevation: 3843
     Latitude: 41.95305556
     Longitude: -74.39861111
     State: NY
+    Prominence: 193
 -
     Name: SUGARLOAF MTN
     Elevation: 3810
     Latitude: 42.13111111
     Longitude: -74.15083333
     State: NY
+    Prominence: 1200
 -
     Name: WITTENBERG MTN
     Elevation: 3790
     Latitude: 42.00805556
     Longitude: -74.3475
     State: NY
+    Prominence: 240
 -
     Name: HUNTER MTN (SW PK)
     Elevation: 3750
     Latitude: 42.1625
     Longitude: -74.24416667
     State: NY
+    Prominence: 200
 -
     Name: BALSAM LAKE MTN
     Elevation: 3730
     Latitude: 42.04555556
     Longitude: -74.595
     State: NY
+    Prominence: 480
 -
     Name: PANTHER MTN
     Elevation: 3730
     Latitude: 42.05833333
     Longitude: -74.39666667
     State: NY
+    Prominence: 980
 -
     Name: LONE MTN
     Elevation: 3721
     Latitude: 41.96916667
     Longitude: -74.38972222
     State: NY
+    Prominence: 291
 -
     Name: BIG INDIAN MTN
     Elevation: 3710
     Latitude: 42.035
     Longitude: -74.49722222
     State: NY
+    Prominence: 520
 -
     Name: FRIDAY MTN
     Elevation: 3694
     Latitude: 41.98777778
     Longitude: -74.3625
     State: NY
+    Prominence: 204
 -
     Name: RUSK MTN
     Elevation: 3690
     Latitude: 42.20055556
     Longitude: -74.27777778
     State: NY
+    Prominence: 760
 -
     Name: KAATERSKILL HIGH PK
     Elevation: 3655
@@ -155,18 +169,21 @@ peaks:
     Latitude: 42.12555556
     Longitude: -74.12972222
     State: NY
+    Prominence: 840
 -
     Name: FIR MTN
     Elevation: 3630
     Latitude: 42.0275
     Longitude: -74.46944444
     State: NY
+    Prominence: 440
 -
     Name: BALSAM CAP
     Elevation: 3623
     Latitude: 41.97694444
     Longitude: -74.35777778
     State: NY
+    Prominence: 253
 -
     Name: NORTH DOME
     Elevation: 3610
@@ -180,51 +197,60 @@ peaks:
     Latitude: 42.09055556
     Longitude: -74.48833333
     State: NY
+    Prominence: 253
 -
     Name: BEARPEN MTN
     Elevation: 3610
     Latitude: 42.265
     Longitude: -74.47416667
     State: NY
+    Prominence: 1700
 -
     Name: EAGLE MTN
     Elevation: 3610
     Latitude: 42.06166667
     Longitude: -74.51
     State: NY
+    Prominence: 500
 -
     Name: INDIAN HEAD MTN
     Elevation: 3573
     Latitude: 42.11638889
     Longitude: -74.115
     State: NY
+    Prominence: 463
 -
     Name: MT SHERRILL
     Elevation: 3550
     Latitude: 42.17555556
     Longitude: -74.37333333
     State: NY
+    Prominence: 540
 -
     Name: HALCOTT MTN
     Elevation: 3530
     Latitude: 42.18027778
     Longitude: -74.43833333
     State: NY
+    Prominence: 720
 -
     Name: VLY MTN
     Elevation: 3529
     Latitude: 42.24583333
     Longitude: -74.44861111
     State: NY
+    Prominence: 659
 -
     Name: WINDHAM HIGH PK
     Elevation: 3524
     Latitude: 42.31472222
     Longitude: -74.14361111
     State: NY
+    Prominence: 754
 -
     Name: ROCKY MTN
     Elevation: 3508
     Latitude: 41.97277778
     Longitude: -74.37333333
     State: NY
+    Prominence: 218

@@ -7,6 +7,21 @@
       <name>VT-200-highest</name>
       <description>kml map of list points for VT-200-highest</description>
       <visibility>1</visibility>
+      <Placemark id="TILLOTSON PK">
+        <name>TILLOTSON PK</name>
+        <description>Elevation: 2998
+Latitude: 44.8058
+Longitude: -72.5509
+Name: TILLOTSON PK
+Prominence: 390
+Rank: 111
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.550900,44.805800</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="BEAR">
         <name>BEAR</name>
         <description>Elevation: 2996

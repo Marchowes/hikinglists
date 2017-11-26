@@ -32,36 +32,42 @@ peaks:
     Latitude: 44.08111111
     Longitude: -73.845
     State: NY
+    Prominence: 591
 -
     Name: MACNAUGHTON MTN
-    Elevation: 3983
+    Elevation: 3982
     Latitude: 44.13972222
     Longitude: -74.06472222
     State: NY
+    Prominence: 849
 -
     Name: GREEN MTN
-    Elevation: 3960
+    Elevation: 3959
     Latitude: 44.18194444
     Longitude: -73.715
     State: NY
+    Prominence: 859
 -
     Name: BLAKE PK (S PK)
-    Elevation: 3953
+    Elevation: 3953 # Needs Validation
     Latitude: 44.07666667
     Longitude: -73.84694444
     State: NY
+    Prominence: 200 # Estiamted
 -
     Name: CLIFF MTN
-    Elevation: 3944
+    Elevation: 3943
     Latitude: 44.10333333
     Longitude: -73.97555556
     State: NY
+    Prominence: 482
 -
     Name: MCDONNEL MTN
     Elevation: 3940
     Latitude: 44.08055556
     Longitude: -73.93472222
     State: NY
+    Prominence: 250
 -
     Name: SNOWY MTN
     Elevation: 3901
@@ -71,28 +77,32 @@ peaks:
     Prominence: 2243
 -
     Name: MOOSE MTN
-    Elevation: 3898
+    Elevation: 3897
     Latitude: 44.35083333
     Longitude: -74.00361111
     State: NY
+    Prominence: 1388
 -
-    Name: UNNAMED PK LOST POND
+    Name: UNNAMED (LOST POND PK)
     Elevation: 3891
     Latitude: 44.16416667
     Longitude: -74.03472222
     State: NY
--
-    Name: NYE MTN
-    Elevation: 3888
-    Latitude: 44.18722222
-    Longitude: -74.02444444
-    State: NY
+    Prominence: 463
+# - # DELISTED INSUFFICIENT COL: NYE MTN
+#     Name: NYE MTN
+#     Elevation: 3887
+#     Latitude: 44.18722222
+#     Longitude: -74.02444444
+#     State: NY
+#     Prominence: 131
 -
     Name: BLUE RIDGE
     Elevation: 3881
     Latitude: 43.62944444
     Longitude: -74.48222222
     State: NY
+    Prominence: 1096
 -
     Name: KILBURN MTN
     Elevation: 3881
@@ -102,46 +112,53 @@ peaks:
     Prominence: 1700
 -
     Name: NORTH RIVER MTNS (N PK)
-    Elevation: 3878
+    Elevation: 3877
     Latitude: 44.03527778
     Longitude: -73.9825
     State: NY
+    Prominence: 1433
 -
     Name: PANTHER MTN
-    Elevation: 3862
+    Elevation: 3861
     Latitude: 43.73666667
     Longitude: -74.39194444
     State: NY
+    Prominence: 1194
 -
-    Name: NORTH RIVER MTNS RIST MTN
-    Elevation: 3858
+    Name: RIST MTN
+    Elevation: 3854
     Latitude: 44.02777778
     Longitude: -73.98777778
     State: NY
+    Prominence: 262
 -
     Name: SENTINEL MTN
     Elevation: 3858
     Latitude: 44.30611111
     Longitude: -73.85277778
     State: NY
+    Prominence: 332
 -
-    Name: SAWTOOTH MTNS (M PK)
-    Elevation: 3855
+    Name: SAWTOOTH MTNS (M PK) (SAWTOOTH 1)
+    Elevation: 3854
     Latitude: 44.18861111
     Longitude: -74.12166667
     State: NY
+    Prominence: 1476
 -
     Name: HOWARD MTN
     Elevation: 3848
     Latitude: 44.15805556
     Longitude: -73.89138889
     State: NY
+    Prominence: 256
 -
     Name: MCKENZIE MTN
     Elevation: 3832
     Latitude: 44.33611111
     Longitude: -74.03277778
     State: NY
+    Prominence: 634
 -
     Name: LYON MTN (NE PK)
     Elevation: 3830
@@ -150,47 +167,54 @@ peaks:
     State: NY
     Prominence: 2247
 -
-    Name: UNNAMED PK INDIAN FALLS
+    Name: TR MTN
     Elevation: 3822
     Latitude: 44.14388889
     Longitude: -73.93583333
     State: NY
+    Prominence: 328
 -
     Name: AVALANCHE MTN
-    Elevation: 3816
+    Elevation: 3832
     Latitude: 44.13611111
     Longitude: -73.97
     State: NY
+    Prominence: 404
 -
     Name: LYON MTN AVERILL PK
     Elevation: 3803
     Latitude: 44.69277778
     Longitude: -73.88138889
     State: NY
+    Prominence: 353
 -
     Name: COUCHSACHRAGA PK
-    Elevation: 3793
+    Elevation: 3792
     Latitude: 44.09527778
     Longitude: -74.16055556
     State: NY
+    Prominence: 266
 -
     Name: BUELL MTN
     Elevation: 3789
     Latitude: 43.71638889
     Longitude: -74.4075
     State: NY
+    Prominence: 433
 -
-    Name: SAWTOOTH MTNS (W PK)
+    Name: SAWTOOTH MTNS (W PK) (SAWTOOTH 2)
     Elevation: 3789
-    Latitude: 44.19305556
-    Longitude: -74.14027778
+    Latitude: 44.1934
+    Longitude: -74.1399
     State: NY
+    Prominence: 492
 -
     Name: BOREAS MTN
     Elevation: 3776
     Latitude: 44.00305556
     Longitude: -73.88111111
     State: NY
+    Prominence: 1135
 -
     Name: WAKELY MTN
     Elevation: 3766
@@ -199,11 +223,12 @@ peaks:
     State: NY
     Prominence: 1631
 -
-    Name: SAWTOOTH MTNS (WSW PK)
-    Elevation: 3757
+    Name: SAWTOOTH MTNS (WSW PK) (SAWTOOTH 2s)
+    Elevation: 3757 # Needs Validation
     Latitude: 44.18444444
     Longitude: -74.14055556
     State: NY
+    Prominence: 190 # Estimated
 -
     Name: BLUE MTN
     Elevation: 3750
@@ -217,36 +242,35 @@ peaks:
     Latitude: 44.15611111
     Longitude: -74.22916667
     State: NY
--
-    Name: BALSAM LAKE MTN
-    Elevation: 3730
-    Latitude: 42.04555556
-    Longitude: -74.595
-    State: NY
+    Prominence: 210 # estimated
 -
     Name: LEWEY MTN
     Elevation: 3730
     Latitude: 43.66444444
     Longitude: -74.4425
     State: NY
+    Prominence: 827
 -
     Name: WALLFACE MTN
     Elevation: 3727
     Latitude: 44.13805556
     Longitude: -74.03722222
     State: NY
+    Prominence: 594
 -
     Name: HENDERSON MTN
-    Elevation: 3724
+    Elevation: 3723
     Latitude: 44.09777778
     Longitude: -74.09805556
     State: NY
+    Prominence: 820
 -
     Name: PANTHER MTN (S PK)
-    Elevation: 3714
+    Elevation: 3714 # Needs Validation
     Latitude: 43.72527778
     Longitude: -74.39333333
     State: NY
+    Prominence: 230 # Estimated
 -
     Name: HOFFMAN MTN
     Elevation: 3704
@@ -255,17 +279,19 @@ peaks:
     State: NY
     Prominence: 1962
 -
-    Name: SAWTOOTH MTNS (SSE PK)
+    Name: SAWTOOTH MTNS (SSE PK) (SAWTOOTH 3)
     Elevation: 3694
-    Latitude: 44.17166667
-    Longitude: -74.10833333
+    Latitude: 44.1717
+    Longitude: -74.1078
     State: NY
+    Prominence: 627
 -
     Name: CHENEY COBBLE
     Elevation: 3684
     Latitude: 44.04444444
     Longitude: -73.96527778
     State: NY
+    Prominence: 584
 -
     Name: HURRICANE MTN
     Elevation: 3678
@@ -279,60 +305,70 @@ peaks:
     Latitude: 43.69138889
     Longitude: -74.405
     State: NY
+    Prominence: 207 # estimated
 -
     Name: LITTLE MOOSE MTN
-    Elevation: 3632
+    Elevation: 3631
     Latitude: 43.67027778
     Longitude: -74.56972222
     State: NY
+    Prominence: 1220
 -
     Name: CALAMITY MTN
     Elevation: 3625
     Latitude: 44.10305556
     Longitude: -74.00305556
     State: NY
+    Prominence: 866
 -
     Name: SUNRISE MTN
-    Elevation: 3619
+    Elevation: 3618
     Latitude: 44.02472222
     Longitude: -73.79083333
     State: NY
+    Prominence: 354
 -
     Name: SADDLEBACK MTN
     Elevation: 3615
     Latitude: 44.295
     Longitude: -73.66833333
     State: NY
+    Prominence: 1270
 -
     Name: STEWART MTN
     Elevation: 3615
     Latitude: 44.32611111
     Longitude: -73.85666667
     State: NY
+    Prominence: 581
 -
     Name: PILLSBURY MTN
     Elevation: 3612
     Latitude: 43.58138889
     Longitude: -74.51166667
     State: NY
+    Prominence: 1083
 -
     Name: DUN BROOK MTN
-    Elevation: 3606
+    Elevation: 3605
     Latitude: 43.89777778
     Longitude: -74.32305556
     State: NY
+    Prominence: 1509
 -
     Name: JAY MTNS
     Elevation: 3592
     Latitude: 44.31083333
     Longitude: -73.66666667
     State: NY
+    Prominence: 426
 -
     Name: SLIDE MTN
     Elevation: 3592
     Latitude: 44.27638889
     Longitude: -73.88694444
     State: NY
+    Prominence: 558
 -
     Name: GORE MTN
     Elevation: 3573
@@ -340,120 +376,139 @@ peaks:
     Longitude: -74.04888889
     State: NY
     Prominence: 1870
--
-    Name: SAWTOOTH MTNS (E PK)
-    Elevation: 3560
-    Latitude: 44.19138889
-    Longitude: -74.10138889
+- # May need to be delisted.
+    Name: SAWTOOTH MTNS (E PK) (SAWTOOTH 1e)
+    Elevation: 3560 # Needs Validation
+    Latitude: 44.1915
+    Longitude: -74.1011
     State: NY
+    Prominence: 190 # Estimated
 -
     Name: NOONMARK MTN
     Elevation: 3556
     Latitude: 44.12861111
     Longitude: -73.77277778
     State: NY
+    Prominence: 784
 -
     Name: BOREAS MTN (N PK)
     Elevation: 3547
-    Latitude: 44.02083333
-    Longitude: -73.88083333
+    Latitude: 44.0210
+    Longitude: -73.8803
     State: NY
+    Prominence: 211 # estimated
 -
     Name: FISHING BROOK MTN
-    Elevation: 3547
+    Elevation: 3546
     Latitude: 43.93416667
     Longitude: -74.29527778
     State: NY
+    Prominence: 505
 -
     Name: MT ADAMS
     Elevation: 3520
     Latitude: 44.08694444
     Longitude: -74.02611111
     State: NY
+    Prominence: 1043
 -
     Name: LITTLE SANTANONI MTN
-    Elevation: 3504
+    Elevation: 3503
     Latitude: 44.07361111
     Longitude: -74.1675
     State: NY
+    Prominence: 469
 -
     Name: PITCHOFF MTN
     Elevation: 3497
     Latitude: 44.23722222
     Longitude: -73.87777778
     State: NY
+    Prominence: 1152
 -
     Name: FISHING BROOK RANGE
     Elevation: 3494
-    Latitude: 43.91833333
-    Longitude: -74.32055556
+    Latitude: 43.9183
+    Longitude: -74.3202
     State: NY
+    Prominence: 394
 -
     Name: BLUE RIDGE (S PK)
     Elevation: 3488
     Latitude: 43.61472222
     Longitude: -74.47805556
     State: NY
+    Prominence: 269 # Estimated
 -
     Name: SEWARD MTNS (NW PK)
     Elevation: 3481
     Latitude: 44.16944444
     Longitude: -74.21611111
     State: NY
+    Prominence: 210 # estimated
 -
     Name: BLUE RIDGE (E PK)
     Elevation: 3474
-    Latitude: 43.79472222
-    Longitude: -74.45555556
+    Latitude: 43.7948
+    Longitude: -74.4551
     State: NY
+    Prominence: 1083
 -
     Name: BLUE RIDGE MTN
-    Elevation: 3468
-    Latitude: 43.92527778
-    Longitude: -73.81416667
+    Elevation: 3494
+    Latitude: 43.9245
+    Longitude: -73.8153
     State: NY
+    Prominence: 378
 -
     Name: MANBURY MTN
-    Elevation: 3468
+    Elevation: 3467
     Latitude: 43.66555556
     Longitude: -74.55361111
     State: NY
+    Prominence: 210
 -
     Name: PINNACLE RIDGE (N PK)
-    Elevation: 3461
+    Elevation: 3461 # Needs Validation
     Latitude: 44.06027778
     Longitude: -73.86
     State: NY
+    Prominence: 220 # Estimated
 -
-    Name: SAWTOOTH MTNS (SW PK)
+    Name: SAWTOOTH MTNS (SW PK) (SAWTOOTH 5)
     Elevation: 3461
     Latitude: 44.17638889
     Longitude: -74.13388889
     State: NY
+    Prominence: 295
 -
     Name: MORGAN MTN
     Elevation: 3458
     Latitude: 44.41861111
     Longitude: -73.85944444
     State: NY
+    Prominence: 1113
 -
     Name: WILMINGTON RANGE
     Elevation: 3458
-    Latitude: 44.43222222
-    Longitude: -73.84388889
+    Latitude: 44.4323
+    Longitude: -73.8434
     State: NY
+    Prominence: 391
 -
     Name: CELLAR MTN
-    Elevation: 3455
+    Elevation: 3454
     Latitude: 43.71194444
     Longitude: -74.54277778
     State: NY
+    Prominence: 433
 -
     Name: BLUE RIDGE (W PK)
     Elevation: 3451
     Latitude: 43.92777778
     Longitude: -73.82972222
     State: NY
+    Prominence: 370 # Estimated, not on LOJ for some reason.
 -
     Name: PUFFER MTN
     Elevation: 3451
@@ -463,46 +518,53 @@ peaks:
     Prominence: 1670
 -
     Name: WOLF POND MTN
-    Elevation: 3442
+    Elevation: 3441
     Latitude: 43.98916667
     Longitude: -73.87777778
     State: NY
+    Prominence: 361
 -
     Name: BULLHEAD MTN
-    Elevation: 3432
+    Elevation: 3431
     Latitude: 43.68888889
     Longitude: -74.18638889
     State: NY
+    Prominence: 1158
 -
     Name: BLUE RIDGE (W PK)
     Elevation: 3428
     Latitude: 43.787509
     Longitude: -74.504224
     State: NY
+    Prominence: 446
 -
     Name: SLIDE MTN (N PK)
-    Elevation: 3428
+    Elevation: 3428 # Needs Validation
     Latitude: 44.28277778
     Longitude: -73.88
     State: NY
+    Prominence: 262 # estimated
 -
-    Name: UNNAMED PK BROWN POND
-    Elevation: 3419
+    Name: UNNAMED (BROWN POND PK)
+    Elevation: 3418
     Latitude: 43.74333333
     Longitude: -74.41444444
     State: NY
+    Prominence: 653
 -
-    Name: SAWTOOTH MTNS (NW PK)
+    Name: SAWTOOTH MTNS (NW PK) (SAWTOOTH 4)
     Elevation: 3415
-    Latitude: 44.20055556
-    Longitude: -74.16277778
+    Latitude: 44.2008
+    Longitude: -74.1628
     State: NY
+    Prominence: 446
 -
     Name: SEYMOUR MTN (E PK)
     Elevation: 3415
-    Latitude: 44.15583333
-    Longitude: -74.15555556
+    Latitude: 44.1559
+    Longitude: -74.1553
     State: NY
+    Prominence: 315
 -
     Name: VANDERWHACKER MTN
     Elevation: 3409
@@ -510,72 +572,83 @@ peaks:
     Longitude: -74.09638889
     State: NY
     Prominence: 1686
--
+- # may need to be delisted
     Name: BEAR DEN MTN
-    Elevation: 3399
-    Latitude: 44.11944444
-    Longitude: -73.79333333
+    Elevation: 3398
+    Latitude: 44.1196
+    Longitude: -73.7933
     State: NY
+    Prominence: 167
 -
-    Name: UNNAMED PK SALMON PD (E-M PK)
+    Name: UNNAMED (SALMON PD E-M PK)
     Elevation: 3396
-    Latitude: 43.93361111
-    Longitude: -74.37
+    Latitude: 43.9336
+    Longitude: -74.3696
     State: NY
+    Prominence: 689
 -
-    Name: SAWTOOTH MTNS (SE PK)
-    Elevation: 3396
-    Latitude: 44.17944444
-    Longitude: -74.11138889
+    Name: SAWTOOTH MTNS (SE PK) (SAWTOOTH 9)
+    Elevation: 3396 # Needs Validation
+    Latitude: 44.1795
+    Longitude: -74.1109
     State: NY
+    Prominence: 220 # estimated
 -
-    Name: UNNAMED PK WALLFACE PONDS
-    Elevation: 3396
+    Name: UNNAMED (WALLFACE PONDS PK)
+    Elevation: 3396 # Needs Validation
     Latitude: 44.15305556
     Longitude: -74.05833333
     State: NY
+    Prominence: 200 # Estimated
 -
     Name: SEWARD MTNS (WNW PK)
     Elevation: 3392
     Latitude: 44.17361111
     Longitude: -74.22277778
     State: NY
+    Prominence: 250 # Estimated
 -
     Name: BLUE RIDGE (E PK)
     Elevation: 3389
     Latitude: 43.63472222
     Longitude: -74.46777778
     State: NY
+    Prominence: 230 # Estimated
 -
-    Name: UNNAMED PK SALMON PD (E PK)
+    Name: UNNAMED (SALMON PD E PK)
     Elevation: 3389
     Latitude: 43.93277778
     Longitude: -74.33472222
     State: NY
+    Prominence: 368
 -
-    Name: SAWTOOTH MTNS (NE PK)
+    Name: SAWTOOTH MTNS (NE PK) (SAWTOOTH 8)
     Elevation: 3386
     Latitude: 44.20333333
     Longitude: -74.09388889
     State: NY
+    Prominence: 280
 -
     Name: BIG RANGE
-    Elevation: 3376
+    Elevation: 3375
     Latitude: 43.58305556
     Longitude: -74.25444444
     State: NY
+    Prominence: 1220
 -
     Name: CELLAR MTN
     Elevation: 3369
     Latitude: 43.64111111
     Longitude: -74.44583333
     State: NY
+    Prominence: 348
 -
     Name: LYON MTN (S PK)
     Elevation: 3365
     Latitude: 44.675
     Longitude: -73.895
     State: NY
+    Prominence: 375
 -
     Name: KEMPSHALL MTN
     Elevation: 3363
@@ -585,28 +658,32 @@ peaks:
     Prominence: 1640
 -
     Name: MOOSE MTN (SE PK)
-    Elevation: 3363
+    Elevation: 3363 # Needs Validation
     Latitude: 44.34777778
     Longitude: -73.98694444
     State: NY
+    Prominence: 240 # Estimated
 -
     Name: PHELPS MTN (N PK)
     Elevation: 3360
     Latitude: 44.17861111
     Longitude: -73.92694444
     State: NY
+    Prominence: 220 # estimated
 -
     Name: BULLHEAD MTN (N PK)
     Elevation: 3353
     Latitude: 43.70166667
     Longitude: -74.18027778
     State: NY
+    Prominence: 292
 -
-    Name: UNNAMED PK AUSABLE NO. 4
+    Name: UNNAMED (AUSABLE NO. 4)
     Elevation: 3353
     Latitude: 44.25722222
     Longitude: -73.67861111
     State: NY
+    Prominence: 417
 -
     Name: LOON LAKE MTNS (M PK)
     Elevation: 3330
@@ -617,33 +694,38 @@ peaks:
 -
     Name: AMPERSAND MTN
     Elevation: 3330
-    Latitude: 44.23444444
-    Longitude: -74.20333333
+    Latitude: 44.2347
+    Longitude: -74.2027
     State: NY
+    Prominence: 1346
 -
     Name: COUCHSACHRAGA PK (W PK)
-    Elevation: 3330
+    Elevation: 3314 # Needs Validation
     Latitude: 44.09972222
     Longitude: -74.16972222
     State: NY
+    Prominence: 220 # estimated
 -
     Name: SLIP MTN
     Elevation: 3330
     Latitude: 44.305
     Longitude: -73.64472222
     State: NY
+    Prominence: 296
 -
     Name: MORGAN MTN (E PK)
     Elevation: 3327
     Latitude: 44.42
     Longitude: -73.84805556
     State: NY
+    Prominence: 197 # estimated
 -
-    Name: UNNAMED PK AUSABLE NO. 4 (W PK)
+    Name: UNNAMED (AUSABLE NO. 4 W PK)
     Elevation: 3327
     Latitude: 44.25305556
     Longitude: -73.69277778
     State: NY
+    Prominence: 190 # estimated
 -
     Name: DEBAR MTN
     Elevation: 3310
@@ -653,52 +735,60 @@ peaks:
     Prominence: 1660
 -
     Name: TRIPOD MTN
-    Elevation: 3297
+    Elevation: 3300
     Latitude: 44.19861111
     Longitude: -73.73638889
     State: NY
+    Prominence: 430
 -
     Name: PINNACLE RIDGE (S PK)
-    Elevation: 3297
+    Elevation: 3297 # Needs Validation
     Latitude: 44.05138889
     Longitude: -73.87027778
     State: NY
+    Prominence: 220 # Estimated
 -
     Name: WYMAN MTN
     Elevation: 3297
     Latitude: 44.05805556
     Longitude: -73.74527778
     State: NY
+    Prominence: 263
 -
     Name: ELEVENTH MTN
-    Elevation: 3291
+    Elevation: 3290
     Latitude: 43.61444444
     Longitude: -74.0725
     State: NY
+    Prominence: 1076
 -
     Name: SOUTH POND MTN
-    Elevation: 3291
+    Elevation: 3290
     Latitude: 43.59055556
     Longitude: -74.22027778
     State: NY
+    Prominence: 859
 -
-    Name: SAWTOOTH MTNS (NNW PK)
+    Name: SAWTOOTH MTNS (NNW PK) (SAWTOOTH 10)
     Elevation: 3284
     Latitude: 44.20555556
     Longitude: -74.13555556
     State: NY
+    Prominence: 200 # Estimated
 -
     Name: SQUAW MTN
-    Elevation: 3255
+    Elevation: 3254
     Latitude: 43.72666667
     Longitude: -74.34333333
     State: NY
+    Prominence: 548
 -
     Name: KITTY COBBLE
     Elevation: 3251
     Latitude: 43.62916667
     Longitude: -74.62277778
     State: NY
+    Prominence: 801
 -
     Name: CRANE MTN
     Elevation: 3250
@@ -708,409 +798,477 @@ peaks:
     Prominence: 1745
 -
     Name: HAMILTON MTN
-    Elevation: 3238
+    Elevation: 3251
     Latitude: 43.41166667
     Longitude: -74.36694444
     State: NY
+    Prominence: 1509
 -
     Name: UNNAMED PK SALMON PD (W PK)
     Elevation: 3238
     Latitude: 43.93416667
     Longitude: -74.40194444
     State: NY
+    Prominence: 296
 -
     Name: DUG MTN
     Elevation: 3238
-    Latitude: 43.5825
-    Longitude: -74.34583333
+    Latitude: 43.5828
+    Longitude: -74.3460
     State: NY
+    Prominence: 1378
 -
     Name: PAYNE MTN
-    Elevation: 3232
+    Elevation: 3231
     Latitude: 43.7225
     Longitude: -74.49527778
     State: NY
+    Prominence: 426
 -
     Name: MT ALTON
-    Elevation: 3232
+    Elevation: 3231
     Latitude: 44.37166667
     Longitude: -73.96722222
     State: NY
+    Prominence: 623
 -
     Name: MCINTYRE MTNS (N PK)
     Elevation: 3225
     Latitude: 44.16583333
     Longitude: -73.97694444
     State: NY
+    Prominence: 217 # estimated
 -
     Name: PEAKED MTN
     Elevation: 3225
     Latitude: 44.26555556
     Longitude: -73.7
     State: NY
+    Prominence: 519
 -
-    Name: UNNAMED PK SALMON PD (W-M PK)
+    Name: UNNAMED (SALMON PD W-M PK)
     Elevation: 3215
     Latitude: 43.93416667
     Longitude: -74.38305556
     State: NY
+    Prominence: 203 # Estimated
 -
-    Name: UNNAMED PK SENTINEL
-    Elevation: 3212
+    Name: UNNAMED (SENTINEL BM)
+    Elevation: 3211
     Latitude: 44.26333333
     Longitude: -73.89
     State: NY
+    Prominence: 374
 -
     Name: MOOSE MTN (NE PK)
-    Elevation: 3199
-    Latitude: 44.31277778
-    Longitude: -73.89
+    Elevation: 3198
+    Latitude: 44.3596
+    Longitude: -73.9929
     State: NY
+    Prominence: 295
 -
-    Name: SENTINEL RANGE (NW PK)
-    Elevation: 3199
-    Latitude: 44.35916667
-    Longitude: -73.99333333
+    Name: KILBURN MTN (NW PK)
+    Elevation: 3198
+    Latitude: 44.3127
+    Longitude: -73.8895
     State: NY
+    Prominence: 250 # estimated
 -
     Name: BURGESS MTN
     Elevation: 3192
     Latitude: 43.75194444
     Longitude: -74.35694444
     State: NY
+    Prominence: 545
 -
     Name: KNOB LOCK MTN
     Elevation: 3192
     Latitude: 44.20027778
     Longitude: -73.7075
     State: NY
+    Prominence: 387
 -
     Name: CHASE MTN
     Elevation: 3186
     Latitude: 44.24138889
     Longitude: -73.72527778
     State: NY
+    Prominence: 315
 -
     Name: LOON LAKE MTNS (E PK)
     Elevation: 3183
-    Latitude: 44.56138889
-    Longitude: -74.135
+    Latitude: 44.5614
+    Longitude: -74.1346
     State: NY
+    Prominence: 453
 -
     Name: SNOWY MTN (E PK)
-    Elevation: 3179
+    Elevation: 3179 # Needs Validation
     Latitude: 43.69777778
     Longitude: -74.36638889
     State: NY
+    Prominence: 207 # Estimation
 -
     Name: SPRUCE LAKE MTN
     Elevation: 3179
-    Latitude: 43.50944444
-    Longitude: -74.65444444
+    Latitude: 43.5123
+    Longitude: -74.6537
     State: NY
+    Prominence: 807
 -
     Name: TONGUE MTN
     Elevation: 3179
-    Latitude: 43.91055556
-    Longitude: -74.3475
+    Latitude: 43.9106
+    Longitude: -74.3471
     State: NY
+    Prominence: 394
 -
-    Name: UNNAMED PK BROWN POND (S PK)
-    Elevation: 3179
+    Name: UNNAMED (BROWN POND S PK)
+    Elevation: 3179 # Needs Validation
     Latitude: 43.73694444
     Longitude: -74.41722222
     State: NY
+    Prominence: 197 # estimated
 -
     Name: TEXAS RIDGE
-    Elevation: 3176
-    Latitude: 43.90138889
-    Longitude: -73.84944444
+    Elevation: 3175
+    Latitude: 43.9013
+    Longitude: -73.8466
     State: NY
+    Prominence: 377
 -
-    Name: UNNAMED PK SUNRISE NOTCH
-    Elevation: 3176
+    Name: UNNAMED (SUNRISE NOTCH PK)
+    Elevation: 3175
     Latitude: 44.34138889
     Longitude: -73.90777778
     State: NY
+    Prominence: 830
 -
     Name: CATAMOUNT MTN
     Elevation: 3169
-    Latitude: 44.45916667
-    Longitude: -73.8725
+    Latitude: 44.4596
+    Longitude: -73.8723
     State: NY
+    Prominence: 1513
 -
     Name: HOPKINS MTN
     Elevation: 3166
-    Latitude: 44.18333333
-    Longitude: -73.74944444
+    Latitude: 44.1836
+    Longitude: -73.7491
     State: NY
+    Prominence: 197
 -
-    Name: UNNAMED PK TWIN LAKES
-    Elevation: 3163
-    Latitude: 43.61111111
-    Longitude: -74.62805556
+    Name: UNNAMED (TWIN LAKES PK)
+    Elevation: 3162
+    Latitude: 43.6111
+    Longitude: -74.6275
     State: NY
+    Prominence: 495
 -
     Name: HENDERSON MTN (N PK)
-    Elevation: 3159
+    Elevation: 3127 # Needs Validation
     Latitude: 44.11583333
     Longitude: -74.10138889
     State: NY
+    Prominence: 217 # estimated
 -
-    Name: UNNAMED PK BROWN POND (SW PK)
+    Name: UNNAMED (BROWN POND SW PK)
     Elevation: 3159
     Latitude: 43.72972222
     Longitude: -74.43222222
     State: NY
+    Prominence: 226 # estimated
 -
-    Name: UNNAMED PK OTTER LAKE
+    Name: UNNAMED (OTTER LAKE PK)
     Elevation: 3159
-    Latitude: 43.54805556
-    Longitude: -74.58333333
+    Latitude: 43.5481
+    Longitude: -74.5828
     State: NY
+    Prominence: 689
 -
     Name: BRADLEY MTN
     Elevation: 3146
     Latitude: 43.7375
     Longitude: -74.55472222
     State: NY
+    Prominence: 302
 -
     Name: MT MORRIS
     Elevation: 3136
     Latitude: 44.15972222
     Longitude: -74.47583333
     State: NY
+    Prominence: 1414
 -
     Name: PANTHER MTN (E PK)
-    Elevation: 3133
+    Elevation: 3133 # Needs Validation
     Latitude: 43.74222222
     Longitude: -74.37055556
     State: NY
+    Prominence: 354 # Estimate
 -
     Name: DUG MTN (S PK)
-    Elevation: 3127
+    Elevation: 3127 # Needs Validation
     Latitude: 43.57666667
     Longitude: -74.34472222
     State: NY
+    Prominence: 207 # estimated
 -
     Name: PETE GAY MTN
-    Elevation: 3127
-    Latitude: 43.69138889
-    Longitude: -74.04444444
+    Elevation: 3126
+    Latitude: 43.6913
+    Longitude: -74.0439
     State: NY
+    Prominence: 282
 -
     Name: COUNTY LINE MTN
     Elevation: 3120
-    Latitude: 43.61166667
-    Longitude: -74.20111111
+    Latitude: 43.6119
+    Longitude: -74.2008
     State: NY
+    Prominence: 709
 -
-    Name: UNNAMED PK BEAVER POND
-    Elevation: 3114
+    Name: UNNAMED (BEAVER POND PK)
+    Elevation: 3114  # Needs Validation
     Latitude: 43.63305556
     Longitude: -74.57861111
     State: NY
+    Prominence: 201 # Estimated
 -
     Name: SODA RANGE
-    Elevation: 3107
-    Latitude: 44.27638889
-    Longitude: -73.73055556
+    Elevation: 3106
+    Latitude: 44.2764
+    Longitude: -73.7301
     State: NY
+    Prominence: 400
 -
     Name: MT TAMARAC
-    Elevation: 3104
-    Latitude: 44.32666667
-    Longitude: -74.02083333
+    Elevation: 3103
+    Latitude: 44.3268
+    Longitude: -74.0204
     State: NY
+    Prominence: 307
 -
     Name: MT ANDREW
     Elevation: 3100
-    Latitude: 44.05722222
-    Longitude: -74.09388889
+    Latitude: 44.0573
+    Longitude: -74.0935
     State: NY
+    Prominence: 794
 -
     Name: ROUND MTN
     Elevation: 3100
-    Latitude: 44.13166667
-    Longitude: -73.75222222
+    Latitude: 44.1318
+    Longitude: -73.7518
     State: NY
+    Prominence: 689
 -
-    Name: UNNAMED PK WHITE BIRCH LAKE
+    Name: UNNAMED (WHITE BIRCH LAKE PK)
     Elevation: 3100
-    Latitude: 43.46805556
-    Longitude: -74.57638889
+    Latitude: 43.4682
+    Longitude: -74.5759
     State: NY
+    Prominence: 847
 -
     Name: SWART MTN
     Elevation: 3094
-    Latitude: 43.39694444
-    Longitude: -74.38166667
+    Latitude: 43.3971
+    Longitude: -74.3812
     State: NY
+    Prominence: 328
 -
     Name: LOON LAKE MTNS (N PK)
-    Elevation: 3082
+    Elevation: 3082 # Needs Validation
     Latitude: 44.56388889
     Longitude: -74.16333333
     State: NY
+    Prominence: 242 # estimated
 -
     Name: T LAKE MTN
-    Elevation: 3081
-    Latitude: 43.44694444
-    Longitude: -74.57777778
+    Elevation: 3051
+    Latitude: 43.4472
+    Longitude: -74.5773
     State: NY
+    Prominence: 561
 -
     Name: NORTH RIVER MTNS (S PK)
     Elevation: 3068
     Latitude: 44.0175
     Longitude: -74.00583333
     State: NY
+    Prominence: 201 # Estimated
 -
-    Name: UNNAMED PK CELLAR BROOK
+    Name: UNNAMED (CELLAR BROOK PK)
     Elevation: 3061
     Latitude: 43.71722222
     Longitude: -74.57055556
     State: NY
+    Prominence: 207 # estimated
 -
     Name: BAILEY HILL
     Elevation: 3061
-    Latitude: 43.91083333
-    Longitude: -73.90638889
+    Latitude: 43.9109
+    Longitude: -73.9025
     State: NY
+    Prominence: 1182
 -
-    Name: UNNAMED PK DEEP LAKE
+    Name: UNNAMED (DEEP LAKE PK)
     Elevation: 3061
     Latitude: 43.62333333
     Longitude: -74.65222222
     State: NY
+    Prominence: 256 # Estimated
 -
     Name: SCARFACE
-    Elevation: 3058
+    Elevation: 3057
     Latitude: 44.265
     Longitude: -74.07444444
     State: NY
+    Prominence: 1105
 -
-    Name: UNNAMED PK WEST LAKE
-    Elevation: 3058
+    Name: UNNAMED (WEST LAKE PK)
+    Elevation: 3058 # needs validation
     Latitude: 43.60666667
     Longitude: -74.64527778
     State: NY
+    Prominence: 236 # estimated
 -
     Name: WASHBURN RIDGE
     Elevation: 3054
-    Latitude: 43.93361111
-    Longitude: -73.87444444
+    Latitude: 43.9338
+    Longitude: -73.8718
     State: NY
+    Prominence: 840
 -
     Name: STONY CREEK MTN
     Elevation: 3041
-    Latitude: 44.22138889
-    Longitude: -74.26611111
+    Latitude: 44.2214
+    Longitude: -74.2658
     State: NY
+    Prominence: 958
 -
     Name: BALD PK
     Elevation: 3035
-    Latitude: 44.16
-    Longitude: -73.66611111
+    Latitude: 44.1598
+    Longitude: -73.6656
     State: NY
+    Prominence: 262
 -
-    Name: UNNAMED PK SCOTCH LAKE
+    Name: UNNAMED (SCOTCH LAKE PK)
     Elevation: 3035
     Latitude: 43.46138889
     Longitude: -74.56888889
     State: NY
--
+    Prominence: 191 # estimated
+- # This may need to be delisted
     Name: BOREAS MTN (NE PK)
-    Elevation: 3035
+    Elevation: 3035 # dubious, probably 3018
     Latitude: 44.03611111
     Longitude: -73.86638889
     State: NY
+    Prominence: 179 # estimate
 -
     Name: NIAGARA MTN
-    Elevation: 3035
-    Latitude: 44.00138889
-    Longitude: -73.76583333
+    Elevation: 3034
+    Latitude: 44.0015
+    Longitude: -73.7653
     State: NY
--
+    Prominence: 1246
+- # This may need to be delisted
     Name: NYE MTN (N PK)
-    Elevation: 3035
+    Elevation: 3035 # dubious, possibly 3018
     Latitude: 44.21
     Longitude: -74.02222222
     State: NY
+    Prominence: 184 # Estimate
 -
     Name: SQUAW MTN (E PK)
-    Elevation: 3022
+    Elevation: 3022 # needs validation
     Latitude: 43.72138889
     Longitude: -74.33444444
     State: NY
+    Prominence: 266 # estimated
 -
     Name: THREE PONDS MTN
-    Elevation: 3022
-    Latitude: 43.30055556
-    Longitude: -74.37055556
+    Elevation: 3021
+    Latitude: 43.3007
+    Longitude: -74.3701
     State: NY
+    Prominence: 1351
 -
     Name: UNNAMED PK NORTHRUP LAKE
-    Elevation: 3022
-    Latitude: 43.57722222
-    Longitude: -74.67027778
+    Elevation: 3021
+    Latitude: 43.5775
+    Longitude: -74.6699
     State: NY
+    Prominence: 649
 -
     Name: FISHING BROOK MTN (W PK)
-    Elevation: 3020
+    Elevation: 3021 # needs validation 3051 maybe..
     Latitude: 43.93277778
     Longitude: -74.32416667
     State: NY
+    Prominence: 226 # estimated
 -
     Name: NIPPLETOP MTN
     Elevation: 3018
-    Latitude: 43.99194444
-    Longitude: -73.75361111
+    Latitude: 43.9919
+    Longitude: -73.7533
     State: NY
+    Prominence: 568
 -
     Name: VAN DORRIEN MTN
-    Elevation: 3012
-    Latitude: 44.22222222
-    Longitude: -74.17111111
+    Elevation: 3011
+    Latitude: 44.2223
+    Longitude: -74.1708
     State: NY
+    Prominence: 863
 -
     Name: LYON MTN (NW PK)
-    Elevation: 3010
+    Elevation: 3010 # needs validation
     Latitude: 44.70611111
     Longitude: -73.89666667
     State: NY
+    Prominence: 240 # estimated
 -
     Name: MACOMBER MTN
     Elevation: 3005
-    Latitude: 43.51083333
-    Longitude: -74.23944444
+    Latitude: 43.5108
+    Longitude: -74.2391
     State: NY
+    Prominence: 1067
 -
-    Name: HEIGHT-OF-LAND MTN
-    Elevation: 3002
-    Latitude: 43.65194444
-    Longitude: -74.06027778
+    Name: HEIGHT OF LAND MTN
+    Elevation: 3001
+    Latitude: 43.6521
+    Longitude: -74.0598
     State: NY
+    Prominence: 511
 -
-    Name: SAWTOOTH MTNS (S PK)
-    Elevation: 3002
+    Name: SAWTOOTH MTNS (S PK) (SAWTOOTH 11)
+    Elevation: 3002 # estimated
     Latitude: 44.17055556
     Longitude: -74.12527778
     State: NY
+    Prominence: 184 # estimated
 -
     Name: STREET MTN (SW PK)
     Elevation: 3002
     Latitude: 44.16777778
     Longitude: -74.07222222
     State: NY
+    Prominence: 296 # estimated
 -
     Name: WEST CANADA MTN
-    Elevation: 3002
-    Latitude: 43.52388889
-    Longitude: -74.72527778
+    Elevation: 3001
+    Latitude: 43.5243
+    Longitude: -74.7248
     State: NY
--
+    Prominence: 669
+- # May need to be delisted. might be 2995
     Name: UNNAMED PK L-D POND
-    Elevation: 3002
+    Elevation: 3002 # possibly 2995
     Latitude: 43.42416667
     Longitude: -74.60416667
     State: NY
+    Prominence: 387
