@@ -28,3 +28,4 @@ ordered_columns:
   - Latitude
   - Longitude
   - State
+prominence_threshold: 200

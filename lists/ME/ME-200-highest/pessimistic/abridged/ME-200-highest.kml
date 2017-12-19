@@ -1,0 +1,537 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="ME-200-highest">
+    <name>ME-200-highest</name>
+    <description>pinmap for ME-200-highest</description>
+    <visibility>1</visibility>
+    <Folder id="ME-200-highest">
+      <name>ME-200-highest</name>
+      <description>kml map of list points for ME-200-highest</description>
+      <visibility>1</visibility>
+      <Placemark id="SADDLEBACK MTN">
+        <name>SADDLEBACK MTN</name>
+        <description>Elevation: 2998
+Latitude: 45.509482
+Longitude: -69.135994
+Name: SADDLEBACK MTN
+Prominence: 1848
+Rank: 166
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.135994,45.509482</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WYMAN">
+        <name>WYMAN</name>
+        <description>Elevation: 2990
+Latitude: 44.6814
+Longitude: -70.835
+Name: WYMAN
+Prominence: 1540
+Rank: 167
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.835000,44.681400</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WASSATAQUOIK MTN">
+        <name>WASSATAQUOIK MTN</name>
+        <description>Elevation: 2990
+Latitude: 45.9992
+Longitude: -68.9644
+Name: WASSATAQUOIK MTN
+Prominence: 360
+Rank: 168
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-68.964400,45.999200</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALDPATE MTN (WW PK)">
+        <name>BALDPATE MTN (WW PK)</name>
+        <description>Elevation: 2990
+Latitude: 44.5958
+Longitude: -70.9233
+Name: BALDPATE MTN (WW PK)
+Prominence: 340
+Rank: 169
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.923300,44.595800</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SPOTTED (NM PK)">
+        <name>SPOTTED (NM PK)</name>
+        <description>Elevation: 2989
+Latitude: 45.052
+Longitude: -70.7227
+Name: SPOTTED (NM PK)
+Prominence: 379
+Rank: 170
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.722700,45.052000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="LARY BROOK MTN">
+        <name>LARY BROOK MTN</name>
+        <description>Elevation: 2988
+Latitude: 44.467
+Longitude: -70.9823
+Name: LARY BROOK MTN
+Prominence: 397
+Rank: 171
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.982300,44.467000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED (CUPSUPTIC POND) (SE PK)">
+        <name>UNNAMED (CUPSUPTIC POND) (SE PK)</name>
+        <description>Elevation: 2977
+Latitude: 45.212
+Longitude: -70.883
+Name: UNNAMED (CUPSUPTIC POND) (SE PK)
+Prominence: 283
+Rank: 172
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.883000,45.212000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OWLS HEAD">
+        <name>OWLS HEAD</name>
+        <description>Elevation: 2977
+Latitude: 45.0255
+Longitude: -70.2471
+Name: OWLS HEAD
+Prominence: 787
+Rank: 173
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.247100,45.025500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BURNT MTN">
+        <name>BURNT MTN</name>
+        <description>Elevation: 2970
+Latitude: 45.0844
+Longitude: -70.8562
+Name: BURNT MTN
+Prominence: 660
+Rank: 174
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.856200,45.084400</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLUEBERRY MTN">
+        <name>BLUEBERRY MTN</name>
+        <description>Elevation: 2962
+Latitude: 44.7676
+Longitude: -70.4798
+Name: BLUEBERRY MTN
+Prominence: 632
+Rank: 175
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.479800,44.767600</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DEER MTN (W PK)">
+        <name>DEER MTN (W PK)</name>
+        <description>Elevation: 2950
+Latitude: 45.0219
+Longitude: -70.9423
+Name: DEER MTN (W PK)
+Prominence: 420
+Rank: 176
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.942300,45.021900</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SURPLUS MTN">
+        <name>SURPLUS MTN</name>
+        <description>Elevation: 2946
+Latitude: 44.6328
+Longitude: -70.9045
+Name: SURPLUS MTN
+Prominence: 560
+Rank: 177
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.904500,44.632800</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="LEDGE RIDGE">
+        <name>LEDGE RIDGE</name>
+        <description>Elevation: 2946
+Latitude: 45.235
+Longitude: -71.0397
+Name: LEDGE RIDGE
+Prominence: 416
+Rank: 178
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.039700,45.235000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED (SABBATH POND PK)">
+        <name>UNNAMED (SABBATH POND PK)</name>
+        <description>Elevation: 2938
+Latitude: 44.8427
+Longitude: -70.6274
+Name: UNNAMED (SABBATH POND PK)
+Prominence: 668
+Rank: 179
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.627400,44.842700</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MOXIE MTN">
+        <name>MOXIE MTN</name>
+        <description>Elevation: 2930
+Latitude: 45.206782
+Longitude: -69.893914
+Name: MOXIE MTN
+Prominence: 1823
+Rank: 180
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.893914,45.206782</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="INDIAN STREAM MTN">
+        <name>INDIAN STREAM MTN</name>
+        <description>Elevation: 2930
+Latitude: 45.3313
+Longitude: -70.7128
+Name: INDIAN STREAM MTN
+Prominence: 1020
+Rank: 181
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.712800,45.331300</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="FOUR PONDS MTN">
+        <name>FOUR PONDS MTN</name>
+        <description>Elevation: 2925
+Latitude: 44.8537
+Longitude: -70.6629
+Name: FOUR PONDS MTN
+Prominence: 455
+Rank: 182
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.662900,44.853700</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MOOSE HILL">
+        <name>MOOSE HILL</name>
+        <description>Elevation: 2913
+Latitude: 45.5033
+Longitude: -70.714
+Name: MOOSE HILL
+Prominence: 669
+Rank: 183
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.714000,45.503300</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED (BOUNDARY MON 468)">
+        <name>UNNAMED (BOUNDARY MON 468)</name>
+        <description>Elevation: 2910
+Latitude: 45.3268
+Longitude: -70.9448
+Name: UNNAMED (BOUNDARY MON 468)
+Prominence: 648
+Rank: 184
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.944800,45.326800</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED (BOUNDARY MON 467)">
+        <name>UNNAMED (BOUNDARY MON 467)</name>
+        <description>Elevation: 2910
+Latitude: 45.3331
+Longitude: -70.9667
+Name: UNNAMED (BOUNDARY MON 467)
+Prominence: 320
+Rank: 185
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.966700,45.333100</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SANDY STREAM MTN">
+        <name>SANDY STREAM MTN</name>
+        <description>Elevation: 2910
+Latitude: 45.7417
+Longitude: -70.3201
+Name: SANDY STREAM MTN
+Prominence: 780
+Rank: 186
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.320100,45.741700</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CENTER MTN">
+        <name>CENTER MTN</name>
+        <description>Elevation: 2910
+Latitude: 46.0135
+Longitude: -69.0293
+Name: CENTER MTN
+Prominence: 1220
+Rank: 187
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.029300,46.013500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SPECKLED">
+        <name>SPECKLED</name>
+        <description>Elevation: 2906
+Latitude: 44.2909
+Longitude: -70.955
+Name: SPECKLED
+Prominence: 1496
+Rank: 188
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.955000,44.290900</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="JO-MARY MTN">
+        <name>JO-MARY MTN</name>
+        <description>Elevation: 2905
+Latitude: 45.6178
+Longitude: -69.0619
+Name: JO-MARY MTN
+Prominence: 1595
+Rank: 189
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.061900,45.617800</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLACK NUBBLE">
+        <name>BLACK NUBBLE</name>
+        <description>Elevation: 2904
+Latitude: 44.9999
+Longitude: -70.2567
+Name: BLACK NUBBLE
+Prominence: 794
+Rank: 190
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.256700,44.999900</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NUMBER FOUR">
+        <name>NUMBER FOUR</name>
+        <description>Elevation: 2894
+Latitude: 45.6134
+Longitude: -69.4077
+Name: NUMBER FOUR
+Prominence: 235
+Rank: 191
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.407700,45.613400</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALD PATE">
+        <name>BALD PATE</name>
+        <description>Elevation: 2877
+Latitude: 45.1427
+Longitude: -70.8006
+Name: BALD PATE
+Prominence: 227
+Rank: 192
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.800600,45.142700</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="METALLAK MTN">
+        <name>METALLAK MTN</name>
+        <description>Elevation: 2870
+Latitude: 44.7856
+Longitude: -70.831
+Name: METALLAK MTN
+Prominence: 860
+Rank: 193
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.831000,44.785600</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="JOHNSON MTN (N PK)">
+        <name>JOHNSON MTN (N PK)</name>
+        <description>Elevation: 2870
+Latitude: 45.4547
+Longitude: -70.0981
+Name: JOHNSON MTN (N PK)
+Prominence: 580
+Rank: 194
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.098100,45.454700</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="UNNAMED (SNOWBOTTLE)">
+        <name>UNNAMED (SNOWBOTTLE)</name>
+        <description>Elevation: 2854
+Latitude: 45.177802
+Longitude: -70.865421
+Name: UNNAMED (SNOWBOTTLE)
+Prominence: 244
+Rank: 195
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.865421,45.177802</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NORTH POGY MTN">
+        <name>NORTH POGY MTN</name>
+        <description>Elevation: 2850
+Latitude: 46.0411
+Longitude: -68.9433
+Name: NORTH POGY MTN
+Prominence: 1280
+Rank: 196
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-68.943300,46.041100</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT VETO">
+        <name>MT VETO</name>
+        <description>Elevation: 2850
+Latitude: 45.9498
+Longitude: -69.0873
+Name: MT VETO
+Prominence: 240
+Rank: 197
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-69.087300,45.949800</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="HALL MTN">
+        <name>HALL MTN</name>
+        <description>Elevation: 2850
+Latitude: 44.7022
+Longitude: -70.8274
+Name: HALL MTN
+Prominence: 260
+Rank: 198
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.827400,44.702200</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CARIBOU">
+        <name>CARIBOU</name>
+        <description>Elevation: 2850
+Latitude: 44.3404
+Longitude: -70.9304
+Name: CARIBOU
+Prominence: 1040
+Rank: 199
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.930400,44.340400</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CUPSUPTIC SNOW (N PK)">
+        <name>CUPSUPTIC SNOW (N PK)</name>
+        <description>Elevation: 2846
+Latitude: 45.1847
+Longitude: -70.8357
+Name: CUPSUPTIC SNOW (N PK)
+Prominence: 336
+Rank: 200
+State: ME
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-70.835700,45.184700</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
