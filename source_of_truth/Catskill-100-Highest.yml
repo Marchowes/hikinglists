@@ -21,6 +21,7 @@ ordered_columns:
   - Longitude
   - State
 max: 102
+prominence_threshold: 200
 peaks:
 -
     Name: UNNAMED (E GRAY PK)

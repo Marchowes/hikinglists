@@ -1,0 +1,507 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Catskill-3500-Footers">
+    <name>Catskill-3500-Footers</name>
+    <description>pinmap for Catskill-3500-Footers</description>
+    <visibility>1</visibility>
+    <Folder id="Catskill-3500-Footers">
+      <name>Catskill-3500-Footers</name>
+      <description>kml map of list points for Catskill-3500-Footers</description>
+      <visibility>1</visibility>
+      <Placemark id="SLIDE MTN">
+        <name>SLIDE MTN</name>
+        <description>Elevation: 4190
+Latitude: 41.99916667
+Longitude: -74.38611111
+Name: SLIDE MTN
+Prominence: 3295
+Rank: 1
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.386111,41.999167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="HUNTER MTN">
+        <name>HUNTER MTN</name>
+        <description>Elevation: 4050
+Latitude: 42.1775
+Longitude: -74.23083333
+Name: HUNTER MTN
+Prominence: 2160
+Rank: 2
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.230833,42.177500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLACK DOME">
+        <name>BLACK DOME</name>
+        <description>Elevation: 3990
+Latitude: 42.27
+Longitude: -74.12333333
+Name: BLACK DOME
+Prominence: 2080
+Rank: 3
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.123333,42.270000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="THOMAS COLE MTN">
+        <name>THOMAS COLE MTN</name>
+        <description>Elevation: 3950
+Latitude: 42.27083333
+Longitude: -74.13666667
+Name: THOMAS COLE MTN
+Prominence: 220
+Rank: 4
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.136667,42.270833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLACKHEAD">
+        <name>BLACKHEAD</name>
+        <description>Elevation: 3950
+Latitude: 42.26777778
+Longitude: -74.10527778
+Name: BLACKHEAD
+Prominence: 520
+Rank: 5
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.105278,42.267778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WEST KILL MTN">
+        <name>WEST KILL MTN</name>
+        <description>Elevation: 3890
+Latitude: 42.16777778
+Longitude: -74.29027778
+Name: WEST KILL MTN
+Prominence: 1240
+Rank: 6
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.290278,42.167778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DOUBLETOP MTN">
+        <name>DOUBLETOP MTN</name>
+        <description>Elevation: 3870
+Latitude: 42.0275
+Longitude: -74.52861111
+Name: DOUBLETOP MTN
+Prominence: 1200
+Rank: 7
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.528611,42.027500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CORNELL MTN">
+        <name>CORNELL MTN</name>
+        <description>Elevation: 3870
+Latitude: 42.00138889
+Longitude: -74.35722222
+Name: CORNELL MTN
+Prominence: 620
+Rank: 8
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.357222,42.001389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="GRAHAM MTN">
+        <name>GRAHAM MTN</name>
+        <description>Elevation: 3868
+Latitude: 42.03944444
+Longitude: -74.54972222
+Name: GRAHAM MTN
+Prominence: 898
+Rank: 9
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.549722,42.039444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PLATEAU MTN">
+        <name>PLATEAU MTN</name>
+        <description>Elevation: 3850
+Latitude: 42.13805556
+Longitude: -74.17472222
+Name: PLATEAU MTN
+Prominence: 1780
+Rank: 10
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.174722,42.138056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="TABLE MTN">
+        <name>TABLE MTN</name>
+        <description>Elevation: 3847
+Latitude: 41.95833333
+Longitude: -74.40527778
+Name: TABLE MTN
+Prominence: 657
+Rank: 11
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.405278,41.958333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SUGARLOAF MTN">
+        <name>SUGARLOAF MTN</name>
+        <description>Elevation: 3810
+Latitude: 42.13111111
+Longitude: -74.15083333
+Name: SUGARLOAF MTN
+Prominence: 1200
+Rank: 12
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.150833,42.131111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WITTENBERG MTN">
+        <name>WITTENBERG MTN</name>
+        <description>Elevation: 3790
+Latitude: 42.00805556
+Longitude: -74.3475
+Name: WITTENBERG MTN
+Prominence: 240
+Rank: 13
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.347500,42.008056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PANTHER MTN">
+        <name>PANTHER MTN</name>
+        <description>Elevation: 3730
+Latitude: 42.05833333
+Longitude: -74.39666667
+Name: PANTHER MTN
+Prominence: 980
+Rank: 14
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.396667,42.058333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALSAM LAKE MTN">
+        <name>BALSAM LAKE MTN</name>
+        <description>Elevation: 3730
+Latitude: 42.04555556
+Longitude: -74.595
+Name: BALSAM LAKE MTN
+Prominence: 480
+Rank: 15
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.595000,42.045556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="LONE MTN">
+        <name>LONE MTN</name>
+        <description>Elevation: 3721
+Latitude: 41.96916667
+Longitude: -74.38972222
+Name: LONE MTN
+Prominence: 291
+Rank: 16
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.389722,41.969167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BIG INDIAN MTN">
+        <name>BIG INDIAN MTN</name>
+        <description>Elevation: 3710
+Latitude: 42.035
+Longitude: -74.49722222
+Name: BIG INDIAN MTN
+Prominence: 520
+Rank: 17
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.497222,42.035000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="FRIDAY MTN">
+        <name>FRIDAY MTN</name>
+        <description>Elevation: 3694
+Latitude: 41.98777778
+Longitude: -74.3625
+Name: FRIDAY MTN
+Prominence: 204
+Rank: 18
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.362500,41.987778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="RUSK MTN">
+        <name>RUSK MTN</name>
+        <description>Elevation: 3690
+Latitude: 42.20055556
+Longitude: -74.27777778
+Name: RUSK MTN
+Prominence: 760
+Rank: 19
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.277778,42.200556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="KAATERSKILL HIGH PK">
+        <name>KAATERSKILL HIGH PK</name>
+        <description>Elevation: 3655
+Latitude: 42.16222222
+Longitude: -74.08055556
+Name: KAATERSKILL HIGH PK
+Prominence: 1705
+Rank: 20
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.080556,42.162222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="TWIN MTN">
+        <name>TWIN MTN</name>
+        <description>Elevation: 3650
+Latitude: 42.12555556
+Longitude: -74.12972222
+Name: TWIN MTN
+Prominence: 840
+Rank: 21
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.129722,42.125556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="FIR MTN">
+        <name>FIR MTN</name>
+        <description>Elevation: 3630
+Latitude: 42.0275
+Longitude: -74.46944444
+Name: FIR MTN
+Prominence: 440
+Rank: 22
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.469444,42.027500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALSAM CAP">
+        <name>BALSAM CAP</name>
+        <description>Elevation: 3623
+Latitude: 41.97694444
+Longitude: -74.35777778
+Name: BALSAM CAP
+Prominence: 253
+Rank: 23
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.357778,41.976944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NORTH DOME">
+        <name>NORTH DOME</name>
+        <description>Elevation: 3610
+Latitude: 42.17361111
+Longitude: -74.34944444
+Name: NORTH DOME
+Prominence: 1160
+Rank: 24
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.349444,42.173611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="EAGLE MTN">
+        <name>EAGLE MTN</name>
+        <description>Elevation: 3610
+Latitude: 42.06166667
+Longitude: -74.51
+Name: EAGLE MTN
+Prominence: 500
+Rank: 25
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.510000,42.061667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BEARPEN MTN">
+        <name>BEARPEN MTN</name>
+        <description>Elevation: 3610
+Latitude: 42.265
+Longitude: -74.47416667
+Name: BEARPEN MTN
+Prominence: 1700
+Rank: 26
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.474167,42.265000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BALSAM MTN">
+        <name>BALSAM MTN</name>
+        <description>Elevation: 3610
+Latitude: 42.09055556
+Longitude: -74.48833333
+Name: BALSAM MTN
+Prominence: 253
+Rank: 27
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.488333,42.090556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="INDIAN HEAD MTN">
+        <name>INDIAN HEAD MTN</name>
+        <description>Elevation: 3573
+Latitude: 42.11638889
+Longitude: -74.115
+Name: INDIAN HEAD MTN
+Prominence: 463
+Rank: 28
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.115000,42.116389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT SHERRILL">
+        <name>MT SHERRILL</name>
+        <description>Elevation: 3550
+Latitude: 42.17555556
+Longitude: -74.37333333
+Name: MT SHERRILL
+Prominence: 540
+Rank: 29
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.373333,42.175556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="HALCOTT MTN">
+        <name>HALCOTT MTN</name>
+        <description>Elevation: 3530
+Latitude: 42.18027778
+Longitude: -74.43833333
+Name: HALCOTT MTN
+Prominence: 720
+Rank: 30
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.438333,42.180278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="VLY MTN">
+        <name>VLY MTN</name>
+        <description>Elevation: 3529
+Latitude: 42.24583333
+Longitude: -74.44861111
+Name: VLY MTN
+Prominence: 659
+Rank: 31
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.448611,42.245833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WINDHAM HIGH PK">
+        <name>WINDHAM HIGH PK</name>
+        <description>Elevation: 3524
+Latitude: 42.31472222
+Longitude: -74.14361111
+Name: WINDHAM HIGH PK
+Prominence: 754
+Rank: 32
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.143611,42.314722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ROCKY MTN">
+        <name>ROCKY MTN</name>
+        <description>Elevation: 3508
+Latitude: 41.97277778
+Longitude: -74.37333333
+Name: ROCKY MTN
+Prominence: 218
+Rank: 33
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-74.373333,41.972778</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

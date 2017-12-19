@@ -25,6 +25,7 @@ ordered_columns:
   - Longitude
   - State
 max: 200
+prominence_threshold: 200
 peaks:
 -
     Name: JEFFERS

@@ -1,6 +1,7 @@
 import argparse
 import json
 import os
+import sys
 import tablib
 import yaml
 
@@ -30,7 +31,22 @@ def main():
                         default=None,
                         help='single yaml file from source_of_truth'
                         ' dir to process. ex: "blah.yml"')
-
+    parser.add_argument('-p', '--pessimism', action='store',
+                        dest='pessimism',
+                        default=2.5,
+                        help='percentage of pessimism for lists with col rule')
+    parser.add_argument('-l', '--pessimistic', action='store_true',
+                        dest='pessimistic',
+                        default=False,
+                        help='generate threshold lists with pessimism')
+    parser.add_argument('-o', '--optimism', action='store',
+                        dest='optimism',
+                        default=2.5,
+                        help='percentage of optimism for lists with col rule')
+    parser.add_argument('-j', '--optimistic', action='store_true',
+                        dest='optimistic',
+                        default=False,
+                        help='generate threshold lists with optimism')
     parsed = parser.parse_args()
 
     # Did the user pass in a file? use that
@@ -40,6 +56,10 @@ def main():
     else:
         truth_files = collect_truth_files()
 
+    if parsed.optimistic and parsed.pessimistic:
+        print("Bork! can't be both optimistic and pessimistic!")
+        sys.exit(0)
+
     for truth_file in truth_files:
         print("Loading {}".format(truth_file))
         hiking_list = load_yaml(truth_file, first=True,
@@ -47,6 +67,16 @@ def main():
         if not hiking_list:
             continue
         hiking_list.ascendingsort = parsed.ascendingsort
+        hiking_list.pessimism = int(parsed.pessimism)
+        hiking_list.pessimistic = parsed.pessimistic
+        hiking_list.optimism = int(parsed.optimism)
+        hiking_list.optimistic = parsed.optimistic
+        # are we using optimistic or pessimistic options but no
+        # prominence_threshold has been supplied? bail.
+        if ((hiking_list.pessimistic or hiking_list.optimistic) and
+            not hiking_list.prominence_threshold):
+            continue
+
         hiking_list.generate_tablib_structure()
         if parsed.csv:
             hiking_list.write_csv()
@@ -89,6 +119,11 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
         hiking_list = yaml.load(read_hiking_list)
         # Grab filename from YAML file or fall back to Truth File name.
         filename = hiking_list.get('list_name', truth_file.split('/')[-1][:-4])
+
+        # Gather "peaks" list and validate
+        prominence_threshold = hiking_list.get('prominence_threshold', 0)
+        validate_type("prominence_threshold Resource",
+                      prominence_threshold, truth_file, int)
 
         # Gather "peaks" list and validate
         peaks = hiking_list.get('peaks', [])
@@ -198,7 +233,9 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
                               ordered_columns=ordered_columns,
                               peakcountlist=peakcountlist,
                               autogen_columns=autogen_columns,
-                              prominence_style=prominence_style)
+                              prominence_style=prominence_style,
+                              prominence_threshold=prominence_threshold
+                              )
         # end of recursion, remove truth_file from explored list. Tree
         # redundancy is taken care of in the HikingList Object by
         # self.remove_duplicate_peaks()
@@ -249,7 +286,7 @@ class HikingList(object):
     def __init__(self, peaks, location, filename, standalone, cascading,
                  ordered_columns=[], maximum=0, sortby='Elevation',
                  explicit_columns=False, peakcountlist=[], autogen_columns=[],
-                 prominence_style=False):
+                 prominence_style=False, prominence_threshold=0):
         self.peaks = peaks
         self.maximum = maximum
         self.location = location
@@ -264,6 +301,11 @@ class HikingList(object):
         self.startingpoint = 1
         self.peakcountlist = peakcountlist
         self.prominence_style = prominence_style
+        self.prominence_threshold = prominence_threshold
+        self.pessimistic = False
+        self.pessimism = 0
+        self.optimistic = False
+        self.optimism = 0
 
     @property
     def output_dir(self):
@@ -274,8 +316,19 @@ class HikingList(object):
             subdir = "full"
         else:
             subdir = "abridged"
+        if self.pessimistic:
+            return '{}/lists/{}/{}/pessimistic/{}'.format(WORKING_DIR,
+                                                          self.location,
+                                                          self.filename,
+                                                          subdir)
+        if self.optimistic:
+            return '{}/lists/{}/{}/optimistic/{}'.format(WORKING_DIR,
+                                                         self.location,
+                                                         self.filename,
+                                                         subdir)
+
         return '{}/lists/{}/{}/{}'.format(WORKING_DIR, self.location,
-                                             self.filename, subdir)
+                                          self.filename, subdir)
 
     @property
     def output_file(self):
@@ -290,6 +343,8 @@ class HikingList(object):
         self.validate_sortby_column_exists()
         # remove duplicate peaks from self.peaks
         self.remove_duplicate_peaks()
+        # cull peaks that fail to meet the prominence_threshold
+        self.cull_by_prominence_threshold()
         # sort the peaks list
         self.sort_by()
         # if we're not using cascading, figure out rank starting point and
@@ -301,7 +356,38 @@ class HikingList(object):
         self.trim_by_maximum()
         # validate columns, compare against what was passed in.
         self.format_data_structure()
-        #print(self.tablib_data)
+        # print(self.tablib_data)
+
+    def cull_by_prominence_threshold(self):
+        """
+        Cull peaks that fail to meet the digitally optimistic or
+        pessimistic threshold.
+        """
+        def common(threshold):
+            valid = list()
+            for peak in self.peaks:
+                prom = peak.get('Prominence', 0)
+                # no prominence data? We assume it's OK
+                if not prom:
+                    valid.append(peak)
+                    continue
+                if prom >= threshold:
+                    valid.append(peak)
+            self.peaks = valid
+
+        if not ((self.pessimistic or self.optimistic)
+                 and self.prominence_threshold):
+            common(self.prominence_threshold)
+
+        if self.pessimistic:
+            pessimistic_threshold =\
+                self.prominence_threshold * (1+(self.pessimism/100))
+            common(pessimistic_threshold)
+
+        if self.optimistic:
+            optimistic_threshold =\
+                self.prominence_threshold * (1-(self.optimism/100))
+            common(optimistic_threshold)
 
     def calculate_abridge_peak_list_length(self):
         """

@@ -20,6 +20,7 @@ ordered_columns:
   - Latitude
   - Longitude
   - State
+prominence_threshold: 200
 peaks:
 -
     Name: MT KATAHDIN (BAXTER PK)
