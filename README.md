@@ -35,6 +35,7 @@ All *Source Of Truth* files must contain peaks which include at a mandatory mini
 > - **sortby:** (string) forcibly sort this list by this column. The default is *Elevation*
 > - **ordered_columns:** (list) control the ordering of columns. Any other columns discovered will be appended at the end of this list.
 > - **only_use_explicit_ordered_columns**(true|false) To be used with *ordered_columns* this expressly forbids additional discovered columns from being added.
+> - **prominence_threshold**(int) To be used on lists which have a col rule (or threshold). This value is that threshold in feet. This is used in Optimistic, Pessimistic, or regular lists.
 
 #### Command line options
 
@@ -49,4 +50,11 @@ optional arguments:
   -f SOTFILE, --file SOTFILE
                         single yaml file from source_of_truth dir to process.
                         ex: "blah.yml"
+  -p PESSIMISM, --pessimism PESSIMISM
+                        percentage of pessimism for lists with col rule
+  -l, --pessimistic     generate threshold lists with pessimism
+  -o OPTIMISM, --optimism OPTIMISM
+                        percentage of optimism for lists with col rule
+  -j, --optimistic      generate threshold lists with optimism
+
 ```
