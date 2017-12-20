@@ -69,7 +69,7 @@ peaks:
     Longitude: -71.38888889
     State: NH
     Prominence: 351
-- # Needs to be delisted
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: THE SLEEPERS (W PK)
     Elevation: 3881
     Latitude: 43.95416667
@@ -202,7 +202,7 @@ peaks:
     Longitude: -71.4475
     State: NH
     Prominence: 211 # Estimated
-- # May need to de-list
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: MT WEEKS (M PK)
     Elevation: 3684
     Latitude: 44.44944444
@@ -300,7 +300,7 @@ peaks:
     Longitude: -71.39333333
     State: NH
     Prominence: 466
-- # Might need to de-list
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: SCAUR PK
     Elevation: 3605
     Latitude: 43.985
@@ -657,7 +657,7 @@ peaks:
     Longitude: -71.29472222
     State: NH
     Prominence: 781
-- # May need to delist
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: ENGINE HILL (S PK)
     Elevation: 3244
     Latitude: 44.19388889
@@ -902,7 +902,7 @@ peaks:
     Longitude: -71.76666667
     State: NH
     Prominence: 189 # Estimated
-- # May Need to be delisted.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: MT PARKER
     Elevation: 3004
     Latitude: 44.12361111

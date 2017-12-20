@@ -517,6 +517,21 @@ State: NY
           <coordinates>-73.854167,44.212222</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="SOUTH DIX">
+        <name>SOUTH DIX</name>
+        <description>Elevation: 4084
+Latitude: 44.06
+Longitude: -73.77472222
+Name: SOUTH DIX
+Prominence: 197
+Rank: 35
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.774722,44.060000</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="MT COLVIN">
         <name>MT COLVIN</name>
         <description>Elevation: 4084
@@ -524,12 +539,27 @@ Latitude: 44.09388889
 Longitude: -73.83472222
 Name: MT COLVIN
 Prominence: 754
-Rank: 35
+Rank: 36
 State: NY
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-73.834722,44.093889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="DIAL MTN">
+        <name>DIAL MTN</name>
+        <description>Elevation: 4019
+Latitude: 44.10583333
+Longitude: -73.79666667
+Name: DIAL MTN
+Prominence: 197
+Rank: 37
+State: NY
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-73.796667,44.105833</coordinates>
         </Point>
       </Placemark>
       <Placemark id="YARD MTN">
@@ -539,7 +569,7 @@ Latitude: 44.17444444
 Longitude: -73.88527778
 Name: YARD MTN
 Prominence: 220
-Rank: 36
+Rank: 38
 State: NY
 </description>
         <visibility>1</visibility>
@@ -554,7 +584,7 @@ Latitude: 44.06527778
 Longitude: -73.75777778
 Name: GRACE PK (EAST DIX)
 Prominence: 315
-Rank: 37
+Rank: 39
 State: NY
 </description>
         <visibility>1</visibility>

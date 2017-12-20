@@ -174,8 +174,8 @@ peaks:
     Longitude: -71.2131
     State: NH
     Prominence: 400
--
-    Name: PROSPECT HILL (W PK) # This almost certainly should be de-listed.
+- # Effectively DELISTED due to INSUFFICIENT COL
+    Name: PROSPECT HILL (W PK)
     Elevation: 2930
     Latitude: 45.252
     Longitude: -71.233

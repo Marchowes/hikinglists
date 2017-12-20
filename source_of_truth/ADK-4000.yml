@@ -57,14 +57,13 @@ peaks:
     Longitude: -73.90361111
     State: NY
     Prominence: 3110
-# DELISTED: IROQUOIS PK: Insufficient Col
-# -
-#     Name: IROQUOIS PK
-#     Elevation: 4849
-#     Latitude: 44.13694444
-#     Longitude: -73.99861111
-#     State: NY
-#     Prominence: 174
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: IROQUOIS PK
+    Elevation: 4849
+    Latitude: 44.13694444
+    Longitude: -73.99861111
+    State: NY
+    Prominence: 174
 -
     Name: DIX MTN
     Elevation: 4839
@@ -79,14 +78,13 @@ peaks:
     Longitude: -73.88694444
     State: NY
     Prominence: 742
-# DELISTED: GRAY PEAK: Insufficient Col (Not even close!)
-# -
-#     Name: GRAY PEAK
-#     Elevation: 4826
-#     Latitude: 44.11138889
-#     Longitude: -73.93555556
-#     State: NY
-#     Prominence: 118
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: GRAY PEAK
+    Elevation: 4826
+    Latitude: 44.11138889
+    Longitude: -73.93555556
+    State: NY
+    Prominence: 118
 -
     Name: GOTHICS
     Elevation: 4734
@@ -143,14 +141,13 @@ peaks:
     Longitude: -73.87527778
     State: NY
     Prominence: 377
-# DELISTED: ARMSTRONG MTN: Insufficient Col (Not even close!)
-# -
-#     Name: ARMSTRONG MTN
-#     Elevation: 4446
-#     Latitude: 44.13444444
-#     Longitude: -73.85
-#     State: NY
-#     Prominence: 131
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: ARMSTRONG MTN
+    Elevation: 4446
+    Latitude: 44.13444444
+    Longitude: -73.85
+    State: NY
+    Prominence: 131
 -
     Name: PANTHER PK
     Elevation: 4442
@@ -263,14 +260,13 @@ peaks:
     Longitude: -74.0275
     State: NY
     Prominence: 1280
-# DELISTED DONALDSON MTN: Insufficient Col
-# -
-#     Name: DONALDSON MTN
-#     Elevation: 4107
-#     Latitude: 44.15388889
-#     Longitude: -74.21194444
-#     State: NY
-#     Prominence: 154
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: DONALDSON MTN
+    Elevation: 4107
+    Latitude: 44.15388889
+    Longitude: -74.21194444
+    State: NY
+    Prominence: 154
 -
     Name: CASCADE MTN
     Elevation: 4097
@@ -292,14 +288,13 @@ peaks:
     Longitude: -73.83472222
     State: NY
     Prominence: 754
-# DELISTED SOUTH DIX: Insufficient Col
-# -
-#     Name: SOUTH DIX
-#     Elevation: 4084
-#     Latitude: 44.06
-#     Longitude: -73.77472222
-#     State: NY
-#     Prominence: 197
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: SOUTH DIX
+    Elevation: 4084
+    Latitude: 44.06
+    Longitude: -73.77472222
+    State: NY
+    Prominence: 197
 -
     Name: PORTER MTN
     Elevation: 4085
@@ -307,22 +302,20 @@ peaks:
     Longitude: -73.85416667
     State: NY
     Prominence: 328
-# DELISTED MT EMMONS: Insufficient Col, Not even close!
-# -
-#     Name: MT EMMONS
-#     Elevation: 4039
-#     Latitude: 44.14388889
-#     Longitude: -74.21472222
-#     State: NY
-#     Prominence: 118
-# DELISTED DIAL MTN: Insufficient Col
-# -
-#     Name: DIAL MTN
-#     Elevation: 4019
-#     Latitude: 44.10583333
-#     Longitude: -73.79666667
-#     State: NY
-#     Prominence: 197
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: MT EMMONS
+    Elevation: 4039
+    Latitude: 44.14388889
+    Longitude: -74.21472222
+    State: NY
+    Prominence: 118
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: DIAL MTN
+    Elevation: 4019
+    Latitude: 44.10583333
+    Longitude: -73.79666667
+    State: NY
+    Prominence: 197
 -
     Name: YARD MTN
     Elevation: 4009
