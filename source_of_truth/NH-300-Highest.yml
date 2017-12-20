@@ -97,7 +97,7 @@ peaks:
     Longitude: -71.9226
     State: NH
     Prominence: 660
-- # This peaks should be removed. Insufficient Col.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: DEER RIDGE
     Elevation: 2808
     Latitude: 44.5309
@@ -153,7 +153,7 @@ peaks:
     Longitude: -71.3116
     State: NH
     Prominence: 413
-- # This should probably be removed.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: UNNAMED (STAG HOLLOW PK)
     Elevation: 2782
     Latitude: 44.382796
@@ -440,7 +440,7 @@ peaks:
     Longitude: -71.3767
     State: NH
     Prominence: 640
-- # This peaks should probably be removed.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: UNNAMED (CHERRY APPLEBY)
     Elevation: 2598
     Latitude: 44.312088
@@ -468,7 +468,7 @@ peaks:
     Longitude: -71.0657
     State: NH
     Prominence: 455
-- # This peaks should probably be removed.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: HAYSTACK MTN
     Elevation: 2582
     Latitude: 45.0852
@@ -559,7 +559,7 @@ peaks:
     Longitude: -72.0963
     State: NH
     Prominence: 315
-- # this one might need to be removed
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: BLACK MTN #2nd college grant
     Elevation: 2525
     Latitude: 44.9155
@@ -643,7 +643,7 @@ peaks:
     Longitude: -71.541
     State: NH
     Prominence: 270
-- # This one might need to be removed
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: WILLOUGHBY MTN (W PK)
     Elevation: 2488
     Latitude: 43.843
@@ -664,7 +664,7 @@ peaks:
     Longitude: -71.0770
     State: NH
     Prominence: 207
-- # this peak may need to be removed.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: UNNAMED (LITTLE DIAMOND POND PK)
     Elevation: 2460
     Latitude: 44.949
@@ -692,7 +692,7 @@ peaks:
     Longitude: -71.320
     State: NH
     Prominence: 225 # estimated
-- # May need to be removed.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: RUSSELL MTN (E PK)
     Elevation: 2440
     Latitude: 44.018
@@ -741,7 +741,7 @@ peaks:
     Longitude: -71.3236
     State: NH
     Prominence: 460
-- # May need to be removed.
+- # Effectively DELISTED due to INSUFFICIENT COL
     Name: RUSSELL MTN (W PK)
     Elevation: 2424
     Latitude: 44.017882

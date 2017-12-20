@@ -90,13 +90,13 @@ peaks:
     Longitude: -74.03472222
     State: NY
     Prominence: 463
-# - # DELISTED INSUFFICIENT COL: NYE MTN
-#     Name: NYE MTN
-#     Elevation: 3887
-#     Latitude: 44.18722222
-#     Longitude: -74.02444444
-#     State: NY
-#     Prominence: 131
+- # Effictively DELISTED due to INSUFFICIENT COL
+    Name: NYE MTN
+    Elevation: 3887
+    Latitude: 44.18722222
+    Longitude: -74.02444444
+    State: NY
+    Prominence: 131
 -
     Name: BLUE RIDGE
     Elevation: 3881
@@ -377,7 +377,7 @@ peaks:
     Longitude: -74.04888889
     State: NY
     Prominence: 1870
-- # May need to be delisted.
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: SAWTOOTH MTNS (E PK) (SAWTOOTH 1e)
     Elevation: 3560 # Needs Validation
     Latitude: 44.1915
@@ -573,7 +573,7 @@ peaks:
     Longitude: -74.09638889
     State: NY
     Prominence: 1686
-- # may need to be delisted
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: BEAR DEN MTN
     Elevation: 3398
     Latitude: 44.1196
@@ -713,14 +713,14 @@ peaks:
     Longitude: -73.64472222
     State: NY
     Prominence: 296
--
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: MORGAN MTN (E PK)
     Elevation: 3327
     Latitude: 44.42
     Longitude: -73.84805556
     State: NY
     Prominence: 197 # estimated
--
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: UNNAMED (AUSABLE NO. 4 W PK)
     Elevation: 3327
     Latitude: 44.25305556
@@ -923,7 +923,7 @@ peaks:
     Longitude: -74.3471
     State: NY
     Prominence: 394
--
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: UNNAMED (BROWN POND S PK)
     Elevation: 3179 # Needs Validation
     Latitude: 43.73694444
@@ -1154,14 +1154,14 @@ peaks:
     Longitude: -73.6656
     State: NY
     Prominence: 262
--
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: UNNAMED (SCOTCH LAKE PK)
     Elevation: 3035
     Latitude: 43.46138889
     Longitude: -74.56888889
     State: NY
     Prominence: 191 # estimated
-- # This may need to be delisted
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: BOREAS MTN (NE PK)
     Elevation: 3035 # dubious, probably 3018
     Latitude: 44.03611111
@@ -1175,7 +1175,7 @@ peaks:
     Longitude: -73.7653
     State: NY
     Prominence: 1246
-- # This may need to be delisted
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: NYE MTN (N PK)
     Elevation: 3035 # dubious, possibly 3018
     Latitude: 44.21
@@ -1245,7 +1245,7 @@ peaks:
     Longitude: -74.0598
     State: NY
     Prominence: 511
--
+- # Effictively DELISTED due to INSUFFICIENT COL
     Name: SAWTOOTH MTNS (S PK) (SAWTOOTH 11)
     Elevation: 3002 # estimated
     Latitude: 44.17055556

@@ -64,14 +64,13 @@ peaks:
     Longitude: -71.645
     State: NH
     Prominence: 3360
-# DELISTED, MT LINCOLN: Insufficient Col
-# -
-#     Name: MT LINCOLN
-#     Elevation: 5089
-#     Latitude: 44.14888889
-#     Longitude: -71.645
-#     State: NH
-#     Prominence: 189
+- # Effectively DELISTED due to INSUFFICIENT COL
+    Name: MT LINCOLN
+    Elevation: 5089
+    Latitude: 44.14888889
+    Longitude: -71.645
+    State: NH
+    Prominence: 189
 -
     Name: SOUTH TWIN MTN
     Elevation: 4902
@@ -205,13 +204,13 @@ peaks:
     Longitude: -71.62861111
     State: NH
     Prominence: 428
-# DELISTED, MT HANCOCK (S PK): Insufficient Col
-# -
-#     Name: MT HANCOCK (S PK)
-#     Elevation: 4319
-#     Latitude: 44.07333333
-#     Longitude: -71.4875
-#     State: NH
+- # Effectively DELISTED due to INSUFFICIENT COL
+    Name: MT HANCOCK (S PK)
+    Elevation: 4319
+    Latitude: 44.07333333
+    Longitude: -71.4875
+    State: NH
+    Prominence: 179
 -
     Name: MT PIERCE
     Elevation: 4310
