@@ -14,7 +14,7 @@ Latitude: 44.033852
 Longitude: -71.902122
 Name: JEFFERS
 Prominence: 714
-Rank: 177
+Rank: 167
 State: NH
 </description>
         <visibility>1</visibility>
@@ -29,7 +29,7 @@ Latitude: 43.74394
 Longitude: -71.274112
 Name: MT SHAW
 Prominence: 2340
-Rank: 178
+Rank: 168
 State: NH
 </description>
         <visibility>1</visibility>
@@ -44,7 +44,7 @@ Latitude: 44.925
 Longitude: -71.31
 Name: SUGAR HILL
 Prominence: 715
-Rank: 179
+Rank: 169
 State: NH
 </description>
         <visibility>1</visibility>
@@ -59,7 +59,7 @@ Latitude: 45.218
 Longitude: -71.188
 Name: UNNAMED (SCOTT BOG PK)
 Prominence: 218
-Rank: 180
+Rank: 170
 State: NH
 </description>
         <visibility>1</visibility>
@@ -74,7 +74,7 @@ Latitude: 44.0519
 Longitude: -71.3271
 Name: BARTLETT HAYSTACK
 Prominence: 840
-Rank: 181
+Rank: 171
 State: NH
 </description>
         <visibility>1</visibility>
@@ -89,7 +89,7 @@ Latitude: 44.9225
 Longitude: -71.2131
 Name: SOUTH CRYSTAL
 Prominence: 400
-Rank: 182
+Rank: 172
 State: NH
 </description>
         <visibility>1</visibility>
@@ -104,7 +104,7 @@ Latitude: 44.3515
 Longitude: -71.0712
 Name: HOWE
 Prominence: 206
-Rank: 183
+Rank: 173
 State: NH
 </description>
         <visibility>1</visibility>
@@ -119,7 +119,7 @@ Latitude: 44.55
 Longitude: -71.3619
 Name: ROGERS LEDGE
 Prominence: 495
-Rank: 184
+Rank: 174
 State: NH
 </description>
         <visibility>1</visibility>
@@ -134,7 +134,7 @@ Latitude: 44.3515
 Longitude: -71.0712
 Name: BLACK CRESCENT (S PK)
 Prominence: 215
-Rank: 185
+Rank: 175
 State: NH
 </description>
         <visibility>1</visibility>
@@ -149,7 +149,7 @@ Latitude: 44.044322
 Longitude: -71.358991
 Name: OWLS CLIFF
 Prominence: 280
-Rank: 186
+Rank: 176
 State: NH
 </description>
         <visibility>1</visibility>
@@ -164,7 +164,7 @@ Latitude: 43.904108
 Longitude: -71.444693
 Name: FLAT MTN (S PK)
 Prominence: 600
-Rank: 187
+Rank: 177
 State: NH
 </description>
         <visibility>1</visibility>
@@ -179,7 +179,7 @@ Latitude: 45.2374
 Longitude: -71.2201
 Name: UNNAMED (PERRY PONDS PK)
 Prominence: 498
-Rank: 188
+Rank: 178
 State: NH
 </description>
         <visibility>1</visibility>
@@ -194,7 +194,7 @@ Latitude: 45.067
 Longitude: -71.181
 Name: MAGALLOWAY (W PK)
 Prominence: 221
-Rank: 189
+Rank: 179
 State: NH
 </description>
         <visibility>1</visibility>
@@ -209,7 +209,7 @@ Latitude: 44.8482
 Longitude: -71.1899
 Name: BLACK (NW PK)
 Prominence: 774
-Rank: 190
+Rank: 180
 State: NH
 </description>
         <visibility>1</visibility>
@@ -224,7 +224,7 @@ Latitude: 44.2369
 Longitude: -71.1117
 Name: BALDFACE (W PK)
 Prominence: 351
-Rank: 191
+Rank: 181
 State: NH
 </description>
         <visibility>1</visibility>
@@ -239,7 +239,7 @@ Latitude: 44.2156
 Longitude: -71.062
 Name: EASTMAN
 Prominence: 369
-Rank: 192
+Rank: 182
 State: NH
 </description>
         <visibility>1</visibility>
@@ -254,7 +254,7 @@ Latitude: 44.161509
 Longitude: -71.131923
 Name: SOUTH DOUBLEHEAD
 Prominence: 221
-Rank: 193
+Rank: 183
 State: NH
 </description>
         <visibility>1</visibility>
@@ -269,7 +269,7 @@ Latitude: 43.383245
 Longitude: -71.857142
 Name: MT KEARSARGE
 Prominence: 2100
-Rank: 194
+Rank: 184
 State: NH
 </description>
         <visibility>1</visibility>
@@ -284,7 +284,7 @@ Latitude: 44.0483
 Longitude: -71.605
 Name: BLACK MTN
 Prominence: 317
-Rank: 195
+Rank: 185
 State: NH
 </description>
         <visibility>1</visibility>
@@ -299,7 +299,7 @@ Latitude: 44.0349
 Longitude: -71.4018
 Name: GREENS CLIFF
 Prominence: 946
-Rank: 196
+Rank: 186
 State: NH
 </description>
         <visibility>1</visibility>
@@ -314,7 +314,7 @@ Latitude: 44.0465
 Longitude: -71.2308
 Name: BIG ATTITASH
 Prominence: 380
-Rank: 197
+Rank: 187
 State: NH
 </description>
         <visibility>1</visibility>
@@ -329,7 +329,7 @@ Latitude: 43.8858
 Longitude: -72.0233
 Name: CUBE
 Prominence: 859
-Rank: 198
+Rank: 188
 State: NH
 </description>
         <visibility>1</visibility>
@@ -344,12 +344,177 @@ Latitude: 43.8346
 Longitude: -71.779
 Name: STINSON
 Prominence: 1520
-Rank: 199
+Rank: 189
 State: NH
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-71.779000,43.834600</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="NORTH BALD CAP">
+        <name>NORTH BALD CAP</name>
+        <description>Elevation: 2893
+Latitude: 44.466
+Longitude: -71.0736
+Name: NORTH BALD CAP
+Prominence: 343
+Rank: 190
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.073600,44.466000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SHOAL POND PK (S PK)">
+        <name>SHOAL POND PK (S PK)</name>
+        <description>Elevation: 2891
+Latitude: 44.1309
+Longitude: -71.4857
+Name: SHOAL POND PK (S PK)
+Prominence: 351
+Rank: 191
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.485700,44.130900</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT PATIENCE (W PK)">
+        <name>MT PATIENCE (W PK)</name>
+        <description>Elevation: 2889
+Latitude: 44.7442
+Longitude: -71.2836
+Name: MT PATIENCE (W PK)
+Prominence: 759
+Rank: 192
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.283600,44.744200</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT DUSTAN">
+        <name>MT DUSTAN</name>
+        <description>Elevation: 2878
+Latitude: 44.8585
+Longitude: -71.0811
+Name: MT DUSTAN
+Prominence: 1148
+Rank: 193
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.081100,44.858500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MT WILLARD">
+        <name>MT WILLARD</name>
+        <description>Elevation: 2865
+Latitude: 44.2039
+Longitude: -71.4132
+Name: MT WILLARD
+Prominence: 285
+Rank: 194
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.413200,44.203900</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="WHITCOMB MTN (W PK)">
+        <name>WHITCOMB MTN (W PK)</name>
+        <description>Elevation: 2850
+Latitude: 44.7135
+Longitude: -71.412
+Name: WHITCOMB MTN (W PK)
+Prominence: 320
+Rank: 195
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.412000,44.713500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="SAVAGE (E PK)">
+        <name>SAVAGE (E PK)</name>
+        <description>Elevation: 2840
+Latitude: 44.735638
+Longitude: -71.530008
+Name: SAVAGE (E PK)
+Prominence: 230
+Rank: 196
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.530008,44.735638</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MUISE (W PK)">
+        <name>MUISE (W PK)</name>
+        <description>Elevation: 2830
+Latitude: 44.794
+Longitude: -71.411
+Name: MUISE (W PK)
+Prominence: 266
+Rank: 197
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.411000,44.794000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BLACK MTN (BENTON)">
+        <name>BLACK MTN (BENTON)</name>
+        <description>Elevation: 2830
+Latitude: 44.0744
+Longitude: -71.9226
+Name: BLACK MTN (BENTON)
+Prominence: 660
+Rank: 198
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.922600,44.074400</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="POND HILL">
+        <name>POND HILL</name>
+        <description>Elevation: 2805
+Latitude: 44.4182
+Longitude: -71.3549
+Name: POND HILL
+Prominence: 296
+Rank: 199
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.354900,44.418200</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="MIDDLE MOAT MTN">
+        <name>MIDDLE MOAT MTN</name>
+        <description>Elevation: 2805
+Latitude: 44.0235
+Longitude: -71.1987
+Name: MIDDLE MOAT MTN
+Prominence: 335
+Rank: 200
+State: NH
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.198700,44.023500</coordinates>
         </Point>
       </Placemark>
     </Folder>
