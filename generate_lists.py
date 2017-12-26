@@ -120,7 +120,7 @@ def load_yaml(truth_file, first=False, cascading=True, explored_files=[]):
         # Grab filename from YAML file or fall back to Truth File name.
         filename = hiking_list.get('list_name', truth_file.split('/')[-1][:-4])
 
-        # Gather "peaks" list and validate
+        # Gather "prominence_threshold" int and validate
         prominence_threshold = hiking_list.get('prominence_threshold', 0)
         validate_type("prominence_threshold Resource",
                       prominence_threshold, truth_file, int)
@@ -363,9 +363,9 @@ class HikingList(object):
         Cull peaks that fail to meet the digitally optimistic or
         pessimistic threshold.
         """
-        def common(threshold):
+        def common(threshold, peaks=[]):
             valid = list()
-            for peak in self.peaks:
+            for peak in peaks:
                 prom = peak.get('Prominence', 0)
                 # no prominence data? We assume it's OK
                 if not prom:
@@ -373,21 +373,30 @@ class HikingList(object):
                     continue
                 if prom >= threshold:
                     valid.append(peak)
-            self.peaks = valid
+            return valid
 
         if not ((self.pessimistic or self.optimistic)
                  and self.prominence_threshold):
-            common(self.prominence_threshold)
+            self.peaks =\
+                common(self.prominence_threshold, self.peaks)
+            self.peakcountlist = \
+                common(self.prominence_threshold, self.peakcountlist)
 
         if self.pessimistic:
             pessimistic_threshold =\
                 self.prominence_threshold * (1+(self.pessimism/100))
-            common(pessimistic_threshold)
+            self.peaks =\
+                common(pessimistic_threshold, self.peaks)
+            self.peakcountlist = \
+                common(self.prominence_threshold, self.peakcountlist)
 
         if self.optimistic:
             optimistic_threshold =\
                 self.prominence_threshold * (1-(self.optimism/100))
-            common(optimistic_threshold)
+            self.peaks =\
+                common(optimistic_threshold, self.peaks)
+            self.peakcountlist = \
+                common(self.prominence_threshold, self.peakcountlist)
 
     def calculate_abridge_peak_list_length(self):
         """
