@@ -34,8 +34,9 @@ All *Source Of Truth* files must contain peaks which include at a mandatory mini
 > - **forced_import:** (list) when cascading is turned off, forcibly import peaks from this list of *yml* files
 > - **sortby:** (string) forcibly sort this list by this column. The default is *Elevation*
 > - **ordered_columns:** (list) control the ordering of columns. Any other columns discovered will be appended at the end of this list.
-> - **only_use_explicit_ordered_columns**(true|false) To be used with *ordered_columns* this expressly forbids additional discovered columns from being added.
-> - **prominence_threshold**(int) To be used on lists which have a col rule (or threshold). This value is that threshold in feet. This is used in Optimistic, Pessimistic, or regular lists.
+> - **only_use_explicit_ordered_columns** (true|false) To be used with *ordered_columns* this expressly forbids additional discovered columns from being added.
+> - **prominence_threshold** (int) To be used on lists which have a col rule (or threshold). This value is that threshold in feet. This is used in Optimistic, Pessimistic, or regular lists.
+> - **lookaheads:** (list) for numeric threshold lists, this will force an import of a lookahead file to draw in additional peaks in case the SOT can't fill the max threshold.
 
 #### Command line options
 
