@@ -28,7 +28,7 @@ State: VT
 Latitude: 43.8703
 Longitude: -72.9556
 Name: BEAR
-Prominence: 
+Prominence: 406
 Rank: 112
 State: VT
 </description>
@@ -43,7 +43,7 @@ State: VT
 Latitude: 42.82437
 Longitude: -72.94407
 Name: UNNAMED (READSBORO)
-Prominence: 
+Prominence: 604
 Rank: 113
 State: VT
 </description>
@@ -58,7 +58,7 @@ State: VT
 Latitude: 44.1683
 Longitude: -72.34001
 Name: E KNOX
-Prominence: 
+Prominence: 300
 Rank: 114
 State: VT
 </description>
@@ -67,14 +67,29 @@ State: VT
           <coordinates>-72.340010,44.168300</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="MEACHAM SWAMP PEAK">
+        <name>MEACHAM SWAMP PEAK</name>
+        <description>Elevation: 2972
+Latitude: 44.9023
+Longitude: -71.6318
+Name: MEACHAM SWAMP PEAK
+Prominence: 1142
+Rank: 115
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.631800,44.902300</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="UNNAMED (STAMFORD POND PEAK)">
         <name>UNNAMED (STAMFORD POND PEAK)</name>
         <description>Elevation: 2970
 Latitude: 42.81672
 Longitude: -73.05897
 Name: UNNAMED (STAMFORD POND PEAK)
-Prominence: 
-Rank: 115
+Prominence: 560
+Rank: 116
 State: VT
 </description>
         <visibility>1</visibility>
@@ -88,28 +103,13 @@ State: VT
 Latitude: 43.28539
 Longitude: -73.06724
 Name: S DORSET
-Prominence: 
-Rank: 116
-State: VT
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-73.067240,43.285390</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="MEACHAM SWAMP PEAK">
-        <name>MEACHAM SWAMP PEAK</name>
-        <description>Elevation: 2970
-Latitude: 44.9023
-Longitude: -71.6318
-Name: MEACHAM SWAMP PEAK
-Prominence: 
+Prominence: 200
 Rank: 117
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.631800,44.902300</coordinates>
+          <coordinates>-73.067240,43.285390</coordinates>
         </Point>
       </Placemark>
       <Placemark id="CLARK">
@@ -118,7 +118,7 @@ State: VT
 Latitude: 44.47889
 Longitude: -72.8414
 Name: CLARK
-Prominence: 
+Prominence: 380
 Rank: 118
 State: VT
 </description>
@@ -133,7 +133,7 @@ State: VT
 Latitude: 44.22194
 Longitude: -72.92665
 Name: MOLLY STARK
-Prominence: 
+Prominence: 590
 Rank: 119
 State: VT
 </description>
@@ -142,19 +142,19 @@ State: VT
           <coordinates>-72.926650,44.221940</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="PETE PARENT">
-        <name>PETE PARENT</name>
-        <description>Elevation: 2963
-Latitude: 43.32194
-Longitude: -72.90473
-Name: PETE PARENT
-Prominence: 
+      <Placemark id="NETOP">
+        <name>NETOP</name>
+        <description>Elevation: 2964
+Latitude: 43.277
+Longitude: -73.0299
+Name: NETOP
+Prominence: 494
 Rank: 120
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-72.904730,43.321940</coordinates>
+          <coordinates>-73.029900,43.277000</coordinates>
         </Point>
       </Placemark>
       <Placemark id="N RICE">
@@ -163,7 +163,7 @@ State: VT
 Latitude: 42.98722
 Longitude: -72.83612
 Name: N RICE
-Prominence: 
+Prominence: 709
 Rank: 121
 State: VT
 </description>
@@ -172,28 +172,28 @@ State: VT
           <coordinates>-72.836120,42.987220</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="GILLESPIE">
-        <name>GILLESPIE</name>
-        <description>Elevation: 2956
-Latitude: 43.95611
-Longitude: -72.87612
-Name: GILLESPIE
-Prominence: 
+      <Placemark id="PETE PARENT">
+        <name>PETE PARENT</name>
+        <description>Elevation: 2962
+Latitude: 43.32194
+Longitude: -72.90473
+Name: PETE PARENT
+Prominence: 394
 Rank: 122
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-72.876120,43.956110</coordinates>
+          <coordinates>-72.904730,43.321940</coordinates>
         </Point>
       </Placemark>
       <Placemark id="UNNAMED (BLUE BROOK)">
         <name>UNNAMED (BLUE BROOK)</name>
-        <description>Elevation: 2954
+        <description>Elevation: 2956
 Latitude: 42.99416
 Longitude: -72.87334
 Name: UNNAMED (BLUE BROOK)
-Prominence: 
+Prominence: 545
 Rank: 123
 State: VT
 </description>
@@ -202,14 +202,29 @@ State: VT
           <coordinates>-72.873340,42.994160</coordinates>
         </Point>
       </Placemark>
+      <Placemark id="GILLESPIE">
+        <name>GILLESPIE</name>
+        <description>Elevation: 2956
+Latitude: 43.95611
+Longitude: -72.87612
+Name: GILLESPIE
+Prominence: 766
+Rank: 124
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.876120,43.956110</coordinates>
+        </Point>
+      </Placemark>
       <Placemark id="ROCHESTER">
         <name>ROCHESTER</name>
         <description>Elevation: 2953
 Latitude: 43.86694
 Longitude: -72.74834
 Name: ROCHESTER
-Prominence: 
-Rank: 124
+Prominence: 623
+Rank: 125
 State: VT
 </description>
         <visibility>1</visibility>
@@ -223,8 +238,8 @@ State: VT
 Latitude: 42.97833
 Longitude: -72.8275
 Name: RICE HILL
-Prominence: 
-Rank: 125
+Prominence: 236
+Rank: 126
 State: VT
 </description>
         <visibility>1</visibility>
@@ -238,8 +253,8 @@ State: VT
 Latitude: 44.91722
 Longitude: -71.83168
 Name: MIDDLE
-Prominence: 
-Rank: 126
+Prominence: 677
+Rank: 127
 State: VT
 </description>
         <visibility>1</visibility>
@@ -249,12 +264,12 @@ State: VT
       </Placemark>
       <Placemark id="GLEBE">
         <name>GLEBE</name>
-        <description>Elevation: 2943
+        <description>Elevation: 2942
 Latitude: 43.18888
 Longitude: -72.76084
 Name: GLEBE
-Prominence: 
-Rank: 127
+Prominence: 1378
+Rank: 128
 State: VT
 </description>
         <visibility>1</visibility>
@@ -268,8 +283,8 @@ State: VT
 Latitude: 43.08084
 Longitude: -73.04601
 Name: LYE BROOK MEADOWS PEAK
-Prominence: 
-Rank: 128
+Prominence: 311
+Rank: 129
 State: VT
 </description>
         <visibility>1</visibility>
@@ -283,8 +298,8 @@ State: VT
 Latitude: 44.87861
 Longitude: -72.50917
 Name: BUCHANAN
-Prominence: 
-Rank: 129
+Prominence: 449
+Rank: 130
 State: VT
 </description>
         <visibility>1</visibility>
@@ -294,12 +309,12 @@ State: VT
       </Placemark>
       <Placemark id="STRATTON POND PEAK">
         <name>STRATTON POND PEAK</name>
-        <description>Elevation: 2938
+        <description>Elevation: 2939
 Latitude: 43.11416
 Longitude: -72.96972
 Name: STRATTON POND PEAK
-Prominence: 
-Rank: 130
+Prominence: 312
+Rank: 131
 State: VT
 </description>
         <visibility>1</visibility>
@@ -313,8 +328,8 @@ State: VT
 Latitude: 44.93305
 Longitude: -71.7875
 Name: ROUND
-Prominence: 
-Rank: 131
+Prominence: 222
+Rank: 132
 State: VT
 </description>
         <visibility>1</visibility>
@@ -328,8 +343,8 @@ State: VT
 Latitude: 42.9894444
 Longitude: -72.9097222
 Name: N SNOW
-Prominence: 
-Rank: 132
+Prominence: 241
+Rank: 133
 State: VT
 </description>
         <visibility>1</visibility>
@@ -343,8 +358,8 @@ State: VT
 Latitude: 42.8719444
 Longitude: -72.9844444
 Name: W WINDFARM
-Prominence: 
-Rank: 133
+Prominence: 433
+Rank: 134
 State: VT
 </description>
         <visibility>1</visibility>
@@ -358,8 +373,8 @@ State: VT
 Latitude: 44.8913889
 Longitude: -72.4997222
 Name: DOMEYS DOME
-Prominence: 
-Rank: 134
+Prominence: 276
+Rank: 135
 State: VT
 </description>
         <visibility>1</visibility>
@@ -373,8 +388,8 @@ State: VT
 Latitude: 42.8052778
 Longitude: -73.1077778
 Name: SCRUB HILL
-Prominence: 
-Rank: 135
+Prominence: 226
+Rank: 136
 State: VT
 </description>
         <visibility>1</visibility>
@@ -388,8 +403,8 @@ State: VT
 Latitude: 44.1561111
 Longitude: -72.7727778
 Name: SCRAG
-Prominence: 
-Rank: 136
+Prominence: 541
+Rank: 137
 State: VT
 </description>
         <visibility>1</visibility>
@@ -403,8 +418,8 @@ State: VT
 Latitude: 44.4025
 Longitude: -72.8444444
 Name: BONE
-Prominence: 
-Rank: 137
+Prominence: 200
+Rank: 138
 State: VT
 </description>
         <visibility>1</visibility>
@@ -418,8 +433,8 @@ State: VT
 Latitude: 43.9341
 Longitude: -72.7764
 Name: NS BRAINTREE
-Prominence: 
-Rank: 138
+Prominence: 345
+Rank: 139
 State: VT
 </description>
         <visibility>1</visibility>
@@ -433,8 +448,8 @@ State: VT
 Latitude: 44.7741667
 Longitude: -72.0069444
 Name: GOODWIN
-Prominence: 
-Rank: 139
+Prominence: 420
+Rank: 140
 State: VT
 </description>
         <visibility>1</visibility>
@@ -448,8 +463,8 @@ State: VT
 Latitude: 43.1377778
 Longitude: -73.0136111
 Name: DOWNER GLEN PEAK
-Prominence: 
-Rank: 140
+Prominence: None
+Rank: 141
 State: VT
 </description>
         <visibility>1</visibility>
@@ -459,12 +474,12 @@ State: VT
       </Placemark>
       <Placemark id="NE DEVILS DEN PEAK">
         <name>NE DEVILS DEN PEAK</name>
-        <description>Elevation: 2884
+        <description>Elevation: 2883
 Latitude: 43.3597222
 Longitude: -72.8725
 Name: NE DEVILS DEN PEAK
-Prominence: 
-Rank: 141
+Prominence: 748
+Rank: 142
 State: VT
 </description>
         <visibility>1</visibility>
@@ -478,8 +493,8 @@ State: VT
 Latitude: 43.7352
 Longitude: -72.8488
 Name: DARNING NEEDLE
-Prominence: 
-Rank: 142
+Prominence: None
+Rank: 143
 State: VT
 </description>
         <visibility>1</visibility>
@@ -493,8 +508,8 @@ State: VT
 Latitude: 43.3135
 Longitude: -72.7436
 Name: TERRIBLE
-Prominence: 
-Rank: 143
+Prominence: 668
+Rank: 144
 State: VT
 </description>
         <visibility>1</visibility>
@@ -508,43 +523,13 @@ State: VT
 Latitude: 44.7957
 Longitude: -72.5597
 Name: S TILLOTSON
-Prominence: 
-Rank: 144
-State: VT
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.559700,44.795700</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="NETOP">
-        <name>NETOP</name>
-        <description>Elevation: 2878
-Latitude: 43.2769
-Longitude: -73.0298
-Name: NETOP
-Prominence: 
+Prominence: 219
 Rank: 145
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-73.029800,43.276900</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="N BAKER">
-        <name>N BAKER</name>
-        <description>Elevation: 2864
-Latitude: 43.32889
-Longitude: -72.9602
-Name: N BAKER
-Prominence: 
-Rank: 146
-State: VT
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.960200,43.328890</coordinates>
+          <coordinates>-72.559700,44.795700</coordinates>
         </Point>
       </Placemark>
       <Placemark id="BUCKBALL PEAK">
@@ -553,8 +538,8 @@ State: VT
 Latitude: 43.3428
 Longitude: -72.9427
 Name: BUCKBALL PEAK
-Prominence: 
-Rank: 147
+Prominence: 237
+Rank: 146
 State: VT
 </description>
         <visibility>1</visibility>
@@ -568,8 +553,8 @@ State: VT
 Latitude: 42.9221
 Longitude: -73.1439
 Name: BALD
-Prominence: 
-Rank: 148
+Prominence: 367
+Rank: 147
 State: VT
 </description>
         <visibility>1</visibility>
@@ -583,8 +568,8 @@ State: VT
 Latitude: 44.08083
 Longitude: -72.928
 Name: S LINCOLN GAP PEAK
-Prominence: 
-Rank: 149
+Prominence: 215
+Rank: 148
 State: VT
 </description>
         <visibility>1</visibility>
@@ -598,8 +583,8 @@ State: VT
 Latitude: 43.108
 Longitude: -73.168
 Name: RED
-Prominence: 
-Rank: 150
+Prominence: 836
+Rank: 149
 State: VT
 </description>
         <visibility>1</visibility>
@@ -613,8 +598,8 @@ State: VT
 Latitude: 43.3402
 Longitude: -72.7558
 Name: NN TERRIBLE
-Prominence: 
-Rank: 151
+Prominence: 512
+Rank: 150
 State: VT
 </description>
         <visibility>1</visibility>
@@ -628,8 +613,8 @@ State: VT
 Latitude: 44.1706
 Longitude: -72.3679
 Name: NW KNOX
-Prominence: 
-Rank: 152
+Prominence: 230
+Rank: 151
 State: VT
 </description>
         <visibility>1</visibility>
@@ -644,7 +629,7 @@ Latitude: 43.678
 Longitude: -72.6721
 Name: CHATEAUGUAY PEAK
 Prominence: 1486
-Rank: 153
+Rank: 152
 State: VT
 </description>
         <visibility>1</visibility>
@@ -658,8 +643,8 @@ State: VT
 Latitude: 43.4194
 Longitude: -73.0761
 Name: TINMOUTH
-Prominence: 
-Rank: 154
+Prominence: 1225
+Rank: 153
 State: VT
 </description>
         <visibility>1</visibility>
@@ -669,12 +654,12 @@ State: VT
       </Placemark>
       <Placemark id="MT HOLLY PEAK">
         <name>MT HOLLY PEAK</name>
-        <description>Elevation: 2825
+        <description>Elevation: 2824
 Latitude: 43.3749
 Longitude: -72.8436
 Name: MT HOLLY PEAK
-Prominence: 
-Rank: 155
+Prominence: 413
+Rank: 154
 State: VT
 </description>
         <visibility>1</visibility>
@@ -688,8 +673,8 @@ State: VT
 Latitude: 44.0893
 Longitude: -72.7902
 Name: S ROXBURY GAP PEAK
-Prominence: 
-Rank: 156
+Prominence: 393
+Rank: 155
 State: VT
 </description>
         <visibility>1</visibility>
@@ -703,8 +688,8 @@ State: VT
 Latitude: 44.9271
 Longitude: -71.7475
 Name: BLACK
-Prominence: 
-Rank: 157
+Prominence: 592
+Rank: 156
 State: VT
 </description>
         <visibility>1</visibility>
@@ -718,8 +703,8 @@ State: VT
 Latitude: 44.1311
 Longitude: -72.7783
 Name: N BURNT
-Prominence: 
-Rank: 158
+Prominence: 201
+Rank: 157
 State: VT
 </description>
         <visibility>1</visibility>
@@ -733,8 +718,8 @@ State: VT
 Latitude: 43.7184
 Longitude: -72.8673
 Name: NE S POND PEAK
-Prominence: 
-Rank: 159
+Prominence: 480
+Rank: 158
 State: VT
 </description>
         <visibility>1</visibility>
@@ -748,8 +733,8 @@ State: VT
 Latitude: 44.7613
 Longitude: -71.9636
 Name: JOBS
-Prominence: 
-Rank: 160
+Prominence: 420
+Rank: 159
 State: VT
 </description>
         <visibility>1</visibility>
@@ -763,8 +748,8 @@ State: VT
 Latitude: 43.3252
 Longitude: -72.8374
 Name: PEABODY HILL
-Prominence: 
-Rank: 161
+Prominence: 574
+Rank: 160
 State: VT
 </description>
         <visibility>1</visibility>
@@ -778,8 +763,8 @@ State: VT
 Latitude: 43.68222
 Longitude: -72.8577
 Name: ELBOW PEAK
-Prominence: 
-Rank: 162
+Prominence: 658
+Rank: 161
 State: VT
 </description>
         <visibility>1</visibility>
@@ -793,8 +778,8 @@ State: VT
 Latitude: 43.7094
 Longitude: -72.7874
 Name: WOLF HILL
-Prominence: 
-Rank: 163
+Prominence: 815
+Rank: 162
 State: VT
 </description>
         <visibility>1</visibility>
@@ -808,8 +793,8 @@ State: VT
 Latitude: 43.2397
 Longitude: -73.1411
 Name: SPRUCE PEAK
-Prominence: 
-Rank: 164
+Prominence: 273
+Rank: 163
 State: VT
 </description>
         <visibility>1</visibility>
@@ -823,8 +808,8 @@ State: VT
 Latitude: 43.5416
 Longitude: -72.7722
 Name: BURNT
-Prominence: 
-Rank: 165
+Prominence: 653
+Rank: 164
 State: VT
 </description>
         <visibility>1</visibility>
@@ -839,7 +824,7 @@ Latitude: 44.7259
 Longitude: -72.7119
 Name: LARAWAY
 Prominence: 1527
-Rank: 166
+Rank: 165
 State: VT
 </description>
         <visibility>1</visibility>
@@ -853,8 +838,8 @@ State: VT
 Latitude: 43.9775
 Longitude: -72.8027
 Name: S NORTHFIELD
-Prominence: 
-Rank: 167
+Prominence: 250
+Rank: 166
 State: VT
 </description>
         <visibility>1</visibility>
@@ -868,8 +853,8 @@ State: VT
 Latitude: 44.4561
 Longitude: -72.8585
 Name: NW BOLTON
-Prominence: 
-Rank: 168
+Prominence: 200
+Rank: 167
 State: VT
 </description>
         <visibility>1</visibility>
@@ -883,8 +868,8 @@ State: VT
 Latitude: 44.858
 Longitude: -71.8625
 Name: S BLUFF
-Prominence: 
-Rank: 169
+Prominence: 459
+Rank: 168
 State: VT
 </description>
         <visibility>1</visibility>
@@ -898,8 +883,8 @@ State: VT
 Latitude: 43.6526
 Longitude: -72.7518
 Name: EAST
-Prominence: 
-Rank: 170
+Prominence: 777
+Rank: 169
 State: VT
 </description>
         <visibility>1</visibility>
@@ -913,13 +898,28 @@ State: VT
 Latitude: 44.7764
 Longitude: -72.7105
 Name: SW COLD HOLLOW
-Prominence: 
-Rank: 171
+Prominence: 430
+Rank: 170
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.710500,44.776400</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="CHESTER ARTHUR">
+        <name>CHESTER ARTHUR</name>
+        <description>Elevation: 2785
+Latitude: 44.03967
+Longitude: -72.8633
+Name: CHESTER ARTHUR
+Prominence: 225
+Rank: 171
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-72.863300,44.039670</coordinates>
         </Point>
       </Placemark>
       <Placemark id="THE DOME">
@@ -928,7 +928,7 @@ State: VT
 Latitude: 42.7788
 Longitude: -73.1704
 Name: THE DOME
-Prominence: 
+Prominence: 718
 Rank: 172
 State: VT
 </description>
@@ -943,7 +943,7 @@ State: VT
 Latitude: 43.3955
 Longitude: -72.91
 Name: WILDER
-Prominence: 
+Prominence: 456
 Rank: 173
 State: VT
 </description>
@@ -958,7 +958,7 @@ State: VT
 Latitude: 44.5576
 Longitude: -72.16
 Name: WHEELOCK
-Prominence: 
+Prominence: 1355
 Rank: 174
 State: VT
 </description>
@@ -973,7 +973,7 @@ State: VT
 Latitude: 43.2606
 Longitude: -73.0328
 Name: DORSET HILL
-Prominence: 
+Prominence: 292
 Rank: 175
 State: VT
 </description>
@@ -988,7 +988,7 @@ State: VT
 Latitude: 43.67
 Longitude: -72.8363
 Name: DEER LEAP
-Prominence: 
+Prominence: 532
 Rank: 176
 State: VT
 </description>
@@ -1003,7 +1003,7 @@ State: VT
 Latitude: 43.7435
 Longitude: -72.8822
 Name: NORTH POND PEAK
-Prominence: 
+Prominence: 291
 Rank: 177
 State: VT
 </description>
@@ -1014,11 +1014,11 @@ State: VT
       </Placemark>
       <Placemark id="WILLARD">
         <name>WILLARD</name>
-        <description>Elevation: 2779
+        <description>Elevation: 2778
 Latitude: 43.3878
 Longitude: -72.8922
 Name: WILLARD
-Prominence: 
+Prominence: 400
 Rank: 178
 State: VT
 </description>
@@ -1033,7 +1033,7 @@ State: VT
 Latitude: 43.9232
 Longitude: -72.7671
 Name: S BRAINTREE
-Prominence: 
+Prominence: 218
 Rank: 179
 State: VT
 </description>
@@ -1045,16 +1045,16 @@ State: VT
       <Placemark id="N BLUFF">
         <name>N BLUFF</name>
         <description>Elevation: 2774
-Latitude: 44.8663
-Longitude: -71.8526
+Latitude: 44.8958
+Longitude: -71.8481
 Name: N BLUFF
-Prominence: 
+Prominence: 304
 Rank: 180
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-71.852600,44.866300</coordinates>
+          <coordinates>-71.848100,44.895800</coordinates>
         </Point>
       </Placemark>
       <Placemark id="PROSPECT">
@@ -1063,7 +1063,7 @@ State: VT
 Latitude: 42.875
 Longitude: -73.06667
 Name: PROSPECT
-Prominence: 
+Prominence: 297
 Rank: 181
 State: VT
 </description>
@@ -1078,7 +1078,7 @@ State: VT
 Latitude: 44.7296
 Longitude: -72.0303
 Name: PISGAH
-Prominence: 
+Prominence: 649
 Rank: 182
 State: VT
 </description>
@@ -1093,7 +1093,7 @@ State: VT
 Latitude: 43.34
 Longitude: -72.855
 Name: NW PEABODY
-Prominence: 
+Prominence: 196
 Rank: 183
 State: VT
 </description>
@@ -1108,7 +1108,7 @@ State: VT
 Latitude: 44.7299
 Longitude: -71.839
 Name: BULL
-Prominence: 
+Prominence: 548
 Rank: 184
 State: VT
 </description>
@@ -1123,7 +1123,7 @@ State: VT
 Latitude: 43.0623
 Longitude: -73.1965
 Name: THE BALL
-Prominence: 
+Prominence: 305
 Rank: 185
 State: VT
 </description>
@@ -1138,7 +1138,7 @@ State: VT
 Latitude: 43.7788
 Longitude: -72.994
 Name: NICKWAKET
-Prominence: 
+Prominence: 1063
 Rank: 186
 State: VT
 </description>
@@ -1153,7 +1153,7 @@ State: VT
 Latitude: 44.7696
 Longitude: -71.9722
 Name: WOZNIAK
-Prominence: 
+Prominence: 200
 Rank: 187
 State: VT
 </description>
@@ -1168,7 +1168,7 @@ State: VT
 Latitude: 44.5471
 Longitude: -71.9044
 Name: KIRBY
-Prominence: 
+Prominence: 780
 Rank: 188
 State: VT
 </description>
@@ -1183,7 +1183,7 @@ State: VT
 Latitude: 43.8974
 Longitude: -72.7648
 Name: CUSHMAN
-Prominence: 
+Prominence: 280
 Rank: 189
 State: VT
 </description>
@@ -1198,7 +1198,7 @@ State: VT
 Latitude: 43.91357
 Longitude: -72.76584
 Name: SS BRAINTREE
-Prominence: 
+Prominence: 248
 Rank: 190
 State: VT
 </description>
@@ -1213,7 +1213,7 @@ State: VT
 Latitude: 44.561
 Longitude: -71.6659
 Name: STONE
-Prominence: 
+Prominence: 846
 Rank: 191
 State: VT
 </description>
@@ -1225,16 +1225,16 @@ State: VT
       <Placemark id="SE PHILADELPHIA">
         <name>SE PHILADELPHIA</name>
         <description>Elevation: 2735
-Latitude: 43.88833
-Longitude: -72.8431
+Latitude: 43.8882
+Longitude: -72.8624
 Name: SE PHILADELPHIA
-Prominence: 
+Prominence: 405
 Rank: 192
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
-          <coordinates>-72.843100,43.888330</coordinates>
+          <coordinates>-72.862400,43.888200</coordinates>
         </Point>
       </Placemark>
       <Placemark id="SABLE">
@@ -1243,7 +1243,7 @@ State: VT
 Latitude: 44.9226
 Longitude: -71.6862
 Name: SABLE
-Prominence: 
+Prominence: 544
 Rank: 193
 State: VT
 </description>
@@ -1258,7 +1258,7 @@ State: VT
 Latitude: 44.7093
 Longitude: -71.7043
 Name: WEST
-Prominence: 
+Prominence: 1123
 Rank: 194
 State: VT
 </description>
@@ -1267,29 +1267,14 @@ State: VT
           <coordinates>-71.704300,44.709300</coordinates>
         </Point>
       </Placemark>
-      <Placemark id="BROUSSEAU">
-        <name>BROUSSEAU</name>
-        <description>Elevation: 2732
-Latitude: 44.9678
-Longitude: -71.7393
-Name: BROUSSEAU
-Prominence: 
-Rank: 195
-State: VT
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-71.739300,44.967800</coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="N ELBOW">
         <name>N ELBOW</name>
         <description>Elevation: 2730
 Latitude: 43.7077
 Longitude: -72.8658
 Name: N ELBOW
-Prominence: 
-Rank: 196
+Prominence: 320
+Rank: 195
 State: VT
 </description>
         <visibility>1</visibility>
@@ -1303,8 +1288,8 @@ State: VT
 Latitude: 43.8199
 Longitude: -72.829
 Name: LITTLE WILCOX
-Prominence: 
-Rank: 197
+Prominence: 360
+Rank: 196
 State: VT
 </description>
         <visibility>1</visibility>
@@ -1319,7 +1304,7 @@ Latitude: 43.5625
 Longitude: -73.099
 Name: HERRICK
 Prominence: 1536
-Rank: 198
+Rank: 197
 State: VT
 </description>
         <visibility>1</visibility>
@@ -1329,17 +1314,32 @@ State: VT
       </Placemark>
       <Placemark id="HAYSTACK">
         <name>HAYSTACK</name>
-        <description>Elevation: 2724
+        <description>Elevation: 2723
 Latitude: 44.7461
 Longitude: -72.002
 Name: HAYSTACK
-Prominence: 
-Rank: 199
+Prominence: 391
+Rank: 198
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-72.002000,44.746100</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="BROUSSEAU">
+        <name>BROUSSEAU</name>
+        <description>Elevation: 2723
+Latitude: 44.968
+Longitude: -71.7394
+Name: BROUSSEAU
+Prominence: 913
+Rank: 199
+State: VT
+</description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-71.739400,44.968000</coordinates>
         </Point>
       </Placemark>
       <Placemark id="E ROUND">
@@ -1348,28 +1348,13 @@ State: VT
 Latitude: 44.9373
 Longitude: -71.7728
 Name: E ROUND
-Prominence: 
+Prominence: 304
 Rank: 200
 State: VT
 </description>
         <visibility>1</visibility>
         <Point>
           <coordinates>-71.772800,44.937300</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="DAVES">
-        <name>DAVES</name>
-        <description>Elevation: 2707
-Latitude: 43.7321
-Longitude: -72.871
-Name: DAVES
-Prominence: 
-Rank: 201
-State: VT
-</description>
-        <visibility>1</visibility>
-        <Point>
-          <coordinates>-72.871000,43.732100</coordinates>
         </Point>
       </Placemark>
     </Folder>

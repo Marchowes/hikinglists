@@ -8,14 +8,12 @@
 # - Standardize Names
 # - Ensure coordinates to 3 sig figures
 # - Validate coordinates
-# - Add Prominence
-# - Figure out if BuckBall or Baker should go.
 
 ---
 location: VT
 import:
   - VT-3000.yml
-max: 201 # Buckball & N Baker are equal. and have the same key col
+max: 200
 list_name: VT-200-highest
 ordered_columns:
   - Rank
@@ -42,246 +40,287 @@ peaks:
     Latitude: 43.8703
     Longitude: -72.9556
     State: VT
+    Prominence: 406
 -
     Name: UNNAMED (READSBORO)
     Elevation: 2995
     Latitude: 42.82437
     Longitude: -72.94407
     State: VT
+    Prominence: 604
 -
     Name: E KNOX
     Elevation: 2990
     Latitude: 44.1683
     Longitude: -72.34001
     State: VT
+    Prominence: 300
 -
     Name: CLARK
     Elevation: 2970
     Latitude: 44.47889
     Longitude: -72.84140
     State: VT
+    Prominence: 380
 -
     Name: MEACHAM SWAMP PEAK
-    Elevation: 2970
+    Elevation: 2972
     Latitude: 44.9023
     Longitude: -71.6318
     State: VT
+    Prominence: 1142
 -
     Name: S DORSET
     Elevation: 2970
     Latitude: 43.28539
     Longitude: -73.06724
     State: VT
+    Prominence: 200 # Estimated
 -
     Name: UNNAMED (STAMFORD POND PEAK)
     Elevation: 2970
     Latitude: 42.81672
     Longitude: -73.05897
     State: VT
+    Prominence: 560
 -
     Name: MOLLY STARK
     Elevation: 2967
     Latitude: 44.22194
     Longitude: -72.92665
     State: VT
+    Prominence: 590
 -
     Name: N RICE
     Elevation: 2963
     Latitude: 42.98722
     Longitude: -72.83612
     State: VT
+    Prominence: 709
 -
     Name: PETE PARENT
-    Elevation: 2963
+    Elevation: 2962
     Latitude: 43.32194
     Longitude: -72.90473
     State: VT
+    Prominence: 394
 -
     Name: GILLESPIE
     Elevation: 2956
     Latitude: 43.95611
     Longitude: -72.87612
     State: VT
+    Prominence: 766
 -
     Name: UNNAMED (BLUE BROOK)
-    Elevation: 2954
+    Elevation: 2956
     Latitude: 42.99416
     Longitude: -72.87334
     State: VT
+    Prominence: 545
 -
     Name: ROCHESTER
     Elevation: 2953
     Latitude: 43.86694
     Longitude: -72.74834
     State: VT
+    Prominence: 623
 -
     Name: RICE HILL
     Elevation: 2950
     Latitude: 42.97833
     Longitude: -72.82750
     State: VT
+    Prominence: 236
 -
     Name: MIDDLE
     Elevation: 2947
     Latitude: 44.91722
     Longitude: -71.83168
     State: VT
+    Prominence: 677
 -
     Name: GLEBE
-    Elevation: 2943
+    Elevation: 2942
     Latitude: 43.18888
     Longitude: -72.76084
     State: VT
+    Prominence: 1378
 -
     Name: LYE BROOK MEADOWS PEAK
     Elevation: 2941
     Latitude: 43.08084
     Longitude: -73.04601
     State: VT
+    Prominence: 311
 -
     Name: BUCHANAN
     Elevation: 2940
     Latitude: 44.87861
     Longitude: -72.50917
     State: VT
+    Prominence: 449
 -
     Name: STRATTON POND PEAK
-    Elevation: 2938
+    Elevation: 2939
     Latitude: 43.11416
     Longitude: -72.96972
     State: VT
+    Prominence: 312
 -
     Name: ROUND
     Elevation: 2932
     Latitude: 44.93305
     Longitude: -71.78750
     State: VT
+    Prominence: 222
 -
     Name: N SNOW
     Elevation: 2929
     Latitude: 42.9894444
     Longitude: -72.9097222
     State: VT
+    Prominence: 241 # estimated
 -
     Name: DOMEYS DOME
     Elevation: 2923
     Latitude: 44.8913889
     Longitude: -72.4997222
     State: VT
+    Prominence: 276
 -
     Name: W WINDFARM
     Elevation: 2923
     Latitude: 42.8719444
     Longitude: -72.9844444
     State: VT
+    Prominence: 433
 -
     Name: SCRUB HILL
     Elevation: 2916
     Latitude: 42.8052778
     Longitude: -73.1077778
     State: VT
+    Prominence: 226
 -
     Name: SCRAG
     Elevation: 2911
     Latitude: 44.1561111
     Longitude: -72.7727778
     State: VT
+    Prominence: 541
 -
     Name: BONE
     Elevation: 2910
     Latitude: 44.4025
     Longitude: -72.8444444
     State: VT
+    Prominence: 200
 -
     Name: NS BRAINTREE
     Elevation: 2895
     Latitude: 43.9341
     Longitude: -72.7764
     State: VT
+    Prominence: 345
 -
     Name: GOODWIN
     Elevation: 2890
     Latitude: 44.7741667
     Longitude: -72.0069444
     State: VT
+    Prominence: 420
 -
     Name: DOWNER GLEN PEAK
     Elevation: 2886
     Latitude: 43.1377778
     Longitude: -73.0136111
     State: VT
+    Prominence:
 -
     Name: NE DEVILS DEN PEAK
-    Elevation: 2884
+    Elevation: 2883
     Latitude: 43.3597222
     Longitude: -72.8725
     State: VT
+    Prominence: 748
 -
     Name: DARNING NEEDLE
     Elevation: 2883
     Latitude: 43.7352
     Longitude: -72.8488
     State: VT
+    Prominence:
 -
     Name: TERRIBLE
     Elevation: 2882
     Latitude: 43.3135
     Longitude: -72.7436
     State: VT
+    Prominence: 668
 -
     Name: S TILLOTSON
     Elevation: 2881
     Latitude: 44.7957
     Longitude: -72.5597
     State: VT
+    Prominence: 219 # estimated
 -
     Name: NETOP
-    Elevation: 2878
-    Latitude: 43.2769
-    Longitude: -73.0298
+    Elevation: 2964
+    Latitude: 43.2770
+    Longitude: -73.0299
     State: VT
+    Prominence: 494
 -
     Name: BUCKBALL PEAK
     Elevation: 2864
     Latitude: 43.3428
     Longitude: -72.9427
     State: VT
+    Prominence: 237
 -
     Name: N BAKER
     Elevation: 2864
     Latitude: 43.32889
     Longitude: -72.9602
     State: VT
+    Prominence: 158
 -
     Name: BALD
     Elevation: 2857
     Latitude: 42.9221
     Longitude: -73.1439
     State: VT
+    Prominence: 367
 -
     Name: S LINCOLN GAP PEAK
     Elevation: 2850
     Latitude: 44.08083
     Longitude: -72.9280
     State: VT
+    Prominence: 215 # estimated
 -
     Name: RED
     Elevation: 2846
     Latitude: 43.1080
     Longitude: -73.1680
     State: VT
+    Prominence: 836
 -
     Name: NN TERRIBLE
     Elevation: 2844
     Latitude: 43.3402
     Longitude: -72.7558
     State: VT
+    Prominence: 512
 -
     Name: NW KNOX
     Elevation: 2837
     Latitude: 44.1706
     Longitude: -72.3679
     State: VT
+    Prominence: 230 # estimated
 -
     Name: CHATEAUGUAY PEAK
     Elevation: 2836
@@ -295,72 +334,84 @@ peaks:
     Latitude: 43.4194
     Longitude: -73.0761
     State: VT
+    Prominence: 1225
 -
     Name: MT HOLLY PEAK
-    Elevation: 2825
+    Elevation: 2824
     Latitude: 43.3749
     Longitude: -72.8436
     State: VT
+    Prominence: 413
 -
     Name: S ROXBURY GAP PEAK
     Elevation: 2823
     Latitude: 44.0893
     Longitude: -72.7902
     State: VT
+    Prominence: 393
 -
     Name: BLACK
     Elevation: 2822
     Latitude: 44.9271
     Longitude: -71.7475
     State: VT
+    Prominence: 592
 -
     Name: N BURNT
     Elevation: 2821
     Latitude: 44.1311
     Longitude: -72.7783
     State: VT
+    Prominence: 201 # estimated
 -
     Name: JOBS
     Elevation: 2810
     Latitude: 44.7613
     Longitude: -71.9636
     State: VT
+    Prominence: 420
 -
     Name: NE S POND PEAK
     Elevation: 2810
     Latitude: 43.7184
     Longitude: -72.8673
     State: VT
+    Prominence: 480
 -
     Name: ELBOW PEAK
     Elevation: 2808
     Latitude: 43.68222
     Longitude: -72.8577
     State: VT
+    Prominence: 658
 -
     Name: PEABODY HILL
     Elevation: 2808
     Latitude: 43.3252
     Longitude: -72.8374
     State: VT
+    Prominence: 574
 -
     Name: WOLF HILL
     Elevation: 2805
     Latitude: 43.7094
     Longitude: -72.7874
     State: VT
+    Prominence: 815
 -
     Name: BURNT
     Elevation: 2803
     Latitude: 43.5416
     Longitude: -72.7722
     State: VT
+    Prominence: 653
 -
     Name: SPRUCE PEAK
     Elevation: 2803
     Latitude: 43.2397
     Longitude: -73.1411
     State: VT
+    Prominence: 273
 -
     Name: LARAWAY
     Elevation: 2795
@@ -374,186 +425,224 @@ peaks:
     Latitude: 44.4561
     Longitude: -72.8585
     State: VT
+    Prominence: 200 # estimated
 -
     Name: S NORTHFIELD
     Elevation: 2790
     Latitude: 43.9775
     Longitude: -72.8027
     State: VT
+    Prominence: 250 # Complete guess
 -
     Name: S BLUFF
     Elevation: 2789
     Latitude: 44.8580
     Longitude: -71.8625
     State: VT
+    Prominence: 459
 -
     Name: EAST
     Elevation: 2787
     Latitude: 43.6526
     Longitude: -72.7518
     State: VT
+    Prominence: 777
 -
     Name: SW COLD HOLLOW
     Elevation: 2785
     Latitude: 44.7764
     Longitude: -72.7105
     State: VT
+    Prominence: 430 # estimate
+-
+    Name: CHESTER ARTHUR
+    Elevation: 2785
+    Latitude: 44.03967
+    Longitude: -72.8633
+    State: VT
+    Prominence: 225 # estimate
 -
     Name: THE DOME
     Elevation: 2784
     Latitude: 42.7788
     Longitude: -73.1704
     State: VT
+    Prominence: 718
 -
     Name: DEER LEAP
     Elevation: 2782
     Latitude: 43.6700
     Longitude: -72.8363
     State: VT
+    Prominence: 532
 -
     Name: DORSET HILL
     Elevation: 2782
     Latitude: 43.2606
     Longitude: -73.0328
     State: VT
+    Prominence: 292
 -
     Name: WHEELOCK
     Elevation: 2782
     Latitude: 44.5576
     Longitude: -72.1600
     State: VT
+    Prominence: 1355
 -
     Name: WILDER
     Elevation: 2782
     Latitude: 43.3955
     Longitude: -72.9100
     State: VT
+    Prominence: 456
 -
     Name: NORTH POND PEAK
     Elevation: 2781
     Latitude: 43.7435
     Longitude: -72.8822
     State: VT
+    Prominence: 291
 -
     Name: WILLARD
-    Elevation: 2779
+    Elevation: 2778
     Latitude: 43.3878
     Longitude: -72.8922
     State: VT
+    Prominence: 400
 -
     Name: S BRAINTREE
     Elevation: 2778
     Latitude: 43.9232
     Longitude: -72.7671
     State: VT
+    Prominence: 218 # estimated
 -
     Name: N BLUFF
     Elevation: 2774
-    Latitude: 44.8663
-    Longitude: -71.8526
+    Latitude: 44.8958
+    Longitude: -71.8481
     State: VT
+    Prominence: 304
 -
     Name: PROSPECT
     Elevation: 2767
     Latitude: 42.87500
     Longitude: -73.06667
     State: VT
+    Prominence: 297
 -
     Name: NW PEABODY
     Elevation: 2766
     Latitude: 43.3400
     Longitude: -72.8550
     State: VT
+    Prominence: 196
 -
     Name: PISGAH
     Elevation: 2766
     Latitude: 44.7296
     Longitude: -72.0303
     State: VT
+    Prominence: 649
 -
     Name: BULL
     Elevation: 2758
     Latitude: 44.7299
     Longitude: -71.8390
     State: VT
+    Prominence: 548
 -
     Name: THE BALL
     Elevation: 2755
     Latitude: 43.0623
     Longitude: -73.1965
     State: VT
+    Prominence: 305
 -
     Name: NICKWAKET
     Elevation: 2753
     Latitude: 43.7788
     Longitude: -72.9940
     State: VT
+    Prominence: 1063
 -
     Name: CUSHMAN
     Elevation: 2750
     Latitude: 43.8974
     Longitude: -72.7648
     State: VT
+    Prominence: 280
 -
     Name: KIRBY
     Elevation: 2750
     Latitude: 44.5471
     Longitude: -71.9044
     State: VT
+    Prominence: 780
 -
     Name: WOZNIAK
     Elevation: 2750
     Latitude: 44.7696
     Longitude: -71.9722
     State: VT
+    Prominence: 200 # estimated
 -
     Name: SS BRAINTREE
     Elevation: 2748
     Latitude: 43.91357
     Longitude: -72.76584
     State: VT
+    Prominence: 248 # estimated
 -
     Name: STONE
     Elevation: 2736
     Latitude: 44.5610
     Longitude: -71.6659
     State: VT
+    Prominence: 846
 -
     Name: SE PHILADELPHIA
     Elevation: 2735
-    Latitude: 43.88833
-    Longitude: -72.8431
+    Latitude: 43.8882
+    Longitude: -72.8624
     State: VT
+    Prominence: 405
 -
     Name: SABLE
     Elevation: 2734
     Latitude: 44.9226
     Longitude: -71.6862
     State: VT
+    Prominence: 544
 -
     Name: WEST
     Elevation: 2733
     Latitude: 44.7093
     Longitude: -71.7043
     State: VT
+    Prominence: 1123
 -
     Name: BROUSSEAU
-    Elevation: 2732
-    Latitude: 44.9678
-    Longitude: -71.7393
+    Elevation: 2723
+    Latitude: 44.9680
+    Longitude: -71.7394
     State: VT
+    Prominence: 913
 -
     Name: LITTLE WILCOX
     Elevation: 2730
     Latitude: 43.8199
     Longitude: -72.8290
     State: VT
+    Prominence: 360
 -
     Name: N ELBOW
     Elevation: 2730
     Latitude: 43.7077
     Longitude: -72.8658
     State: VT
+    Prominence: 320
 -
     Name: HERRICK
     Elevation: 2726
@@ -563,193 +652,225 @@ peaks:
     Prominence: 1536
 -
     Name: HAYSTACK
-    Elevation: 2724
+    Elevation: 2723
     Latitude: 44.7461
     Longitude: -72.0020
     State: VT
+    Prominence: 391
 -
     Name: E ROUND
     Elevation: 2714
     Latitude: 44.9373
     Longitude: -71.7728
     State: VT
+    Prominence: 304
 -
     Name: DAVES
     Elevation: 2707
     Latitude: 43.7321
     Longitude: -72.8710
     State: VT
+    Prominence: 317
 -
     Name: UNNAMED (N SHAGBACK)
     Elevation: 2704
     Latitude: 43.6184
     Longitude: -72.7826
     State: VT
+    Prominence: 206 # estimated
 -
     Name: PIGEON POND PEAK
     Elevation: 2702
     Latitude: 44.2426
     Longitude: -72.3145
     State: VT
+    Prominence: 552
 -
     Name: SOUTH POND PEAK
     Elevation: 2696
     Latitude: 43.7097
     Longitude: -72.8759
     State: VT
+    Prominence: 247
 -
     Name: DEVILS DEN PEAK
     Elevation: 2694
     Latitude: 43.3483
     Longitude: -72.8771
     State: VT
+    Prominence: 268
 -
     Name: N TERRIBLE
-    Elevation: 2694
+    Elevation: 2706
     Latitude: 43.3298
     Longitude: -72.7532
     State: VT
+    Prominence: 334
 -
     Name: DELECTABLE
     Elevation: 2690
     Latitude: 43.7003
     Longitude: -72.6804
     State: VT
+    Prominence:
 -
     Name: MILES
     Elevation: 2690
     Latitude: 44.4804
     Longitude: -71.8117
     State: VT
+    Prominence: 1340
 -
     Name: BILLINGS
-    Elevation: 2689
+    Elevation: 2688
     Latitude: 44.7053
     Longitude: -72.6667
     State: VT
+    Prominence: 907
 -
     Name: WHITE ROCKS
     Elevation: 2680
     Latitude: 43.4291
     Longitude: -72.9391
     State: VT
+    Prominence: 545
 -
     Name: MT HOR
     Elevation: 2655
     Latitude: 44.7129
     Longitude: -72.0535
     State: VT
+    Prominence: 1366
 -
     Name: PARRIS HILL
     Elevation: 2654
     Latitude: 43.34611
     Longitude: -73.08139
     State: VT
+    Prominence: 204
 -
     Name: INGALLS HILL
     Elevation: 2654
     Latitude: 43.55806
     Longitude: -72.7805
     State: VT
+    Prominence: 204
 -
     Name: THE CAPE
     Elevation: 2635
     Latitude: 43.8083
     Longitude: -72.9867
     State: VT
+    Prominence: 225
 -
     Name: LEAD MINE MOUNTAIN
     Elevation: 2635
     Latitude: 43.7979
     Longitude: -73.0050
     State: VT
+    Prominence: 325
 -
     Name: JOCKEY HILL
     Elevation: 2626
     Latitude: 43.5645
     Longitude: -72.8282
     State: VT
+    Prominence: 280
 -
     Name: MORGAN PEAK
     Elevation: 2618
     Latitude: 43.5857
     Longitude: -72.7429
     State: VT
+    Prominence: 1248
 -
     Name: E READSBORO
     Elevation: 2611
     Latitude: 42.8550
     Longitude: -72.9327
     State: VT
+    Prominence: 545 # estimated
 -
     Name: SABLE
     Elevation: 2625
     Latitude: 43.7444
     Longitude: -72.7691
     State: VT
+    Prominence: 735
 -
     Name: DUTCH HILL
     Elevation: 2657
     Latitude: 42.8083
     Longitude: -73.0008
     State: VT
+    Prominence: 227
 -
     Name: MOOSALAMOO
     Elevation: 2640
     Latitude: 43.93028
     Longitude: -73.0495
     State: VT
+    Prominence: 980
 -
-    Name: BURPEE
+    Name: BURBEE
     Elevation: 2627
     Latitude: 43.7044
     Longitude: -72.7488
     State: VT
+    Prominence: 257
 -
     Name: IDE MOUNTAIN
     Elevation: 2624
     Latitude: 44.5430
     Longitude: -72.1607
     State: VT
+    Prominence: 213
 -
     Name: QUIMBY
     Elevation: 2620
-    Latitude: 43.6869
-    Longitude: -72.7510
+    Latitude: 43.6898
+    Longitude: -72.7496
     State: VT
+    Prominence: 320
 -
     Name: COOPER HILL
-    Elevation: 2620
+    Elevation: 2621
     Latitude: 42.9504
     Longitude: -72.8222
     State: VT
+    Prominence: 368
 -
     Name: PROSPECT (EAST PEAK)
     Elevation: 2618
     Latitude: 42.87111
     Longitude: -73.0341
     State: VT
+    Prominence: 228
 -
     Name: ELMORE
     Elevation: 2607
     Latitude: 44.5264
     Longitude: -72.5461
     State: VT
+    Prominence: 926
 -
     Name: MOSES
     Elevation: 2602
     Latitude: 43.5285
     Longitude: -72.6186
     State: VT
+    Prominence: 1172
 -
     Name: ANTONE
-    Elevation: 2600
+    Elevation: 2610
     Latitude: 43.2544
     Longitude: -73.1912
     State: VT
+    Prominence: 560
 -
     Name: STANNARD
     Elevation: 2578
     Latitude: 44.5223
     Longitude: -72.2124
     State: VT
+    Prominence: 186 #estimated
